@@ -8,7 +8,7 @@ from memory_manager import ConversationalMemory
 from initial_document_selector import show_initial_selector
 from hybrid_search import hybrid_search
 from generate_answer_2 import generate_answer_streaming
-from langchain_groq import ChatGroq
+from groq import Groq
 
 # CONFIGURACIÓN
 st.set_page_config(page_title="Vallegrancito", page_icon="assets/page_icon.jpg")
@@ -178,7 +178,13 @@ if user_query:
         with spinner.container():
             with st.spinner("Generando respuesta..."):
                 history_text = "\n\n".join(st.session_state.recent_interactions)
-                st.session_state.last_summary = ChatGroq(api_key=api_key, model_name="Llama3-8b-8192").predict(f"Resume en pocas líneas las siguientes interacciones:\n{history_text}")
+                client = Groq(api_key=api_key)
+                completion = client.chat.completions.create(
+                    model="llama3-8b-8192",
+                    messages=[{"role": "user", "content": f"Resume en pocas líneas las siguientes interacciones:\n{history_text}"}],
+                    temperature=0
+                )
+                st.session_state.last_summary = completion.choices[0].message.content.strip()
                 prompt_con_memoria = f"Resumen de la conversación previa:\n{st.session_state.last_summary}\n\nUsuario: {user_query}."
 
                 generate_answer_streaming(
