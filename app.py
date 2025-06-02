@@ -178,6 +178,7 @@ if user_query:
         with spinner.container():
             with st.spinner("Generando respuesta..."):
                 history_text = "\n\n".join(st.session_state.recent_interactions)
+
                 client = Groq(api_key=api_key)
                 completion = client.chat.completions.create(
                     model="llama3-8b-8192",
