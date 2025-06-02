@@ -1,0 +1,62 @@
+@keyframes fadeInSlide {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-slide {
+  animation: fadeInSlide 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+.vallegrancito-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  margin-top: -2.25rem;
+}
+
+.vallegrancito-logo-container {
+  background-color: #ff4b4b;
+  border-radius: 50%;
+  padding: 0.4rem;
+  margin-right: 0.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.8rem;
+  width: 2.8rem;
+}
+
+.vallegrancito-title {
+  color: #f0f0f0;
+  font-weight: 650;
+  font-size: 1.3rem;
+}
+
+.vallegrancito-description {
+  font-size: 0.95rem;
+  color: #f0f0f0;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.vallegrancito-card {
+  margin-top: -0.1rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #262730;
+  border-left: 4px solid #ff4b4b;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  font-size: 0.92rem;
+  color: #d4d4d4;
+  line-height: 1.5;
+  font-style: italic;
+}

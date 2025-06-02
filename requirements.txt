@@ -1,0 +1,13 @@
+streamlit
+numpy
+scikit-learn
+groq
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+pymupdf4llm
+tabulate
+lunr
+instructor
+pydantic
