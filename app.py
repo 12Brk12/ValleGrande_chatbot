@@ -181,7 +181,7 @@ if user_query:
 
                 client = Groq(api_key=api_key)
                 completion = client.chat.completions.create(
-                    model="llama3-8b-8192",
+                    model="llama-3.1-8b-instant",
                     messages=[{"role": "user", "content": f"Resume en pocas líneas las siguientes interacciones:\n{history_text}"}],
                     temperature=0
                 )
