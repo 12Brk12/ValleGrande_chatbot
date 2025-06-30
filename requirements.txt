@@ -11,3 +11,4 @@ tabulate
 lunr
 instructor
 pydantic
+streamlit-option-menu
