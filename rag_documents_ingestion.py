@@ -5,7 +5,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # === CONFIGURACIÓN ===
-target_folder_name = "gestion_agricola"  # Carpeta a procesar
+target_folder_name = "UltimateLinuxNewbieGuide/Intro"  # Carpeta a procesar
 
 data_root = pathlib.Path("data")
 input_folder = data_root / target_folder_name

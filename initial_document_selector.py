@@ -10,7 +10,7 @@ def inject_custom_css(css_path="assets/custom_styles.css"):
     with open(css_path, "r") as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-def show_initial_selector(catalog_path="document_catalog.json"):
+def show_initial_selector(catalog_path="catalog/document_catalog.json"):
     inject_custom_css()
 
     with open(catalog_path, "r", encoding="utf-8") as f:
@@ -55,7 +55,8 @@ def show_initial_selector(catalog_path="document_catalog.json"):
             cols = st.columns([0.95, 0.05])
             with cols[0]:
                 if st.button(f"{title}", key=f"btn_{title}"):
-                    st.session_state.selector_temp_choice = doc["filename"].replace(".json", "")
+                    st.session_state.selector_temp_choice = doc["filename"]
+                    st.session_state.intro_question = "por favor presentate de manera educada y respetuosa, ademas preguntame en que me puedes ayudar, aun no uses referencias (si existe usa el indice.pdf)"
                     st.rerun()
 
                 st.markdown(f"""

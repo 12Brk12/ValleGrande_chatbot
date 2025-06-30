@@ -1,0 +1,84 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos",
+    "tags": [
+      "Usado para presentarse y agradecer al usuario",
+      "Lista el contenido que podemos encontrar en este Capítulo 2: Why Linux – What are the Benefits?",
+      "También conocido como indice o tabla de contenidos",
+      "Menciona exactamente que es lo que se espera encontrar, usado frecuentemente para saber que es lo que contiene este capítulo"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "1.pdf": {
+    "document_title": "¿Qué ofrece realmente Linux?",
+    "tags": [
+      "Resumen inicial de los beneficios de Linux",
+      "Introducción al concepto de software libre y código abierto",
+      "Motivación para elegir Linux frente a Windows o Mac"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "2.pdf": {
+    "document_title": "Linux es un sistema operativo de código abierto",
+    "tags": [
+      "Ventajas del software open source",
+      "Beneficios de la licencia GPL",
+      "Compatibilidad, seguridad y sostenibilidad del software libre"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "3.pdf": {
+    "document_title": "Dale nueva vida a tu hardware viejo",
+    "tags": [
+      "Linux funciona en computadoras antiguas",
+      "Linux en dispositivos con pocos recursos",
+      "Caso de éxito: Android usa el núcleo Linux"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "4.pdf": {
+    "document_title": "Seguridad y privacidad incorporadas por defecto",
+    "tags": [
+      "Seguridad estructural en Linux",
+      "Firewall integrado y herramientas de privacidad",
+      "Menor exposición frente a virus y ataques"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "5.pdf": {
+    "document_title": "Personalización y modificación ilimitadas",
+    "tags": [
+      "Linux permite personalizar el entorno al detalle",
+      "Herramientas como i3 y gestores de ventanas",
+      "Cambio de temas, íconos y comportamiento del sistema"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "6.pdf": {
+    "document_title": "Grandes aplicaciones del software libre",
+    "tags": [
+      "Ejemplos de software popular en Linux",
+      "Aplicaciones destacadas: LibreOffice, Firefox, GIMP, VLC",
+      "Capacidad de jugar videojuegos gracias a Steam en Linux"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "7.pdf": {
+    "document_title": "Drivers incluidos por defecto",
+    "tags": [
+      "Linux ofrece soporte para la mayoría de hardware moderno",
+      "Instalación sin necesidad de descargar controladores externos",
+      "Soporte plug and play en muchos dispositivos"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  },
+  "8.pdf": {
+    "document_title": "¿Tiene sentido económico Linux?",
+    "tags": [
+      "Modelos de negocio basados en Linux",
+      "Uso corporativo de Linux por empresas como Google y Amazon",
+      "Demanda laboral y ahorro en servidores"
+    ],
+    "reference_url": "https://linuxnewbieguide.org/overview-of-chapters/chapter-2-why-linux-whats-the-benefits/"
+  }
+}

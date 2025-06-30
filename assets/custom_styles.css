@@ -60,3 +60,42 @@
   line-height: 1.5;
   font-style: italic;
 }
+
+.description-card {
+  margin-left: .5rem;
+  padding: 1rem 1rem .5rem 1rem;
+  background-color: #262730;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  color: #d4d4d4;
+}
+/* === Botón de enlace reutilizable === */
+.link-button,
+.link-button:link,
+.link-button:visited {
+    display: inline-block;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #f0f0f0;
+    background-color: transparent;
+    border: 1.2px solid #444;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.link-button:hover,
+.link-button:active {
+    color: #FF4B4B;
+    border-color: #FF4B4B;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+

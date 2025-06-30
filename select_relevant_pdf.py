@@ -21,20 +21,17 @@ def seleccionar_pdf_relevante(pregunta: str, metadata_folder: str, api_key: str)
         for tag in meta["tags"]:
             resumen += f"  • {tag}\n"
 
-    prompt = f"""Tengo la siguiente pregunta:
+    prompt = f"""Tengo la siguiente pregunta junto con un contexto previo:
 
 {pregunta}
 
-Y un resumen de documentos con sus títulos y temas clave. 
 Devuélveme **solo el nombre exacto de un único PDF** que sea el más relevante para responder esta pregunta.
 Si consideras que la pregunta no tiene mucho sentido, ten en cuenta cual cue fue el anterior pdf.
- 
+Sin embargo lo mas importante es que PDF que selecciones **SIEMPRE** debe ser uno de estos:
+{resumen}
+    
 Tu respuesta debe estar en este formato JSON:
 {{ "pdf_relevante": "nombre_del_archivo.pdf" }}
-
-El PDF que selecciones debe ser uno de estos:
-Resumen:
-{resumen}
 """
 
     client = instructor.patch(Groq(api_key=api_key))
