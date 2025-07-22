@@ -1,0 +1,65 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9 Connecting to the Internet",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 169 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Internet Connectivity 101",
+    "indent_level": 1,
+    "reference_url": "Página 169 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_2.pdf": {
+    "document_title": "Setting Up the Hardware",
+    "indent_level": 1,
+    "reference_url": "Página 171 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "Selecting an Internet Service Provider (ISP)",
+    "indent_level": 1,
+    "reference_url": "Página 172 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_4.pdf": {
+    "document_title": "Getting Information You Need from Your ISP",
+    "indent_level": 1,
+    "reference_url": "Página 173 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "Configuring Your Connection",
+    "indent_level": 1,
+    "reference_url": "Página 174 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_5_1.pdf": {
+    "document_title": "Network Manager",
+    "indent_level": 2,
+    "reference_url": "Página 174 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_5_2.pdf": {
+    "document_title": "Command line tools",
+    "indent_level": 2,
+    "reference_url": "Página 179 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_5_3.pdf": {
+    "document_title": "Dialin’ out",
+    "indent_level": 2,
+    "reference_url": "Página 185 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "It’s All Fun and Games Until Something Doesn’t Work",
+    "indent_level": 1,
+    "reference_url": "Página 185 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "After You’re Connected",
+    "indent_level": 1,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

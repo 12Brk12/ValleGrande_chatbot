@@ -1,0 +1,55 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1 Getting Acquainted with Linux",
+    "pages": [23,24,25,26,27,28,29,30,31,32,33,34],
+    "subsections": [
+      {
+        "title": "Is Free Really Free?",
+        "pages": [23]
+      },
+      {
+        "title": "Linux: Revolution or Just Another Operating System?",
+        "pages": [24]
+      },
+      {
+        "title": "Anatomy of an Open Source Software Project",
+        "pages": [27],
+        "subsections": [
+          {
+            "title": "GNU who?",
+            "pages": [27]
+          },
+          {
+            "title": "Who’s in charge of Linux, anyway?",
+            "pages": [29]
+          },
+          {
+            "title": "Einstein was a volunteer",
+            "pages": [29]
+          }
+        ]
+      },
+      {
+        "title": "Packaging Linux: The Distribution",
+        "pages": [30],
+        "subsections": [
+          {
+            "title": "Core Linux distributions",
+            "pages": [30]
+          },
+          {
+            "title": "Specialized Linux distributions",
+            "pages": [32]
+          },
+          {
+            "title": "The Linux Live distribution",
+            "pages": [32]
+          }
+        ]
+      }
+    ]
+  }
+}

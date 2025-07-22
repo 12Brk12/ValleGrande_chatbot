@@ -1,0 +1,117 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8: Writing Our First Script – Turning Simple Cmdlets into Reusable Code",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 218 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "Introduction to scripting",
+    "indent_level": 1,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_1_1.pdf": {
+    "document_title": "Why do we want to write scripts?",
+    "indent_level": 2,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_1_2.pdf": {
+    "document_title": "Getting scripts",
+    "indent_level": 2,
+    "reference_url": "Página 220 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_1_3.pdf": {
+    "document_title": "Running scripts",
+    "indent_level": 2,
+    "reference_url": "Página 221 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_2.pdf": {
+    "document_title": "Writing a script",
+    "indent_level": 1,
+    "reference_url": "Página 221 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_3.pdf": {
+    "document_title": "Identifying changing values",
+    "indent_level": 1,
+    "reference_url": "Página 223 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_4.pdf": {
+    "document_title": "Working with parameters",
+    "indent_level": 1,
+    "reference_url": "Página 224 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_4_1.pdf": {
+    "document_title": "Creating useful parameters",
+    "indent_level": 2,
+    "reference_url": "Página 224 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_4_2.pdf": {
+    "document_title": "Specifying type",
+    "indent_level": 2,
+    "reference_url": "Página 227 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_4_3.pdf": {
+    "document_title": "Making parameters mandatory",
+    "indent_level": 2,
+    "reference_url": "Página 227 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_4_4.pdf": {
+    "document_title": "Taking values from the pipeline",
+    "indent_level": 2,
+    "reference_url": "Página 228 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_4_5.pdf": {
+    "document_title": "Switch parameters",
+    "indent_level": 2,
+    "reference_url": "Página 230 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_5.pdf": {
+    "document_title": "Providing help for our script",
+    "indent_level": 1,
+    "reference_url": "Página 231 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_5_1.pdf": {
+    "document_title": "Comments",
+    "indent_level": 2,
+    "reference_url": "Página 231 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_5_2.pdf": {
+    "document_title": "Comment-based help",
+    "indent_level": 2,
+    "reference_url": "Página 233 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_5_3.pdf": {
+    "document_title": "Write-Verbose",
+    "indent_level": 2,
+    "reference_url": "Página 235 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_5_4.pdf": {
+    "document_title": "Parameter help messages",
+    "indent_level": 2,
+    "reference_url": "Página 236 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 238 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch8_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 238 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

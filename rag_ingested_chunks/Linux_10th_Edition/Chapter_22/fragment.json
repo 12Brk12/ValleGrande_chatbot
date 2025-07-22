@@ -1,0 +1,61 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 22 Ten Troubleshooting Tips",
+    "pages": [437,438,439,440,441,442,443,444,445,446,447,448],
+    "subsections": [
+      {
+        "title": "Tip #1: “The Linux Installer Froze”",
+        "pages": [438]
+      },
+      {
+        "title": "Tip #2: Checking Your Distribution Burns",
+        "pages": [439]
+      },
+      {
+        "title": "Tip #3: “I Told the Installer to Test My Graphics, and They Failed”",
+        "pages": [440]
+      },
+      {
+        "title": "Tip #4: “The Installer Tested My Graphics Fine, but My GUI Won’t Start”",
+        "pages": [440]
+      },
+      {
+        "title": "Tip #5: “I Think I’m in Linux, but I Don’t Know What to Do!”",
+        "pages": [441]
+      },
+      {
+        "title": "Tip #6: “I Don’t Want to Boot into This!”",
+        "pages": [442]
+      },
+      {
+        "title": "Tip #7: Changing Your Boot Environment “Permanently”",
+        "pages": [443],
+        "subsections": [
+          {
+            "title": "Changing your boot environment just for now",
+            "pages": [445]
+          }
+        ]
+      },
+      {
+        "title": "Tip #8: “I Want to Change Screen Resolutions”",
+        "pages": [445]
+      },
+      {
+        "title": "Tip #9: “My GUI Is Hung, and I’m Stuck!”",
+        "pages": [446]
+      },
+      {
+        "title": "Tip #10: “Help, My Machine Hangs During Boot!”",
+        "pages": [447]
+      },
+      {
+        "title": "“Aaargh! I Forgot My Root Password! What Do I Do?”",
+        "pages": [447]
+      }
+    ]
+  }
+}

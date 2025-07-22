@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 15 Adding Software to Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 15, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 309 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_1.pdf": {
+    "document_title": "Opening Downloaded Files",
+    "indent_level": 1,
+    "reference_url": "Página 309 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 15"
+  },
+  "ch15_2.pdf": {
+    "document_title": "Compressing and Packaging Files to Share",
+    "indent_level": 1,
+    "reference_url": "Página 311 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_3.pdf": {
+    "document_title": "Keeping Up-to-Update",
+    "indent_level": 1,
+    "reference_url": "Página 312 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_3_1.pdf": {
+    "document_title": "Updating Ubuntu",
+    "indent_level": 2,
+    "reference_url": "Página 312 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_3_2.pdf": {
+    "document_title": "Updating openSUSE",
+    "indent_level": 2,
+    "reference_url": "Página 313 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_4.pdf": {
+    "document_title": "Installing New Software",
+    "indent_level": 1,
+    "reference_url": "Página 314 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_4_1.pdf": {
+    "document_title": "Adding applications",
+    "indent_level": 2,
+    "reference_url": "Página 315 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_4_2.pdf": {
+    "document_title": "Adding packages",
+    "indent_level": 2,
+    "reference_url": "Página 317 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_5.pdf": {
+    "document_title": "Finding More Software",
+    "indent_level": 1,
+    "reference_url": "Página 319 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch15_6.pdf": {
+    "document_title": "Upgrading Your OS",
+    "indent_level": 1,
+    "reference_url": "Página 320 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

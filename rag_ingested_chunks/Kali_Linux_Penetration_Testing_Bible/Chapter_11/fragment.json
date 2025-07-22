@@ -1,0 +1,161 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11 Windows Privilege Escalation",
+    "pages": [299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330],
+    "subsections": [
+      {
+        "title": "Windows System Enumeration",
+        "pages": [299],
+        "subsections": [
+          {
+            "title": "System Information",
+            "pages": [300]
+          },
+          {
+            "title": "Windows Architecture",
+            "pages": [301]
+          },
+          {
+            "title": "Listing the Disk Drives",
+            "pages": [302]
+          },
+          {
+            "title": "Installed Patches",
+            "pages": [302]
+          },
+          {
+            "title": "Who Am I?",
+            "pages": [302]
+          },
+          {
+            "title": "List Users and Groups",
+            "pages": [303]
+          },
+          {
+            "title": "Networking Information",
+            "pages": [305]
+          },
+          {
+            "title": "Showing Weak Permissions",
+            "pages": [308]
+          },
+          {
+            "title": "Listing Installed Programs",
+            "pages": [309]
+          },
+          {
+            "title": "Listing Tasks and Processes",
+            "pages": [309]
+          }
+        ]
+      },
+      {
+        "title": "File Transfers",
+        "pages": [310],
+        "subsections": [
+          {
+            "title": "Windows Host Destination",
+            "pages": [310]
+          },
+          {
+            "title": "Linux Host Destination",
+            "pages": [311]
+          }
+        ]
+      },
+      {
+        "title": "Windows System Exploitation",
+        "pages": [312],
+        "subsections": [
+          {
+            "title": "Windows Kernel Exploits",
+            "pages": [313],
+            "subsections": [
+              {
+                "title": "Getting the OS Version",
+                "pages": [313]
+              },
+              {
+                "title": "Find a Matching Exploit",
+                "pages": [314]
+              },
+              {
+                "title": "Executing the Payload and Getting a Root Shell",
+                "pages": [315]
+              },
+              {
+                "title": "The Metasploit PrivEsc Magic",
+                "pages": [315]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting Windows Applications",
+            "pages": [319],
+            "subsections": [
+              {
+                "title": "Running As in Windows",
+                "pages": [321]
+              },
+              {
+                "title": "PSExec Tool",
+                "pages": [322]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting Services in Windows",
+            "pages": [323],
+            "subsections": [
+              {
+                "title": "Interacting with Windows Services",
+                "pages": [323]
+              },
+              {
+                "title": "Misconfigured Service Permissions",
+                "pages": [323]
+              },
+              {
+                "title": "Overriding the Service Executable",
+                "pages": [325]
+              },
+              {
+                "title": "Unquoted Service Path",
+                "pages": [325]
+              },
+              {
+                "title": "Weak Registry Permissions",
+                "pages": [327]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting the Scheduled Tasks",
+            "pages": [328]
+          },
+          {
+            "title": "Windows PrivEsc Automated Tools",
+            "pages": [328],
+            "subsections": [
+              {
+                "title": "PowerUp",
+                "pages": [328]
+              },
+              {
+                "title": "WinPEAS",
+                "pages": [329]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [330]
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3: File Compression and Archival Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 72 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "gunzip and gzip",
+    "indent_level": 1,
+    "reference_url": "Página 73 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_2.pdf": {
+    "document_title": "tar, rar, and unrar",
+    "indent_level": 1,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "zip and unzip",
+    "indent_level": 1,
+    "reference_url": "Página 78 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "bunzip2, bzip2, and more",
+    "indent_level": 1,
+    "reference_url": "Página 79 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch3_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 84 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2: Exploring PowerShell Cmdlets and Syntax",
+    "pages": [50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [50]
+      },
+      {
+        "title": "What are cmdlets?",
+        "pages": [51],
+        "subsections": [
+          {
+            "title": "Exploring cmdlet structure",
+            "pages": [51]
+          },
+          {
+            "title": "The correct use of aliases",
+            "pages": [52]
+          }
+        ]
+      },
+      {
+        "title": "Understanding cmdlet syntax",
+        "pages": [53]
+      },
+      {
+        "title": "How to find more cmdlets",
+        "pages": [58],
+        "subsections": [
+          {
+            "title": "Finding modules and cmdlets on your machine",
+            "pages": [58]
+          },
+          {
+            "title": "Finding new modules and cmdlets",
+            "pages": [62]
+          }
+        ]
+      },
+      {
+        "title": "Working interactively with PowerShell",
+        "pages": [66],
+        "subsections": [
+          {
+            "title": "Windows Terminal – an alternative terminal emulator",
+            "pages": [67]
+          },
+          {
+            "title": "Installing Windows Terminal from Microsoft Store",
+            "pages": [67]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [72]
+      },
+      {
+        "title": "Exercises",
+        "pages": [73]
+      }
+    ]
+  }
+}

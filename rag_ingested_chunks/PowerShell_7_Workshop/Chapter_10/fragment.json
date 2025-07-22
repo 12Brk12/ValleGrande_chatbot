@@ -1,0 +1,79 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 10: Error Handling – Oh No! It’s Gone Wrong!",
+    "pages": [266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291],
+    "subsections": [
+      {
+        "title": "What is an error?",
+        "pages": [267],
+        "subsections": [
+          {
+            "title": "Terminating and non-terminating exceptions and errors",
+            "pages": [269]
+          }
+        ]
+      },
+      {
+        "title": "Understanding error actions",
+        "pages": [271],
+        "subsections": [
+          {
+            "title": "The $ErrorActionPreference variable",
+            "pages": [271]
+          },
+          {
+            "title": "The -ErrorAction parameter",
+            "pages": [272]
+          }
+        ]
+      },
+      {
+        "title": "Catching errors",
+        "pages": [273],
+        "subsections": [
+          {
+            "title": "Try/Catch/Finally",
+            "pages": [273]
+          },
+          {
+            "title": "Creating errors",
+            "pages": [276]
+          }
+        ]
+      },
+      {
+        "title": "Exploring debugging",
+        "pages": [278],
+        "subsections": [
+          {
+            "title": "Script instrumentation",
+            "pages": [279]
+          },
+          {
+            "title": "Debugging cmdlets",
+            "pages": [282]
+          }
+        ]
+      },
+      {
+        "title": "Debugging with VS Code",
+        "pages": [285]
+      },
+      {
+        "title": "Summary",
+        "pages": [288]
+      },
+      {
+        "title": "Exercises",
+        "pages": [289]
+      },
+      {
+        "title": "Further reading",
+        "pages": [289]
+      }
+    ]
+  }
+}

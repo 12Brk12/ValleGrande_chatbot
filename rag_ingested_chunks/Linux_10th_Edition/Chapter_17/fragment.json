@@ -1,0 +1,65 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 17 Basic System Administration",
+    "pages": [339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358],
+    "subsections": [
+      {
+        "title": "Managing Users and Groups",
+        "pages": [340],
+        "subsections": [
+          {
+            "title": "Finding the right tool",
+            "pages": [340]
+          },
+          {
+            "title": "Adding new users",
+            "pages": [342]
+          },
+          {
+            "title": "Adding new groups",
+            "pages": [345]
+          }
+        ]
+      },
+      {
+        "title": "Printing",
+        "pages": [347],
+        "subsections": [
+          {
+            "title": "Printer server settings",
+            "pages": [349]
+          },
+          {
+            "title": "Adding a new printer",
+            "pages": [350]
+          },
+          {
+            "title": "Modifying printer properties",
+            "pages": [353]
+          }
+        ]
+      },
+      {
+        "title": "System Monitor",
+        "pages": [354],
+        "subsections": [
+          {
+            "title": "Processes",
+            "pages": [355]
+          },
+          {
+            "title": "Resources",
+            "pages": [357]
+          },
+          {
+            "title": "File Systems",
+            "pages": [358]
+          }
+        ]
+      }
+    ]
+  }
+}

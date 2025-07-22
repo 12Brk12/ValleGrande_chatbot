@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 4: Format and Disk Space Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 4, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 88 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_1.pdf": {
+    "document_title": "The history and evolution of disk formatting and partitioning in Linux",
+    "indent_level": 1,
+    "reference_url": "Página 89 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 4"
+  },
+  "ch4_2.pdf": {
+    "document_title": "Steps to create a partition",
+    "indent_level": 1,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_3.pdf": {
+    "document_title": "fdisk, lsblk, df, and du",
+    "indent_level": 1,
+    "reference_url": "Página 94 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_3_1.pdf": {
+    "document_title": "Checking the disk space usage of a directory",
+    "indent_level": 2,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_3_2.pdf": {
+    "document_title": "Finding large files in a directory",
+    "indent_level": 2,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_4.pdf": {
+    "document_title": "Displaying (dpkg and rpm) package space",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_4_1.pdf": {
+    "document_title": "Installing a package",
+    "indent_level": 2,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_4_2.pdf": {
+    "document_title": "Querying the details of a package",
+    "indent_level": 2,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_5.pdf": {
+    "document_title": "mkfs, mke2fs, fdformat, and more",
+    "indent_level": 1,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch4_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 105 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

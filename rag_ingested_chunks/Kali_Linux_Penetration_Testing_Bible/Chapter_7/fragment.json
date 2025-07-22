@@ -1,0 +1,151 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7 Exploitation Phase",
+    "pages": [187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224],
+    "subsections": [
+      {
+        "title": "Vulnerabilities Assessment",
+        "pages": [188],
+        "subsections": [
+          {
+            "title": "Vulnerability Assessment Workflow",
+            "pages": [188]
+          },
+          {
+            "title": "Vulnerability Scanning with OpenVAS",
+            "pages": [190],
+            "subsections": [
+              {
+                "title": "Installing OpenVAS",
+                "pages": [190]
+              },
+              {
+                "title": "Scanning with OpenVAS",
+                "pages": [191]
+              }
+            ]
+          },
+          {
+            "title": "Exploits Research",
+            "pages": [195],
+            "subsections": [
+              {
+                "title": "SearchSploit",
+                "pages": [197]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Services Exploitation",
+        "pages": [199],
+        "subsections": [
+          {
+            "title": "Exploiting FTP Service",
+            "pages": [199],
+            "subsections": [
+              {
+                "title": "FTP Login",
+                "pages": [199]
+              },
+              {
+                "title": "Remote Code Execution",
+                "pages": [200]
+              },
+              {
+                "title": "Spawning a Shell",
+                "pages": [203]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting SSH Service",
+            "pages": [204],
+            "subsections": [
+              {
+                "title": "SSH Login",
+                "pages": [204]
+              }
+            ]
+          },
+          {
+            "title": "Telnet Service Exploitation",
+            "pages": [205],
+            "subsections": [
+              {
+                "title": "Telnet Login",
+                "pages": [205]
+              },
+              {
+                "title": "Sniffing for Cleartext Information",
+                "pages": [206]
+              }
+            ]
+          },
+          {
+            "title": "E-mail Server Exploitation",
+            "pages": [209]
+          },
+          {
+            "title": "Docker Exploitation",
+            "pages": [211],
+            "subsections": [
+              {
+                "title": "Testing the Docker Connection",
+                "pages": [211]
+              },
+              {
+                "title": "Creating a New Remote Kali Container",
+                "pages": [212]
+              },
+              {
+                "title": "Getting a Shell into the Kali Container",
+                "pages": [213]
+              },
+              {
+                "title": "Docker Host Exploitation",
+                "pages": [214]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting Jenkins",
+            "pages": [216]
+          },
+          {
+            "title": "Reverse Shells",
+            "pages": [219],
+            "subsections": [
+              {
+                "title": "Using Shells with Metasploit",
+                "pages": [220]
+              }
+            ]
+          },
+          {
+            "title": "Exploiting the SMB Protocol",
+            "pages": [222],
+            "subsections": [
+              {
+                "title": "Connecting to SMB Shares",
+                "pages": [222]
+              },
+              {
+                "title": "SMB Eternal Blue Exploit",
+                "pages": [223]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [224]
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3: File Compression and Archival Commands",
+    "pages": [72,73,74,75,76,77,78,79,80,81,82,83,84,85],
+    "subsections": [
+      {
+        "title": "gunzip and gzip",
+        "pages": [73]
+      },
+      {
+        "title": "tar, rar, and unrar",
+        "pages": [76]
+      },
+      {
+        "title": "zip and unzip",
+        "pages": [78]
+      },
+      {
+        "title": "bunzip2, bzip2, and more",
+        "pages": [79]
+      },
+      {
+        "title": "Summary",
+        "pages": [84]
+      }
+    ]
+  }
+}

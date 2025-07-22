@@ -1,0 +1,77 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 16: Deploying Applications with Kubernetes",
+    "pages": [594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [594]
+      },
+      {
+        "title": "Introducing Kubernetes",
+        "pages": [595],
+        "subsections": [
+          {
+            "title": "Understanding the Kubernetes architecture",
+            "pages": [596]
+          },
+          {
+            "title": "Introducing the Kubernetes object model",
+            "pages": [596]
+          },
+          {
+            "title": "The anatomy of a Kubernetes cluster",
+            "pages": [599]
+          }
+        ]
+      },
+      {
+        "title": "Installing and configuring Kubernetes",
+        "pages": [602],
+        "subsections": [
+          {
+            "title": "Installing Kubernetes on a desktop",
+            "pages": [602]
+          },
+          {
+            "title": "Installing Kubernetes on VMs",
+            "pages": [604]
+          }
+        ]
+      },
+      {
+        "title": "Working with Kubernetes",
+        "pages": [622],
+        "subsections": [
+          {
+            "title": "Using kubectl",
+            "pages": [622]
+          },
+          {
+            "title": "Deploying applications",
+            "pages": [630]
+          },
+          {
+            "title": "Running Kubernetes in the cloud",
+            "pages": [650]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [651]
+      },
+      {
+        "title": "Questions",
+        "pages": [651]
+      },
+      {
+        "title": "Further reading",
+        "pages": [652]
+      }
+    ]
+  }
+}

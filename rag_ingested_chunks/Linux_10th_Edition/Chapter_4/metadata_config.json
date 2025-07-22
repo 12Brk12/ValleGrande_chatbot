@@ -1,0 +1,87 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 4 Examining the GNOME Desktop",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 4, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_1.pdf": {
+    "document_title": "The History of GNOME",
+    "indent_level": 1,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 4"
+  },
+  "ch4_2.pdf": {
+    "document_title": "Breaking Down the GNOME Desktop",
+    "indent_level": 1,
+    "reference_url": "Página 78 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_2_1.pdf": {
+    "document_title": "Menus, please!",
+    "indent_level": 2,
+    "reference_url": "Página 79 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_2_2.pdf": {
+    "document_title": "The desktop",
+    "indent_level": 2,
+    "reference_url": "Página 83 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_3.pdf": {
+    "document_title": "Exploring the Activities Overview",
+    "indent_level": 1,
+    "reference_url": "Página 85 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_3_1.pdf": {
+    "document_title": "The dash",
+    "indent_level": 2,
+    "reference_url": "Página 85 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_3_2.pdf": {
+    "document_title": "The windows overview area",
+    "indent_level": 2,
+    "reference_url": "Página 89 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_3_3.pdf": {
+    "document_title": "Working with workspaces",
+    "indent_level": 2,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_4.pdf": {
+    "document_title": "Customizing Your Ride",
+    "indent_level": 1,
+    "reference_url": "Página 91 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_4_1.pdf": {
+    "document_title": "Background",
+    "indent_level": 2,
+    "reference_url": "Página 92 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_4_2.pdf": {
+    "document_title": "Appearance",
+    "indent_level": 2,
+    "reference_url": "Página 92 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_4_3.pdf": {
+    "document_title": "Displays",
+    "indent_level": 2,
+    "reference_url": "Página 93 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_4_4.pdf": {
+    "document_title": "Mouse and touchpad",
+    "indent_level": 2,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch4_5.pdf": {
+    "document_title": "A Closer Look at Accessibility Features",
+    "indent_level": 1,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

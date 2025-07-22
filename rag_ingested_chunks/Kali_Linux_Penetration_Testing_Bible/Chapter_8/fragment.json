@@ -1,0 +1,149 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 8 Web Application Vulnerabilities",
+    "pages": [225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256],
+    "subsections": [
+      {
+        "title": "Web Application Vulnerabilities",
+        "pages": [226],
+        "subsections": [
+          {
+            "title": "Mutillidae Installation",
+            "pages": [226],
+            "subsections": [
+              {
+                "title": "Apache Web Server Installation",
+                "pages": [226]
+              },
+              {
+                "title": "Firewall Setup",
+                "pages": [227]
+              },
+              {
+                "title": "Installing PHP",
+                "pages": [227]
+              },
+              {
+                "title": "Database Installation and Setup",
+                "pages": [227]
+              },
+              {
+                "title": "Mutillidae Installation",
+                "pages": [228]
+              }
+            ]
+          },
+          {
+            "title": "Cross-Site Scripting",
+            "pages": [229],
+            "subsections": [
+              {
+                "title": "Reflected XSS",
+                "pages": [229]
+              },
+              {
+                "title": "Stored XSS",
+                "pages": [230]
+              },
+              {
+                "title": "Exploiting XSS Using the Header",
+                "pages": [231]
+              },
+              {
+                "title": "Bypassing JavaScript Validation",
+                "pages": [233]
+              }
+            ]
+          },
+          {
+            "title": "SQL Injection",
+            "pages": [234],
+            "subsections": [
+              {
+                "title": "Querying the Database",
+                "pages": [234]
+              },
+              {
+                "title": "Bypassing the Login Page",
+                "pages": [237]
+              },
+              {
+                "title": "Execute Database Commands Using SQLi",
+                "pages": [237]
+              },
+              {
+                "title": "SQL Injection Automation with SQLMap",
+                "pages": [241]
+              },
+              {
+                "title": "Testing for SQL Injection",
+                "pages": [242]
+              }
+            ]
+          },
+          {
+            "title": "Command Injection",
+            "pages": [243]
+          },
+          {
+            "title": "File Inclusion",
+            "pages": [243],
+            "subsections": [
+              {
+                "title": "Local File Inclusion",
+                "pages": [244]
+              },
+              {
+                "title": "Remote File Inclusion",
+                "pages": [245]
+              }
+            ]
+          },
+          {
+            "title": "Cross-Site Request Forgery",
+            "pages": [246],
+            "subsections": [
+              {
+                "title": "The Attacker Scenario",
+                "pages": [247]
+              },
+              {
+                "title": "The Victim Scenario",
+                "pages": [248]
+              }
+            ]
+          },
+          {
+            "title": "File Upload",
+            "pages": [249],
+            "subsections": [
+              {
+                "title": "Simple File Upload",
+                "pages": [249]
+              },
+              {
+                "title": "Bypassing Validation",
+                "pages": [251]
+              },
+              {
+                "title": "Encoding",
+                "pages": [253]
+              }
+            ]
+          },
+          {
+            "title": "OWASP Top 10",
+            "pages": [254]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [255]
+      }
+    ]
+  }
+}

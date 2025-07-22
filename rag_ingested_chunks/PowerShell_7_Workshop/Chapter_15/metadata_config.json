@@ -1,0 +1,97 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 15: PowerShell 7 and the Raspberry Pi",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 15, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 386 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 386 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 15"
+  },
+  "ch15_2.pdf": {
+    "document_title": "Introduction to the Raspberry Pi",
+    "indent_level": 1,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_3.pdf": {
+    "document_title": "Installing PowerShell 7 and VS Code",
+    "indent_level": 1,
+    "reference_url": "Página 388 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_3_1.pdf": {
+    "document_title": "Installing PowerShell",
+    "indent_level": 2,
+    "reference_url": "Página 388 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_3_2.pdf": {
+    "document_title": "Installing VS Code",
+    "indent_level": 2,
+    "reference_url": "Página 391 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_4.pdf": {
+    "document_title": "Connecting remotely to the Pi",
+    "indent_level": 1,
+    "reference_url": "Página 391 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_4_1.pdf": {
+    "document_title": "Working with a headless Pi",
+    "indent_level": 2,
+    "reference_url": "Página 392 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_4_2.pdf": {
+    "document_title": "Connecting to the Pi with PowerShell",
+    "indent_level": 2,
+    "reference_url": "Página 395 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_4_3.pdf": {
+    "document_title": "Connecting to the Pi with VS Code",
+    "indent_level": 2,
+    "reference_url": "Página 397 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_5.pdf": {
+    "document_title": "Running PowerShell on Raspberry Pi OS",
+    "indent_level": 1,
+    "reference_url": "Página 399 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_5_1.pdf": {
+    "document_title": "Installing the IoT module",
+    "indent_level": 2,
+    "reference_url": "Página 399 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_5_2.pdf": {
+    "document_title": "Exploring the IoT module",
+    "indent_level": 2,
+    "reference_url": "Página 400 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_6.pdf": {
+    "document_title": "Simple physical computing",
+    "indent_level": 1,
+    "reference_url": "Página 402 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 406 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_8.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 406 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch15_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 407 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

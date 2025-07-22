@@ -1,0 +1,71 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 10 Using the Internet",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 10, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 191 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_1.pdf": {
+    "document_title": "Browsing the Web with Firefox",
+    "indent_level": 1,
+    "reference_url": "Página 191 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 10"
+  },
+  "ch10_1_1.pdf": {
+    "document_title": "Configuring Firefox",
+    "indent_level": 2,
+    "reference_url": "Página 192 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_1_2.pdf": {
+    "document_title": "Expanding your universe with add-ons",
+    "indent_level": 2,
+    "reference_url": "Página 196 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_1_3.pdf": {
+    "document_title": "Surfing the web",
+    "indent_level": 2,
+    "reference_url": "Página 197 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_2.pdf": {
+    "document_title": "Communicating with Email",
+    "indent_level": 1,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_2_1.pdf": {
+    "document_title": "Evolving into email",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2_2.pdf": {
+    "document_title": "Working with KMail",
+    "indent_level": 2,
+    "reference_url": "Página 207 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_2_3.pdf": {
+    "document_title": "The amazing Thunderbird",
+    "indent_level": 2,
+    "reference_url": "Página 211 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_3.pdf": {
+    "document_title": "Ol’ Fashion File Transfers",
+    "indent_level": 1,
+    "reference_url": "Página 213 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_4.pdf": {
+    "document_title": "Talking with Skype",
+    "indent_level": 1,
+    "reference_url": "Página 215 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch10_5.pdf": {
+    "document_title": "Working with Other Internet Tools",
+    "indent_level": 1,
+    "reference_url": "Página 217 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

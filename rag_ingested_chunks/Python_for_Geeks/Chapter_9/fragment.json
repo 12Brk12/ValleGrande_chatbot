@@ -1,0 +1,77 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9: Python Programming for the Cloud",
+    "pages": [336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [337]
+      },
+      {
+        "title": "Learning about the cloud options for Python applications",
+        "pages": [337],
+        "subsections": [
+          {
+            "title": "Introducing Python development environments for the cloud",
+            "pages": [337]
+          },
+          {
+            "title": "Introducing cloud runtime options for Python",
+            "pages": [340]
+          }
+        ]
+      },
+      {
+        "title": "Building Python web services for cloud deployment",
+        "pages": [342],
+        "subsections": [
+          {
+            "title": "Using Google Cloud SDK",
+            "pages": [343]
+          },
+          {
+            "title": "Using the GCP web console",
+            "pages": [352]
+          }
+        ]
+      },
+      {
+        "title": "Using Google Cloud Platform for data processing",
+        "pages": [355],
+        "subsections": [
+          {
+            "title": "Learning the fundamentals of Apache Beam",
+            "pages": [356]
+          },
+          {
+            "title": "Introducing Apache Beam pipelines",
+            "pages": [357]
+          },
+          {
+            "title": "Building pipelines for Cloud Dataflow",
+            "pages": [364]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [370]
+      },
+      {
+        "title": "Questions",
+        "pages": [371]
+      },
+      {
+        "title": "Further reading",
+        "pages": [371]
+      },
+      {
+        "title": "Answers",
+        "pages": [371]
+      }
+    ]
+  }
+}

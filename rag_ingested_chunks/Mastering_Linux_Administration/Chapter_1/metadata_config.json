@@ -1,0 +1,123 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1: Installing Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 24 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 25 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_2.pdf": {
+    "document_title": "Introducing the Linux operating system",
+    "indent_level": 1,
+    "reference_url": "Página 25 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_2_1.pdf": {
+    "document_title": "Exploring Linux distributions",
+    "indent_level": 2,
+    "reference_url": "Página 25 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_2_2.pdf": {
+    "document_title": "Choosing a Linux distribution",
+    "indent_level": 2,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "Installing Linux – the basics",
+    "indent_level": 1,
+    "reference_url": "Página 30 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "How to install Linux on bare metal",
+    "indent_level": 2,
+    "reference_url": "Página 30 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_3_2.pdf": {
+    "document_title": "Linux in a VM",
+    "indent_level": 2,
+    "reference_url": "Página 34 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_3_3.pdf": {
+    "document_title": "VM provisioning using Hyper-V",
+    "indent_level": 2,
+    "reference_url": "Página 38 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_3_4.pdf": {
+    "document_title": "VM provisioning using Oracle’s VirtualBox",
+    "indent_level": 2,
+    "reference_url": "Página 41 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Enabling Windows Subsystem for Linux",
+    "indent_level": 1,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_5.pdf": {
+    "document_title": "Installing Linux – the advanced stages",
+    "indent_level": 1,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_5_1.pdf": {
+    "document_title": "The Linux boot process",
+    "indent_level": 2,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_5_2.pdf": {
+    "document_title": "PXE network boot explained",
+    "indent_level": 2,
+    "reference_url": "Página 46 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_6.pdf": {
+    "document_title": "Linux distributions – a practical guide",
+    "indent_level": 1,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_6_1.pdf": {
+    "document_title": "Case study – development workstation",
+    "indent_level": 2,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_6_2.pdf": {
+    "document_title": "Case study – secure web server",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_6_3.pdf": {
+    "document_title": "Use case – personal blog",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_6_4.pdf": {
+    "document_title": "Use case – media server",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_8.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch1_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

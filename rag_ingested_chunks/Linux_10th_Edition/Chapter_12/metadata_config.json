@@ -1,0 +1,130 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 12 Word Processing and More with LibreOffice",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 12, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 235 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_1.pdf": {
+    "document_title": "Installing the LibreOffice Suite",
+    "indent_level": 1,
+    "reference_url": "Página 236 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 12"
+  },
+  "ch12_2.pdf": {
+    "document_title": "Word Processing with LibreOffice Writer",
+    "indent_level": 1,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_2_1.pdf": {
+    "document_title": "Taking a tour of LibreOffice Writer",
+    "indent_level": 2,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_2_2.pdf": {
+    "document_title": "Working with Writer files",
+    "indent_level": 2,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_3.pdf": {
+    "document_title": "Spreadsheets with LibreOffice Calc",
+    "indent_level": 1,
+    "reference_url": "Página 242 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_3_1.pdf": {
+    "document_title": "Taking a tour of LibreOffice Calc",
+    "indent_level": 2,
+    "reference_url": "Página 242 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_3_2.pdf": {
+    "document_title": "Working with Calc files",
+    "indent_level": 2,
+    "reference_url": "Página 246 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_4.pdf": {
+    "document_title": "Presentations with LibreOffice Impress",
+    "indent_level": 1,
+    "reference_url": "Página 246 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_4_1.pdf": {
+    "document_title": "Creating a new presentation",
+    "indent_level": 2,
+    "reference_url": "Página 247 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_4_2.pdf": {
+    "document_title": "Taking a tour of LibreOffice Impress",
+    "indent_level": 2,
+    "reference_url": "Página 247 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_4_3.pdf": {
+    "document_title": "Working with Impress files",
+    "indent_level": 2,
+    "reference_url": "Página 251 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_5.pdf": {
+    "document_title": "Fine Art with LibreOffice Draw",
+    "indent_level": 1,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_5_1.pdf": {
+    "document_title": "Taking a tour of LibreOffice Draw",
+    "indent_level": 2,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_5_2.pdf": {
+    "document_title": "Working with Draw files",
+    "indent_level": 2,
+    "reference_url": "Página 255 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_6.pdf": {
+    "document_title": "Managing Data with LibreOffice Base",
+    "indent_level": 1,
+    "reference_url": "Página 256 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_6_1.pdf": {
+    "document_title": "Getting help from the wizard",
+    "indent_level": 2,
+    "reference_url": "Página 256 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_6_2.pdf": {
+    "document_title": "Taking a tour of LibreOffice Base",
+    "indent_level": 2,
+    "reference_url": "Página 259 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_6_3.pdf": {
+    "document_title": "Sitting down at the table",
+    "indent_level": 2,
+    "reference_url": "Página 261 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_7.pdf": {
+    "document_title": "Layout with LibreOffice Math",
+    "indent_level": 1,
+    "reference_url": "Página 262 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_7_1.pdf": {
+    "document_title": "Menu bar",
+    "indent_level": 2,
+    "reference_url": "Página 263 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_7_2.pdf": {
+    "document_title": "Standard toolbar",
+    "indent_level": 2,
+    "reference_url": "Página 264 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch12_7_3.pdf": {
+    "document_title": "Document section",
+    "indent_level": 2,
+    "reference_url": "Página 265 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

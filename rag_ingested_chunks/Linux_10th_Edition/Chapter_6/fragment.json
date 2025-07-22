@@ -1,0 +1,77 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6 Exploring Alternative Desktops",
+    "pages": [117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134],
+    "subsections": [
+      {
+        "title": "Spicing Things Up with Cinnamon",
+        "pages": [117],
+        "subsections": [
+          {
+            "title": "History of Cinnamon",
+            "pages": [118]
+          },
+          {
+            "title": "Looking at the menu",
+            "pages": [119]
+          },
+          {
+            "title": "Changing settings",
+            "pages": [121]
+          },
+          {
+            "title": "Adding more spice",
+            "pages": [122]
+          }
+        ]
+      },
+      {
+        "title": "Working with MATE",
+        "pages": [123],
+        "subsections": [
+          {
+            "title": "The history of MATE",
+            "pages": [123]
+          },
+          {
+            "title": "Looking at the menu",
+            "pages": [125]
+          },
+          {
+            "title": "Changing desktop settings",
+            "pages": [126]
+          },
+          {
+            "title": "Applets",
+            "pages": [127]
+          }
+        ]
+      },
+      {
+        "title": "The Xfce Desktop Interface",
+        "pages": [128],
+        "subsections": [
+          {
+            "title": "History of Xfce",
+            "pages": [128]
+          },
+          {
+            "title": "The Whisker menu",
+            "pages": [129]
+          },
+          {
+            "title": "Changing Xfce settings",
+            "pages": [131]
+          },
+          {
+            "title": "Applets",
+            "pages": [132]
+          }
+        ]
+      }
+    ]
+  }
+}

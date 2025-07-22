@@ -1,0 +1,133 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 12: Securing PowerShell",
+    "pages": [316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335],
+    "subsections": [
+      {
+        "title": "Why is security so important?",
+        "pages": [316],
+        "subsections": [
+          {
+            "title": "A PowerShell remoting whistlestop tour",
+            "pages": [317]
+          },
+          {
+            "title": "Enabling PowerShell remoting",
+            "pages": [317]
+          },
+          {
+            "title": "Creating a session",
+            "pages": [318]
+          },
+          {
+            "title": "Joining and leaving a session",
+            "pages": [319]
+          },
+          {
+            "title": "One-to-many sessions",
+            "pages": [320]
+          }
+        ]
+      },
+      {
+        "title": "Securing PowerShell against inadvertent mistakes",
+        "pages": [320],
+        "subsections": [
+          {
+            "title": "Execution policy",
+            "pages": [321]
+          },
+          {
+            "title": "Other features",
+            "pages": [323]
+          }
+        ]
+      },
+      {
+        "title": "Running PowerShell securely",
+        "pages": [324],
+        "subsections": [
+          {
+            "title": "Application control",
+            "pages": [324]
+          },
+          {
+            "title": "Language modes",
+            "pages": [324]
+          },
+          {
+            "title": "Security servicing criteria",
+            "pages": [325]
+          },
+          {
+            "title": "Software Bill of Materials",
+            "pages": [325]
+          },
+          {
+            "title": "Windows Antimalware Scan Interface support",
+            "pages": [325]
+          },
+          {
+            "title": "Secure Shell (SSH) remoting",
+            "pages": [326]
+          },
+          {
+            "title": "Just Enough Administration",
+            "pages": [326]
+          }
+        ]
+      },
+      {
+        "title": "PowerShell logging",
+        "pages": [326],
+        "subsections": [
+          {
+            "title": "Over the shoulder logging",
+            "pages": [326]
+          },
+          {
+            "title": "Deep script block logging",
+            "pages": [328]
+          },
+          {
+            "title": "Module logging",
+            "pages": [329]
+          }
+        ]
+      },
+      {
+        "title": "Writing secure code",
+        "pages": [330],
+        "subsections": [
+          {
+            "title": "Storing passwords securely",
+            "pages": [330]
+          },
+          {
+            "title": "Signing scripts",
+            "pages": [331]
+          },
+          {
+            "title": "Parameter security",
+            "pages": [332]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [333]
+      },
+      {
+        "title": "Exercises",
+        "pages": [334]
+      },
+      {
+        "title": "Further reading",
+        "pages": [334]
+      }
+    ]
+  }
+}

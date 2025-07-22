@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9: Python Programming for the Cloud",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 336 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 337 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_2.pdf": {
+    "document_title": "Learning about the cloud options for Python applications",
+    "indent_level": 1,
+    "reference_url": "Página 337 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_2_1.pdf": {
+    "document_title": "Introducing Python development environments for the cloud",
+    "indent_level": 2,
+    "reference_url": "Página 337 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_2_2.pdf": {
+    "document_title": "Introducing cloud runtime options for Python",
+    "indent_level": 2,
+    "reference_url": "Página 340 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "Building Python web services for cloud deployment",
+    "indent_level": 1,
+    "reference_url": "Página 342 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_3_1.pdf": {
+    "document_title": "Using Google Cloud SDK",
+    "indent_level": 2,
+    "reference_url": "Página 343 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_3_2.pdf": {
+    "document_title": "Using the GCP web console",
+    "indent_level": 2,
+    "reference_url": "Página 352 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_4.pdf": {
+    "document_title": "Using Google Cloud Platform for data processing",
+    "indent_level": 1,
+    "reference_url": "Página 355 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_4_1.pdf": {
+    "document_title": "Learning the fundamentals of Apache Beam",
+    "indent_level": 2,
+    "reference_url": "Página 356 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_4_2.pdf": {
+    "document_title": "Introducing Apache Beam pipelines",
+    "indent_level": 2,
+    "reference_url": "Página 357 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_4_3.pdf": {
+    "document_title": "Building pipelines for Cloud Dataflow",
+    "indent_level": 2,
+    "reference_url": "Página 364 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 370 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch9_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

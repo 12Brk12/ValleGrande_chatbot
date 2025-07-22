@@ -1,0 +1,53 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9 Connecting to the Internet",
+    "pages": [169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188],
+    "subsections": [
+      {
+        "title": "Internet Connectivity 101",
+        "pages": [169]
+      },
+      {
+        "title": "Setting Up the Hardware",
+        "pages": [171]
+      },
+      {
+        "title": "Selecting an Internet Service Provider (ISP)",
+        "pages": [172]
+      },
+      {
+        "title": "Getting Information You Need from Your ISP",
+        "pages": [173]
+      },
+      {
+        "title": "Configuring Your Connection",
+        "pages": [174],
+        "subsections": [
+          {
+            "title": "Network Manager",
+            "pages": [174]
+          },
+          {
+            "title": "Command line tools",
+            "pages": [179]
+          },
+          {
+            "title": "Dialin’ out",
+            "pages": [185]
+          }
+        ]
+      },
+      {
+        "title": "It’s All Fun and Games Until Something Doesn’t Work",
+        "pages": [185]
+      },
+      {
+        "title": "After You’re Connected",
+        "pages": [187]
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1: Getting a CentOS Server Up and Running",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 24 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Downloading the OS installation file",
+    "indent_level": 1,
+    "reference_url": "Página 25 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_2.pdf": {
+    "document_title": "Downloading and setting up a hypervisor",
+    "indent_level": 1,
+    "reference_url": "Página 28 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "Package installation commands",
+    "indent_level": 1,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "YUM package management system",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_3_2.pdf": {
+    "document_title": "Common package installation commands",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Information commands",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch1_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

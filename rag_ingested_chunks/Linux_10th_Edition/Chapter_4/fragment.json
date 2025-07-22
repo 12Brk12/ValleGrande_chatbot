@@ -1,0 +1,73 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4 Examining the GNOME Desktop",
+    "pages": [77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98],
+    "subsections": [
+      {
+        "title": "The History of GNOME",
+        "pages": [77]
+      },
+      {
+        "title": "Breaking Down the GNOME Desktop",
+        "pages": [78],
+        "subsections": [
+          {
+            "title": "Menus, please!",
+            "pages": [79]
+          },
+          {
+            "title": "The desktop",
+            "pages": [83]
+          }
+        ]
+      },
+      {
+        "title": "Exploring the Activities Overview",
+        "pages": [85],
+        "subsections": [
+          {
+            "title": "The dash",
+            "pages": [85]
+          },
+          {
+            "title": "The windows overview area",
+            "pages": [89]
+          },
+          {
+            "title": "Working with workspaces",
+            "pages": [90]
+          }
+        ]
+      },
+      {
+        "title": "Customizing Your Ride",
+        "pages": [91],
+        "subsections": [
+          {
+            "title": "Background",
+            "pages": [92]
+          },
+          {
+            "title": "Appearance",
+            "pages": [92]
+          },
+          {
+            "title": "Displays",
+            "pages": [93]
+          },
+          {
+            "title": "Mouse and touchpad",
+            "pages": [95]
+          }
+        ]
+      },
+      {
+        "title": "A Closer Look at Accessibility Features",
+        "pages": [96]
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8: Linux Shell Scripting",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 286 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 286 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_2.pdf": {
+    "document_title": "Exploring the Linux shell",
+    "indent_level": 1,
+    "reference_url": "Página 287 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_2_1.pdf": {
+    "document_title": "Bash shell features",
+    "indent_level": 2,
+    "reference_url": "Página 287 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_2_2.pdf": {
+    "document_title": "Bash shell variables",
+    "indent_level": 2,
+    "reference_url": "Página 291 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_3.pdf": {
+    "document_title": "Basics of shell scripting",
+    "indent_level": 1,
+    "reference_url": "Página 293 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_3_1.pdf": {
+    "document_title": "Creating a shell script file",
+    "indent_level": 2,
+    "reference_url": "Página 294 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_3_2.pdf": {
+    "document_title": "Variables in shell scripts",
+    "indent_level": 2,
+    "reference_url": "Página 296 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_3_3.pdf": {
+    "document_title": "Using mathematical expressions in shell scripts",
+    "indent_level": 2,
+    "reference_url": "Página 298 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4.pdf": {
+    "document_title": "Using programming structures",
+    "indent_level": 1,
+    "reference_url": "Página 300 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_1.pdf": {
+    "document_title": "Using arrays in Bash",
+    "indent_level": 2,
+    "reference_url": "Página 300 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_4_2.pdf": {
+    "document_title": "Reading input data",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_3.pdf": {
+    "document_title": "Formatting output data",
+    "indent_level": 2,
+    "reference_url": "Página 303 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_4.pdf": {
+    "document_title": "Understanding exit statuses and testing structures",
+    "indent_level": 2,
+    "reference_url": "Página 306 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_5.pdf": {
+    "document_title": "Using conditional if statements",
+    "indent_level": 2,
+    "reference_url": "Página 308 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_6.pdf": {
+    "document_title": "Using looping statements",
+    "indent_level": 2,
+    "reference_url": "Página 311 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_7.pdf": {
+    "document_title": "Working with functions",
+    "indent_level": 2,
+    "reference_url": "Página 319 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_4_8.pdf": {
+    "document_title": "Using sed and (g)awk commands",
+    "indent_level": 2,
+    "reference_url": "Página 323 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_5.pdf": {
+    "document_title": "Using scripts to showcase interprocess communication",
+    "indent_level": 1,
+    "reference_url": "Página 327 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_5_1.pdf": {
+    "document_title": "Shared storage",
+    "indent_level": 2,
+    "reference_url": "Página 327 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_5_2.pdf": {
+    "document_title": "Unnamed pipes",
+    "indent_level": 2,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_5_3.pdf": {
+    "document_title": "Named pipes",
+    "indent_level": 2,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_5_4.pdf": {
+    "document_title": "Sockets",
+    "indent_level": 2,
+    "reference_url": "Página 331 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_6.pdf": {
+    "document_title": "Scripting for administrative tasks",
+    "indent_level": 1,
+    "reference_url": "Página 333 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_6_1.pdf": {
+    "document_title": "Creating scripts for system administrative tasks",
+    "indent_level": 2,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_6_2.pdf": {
+    "document_title": "Packaging scripts",
+    "indent_level": 2,
+    "reference_url": "Página 338 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 342 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_8.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 342 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch8_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 343 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

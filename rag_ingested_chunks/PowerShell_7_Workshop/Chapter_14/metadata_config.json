@@ -1,0 +1,117 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 14: PowerShell 7 for Linux and macOS",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 14, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 362 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 363 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 14"
+  },
+  "ch14_2.pdf": {
+    "document_title": "Installing PowerShell 7",
+    "indent_level": 1,
+    "reference_url": "Página 366 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_2_1.pdf": {
+    "document_title": "Installing PowerShell on Ubuntu 22.04",
+    "indent_level": 2,
+    "reference_url": "Página 366 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_2_2.pdf": {
+    "document_title": "Installing PowerShell on CentOS 8 and 9",
+    "indent_level": 2,
+    "reference_url": "Página 369 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_2_3.pdf": {
+    "document_title": "Installing PowerShell on CentOS 7",
+    "indent_level": 2,
+    "reference_url": "Página 370 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_3.pdf": {
+    "document_title": "Installing VS Code",
+    "indent_level": 1,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_4.pdf": {
+    "document_title": "Running PowerShell on Linux",
+    "indent_level": 1,
+    "reference_url": "Página 373 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_5.pdf": {
+    "document_title": "Remoting with OpenSSH",
+    "indent_level": 1,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_5_1.pdf": {
+    "document_title": "Checking that PowerShell has OpenSSH support",
+    "indent_level": 2,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_5_2.pdf": {
+    "document_title": "Installing OpenSSH on Windows",
+    "indent_level": 2,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_5_3.pdf": {
+    "document_title": "Installing OpenSSH on Linux",
+    "indent_level": 2,
+    "reference_url": "Página 377 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_5_4.pdf": {
+    "document_title": "Running remote sessions",
+    "indent_level": 2,
+    "reference_url": "Página 378 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_5_5.pdf": {
+    "document_title": "Authentication",
+    "indent_level": 2,
+    "reference_url": "Página 379 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_6.pdf": {
+    "document_title": "PowerShell for macOS",
+    "indent_level": 1,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_6_1.pdf": {
+    "document_title": "Installing Homebrew on macOS",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_6_2.pdf": {
+    "document_title": "Installing PowerShell on macOS",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_6_3.pdf": {
+    "document_title": "Installing VS Code on macOS",
+    "indent_level": 2,
+    "reference_url": "Página 383 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 383 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 384 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch14_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 384 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

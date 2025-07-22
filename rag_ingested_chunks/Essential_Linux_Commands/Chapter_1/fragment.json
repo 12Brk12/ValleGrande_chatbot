@@ -1,0 +1,41 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1: Getting a CentOS Server Up and Running",
+    "pages": [24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53],
+    "subsections": [
+      {
+        "title": "Downloading the OS installation file",
+        "pages": [25]
+      },
+      {
+        "title": "Downloading and setting up a hypervisor",
+        "pages": [28]
+      },
+      {
+        "title": "Package installation commands",
+        "pages": [49],
+        "subsections": [
+          {
+            "title": "YUM package management system",
+            "pages": [49]
+          },
+          {
+            "title": "Common package installation commands",
+            "pages": [50]
+          }
+        ]
+      },
+      {
+        "title": "Information commands",
+        "pages": [51]
+      },
+      {
+        "title": "Summary",
+        "pages": [53]
+      }
+    ]
+  }
+}

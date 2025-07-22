@@ -1,0 +1,229 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6 Advanced Enumeration Phase",
+    "pages": [151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186],
+    "subsections": [
+      {
+        "title": "Transfer Protocols",
+        "pages": [152],
+        "subsections": [
+          {
+            "title": "FTP (Port 21)",
+            "pages": [152],
+            "subsections": [
+              {
+                "title": "Exploitation Scenarios for an FTP Server",
+                "pages": [152]
+              },
+              {
+                "title": "Enumeration Workflow",
+                "pages": [153]
+              },
+              {
+                "title": "Service Scan",
+                "pages": [153]
+              },
+              {
+                "title": "Advanced Scripting Scan with Nmap",
+                "pages": [154]
+              },
+              {
+                "title": "More Brute-Forcing Techniques",
+                "pages": [155]
+              }
+            ]
+          },
+          {
+            "title": "SSH (Port 22)",
+            "pages": [156],
+            "subsections": [
+              {
+                "title": "Exploitation Scenarios for an SSH Server",
+                "pages": [156]
+              },
+              {
+                "title": "Advanced Scripting Scan with Nmap",
+                "pages": [157]
+              },
+              {
+                "title": "Brute-Forcing SSH with Hydra",
+                "pages": [158]
+              },
+              {
+                "title": "Advanced Brute-Forcing Techniques",
+                "pages": [159]
+              }
+            ]
+          },
+          {
+            "title": "Telnet (Port 23)",
+            "pages": [160],
+            "subsections": [
+              {
+                "title": "Exploitation Scenarios for Telnet Server",
+                "pages": [161]
+              },
+              {
+                "title": "Enumeration Workflow",
+                "pages": [161]
+              },
+              {
+                "title": "Service Scan",
+                "pages": [161]
+              },
+              {
+                "title": "Advanced Scripting Scan",
+                "pages": [162]
+              },
+              {
+                "title": "Brute-Forcing with Hydra",
+                "pages": [162]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "E-mail Protocols",
+        "pages": [162],
+        "subsections": [
+          {
+            "title": "SMTP (Port 25)",
+            "pages": [163],
+            "subsections": [
+              {
+                "title": "Nmap Basic Enumeration",
+                "pages": [163]
+              },
+              {
+                "title": "Nmap Advanced Enumeration",
+                "pages": [163]
+              },
+              {
+                "title": "Enumerating Users",
+                "pages": [164]
+              }
+            ]
+          },
+          {
+            "title": "POP3 (Port 110) and IMAP4 (Port 143)",
+            "pages": [167],
+            "subsections": [
+              {
+                "title": "Brute-Forcing POP3 E-mail Accounts",
+                "pages": [167]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Database Protocols",
+        "pages": [168],
+        "subsections": [
+          {
+            "title": "Microsoft SQL Server (Port 1433)",
+            "pages": [168]
+          },
+          {
+            "title": "Oracle Database Server (Port 1521)",
+            "pages": [169]
+          },
+          {
+            "title": "MySQL (Port 3306)",
+            "pages": [169]
+          }
+        ]
+      },
+      {
+        "title": "CI/CD Protocols",
+        "pages": [169],
+        "subsections": [
+          {
+            "title": "Docker (Port 2375)",
+            "pages": [170]
+          },
+          {
+            "title": "Jenkins (Port 8080/50000)",
+            "pages": [171]
+          },
+          {
+            "title": "Brute-Forcing a Web Portal Using Hydra",
+            "pages": [173],
+            "subsections": [
+              {
+                "title": "Step 1: Enable a Proxy",
+                "pages": [174]
+              },
+              {
+                "title": "Step 2: Intercept the Form Request",
+                "pages": [175]
+              },
+              {
+                "title": "Step 3: Extracting Form Data and Brute-Forcing with Hydra",
+                "pages": [176]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Web Protocols 80/443",
+        "pages": [177]
+      },
+      {
+        "title": "Graphical Remoting Protocols",
+        "pages": [178],
+        "subsections": [
+          {
+            "title": "RDP (Port 3389)",
+            "pages": [178],
+            "subsections": [
+              {
+                "title": "RDP Brute-Force",
+                "pages": [178]
+              }
+            ]
+          },
+          {
+            "title": "VNC (Port 5900)",
+            "pages": [179]
+          }
+        ]
+      },
+      {
+        "title": "File Sharing Protocols",
+        "pages": [180],
+        "subsections": [
+          {
+            "title": "SMB (Port 445)",
+            "pages": [180],
+            "subsections": [
+              {
+                "title": "Brute-Forcing SMB",
+                "pages": [182]
+              }
+            ]
+          },
+          {
+            "title": "SNMP (Port UDP 161)",
+            "pages": [183],
+            "subsections": [
+              {
+                "title": "SNMP Enumeration",
+                "pages": [183]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [185]
+      }
+    ]
+  }
+}

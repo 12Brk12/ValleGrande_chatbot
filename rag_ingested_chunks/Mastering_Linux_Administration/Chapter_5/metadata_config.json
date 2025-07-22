@@ -1,0 +1,103 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 5: Working with Processes, Daemons, and Signals",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 5, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 176 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 5"
+  },
+  "ch5_2.pdf": {
+    "document_title": "Introducing processes",
+    "indent_level": 1,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_2_1.pdf": {
+    "document_title": "Understanding process types",
+    "indent_level": 2,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_2_2.pdf": {
+    "document_title": "The anatomy of a process",
+    "indent_level": 2,
+    "reference_url": "Página 183 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_3.pdf": {
+    "document_title": "Working with processes",
+    "indent_level": 1,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_3_1.pdf": {
+    "document_title": "Using the ps command",
+    "indent_level": 2,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_3_2.pdf": {
+    "document_title": "Using the pstree command",
+    "indent_level": 2,
+    "reference_url": "Página 191 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_3_3.pdf": {
+    "document_title": "Using the top command",
+    "indent_level": 2,
+    "reference_url": "Página 192 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_3_4.pdf": {
+    "document_title": "Using the kill and killall commands",
+    "indent_level": 2,
+    "reference_url": "Página 194 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_3_5.pdf": {
+    "document_title": "Using the pgrep and pkill commands",
+    "indent_level": 2,
+    "reference_url": "Página 196 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_4.pdf": {
+    "document_title": "Working with daemons",
+    "indent_level": 1,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_4_1.pdf": {
+    "document_title": "Working with systemd daemons",
+    "indent_level": 2,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_5.pdf": {
+    "document_title": "Explaining inter-process communication",
+    "indent_level": 1,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_5_1.pdf": {
+    "document_title": "Working with signals",
+    "indent_level": 2,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch5_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

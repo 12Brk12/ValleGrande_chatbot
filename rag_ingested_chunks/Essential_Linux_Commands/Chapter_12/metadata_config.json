@@ -1,0 +1,71 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 12: Exploring Linux Security",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 12, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_1.pdf": {
+    "document_title": "Utilizing enforcing and permissive modes",
+    "indent_level": 1,
+    "reference_url": "Página 203 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 12"
+  },
+  "ch12_1_1.pdf": {
+    "document_title": "A short introduction to Linux hardening and the role of SELinux’s enforcing and passive modes",
+    "indent_level": 2,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_1_2.pdf": {
+    "document_title": "The role of enforcing mode",
+    "indent_level": 2,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_1_3.pdf": {
+    "document_title": "The role of permissive mode",
+    "indent_level": 2,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_2.pdf": {
+    "document_title": "Enabling or disabling SELinux Boolean values",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_2_1.pdf": {
+    "document_title": "Searching for a Boolean and getting its information",
+    "indent_level": 2,
+    "reference_url": "Página 207 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_2_2.pdf": {
+    "document_title": "Enabling a SELinux Boolean value",
+    "indent_level": 2,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_2_3.pdf": {
+    "document_title": "Disabling a SELinux Boolean value",
+    "indent_level": 2,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_3.pdf": {
+    "document_title": "Locking user accounts",
+    "indent_level": 1,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_4.pdf": {
+    "document_title": "Securing SSH",
+    "indent_level": 1,
+    "reference_url": "Página 210 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch12_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 213 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

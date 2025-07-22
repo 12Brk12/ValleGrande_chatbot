@@ -1,0 +1,113 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11: Working with Virtual Machines",
+    "pages": [438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [438]
+      },
+      {
+        "title": "Introduction to virtualization on Linux",
+        "pages": [438],
+        "subsections": [
+          {
+            "title": "Efficiency in resource usage",
+            "pages": [439]
+          },
+          {
+            "title": "Introduction to hypervisors",
+            "pages": [440]
+          }
+        ]
+      },
+      {
+        "title": "Understanding Linux KVMs",
+        "pages": [441],
+        "subsections": [
+          {
+            "title": "Choosing the hypervisor",
+            "pages": [441]
+          },
+          {
+            "title": "Using the KVM hypervisor",
+            "pages": [442]
+          }
+        ]
+      },
+      {
+        "title": "Working with basic KVM commands",
+        "pages": [445],
+        "subsections": [
+          {
+            "title": "Creating a VM using the command line",
+            "pages": [445]
+          },
+          {
+            "title": "Basic VM management",
+            "pages": [447]
+          }
+        ]
+      },
+      {
+        "title": "Advanced KVM management",
+        "pages": [448],
+        "subsections": [
+          {
+            "title": "Connecting to a VM",
+            "pages": [449]
+          },
+          {
+            "title": "Cloning VMs",
+            "pages": [452]
+          },
+          {
+            "title": "Creating VM templates",
+            "pages": [453]
+          },
+          {
+            "title": "Obtaining VM and host resource information",
+            "pages": [454]
+          },
+          {
+            "title": "Managing VM resource usage",
+            "pages": [456]
+          }
+        ]
+      },
+      {
+        "title": "Provisioning VMs using cloud-init",
+        "pages": [457],
+        "subsections": [
+          {
+            "title": "Understanding how cloud-init works",
+            "pages": [457]
+          },
+          {
+            "title": "Installing and configuring cloud-init",
+            "pages": [458]
+          }
+        ]
+      },
+      {
+        "title": "Public key authentication with SSH",
+        "pages": [461]
+      },
+      {
+        "title": "Summary",
+        "pages": [463]
+      },
+      {
+        "title": "Exercises",
+        "pages": [463]
+      },
+      {
+        "title": "Further reading",
+        "pages": [464]
+      }
+    ]
+  }
+}

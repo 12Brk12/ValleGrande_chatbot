@@ -1,0 +1,131 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7: Networking with Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 236 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 236 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Exploring basic networking",
+    "indent_level": 1,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "Computer networks",
+    "indent_level": 2,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "The OSI model",
+    "indent_level": 2,
+    "reference_url": "Página 238 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "The TCP/IP network stack model",
+    "indent_level": 2,
+    "reference_url": "Página 243 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_4.pdf": {
+    "document_title": "TCP/IP protocols",
+    "indent_level": 2,
+    "reference_url": "Página 244 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_5.pdf": {
+    "document_title": "IP addresses",
+    "indent_level": 2,
+    "reference_url": "Página 247 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_6.pdf": {
+    "document_title": "Sockets and ports",
+    "indent_level": 2,
+    "reference_url": "Página 251 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_2_7.pdf": {
+    "document_title": "Linux network configuration",
+    "indent_level": 2,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Working with network services",
+    "indent_level": 1,
+    "reference_url": "Página 264 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_1.pdf": {
+    "document_title": "DHCP servers",
+    "indent_level": 2,
+    "reference_url": "Página 264 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_3_2.pdf": {
+    "document_title": "DNS servers",
+    "indent_level": 2,
+    "reference_url": "Página 265 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_3.pdf": {
+    "document_title": "Authentication servers",
+    "indent_level": 2,
+    "reference_url": "Página 269 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_4.pdf": {
+    "document_title": "File sharing",
+    "indent_level": 2,
+    "reference_url": "Página 271 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_5.pdf": {
+    "document_title": "Printer servers",
+    "indent_level": 2,
+    "reference_url": "Página 272 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_6.pdf": {
+    "document_title": "File transfer",
+    "indent_level": 2,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_7.pdf": {
+    "document_title": "Mail servers",
+    "indent_level": 2,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_8.pdf": {
+    "document_title": "NTP servers",
+    "indent_level": 2,
+    "reference_url": "Página 276 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_3_9.pdf": {
+    "document_title": "Remote access",
+    "indent_level": 2,
+    "reference_url": "Página 279 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_4.pdf": {
+    "document_title": "Understanding network security",
+    "indent_level": 1,
+    "reference_url": "Página 283 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 283 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 284 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch7_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 284 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

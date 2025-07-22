@@ -1,0 +1,75 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 22 Ten Troubleshooting Tips",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 22, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 437 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_1.pdf": {
+    "document_title": "Tip #1: “The Linux Installer Froze”",
+    "indent_level": 1,
+    "reference_url": "Página 438 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 22"
+  },
+  "ch22_2.pdf": {
+    "document_title": "Tip #2: Checking Your Distribution Burns",
+    "indent_level": 1,
+    "reference_url": "Página 439 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_3.pdf": {
+    "document_title": "Tip #3: “I Told the Installer to Test My Graphics, and They Failed”",
+    "indent_level": 1,
+    "reference_url": "Página 440 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_4.pdf": {
+    "document_title": "Tip #4: “The Installer Tested My Graphics Fine, but My GUI Won’t Start”",
+    "indent_level": 1,
+    "reference_url": "Página 440 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_5.pdf": {
+    "document_title": "Tip #5: “I Think I’m in Linux, but I Don’t Know What to Do!”",
+    "indent_level": 1,
+    "reference_url": "Página 441 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_6.pdf": {
+    "document_title": "Tip #6: “I Don’t Want to Boot into This!”",
+    "indent_level": 1,
+    "reference_url": "Página 442 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_7.pdf": {
+    "document_title": "Tip #7: Changing Your Boot Environment “Permanently”",
+    "indent_level": 1,
+    "reference_url": "Página 443 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_7_1.pdf": {
+    "document_title": "Changing your boot environment just for now",
+    "indent_level": 2,
+    "reference_url": "Página 445 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch22_8.pdf": {
+    "document_title": "Tip #8: “I Want to Change Screen Resolutions”",
+    "indent_level": 1,
+    "reference_url": "Página 445 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_9.pdf": {
+    "document_title": "Tip #9: “My GUI Is Hung, and I’m Stuck!”",
+    "indent_level": 1,
+    "reference_url": "Página 446 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_10.pdf": {
+    "document_title": "Tip #10: “Help, My Machine Hangs During Boot!”",
+    "indent_level": 1,
+    "reference_url": "Página 447 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch22_11.pdf": {
+    "document_title": "“Aaargh! I Forgot My Root Password! What Do I Do?”",
+    "indent_level": 1,
+    "reference_url": "Página 447 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

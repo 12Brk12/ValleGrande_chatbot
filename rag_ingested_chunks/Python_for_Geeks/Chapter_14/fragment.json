@@ -1,0 +1,103 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 14: Using Python for Network Automation",
+    "pages": [482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [483]
+      },
+      {
+        "title": "Introducing network automation",
+        "pages": [484],
+        "subsections": [
+          {
+            "title": "Merits and challenges of network automation",
+            "pages": [485]
+          },
+          {
+            "title": "Use cases",
+            "pages": [486]
+          }
+        ]
+      },
+      {
+        "title": "Interacting with network devices",
+        "pages": [487],
+        "subsections": [
+          {
+            "title": "Protocols for interacting with network devices",
+            "pages": [487]
+          },
+          {
+            "title": "Interacting with network devices using SSH-based Python libraries",
+            "pages": [490]
+          },
+          {
+            "title": "Interacting with network devices using NETCONF",
+            "pages": [500]
+          }
+        ]
+      },
+      {
+        "title": "Integrating with network management systems",
+        "pages": [506],
+        "subsections": [
+          {
+            "title": "Using location services endpoints",
+            "pages": [507]
+          },
+          {
+            "title": "Getting an authentication token",
+            "pages": [508]
+          },
+          {
+            "title": "Getting network devices and an interface inventory",
+            "pages": [510]
+          },
+          {
+            "title": "Updating the network device port",
+            "pages": [511]
+          }
+        ]
+      },
+      {
+        "title": "Integrating with event-driven systems",
+        "pages": [513],
+        "subsections": [
+          {
+            "title": "Creating subscriptions for Apache Kafka",
+            "pages": [515]
+          },
+          {
+            "title": "Processing events from Apache Kafka",
+            "pages": [516]
+          },
+          {
+            "title": "Renewing and deleting a subscription",
+            "pages": [517]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [518]
+      },
+      {
+        "title": "Questions",
+        "pages": [519]
+      },
+      {
+        "title": "Further reading",
+        "pages": [519]
+      },
+      {
+        "title": "Answers",
+        "pages": [520]
+      }
+    ]
+  }
+}

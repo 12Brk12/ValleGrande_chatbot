@@ -1,0 +1,95 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 8: Scaling out Python Using Clusters",
+    "pages": [300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [301]
+      },
+      {
+        "title": "Learning about the cluster options for parallel processing",
+        "pages": [302],
+        "subsections": [
+          {
+            "title": "Hadoop MapReduce",
+            "pages": [302]
+          },
+          {
+            "title": "Apache Spark",
+            "pages": [305]
+          }
+        ]
+      },
+      {
+        "title": "Introducing RDDs",
+        "pages": [308],
+        "subsections": [
+          {
+            "title": "Learning RDD operations",
+            "pages": [309]
+          },
+          {
+            "title": "Creating RDD objects",
+            "pages": [310]
+          }
+        ]
+      },
+      {
+        "title": "Using PySpark for parallel data processing",
+        "pages": [311],
+        "subsections": [
+          {
+            "title": "Creating SparkSession and SparkContext programs",
+            "pages": [313]
+          },
+          {
+            "title": "Exploring PySpark for RDD operations",
+            "pages": [315]
+          },
+          {
+            "title": "Learning about PySpark DataFrames",
+            "pages": [317]
+          },
+          {
+            "title": "Introducing PySpark SQL",
+            "pages": [323]
+          }
+        ]
+      },
+      {
+        "title": "Case studies of using Apache Spark and PySpark",
+        "pages": [325],
+        "subsections": [
+          {
+            "title": "Case study 1 – Pi (π) calculator on Apache Spark",
+            "pages": [325]
+          },
+          {
+            "title": "Case study 2 – Word cloud using PySpark",
+            "pages": [330]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [333]
+      },
+      {
+        "title": "Questions",
+        "pages": [334]
+      },
+      {
+        "title": "Further reading",
+        "pages": [334]
+      },
+      {
+        "title": "Answers",
+        "pages": [334]
+      }
+    ]
+  }
+}

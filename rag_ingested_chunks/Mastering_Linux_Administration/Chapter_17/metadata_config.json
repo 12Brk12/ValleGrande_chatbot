@@ -1,0 +1,107 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 17: Infrastructure and Automation with Ansible",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 17, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 654 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 654 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 17"
+  },
+  "ch17_2.pdf": {
+    "document_title": "Introducing Ansible architecture and configuration management",
+    "indent_level": 1,
+    "reference_url": "Página 655 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_2_1.pdf": {
+    "document_title": "Understanding the Ansible architecture",
+    "indent_level": 2,
+    "reference_url": "Página 655 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_2_2.pdf": {
+    "document_title": "Introducing configuration management",
+    "indent_level": 2,
+    "reference_url": "Página 658 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_3.pdf": {
+    "document_title": "Installing Ansible",
+    "indent_level": 1,
+    "reference_url": "Página 659 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_3_1.pdf": {
+    "document_title": "Installing Ansible on Ubuntu",
+    "indent_level": 2,
+    "reference_url": "Página 660 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_3_2.pdf": {
+    "document_title": "Installing Ansible using pip",
+    "indent_level": 2,
+    "reference_url": "Página 661 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4.pdf": {
+    "document_title": "Working with Ansible",
+    "indent_level": 1,
+    "reference_url": "Página 662 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_1.pdf": {
+    "document_title": "Setting up the lab environment",
+    "indent_level": 2,
+    "reference_url": "Página 662 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_4_2.pdf": {
+    "document_title": "Configuring Ansible",
+    "indent_level": 2,
+    "reference_url": "Página 665 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_3.pdf": {
+    "document_title": "Using Ansible ad hoc commands",
+    "indent_level": 2,
+    "reference_url": "Página 670 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_4.pdf": {
+    "document_title": "Exploring Ansible modules",
+    "indent_level": 2,
+    "reference_url": "Página 681 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_5.pdf": {
+    "document_title": "Using Ansible playbooks",
+    "indent_level": 2,
+    "reference_url": "Página 683 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_6.pdf": {
+    "document_title": "Using templates with Jinja2",
+    "indent_level": 2,
+    "reference_url": "Página 715 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_4_7.pdf": {
+    "document_title": "Creating Ansible roles",
+    "indent_level": 2,
+    "reference_url": "Página 723 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 729 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 730 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch17_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 730 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

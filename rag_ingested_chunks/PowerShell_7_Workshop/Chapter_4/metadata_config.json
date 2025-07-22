@@ -1,0 +1,129 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 4: PowerShell Variables and Data Structures",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 4, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 100 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_1.pdf": {
+    "document_title": "Understanding PowerShell variables",
+    "indent_level": 1,
+    "reference_url": "Página 100 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 4"
+  },
+  "ch4_1_1.pdf": {
+    "document_title": "Variables are not their contents",
+    "indent_level": 2,
+    "reference_url": "Página 101 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_1_2.pdf": {
+    "document_title": "Naming variables",
+    "indent_level": 2,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_1_3.pdf": {
+    "document_title": "The three common types of PowerShell variable",
+    "indent_level": 2,
+    "reference_url": "Página 104 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_2.pdf": {
+    "document_title": "Exploring object types",
+    "indent_level": 1,
+    "reference_url": "Página 106 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_2_1.pdf": {
+    "document_title": "What is an object? – redux",
+    "indent_level": 2,
+    "reference_url": "Página 107 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_3.pdf": {
+    "document_title": "Discovering value types",
+    "indent_level": 1,
+    "reference_url": "Página 109 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_3_1.pdf": {
+    "document_title": "Booleans",
+    "indent_level": 2,
+    "reference_url": "Página 109 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_3_2.pdf": {
+    "document_title": "Integers",
+    "indent_level": 2,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_3_3.pdf": {
+    "document_title": "Real numbers",
+    "indent_level": 2,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_3_4.pdf": {
+    "document_title": "Char",
+    "indent_level": 2,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_4.pdf": {
+    "document_title": "Typing explained",
+    "indent_level": 1,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_4_1.pdf": {
+    "document_title": "Dynamic versus static typing",
+    "indent_level": 2,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_4_2.pdf": {
+    "document_title": "Casting variables",
+    "indent_level": 2,
+    "reference_url": "Página 112 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_5.pdf": {
+    "document_title": "Navigating reference types",
+    "indent_level": 1,
+    "reference_url": "Página 114 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_5_1.pdf": {
+    "document_title": "Arrays",
+    "indent_level": 2,
+    "reference_url": "Página 115 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_5_2.pdf": {
+    "document_title": "Strings",
+    "indent_level": 2,
+    "reference_url": "Página 121 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_5_3.pdf": {
+    "document_title": "Hashtables",
+    "indent_level": 2,
+    "reference_url": "Página 125 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_6.pdf": {
+    "document_title": "Splatting – a cool use for hashtables",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 130 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch4_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 130 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

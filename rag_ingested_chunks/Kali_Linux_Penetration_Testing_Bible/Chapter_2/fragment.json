@@ -1,0 +1,65 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2 Bash Scripting",
+    "pages": [75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90],
+    "subsections": [
+      {
+        "title": "Basic Bash Scripting",
+        "pages": [76]
+      },
+      {
+        "title": "Printing to the Screen in Bash",
+        "pages": [76]
+      },
+      {
+        "title": "Variables",
+        "pages": [78],
+        "subsections": [
+          {
+            "title": "Commands Variable",
+            "pages": [80]
+          }
+        ]
+      },
+      {
+        "title": "Script Parameters",
+        "pages": [80]
+      },
+      {
+        "title": "User Input",
+        "pages": [82]
+      },
+      {
+        "title": "Functions",
+        "pages": [82]
+      },
+      {
+        "title": "Conditions and Loops",
+        "pages": [83],
+        "subsections": [
+          {
+            "title": "Conditions",
+            "pages": [84]
+          },
+          {
+            "title": "Loops",
+            "pages": [86],
+            "subsections": [
+              {
+                "title": "File Iteration",
+                "pages": [87]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [89]
+      }
+    ]
+  }
+}

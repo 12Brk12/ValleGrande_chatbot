@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 5 Examining the KDE Plasma Desktop",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 5, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_1.pdf": {
+    "document_title": "The KDE Plasma Desktop",
+    "indent_level": 1,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 5"
+  },
+  "ch5_1_1.pdf": {
+    "document_title": "More menus!",
+    "indent_level": 2,
+    "reference_url": "Página 101 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_1_2.pdf": {
+    "document_title": "The panel",
+    "indent_level": 2,
+    "reference_url": "Página 105 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_1_3.pdf": {
+    "document_title": "The desktop",
+    "indent_level": 2,
+    "reference_url": "Página 107 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_2.pdf": {
+    "document_title": "Using Widgets",
+    "indent_level": 1,
+    "reference_url": "Página 107 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_2_1.pdf": {
+    "document_title": "Adding widgets",
+    "indent_level": 2,
+    "reference_url": "Página 107 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_2_2.pdf": {
+    "document_title": "Getting more widgets",
+    "indent_level": 2,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_3.pdf": {
+    "document_title": "Plasma System Settings",
+    "indent_level": 1,
+    "reference_url": "Página 112 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_4.pdf": {
+    "document_title": "Desktop Folder Settings",
+    "indent_level": 1,
+    "reference_url": "Página 113 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch5_5.pdf": {
+    "document_title": "Accessibility Settings",
+    "indent_level": 1,
+    "reference_url": "Página 114 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

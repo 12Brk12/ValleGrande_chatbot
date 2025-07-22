@@ -1,0 +1,91 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 13: Python and Machine Learning",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 13, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 456 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 457 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 13"
+  },
+  "ch13_2.pdf": {
+    "document_title": "Introducing machine learning",
+    "indent_level": 1,
+    "reference_url": "Página 457 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_3.pdf": {
+    "document_title": "Using Python for machine learning",
+    "indent_level": 1,
+    "reference_url": "Página 460 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_3_1.pdf": {
+    "document_title": "Introducing machine learning libraries in Python",
+    "indent_level": 2,
+    "reference_url": "Página 460 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_3_2.pdf": {
+    "document_title": "Best practices of training data with Python",
+    "indent_level": 2,
+    "reference_url": "Página 462 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_4.pdf": {
+    "document_title": "Building and evaluating a machine learning model",
+    "indent_level": 1,
+    "reference_url": "Página 462 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_4_1.pdf": {
+    "document_title": "Learning about an ML model building process",
+    "indent_level": 2,
+    "reference_url": "Página 463 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_4_2.pdf": {
+    "document_title": "Building a sample ML model",
+    "indent_level": 2,
+    "reference_url": "Página 464 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_4_3.pdf": {
+    "document_title": "Evaluating a model using cross-validation and fine tuning hyperparameters",
+    "indent_level": 2,
+    "reference_url": "Página 470 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_4_4.pdf": {
+    "document_title": "Saving an ML model to a file",
+    "indent_level": 2,
+    "reference_url": "Página 474 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_5.pdf": {
+    "document_title": "Deploying and predicting an ML model on GCP Cloud",
+    "indent_level": 1,
+    "reference_url": "Página 475 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 478 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 479 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 479 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch13_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 480 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11: Using Python for Microservices Development",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 414 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Introducing microservices",
+    "indent_level": 1,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Learning best practices for microservices",
+    "indent_level": 1,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Building microservices-based applications",
+    "indent_level": 1,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_4_1.pdf": {
+    "document_title": "Learning microservice development options in Python",
+    "indent_level": 2,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_4_2.pdf": {
+    "document_title": "Introducing deployment options for microservices",
+    "indent_level": 2,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_4_3.pdf": {
+    "document_title": "Developing a sample microservices-based application",
+    "indent_level": 2,
+    "reference_url": "Página 423 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 436 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 436 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 436 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch11_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 437 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

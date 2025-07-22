@@ -1,0 +1,87 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5: Working with Processes, Daemons, and Signals",
+    "pages": [176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [177]
+      },
+      {
+        "title": "Introducing processes",
+        "pages": [177],
+        "subsections": [
+          {
+            "title": "Understanding process types",
+            "pages": [177]
+          },
+          {
+            "title": "The anatomy of a process",
+            "pages": [183]
+          }
+        ]
+      },
+      {
+        "title": "Working with processes",
+        "pages": [188],
+        "subsections": [
+          {
+            "title": "Using the ps command",
+            "pages": [188]
+          },
+          {
+            "title": "Using the pstree command",
+            "pages": [191]
+          },
+          {
+            "title": "Using the top command",
+            "pages": [192]
+          },
+          {
+            "title": "Using the kill and killall commands",
+            "pages": [194]
+          },
+          {
+            "title": "Using the pgrep and pkill commands",
+            "pages": [196]
+          }
+        ]
+      },
+      {
+        "title": "Working with daemons",
+        "pages": [198],
+        "subsections": [
+          {
+            "title": "Working with systemd daemons",
+            "pages": [198]
+          }
+        ]
+      },
+      {
+        "title": "Explaining inter-process communication",
+        "pages": [199],
+        "subsections": [
+          {
+            "title": "Working with signals",
+            "pages": [202]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [204]
+      },
+      {
+        "title": "Questions",
+        "pages": [204]
+      },
+      {
+        "title": "Further reading",
+        "pages": [205]
+      }
+    ]
+  }
+}

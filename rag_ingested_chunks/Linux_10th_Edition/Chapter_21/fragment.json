@@ -1,0 +1,93 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 21 Ten Steps to Running a Web Server",
+    "pages": [415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436],
+    "subsections": [
+      {
+        "title": "The Required Parts",
+        "pages": [416]
+      },
+      {
+        "title": "Step 1: Select a Web Server",
+        "pages": [416]
+      },
+      {
+        "title": "Step 2: Select a Programming Language",
+        "pages": [417]
+      },
+      {
+        "title": "Step 3: Select a Database Server",
+        "pages": [418]
+      },
+      {
+        "title": "Step 4: Install the Servers",
+        "pages": [419],
+        "subsections": [
+          {
+            "title": "Installing servers in Ubuntu",
+            "pages": [420]
+          },
+          {
+            "title": "Installing servers in openSUSE",
+            "pages": [421]
+          }
+        ]
+      },
+      {
+        "title": "Step 5: Examine the Apache Server",
+        "pages": [423],
+        "subsections": [
+          {
+            "title": "Defining the web folder location",
+            "pages": [424]
+          },
+          {
+            "title": "Setting the default TCP port",
+            "pages": [424]
+          },
+          {
+            "title": "Interacting with the PHP server",
+            "pages": [425]
+          },
+          {
+            "title": "Tracking errors",
+            "pages": [426]
+          }
+        ]
+      },
+      {
+        "title": "Step 6: Examine the MySQL (or MariaDB) Server",
+        "pages": [427],
+        "subsections": [
+          {
+            "title": "The core server settings",
+            "pages": [427]
+          },
+          {
+            "title": "Working with the InnoDB storage engine",
+            "pages": [428]
+          }
+        ]
+      },
+      {
+        "title": "Step 7: Customize the PHP Server",
+        "pages": [429]
+      },
+      {
+        "title": "Step 8: Create the Database Environment",
+        "pages": [431]
+      },
+      {
+        "title": "Step 9: Build Your Application",
+        "pages": [434]
+      },
+      {
+        "title": "Step 10: Deploy and Test Your Application",
+        "pages": [435]
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1: Introduction to PowerShell 7 – What It Is and How to Get It",
+    "pages": [26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [26]
+      },
+      {
+        "title": "What is PowerShell 7?",
+        "pages": [27]
+      },
+      {
+        "title": "What is PowerShell 7 used for?",
+        "pages": [29],
+        "subsections": [
+          {
+            "title": "Scripting languages versus system programming languages",
+            "pages": [29]
+          }
+        ]
+      },
+      {
+        "title": "Getting PowerShell 7",
+        "pages": [30],
+        "subsections": [
+          {
+            "title": "Installation from an .msi file",
+            "pages": [31]
+          },
+          {
+            "title": "Installation from the .zip file",
+            "pages": [35]
+          },
+          {
+            "title": "Installation with winget",
+            "pages": [37]
+          },
+          {
+            "title": "Other ways to install",
+            "pages": [38]
+          }
+        ]
+      },
+      {
+        "title": "Running PowerShell 7",
+        "pages": [39],
+        "subsections": [
+          {
+            "title": "Running PowerShell with administrator privileges",
+            "pages": [41]
+          },
+          {
+            "title": "Autocomplete",
+            "pages": [42]
+          }
+        ]
+      },
+      {
+        "title": "Getting help",
+        "pages": [42],
+        "subsections": [
+          {
+            "title": "Get-Command",
+            "pages": [43]
+          },
+          {
+            "title": "Get-Help",
+            "pages": [44]
+          },
+          {
+            "title": "Get-Member",
+            "pages": [46]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [48]
+      },
+      {
+        "title": "Exercises",
+        "pages": [48]
+      },
+      {
+        "title": "Further reading",
+        "pages": [48]
+      }
+    ]
+  }
+}

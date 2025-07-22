@@ -1,0 +1,103 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 12: Managing Containers with Docker",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 12, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 466 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 466 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 12"
+  },
+  "ch12_2.pdf": {
+    "document_title": "Understanding Linux containers",
+    "indent_level": 1,
+    "reference_url": "Página 466 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_2_1.pdf": {
+    "document_title": "Comparing containers and VMs",
+    "indent_level": 2,
+    "reference_url": "Página 467 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_2_2.pdf": {
+    "document_title": "Understanding the underlying container technology",
+    "indent_level": 2,
+    "reference_url": "Página 468 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_2_3.pdf": {
+    "document_title": "Understanding Docker",
+    "indent_level": 2,
+    "reference_url": "Página 470 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_3.pdf": {
+    "document_title": "Working with Docker",
+    "indent_level": 1,
+    "reference_url": "Página 473 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_3_1.pdf": {
+    "document_title": "Which Docker version to choose?",
+    "indent_level": 2,
+    "reference_url": "Página 473 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_3_2.pdf": {
+    "document_title": "Installing Docker",
+    "indent_level": 2,
+    "reference_url": "Página 473 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_3_3.pdf": {
+    "document_title": "Using some Docker commands",
+    "indent_level": 2,
+    "reference_url": "Página 476 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_3_4.pdf": {
+    "document_title": "Managing Docker containers",
+    "indent_level": 2,
+    "reference_url": "Página 478 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_4.pdf": {
+    "document_title": "Working with Dockerfiles",
+    "indent_level": 1,
+    "reference_url": "Página 484 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_4_1.pdf": {
+    "document_title": "Building container images from Dockerfiles",
+    "indent_level": 2,
+    "reference_url": "Página 485 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_5.pdf": {
+    "document_title": "Deploying a containerized application with Docker",
+    "indent_level": 1,
+    "reference_url": "Página 487 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_5_1.pdf": {
+    "document_title": "Deploying a website using Docker",
+    "indent_level": 2,
+    "reference_url": "Página 487 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 490 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 490 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch12_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 490 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

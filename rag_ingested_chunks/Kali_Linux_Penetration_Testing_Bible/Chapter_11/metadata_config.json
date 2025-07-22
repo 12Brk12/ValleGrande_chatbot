@@ -1,0 +1,122 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11 Windows Privilege Escalation",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Windows System Enumeration",
+    "indent_level": 1,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_1_1.pdf": {
+    "document_title": "System Information",
+    "indent_level": 2,
+    "reference_url": "Página 300 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_1_2.pdf": {
+    "document_title": "Windows Architecture",
+    "indent_level": 2,
+    "reference_url": "Página 301 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_3.pdf": {
+    "document_title": "Listing the Disk Drives",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_4.pdf": {
+    "document_title": "Installed Patches",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_5.pdf": {
+    "document_title": "Who Am I?",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_6.pdf": {
+    "document_title": "List Users and Groups",
+    "indent_level": 2,
+    "reference_url": "Página 303 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_7.pdf": {
+    "document_title": "Networking Information",
+    "indent_level": 2,
+    "reference_url": "Página 305 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_8.pdf": {
+    "document_title": "Showing Weak Permissions",
+    "indent_level": 2,
+    "reference_url": "Página 308 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_9.pdf": {
+    "document_title": "Listing Installed Programs",
+    "indent_level": 2,
+    "reference_url": "Página 309 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_1_10.pdf": {
+    "document_title": "Listing Tasks and Processes",
+    "indent_level": 2,
+    "reference_url": "Página 309 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_2.pdf": {
+    "document_title": "File Transfers",
+    "indent_level": 1,
+    "reference_url": "Página 310 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_2_1.pdf": {
+    "document_title": "Windows Host Destination",
+    "indent_level": 2,
+    "reference_url": "Página 310 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_2_2.pdf": {
+    "document_title": "Linux Host Destination",
+    "indent_level": 2,
+    "reference_url": "Página 311 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Windows System Exploitation",
+    "indent_level": 1,
+    "reference_url": "Página 312 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_3_1.pdf": {
+    "document_title": "Windows Kernel Exploits",
+    "indent_level": 2,
+    "reference_url": "Página 313 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_3_2.pdf": {
+    "document_title": "Exploiting Windows Applications",
+    "indent_level": 2,
+    "reference_url": "Página 319 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_3_3.pdf": {
+    "document_title": "Exploiting Services in Windows",
+    "indent_level": 2,
+    "reference_url": "Página 323 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_3_4.pdf": {
+    "document_title": "Exploiting the Scheduled Tasks",
+    "indent_level": 2,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_3_5.pdf": {
+    "document_title": "Windows PrivEsc Automated Tools",
+    "indent_level": 2,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

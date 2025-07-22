@@ -1,0 +1,91 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11: Creating Our First Module",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 292 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Working with modules",
+    "indent_level": 1,
+    "reference_url": "Página 292 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_1_1.pdf": {
+    "document_title": "Module locations",
+    "indent_level": 2,
+    "reference_url": "Página 293 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_1_2.pdf": {
+    "document_title": "Module autoloading",
+    "indent_level": 2,
+    "reference_url": "Página 294 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_1_3.pdf": {
+    "document_title": "Importing modules",
+    "indent_level": 2,
+    "reference_url": "Página 295 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_1_4.pdf": {
+    "document_title": "PowerShellGet",
+    "indent_level": 2,
+    "reference_url": "Página 295 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Writing a simple module",
+    "indent_level": 1,
+    "reference_url": "Página 296 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_2_1.pdf": {
+    "document_title": "A word of caution – dot-sourcing",
+    "indent_level": 2,
+    "reference_url": "Página 297 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_2_2.pdf": {
+    "document_title": "Turning a script into a module",
+    "indent_level": 2,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_2_3.pdf": {
+    "document_title": "Nested modules",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_2_4.pdf": {
+    "document_title": "More modules",
+    "indent_level": 2,
+    "reference_url": "Página 305 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Module manifests",
+    "indent_level": 1,
+    "reference_url": "Página 306 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Using scaffolding tools such as Plaster",
+    "indent_level": 1,
+    "reference_url": "Página 310 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 314 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_6.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 314 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch11_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 315 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2: Exploring PowerShell Cmdlets and Syntax",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_2.pdf": {
+    "document_title": "What are cmdlets?",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_2_1.pdf": {
+    "document_title": "Exploring cmdlet structure",
+    "indent_level": 2,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_2_2.pdf": {
+    "document_title": "The correct use of aliases",
+    "indent_level": 2,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "Understanding cmdlet syntax",
+    "indent_level": 1,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_4.pdf": {
+    "document_title": "How to find more cmdlets",
+    "indent_level": 1,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_4_1.pdf": {
+    "document_title": "Finding modules and cmdlets on your machine",
+    "indent_level": 2,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_4_2.pdf": {
+    "document_title": "Finding new modules and cmdlets",
+    "indent_level": 2,
+    "reference_url": "Página 62 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_5.pdf": {
+    "document_title": "Working interactively with PowerShell",
+    "indent_level": 1,
+    "reference_url": "Página 66 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_5_1.pdf": {
+    "document_title": "Windows Terminal – an alternative terminal emulator",
+    "indent_level": 2,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_5_2.pdf": {
+    "document_title": "Installing Windows Terminal from Microsoft Store",
+    "indent_level": 2,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 72 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch2_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 73 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

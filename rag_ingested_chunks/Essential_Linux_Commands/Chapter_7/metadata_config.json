@@ -1,0 +1,44 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7: File Content and Conversion Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 142 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "The tail and file commands",
+    "indent_level": 1,
+    "reference_url": "Página 143 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_2.pdf": {
+    "document_title": "The convert command",
+    "indent_level": 1,
+    "reference_url": "Página 145 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Using dos2unix to convert MS-DOS files to Unix",
+    "indent_level": 1,
+    "reference_url": "Página 148 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch7_4.pdf": {
+    "document_title": "Using unix2dos to convert Unix files to MS-DOS",
+    "indent_level": 1,
+    "reference_url": "Página 150 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch7_5.pdf": {
+    "document_title": "The recode command",
+    "indent_level": 1,
+    "reference_url": "Página 152 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch7_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 153 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

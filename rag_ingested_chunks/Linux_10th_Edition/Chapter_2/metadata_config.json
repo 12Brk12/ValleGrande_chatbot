@@ -1,0 +1,51 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2 Prepping Your Computer for Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 35 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Preparing to Use Linux and Microsoft Windows Together",
+    "indent_level": 1,
+    "reference_url": "Página 38 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_1_1.pdf": {
+    "document_title": "Installing a second hard drive",
+    "indent_level": 2,
+    "reference_url": "Página 38 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_1_2.pdf": {
+    "document_title": "Partitioning an existing drive",
+    "indent_level": 2,
+    "reference_url": "Página 39 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch2_2.pdf": {
+    "document_title": "Double-Checking Hardware Compatibility",
+    "indent_level": 1,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "Finally, Finally, Before You Get Started",
+    "indent_level": 1,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch2_3_1.pdf": {
+    "document_title": "Disabling the secure boot feature",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_3_2.pdf": {
+    "document_title": "Creating a boot disk",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

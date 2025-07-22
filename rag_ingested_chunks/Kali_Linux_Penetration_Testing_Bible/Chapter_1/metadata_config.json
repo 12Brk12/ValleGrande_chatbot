@@ -1,0 +1,200 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1 Mastering the Terminal Window",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Kali Linux File System",
+    "indent_level": 1,
+    "reference_url": "Página 28 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_1_1.pdf": {
+    "document_title": "Terminal Window Basic Commands",
+    "indent_level": 2,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_1_2.pdf": {
+    "document_title": "Tmux Terminal Window",
+    "indent_level": 2,
+    "reference_url": "Página 32 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_2.pdf": {
+    "document_title": "Managing Users and Groups in Kali",
+    "indent_level": 1,
+    "reference_url": "Página 36 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_2_1.pdf": {
+    "document_title": "Users Commands",
+    "indent_level": 2,
+    "reference_url": "Página 36 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_2_2.pdf": {
+    "document_title": "Groups Commands",
+    "indent_level": 2,
+    "reference_url": "Página 40 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_2_3.pdf": {
+    "document_title": "Managing Passwords in Kali",
+    "indent_level": 2,
+    "reference_url": "Página 40 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "Files and Folders Management in Kali Linux",
+    "indent_level": 1,
+    "reference_url": "Página 41 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "Displaying Files and Folders",
+    "indent_level": 2,
+    "reference_url": "Página 41 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_3_2.pdf": {
+    "document_title": "Permissions",
+    "indent_level": 2,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_3.pdf": {
+    "document_title": "Manipulating Files in Kali",
+    "indent_level": 2,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_4.pdf": {
+    "document_title": "Searching for Files",
+    "indent_level": 2,
+    "reference_url": "Página 46 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_5.pdf": {
+    "document_title": "Files Compression",
+    "indent_level": 2,
+    "reference_url": "Página 47 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_6.pdf": {
+    "document_title": "Manipulating Directories in Kali",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_7.pdf": {
+    "document_title": "Mounting a Directory",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_8.pdf": {
+    "document_title": "Managing Text Files in Kali Linux",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_9.pdf": {
+    "document_title": "Vim vs. Nano",
+    "indent_level": 2,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_3_10.pdf": {
+    "document_title": "Searching and Filtering Text",
+    "indent_level": 2,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Remote Connections in Kali",
+    "indent_level": 1,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_4_1.pdf": {
+    "document_title": "Remote Desktop Protocol",
+    "indent_level": 2,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_4_2.pdf": {
+    "document_title": "Secure Shell",
+    "indent_level": 2,
+    "reference_url": "Página 56 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_4_3.pdf": {
+    "document_title": "SSH with Credentials",
+    "indent_level": 2,
+    "reference_url": "Página 56 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_4_4.pdf": {
+    "document_title": "Passwordless SSH",
+    "indent_level": 2,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5.pdf": {
+    "document_title": "Kali Linux System Management",
+    "indent_level": 1,
+    "reference_url": "Página 60 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5_1.pdf": {
+    "document_title": "Linux Host Information",
+    "indent_level": 2,
+    "reference_url": "Página 62 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_5_2.pdf": {
+    "document_title": "Linux OS Information",
+    "indent_level": 2,
+    "reference_url": "Página 62 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5_3.pdf": {
+    "document_title": "Linux Hardware Information",
+    "indent_level": 2,
+    "reference_url": "Página 62 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5_4.pdf": {
+    "document_title": "Managing Running Services",
+    "indent_level": 2,
+    "reference_url": "Página 64 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5_5.pdf": {
+    "document_title": "Package Management",
+    "indent_level": 2,
+    "reference_url": "Página 65 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_5_6.pdf": {
+    "document_title": "Process Management",
+    "indent_level": 2,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_6.pdf": {
+    "document_title": "Networking in Kali Linux",
+    "indent_level": 1,
+    "reference_url": "Página 68 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_6_1.pdf": {
+    "document_title": "Network Interface",
+    "indent_level": 2,
+    "reference_url": "Página 68 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_6_2.pdf": {
+    "document_title": "DNS",
+    "indent_level": 2,
+    "reference_url": "Página 71 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_6_3.pdf": {
+    "document_title": "Established Connections",
+    "indent_level": 2,
+    "reference_url": "Página 72 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_6_4.pdf": {
+    "document_title": "File Transfers",
+    "indent_level": 2,
+    "reference_url": "Página 73 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch1_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 74 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

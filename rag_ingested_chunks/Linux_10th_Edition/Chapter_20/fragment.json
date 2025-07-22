@@ -1,0 +1,55 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 20 The Virtual World",
+    "pages": [397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412],
+    "subsections": [
+      {
+        "title": "What Is Virtualization Software?",
+        "pages": [397]
+      },
+      {
+        "title": "Installing VirtualBox",
+        "pages": [398]
+      },
+      {
+        "title": "Creating a Virtual Machine",
+        "pages": [400]
+      },
+      {
+        "title": "Customizing a Virtual Machine",
+        "pages": [403],
+        "subsections": [
+          {
+            "title": "Changing settings",
+            "pages": [404]
+          },
+          {
+            "title": "Installing an OS",
+            "pages": [406]
+          }
+        ]
+      },
+      {
+        "title": "Working with the Virtual Machine",
+        "pages": [409],
+        "subsections": [
+          {
+            "title": "The Machine menu area",
+            "pages": [409]
+          },
+          {
+            "title": "The View menu",
+            "pages": [410]
+          },
+          {
+            "title": "The Devices menu area",
+            "pages": [411]
+          }
+        ]
+      }
+    ]
+  }
+}

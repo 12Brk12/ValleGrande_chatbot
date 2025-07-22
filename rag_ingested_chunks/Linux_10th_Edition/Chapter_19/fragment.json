@@ -1,0 +1,81 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 19 Automating Your World",
+    "pages": [375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396],
+    "subsections": [
+      {
+        "title": "The Basics of Shell Scripting",
+        "pages": [375],
+        "subsections": [
+          {
+            "title": "Running multiple commands",
+            "pages": [376]
+          },
+          {
+            "title": "Redirecting output",
+            "pages": [376]
+          },
+          {
+            "title": "Piping data",
+            "pages": [377]
+          },
+          {
+            "title": "The shell script format",
+            "pages": [378]
+          },
+          {
+            "title": "Running the shell script",
+            "pages": [380]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Shell Scripting",
+        "pages": [381],
+        "subsections": [
+          {
+            "title": "Displaying messages",
+            "pages": [381]
+          },
+          {
+            "title": "Using variables",
+            "pages": [382]
+          },
+          {
+            "title": "Command line arguments",
+            "pages": [385]
+          },
+          {
+            "title": "The exit status",
+            "pages": [386]
+          }
+        ]
+      },
+      {
+        "title": "Writing Script Programs",
+        "pages": [387],
+        "subsections": [
+          {
+            "title": "Command substitution",
+            "pages": [387]
+          },
+          {
+            "title": "Performing math",
+            "pages": [388]
+          },
+          {
+            "title": "Logic statements",
+            "pages": [390]
+          },
+          {
+            "title": "Loops",
+            "pages": [394]
+          }
+        ]
+      }
+    ]
+  }
+}

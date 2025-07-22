@@ -1,0 +1,91 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5: PowerShell Control Flow – Conditionals and Loops",
+    "pages": [132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163],
+    "subsections": [
+      {
+        "title": "An introduction to IDEs and VS Code",
+        "pages": [133],
+        "subsections": [
+          {
+            "title": "Installing VS Code",
+            "pages": [133]
+          },
+          {
+            "title": "Configuring VS Code for PowerShell",
+            "pages": [136]
+          }
+        ]
+      },
+      {
+        "title": "Conditional control – if, else, elseif, and switch",
+        "pages": [140],
+        "subsections": [
+          {
+            "title": "The if statement",
+            "pages": [141]
+          },
+          {
+            "title": "The switch statement",
+            "pages": [146]
+          }
+        ]
+      },
+      {
+        "title": "Loops – foreach, do while, do until, while, for",
+        "pages": [149],
+        "subsections": [
+          {
+            "title": "The foreach loop statement",
+            "pages": [149]
+          },
+          {
+            "title": "The do while and do until loop statements",
+            "pages": [151]
+          },
+          {
+            "title": "The while loop",
+            "pages": [153]
+          },
+          {
+            "title": "The for loop",
+            "pages": [153]
+          }
+        ]
+      },
+      {
+        "title": "Breaking and continuing",
+        "pages": [156],
+        "subsections": [
+          {
+            "title": "The break statement",
+            "pages": [156]
+          },
+          {
+            "title": "The continue statement",
+            "pages": [156]
+          }
+        ]
+      },
+      {
+        "title": "Let’s play a game",
+        "pages": [158]
+      },
+      {
+        "title": "Summary",
+        "pages": [161]
+      },
+      {
+        "title": "Exercises",
+        "pages": [161]
+      },
+      {
+        "title": "Further reading",
+        "pages": [162]
+      }
+    ]
+  }
+}

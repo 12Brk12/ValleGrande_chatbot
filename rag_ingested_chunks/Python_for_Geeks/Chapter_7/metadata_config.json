@@ -1,0 +1,112 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7: Multiprocessing, Multithreading, and Asynchronous Programming",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 256 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Understanding multithreading in Python and its limitations",
+    "indent_level": 1,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "What is a Python blind spot?",
+    "indent_level": 2,
+    "reference_url": "Página 259 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "Learning the key components of multithreaded programming in Python",
+    "indent_level": 2,
+    "reference_url": "Página 260 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "Case study – a multithreaded application to download files from Google Drive",
+    "indent_level": 2,
+    "reference_url": "Página 270 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Going beyond a single CPU – implementing multiprocessing",
+    "indent_level": 1,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_3_1.pdf": {
+    "document_title": "Creating multiple processes",
+    "indent_level": 2,
+    "reference_url": "Página 274 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_3_2.pdf": {
+    "document_title": "Sharing data between processes",
+    "indent_level": 2,
+    "reference_url": "Página 277 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_3_3.pdf": {
+    "document_title": "Exchanging objects between processes",
+    "indent_level": 2,
+    "reference_url": "Página 282 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_3_4.pdf": {
+    "document_title": "Synchronization between processes",
+    "indent_level": 2,
+    "reference_url": "Página 285 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_3_5.pdf": {
+    "document_title": "Case study – a multiprocessor application to download files from Google Drive",
+    "indent_level": 2,
+    "reference_url": "Página 287 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_4.pdf": {
+    "document_title": "Using asynchronous programming for responsive systems",
+    "indent_level": 1,
+    "reference_url": "Página 289 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_4_1.pdf": {
+    "document_title": "Understanding the asyncio module",
+    "indent_level": 2,
+    "reference_url": "Página 290 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_4_2.pdf": {
+    "document_title": "Distributing tasks using queues",
+    "indent_level": 2,
+    "reference_url": "Página 293 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_4_3.pdf": {
+    "document_title": "Case study – asyncio application to download files from Google Drive",
+    "indent_level": 2,
+    "reference_url": "Página 295 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 297 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 298 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch7_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

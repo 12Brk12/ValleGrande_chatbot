@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 15 Assembly Language and Reverse Engineering",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 15, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 379 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_1.pdf": {
+    "document_title": "CPU Registers",
+    "indent_level": 1,
+    "reference_url": "Página 379 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 15"
+  },
+  "ch15_1_1.pdf": {
+    "document_title": "General CPU Registers",
+    "indent_level": 2,
+    "reference_url": "Página 380 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_1_2.pdf": {
+    "document_title": "Index Registers",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_1_3.pdf": {
+    "document_title": "Pointer Registers",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_1_4.pdf": {
+    "document_title": "Segment Registers",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_1_5.pdf": {
+    "document_title": "Flag Registers",
+    "indent_level": 2,
+    "reference_url": "Página 383 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_2.pdf": {
+    "document_title": "Assembly Instructions",
+    "indent_level": 1,
+    "reference_url": "Página 384 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_2_1.pdf": {
+    "document_title": "Little Endian",
+    "indent_level": 2,
+    "reference_url": "Página 386 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_3.pdf": {
+    "document_title": "Data Types",
+    "indent_level": 1,
+    "reference_url": "Página 386 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_4.pdf": {
+    "document_title": "Memory Segments",
+    "indent_level": 1,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_5.pdf": {
+    "document_title": "Addressing Modes",
+    "indent_level": 1,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_6.pdf": {
+    "document_title": "Reverse Engineering Example",
+    "indent_level": 1,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_6_1.pdf": {
+    "document_title": "Visual Studio Code for C/C++",
+    "indent_level": 2,
+    "reference_url": "Página 388 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_6_2.pdf": {
+    "document_title": "Immunity Debugger for Reverse Engineering",
+    "indent_level": 2,
+    "reference_url": "Página 389 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch15_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 394 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8 Using the Filesystem",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 151 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "Clicking Your Way Through the Filesystem",
+    "indent_level": 1,
+    "reference_url": "Página 151 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_2.pdf": {
+    "document_title": "Using Files",
+    "indent_level": 1,
+    "reference_url": "Página 152 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_1.pdf": {
+    "document_title": "Setting how much info you see",
+    "indent_level": 2,
+    "reference_url": "Página 155 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_2_2.pdf": {
+    "document_title": "Creating new directories",
+    "indent_level": 2,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_3.pdf": {
+    "document_title": "Opening files and running programs",
+    "indent_level": 2,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_4.pdf": {
+    "document_title": "Copying and moving files",
+    "indent_level": 2,
+    "reference_url": "Página 157 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_5.pdf": {
+    "document_title": "Deleting files and directories",
+    "indent_level": 2,
+    "reference_url": "Página 158 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_6.pdf": {
+    "document_title": "Taking out the trash",
+    "indent_level": 2,
+    "reference_url": "Página 158 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_2_7.pdf": {
+    "document_title": "Viewing and changing permissions",
+    "indent_level": 2,
+    "reference_url": "Página 159 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_3.pdf": {
+    "document_title": "Swimming with Dolphin",
+    "indent_level": 1,
+    "reference_url": "Página 160 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_4.pdf": {
+    "document_title": "Don’t Forget Xfce!",
+    "indent_level": 1,
+    "reference_url": "Página 162 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_5.pdf": {
+    "document_title": "Using DVDs and Other Removable Media",
+    "indent_level": 1,
+    "reference_url": "Página 165 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_6.pdf": {
+    "document_title": "Accessing Windows Drives on This Computer",
+    "indent_level": 1,
+    "reference_url": "Página 166 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_7.pdf": {
+    "document_title": "Accessing Network Drives",
+    "indent_level": 1,
+    "reference_url": "Página 166 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch8_8.pdf": {
+    "document_title": "Finding Things",
+    "indent_level": 1,
+    "reference_url": "Página 167 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 18 A Secure Linux Box Is a Happy Linux Box",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 18, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 359 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch18_1.pdf": {
+    "document_title": "Choosing Secure Passwords",
+    "indent_level": 1,
+    "reference_url": "Página 359 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 18"
+  },
+  "ch18_2.pdf": {
+    "document_title": "Updating Software",
+    "indent_level": 1,
+    "reference_url": "Página 360 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch18_2_1.pdf": {
+    "document_title": "Network holes",
+    "indent_level": 2,
+    "reference_url": "Página 361 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch18_2_2.pdf": {
+    "document_title": "The secure shell game (SSH)",
+    "indent_level": 2,
+    "reference_url": "Página 366 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch18_2_3.pdf": {
+    "document_title": "Software holes",
+    "indent_level": 2,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch18_3.pdf": {
+    "document_title": "Keeping an Eye on Your Log Files with the System Log Viewer",
+    "indent_level": 1,
+    "reference_url": "Página 372 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch18_4.pdf": {
+    "document_title": "Locating Security Resources",
+    "indent_level": 1,
+    "reference_url": "Página 374 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 14: Short Introduction to Cloud Computing",
+    "pages": [522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [522]
+      },
+      {
+        "title": "Introduction to cloud technologies",
+        "pages": [523],
+        "subsections": [
+          {
+            "title": "Exploring the cloud computing standards",
+            "pages": [523]
+          },
+          {
+            "title": "Understanding the architecture of the cloud",
+            "pages": [527]
+          },
+          {
+            "title": "Knowing the key features of cloud computing",
+            "pages": [529]
+          }
+        ]
+      },
+      {
+        "title": "Introducing IaaS solutions",
+        "pages": [530],
+        "subsections": [
+          {
+            "title": "Amazon EC2",
+            "pages": [530]
+          },
+          {
+            "title": "Microsoft Azure Virtual Machines",
+            "pages": [531]
+          },
+          {
+            "title": "Other strong IaaS offerings",
+            "pages": [531]
+          }
+        ]
+      },
+      {
+        "title": "Introducing PaaS solutions",
+        "pages": [532],
+        "subsections": [
+          {
+            "title": "Amazon Elastic Beanstalk",
+            "pages": [532]
+          },
+          {
+            "title": "Google App Engine",
+            "pages": [533]
+          },
+          {
+            "title": "DigitalOcean App Platform",
+            "pages": [533]
+          },
+          {
+            "title": "Open source PaaS solutions",
+            "pages": [533]
+          }
+        ]
+      },
+      {
+        "title": "Introducing CaaS solutions",
+        "pages": [534],
+        "subsections": [
+          {
+            "title": "Introducing the Kubernetes container orchestration solution",
+            "pages": [534]
+          },
+          {
+            "title": "Deploying containers in the cloud",
+            "pages": [536]
+          },
+          {
+            "title": "Introducing microservices",
+            "pages": [537]
+          }
+        ]
+      },
+      {
+        "title": "Introducing DevOps",
+        "pages": [537]
+      },
+      {
+        "title": "Exploring cloud management tools",
+        "pages": [538],
+        "subsections": [
+          {
+            "title": "Ansible",
+            "pages": [538]
+          },
+          {
+            "title": "Puppet",
+            "pages": [539]
+          },
+          {
+            "title": "Chef Infra",
+            "pages": [539]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [540]
+      },
+      {
+        "title": "Further reading",
+        "pages": [540]
+      }
+    ]
+  }
+}

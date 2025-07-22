@@ -1,0 +1,153 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 17 Programming with Python",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 17, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_1.pdf": {
+    "document_title": "Basics of Python",
+    "indent_level": 1,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 17"
+  },
+  "ch17_2.pdf": {
+    "document_title": "Running Python Scripts",
+    "indent_level": 1,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_3.pdf": {
+    "document_title": "Debugging Python Scripts",
+    "indent_level": 1,
+    "reference_url": "Página 417 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_3_1.pdf": {
+    "document_title": "Installing VS Code on Kali",
+    "indent_level": 2,
+    "reference_url": "Página 417 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_4.pdf": {
+    "document_title": "Practicing Python",
+    "indent_level": 1,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_5.pdf": {
+    "document_title": "Python Basic Syntaxes",
+    "indent_level": 1,
+    "reference_url": "Página 419 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_5_1.pdf": {
+    "document_title": "Python Shebang",
+    "indent_level": 2,
+    "reference_url": "Página 419 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_5_2.pdf": {
+    "document_title": "Comments in Python",
+    "indent_level": 2,
+    "reference_url": "Página 419 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_5_3.pdf": {
+    "document_title": "Line Indentation and Importing Modules",
+    "indent_level": 2,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_5_4.pdf": {
+    "document_title": "Input and Output",
+    "indent_level": 2,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6.pdf": {
+    "document_title": "Variables",
+    "indent_level": 1,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6_1.pdf": {
+    "document_title": "Numbers",
+    "indent_level": 2,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_6_2.pdf": {
+    "document_title": "Arithmetic Operators",
+    "indent_level": 2,
+    "reference_url": "Página 423 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6_3.pdf": {
+    "document_title": "Strings",
+    "indent_level": 2,
+    "reference_url": "Página 423 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6_4.pdf": {
+    "document_title": "Lists",
+    "indent_level": 2,
+    "reference_url": "Página 425 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6_5.pdf": {
+    "document_title": "Tuples",
+    "indent_level": 2,
+    "reference_url": "Página 426 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_6_6.pdf": {
+    "document_title": "Dictionary",
+    "indent_level": 2,
+    "reference_url": "Página 426 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7.pdf": {
+    "document_title": "More Techniques in Python",
+    "indent_level": 1,
+    "reference_url": "Página 426 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_1.pdf": {
+    "document_title": "Functions",
+    "indent_level": 2,
+    "reference_url": "Página 426 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_7_2.pdf": {
+    "document_title": "Global Variables",
+    "indent_level": 2,
+    "reference_url": "Página 428 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_3.pdf": {
+    "document_title": "Conditions",
+    "indent_level": 2,
+    "reference_url": "Página 429 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_4.pdf": {
+    "document_title": "Comparison Operators",
+    "indent_level": 2,
+    "reference_url": "Página 429 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_5.pdf": {
+    "document_title": "Loop Iterations",
+    "indent_level": 2,
+    "reference_url": "Página 430 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_6.pdf": {
+    "document_title": "Managing Files",
+    "indent_level": 2,
+    "reference_url": "Página 432 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_7.pdf": {
+    "document_title": "Exception Handling",
+    "indent_level": 2,
+    "reference_url": "Página 433 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_7_8.pdf": {
+    "document_title": "Text Escape Characters",
+    "indent_level": 2,
+    "reference_url": "Página 433 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch17_8.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 435 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

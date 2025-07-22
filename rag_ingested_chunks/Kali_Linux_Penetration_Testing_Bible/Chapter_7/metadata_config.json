@@ -1,0 +1,86 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7 Exploitation Phase",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Vulnerabilities Assessment",
+    "indent_level": 1,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_1_1.pdf": {
+    "document_title": "Vulnerability Assessment Workflow",
+    "indent_level": 2,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_1_2.pdf": {
+    "document_title": "Vulnerability Scanning with OpenVAS",
+    "indent_level": 2,
+    "reference_url": "Página 190 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_1_3.pdf": {
+    "document_title": "Exploits Research",
+    "indent_level": 2,
+    "reference_url": "Página 195 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Services Exploitation",
+    "indent_level": 1,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "Exploiting FTP Service",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "Exploiting SSH Service",
+    "indent_level": 2,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "Telnet Service Exploitation",
+    "indent_level": 2,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_4.pdf": {
+    "document_title": "E-mail Server Exploitation",
+    "indent_level": 2,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_5.pdf": {
+    "document_title": "Docker Exploitation",
+    "indent_level": 2,
+    "reference_url": "Página 211 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_6.pdf": {
+    "document_title": "Exploiting Jenkins",
+    "indent_level": 2,
+    "reference_url": "Página 216 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_7.pdf": {
+    "document_title": "Reverse Shells",
+    "indent_level": 2,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_2_8.pdf": {
+    "document_title": "Exploiting the SMB Protocol",
+    "indent_level": 2,
+    "reference_url": "Página 222 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 224 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

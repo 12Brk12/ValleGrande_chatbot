@@ -1,0 +1,123 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 16 Buffer/Stack Overflow",
+    "pages": [395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414],
+    "subsections": [
+      {
+        "title": "Basics of Stack Overflow",
+        "pages": [395],
+        "subsections": [
+          {
+            "title": "Stack Overview",
+            "pages": [396],
+            "subsections": [
+              {
+                "title": "PUSH Instruction",
+                "pages": [396]
+              },
+              {
+                "title": "POP Instruction",
+                "pages": [397]
+              },
+              {
+                "title": "C Program Example",
+                "pages": [397]
+              },
+              {
+                "title": "Buffer Analysis with Immunity Debugger",
+                "pages": [398]
+              },
+              {
+                "title": "Stack Overflow",
+                "pages": [402]
+              },
+              {
+                "title": "Stack Overflow Mechanism",
+                "pages": [403]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Stack Overflow Exploitation",
+        "pages": [404],
+        "subsections": [
+          {
+            "title": "Lab Overview",
+            "pages": [405],
+            "subsections": [
+              {
+                "title": "Vulnerable Application",
+                "pages": [405]
+              }
+            ]
+          },
+          {
+            "title": "Phase 1: Testing",
+            "pages": [405],
+            "subsections": [
+              {
+                "title": "Testing the Happy Path",
+                "pages": [405]
+              },
+              {
+                "title": "Testing the Crash",
+                "pages": [407]
+              }
+            ]
+          },
+          {
+            "title": "Phase 2: Buffer Size",
+            "pages": [408],
+            "subsections": [
+              {
+                "title": "Pattern Creation",
+                "pages": [408]
+              },
+              {
+                "title": "Offset Location",
+                "pages": [408]
+              }
+            ]
+          },
+          {
+            "title": "Phase 3: Controlling EIP",
+            "pages": [409],
+            "subsections": [
+              {
+                "title": "Adding the JMP Instruction",
+                "pages": [410]
+              }
+            ]
+          },
+          {
+            "title": "Phase 4: Injecting the Payload and Getting a Remote Shell",
+            "pages": [412],
+            "subsections": [
+              {
+                "title": "Payload Generation",
+                "pages": [412]
+              },
+              {
+                "title": "Bad Characters",
+                "pages": [412]
+              },
+              {
+                "title": "Shellcode Python Script",
+                "pages": [413]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [414]
+      }
+    ]
+  }
+}

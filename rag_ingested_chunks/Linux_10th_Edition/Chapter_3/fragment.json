@@ -1,0 +1,27 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3 Installing Linux",
+    "pages": [53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76],
+    "subsections": [
+      {
+        "title": "Things to Consider Before You Begin Installation",
+        "pages": [54]
+      },
+      {
+        "title": "Installing from Ubuntu Live",
+        "pages": [55]
+      },
+      {
+        "title": "Your First Ubuntu Boot",
+        "pages": [65]
+      },
+      {
+        "title": "Installing openSUSE",
+        "pages": [67]
+      }
+    ]
+  }
+}

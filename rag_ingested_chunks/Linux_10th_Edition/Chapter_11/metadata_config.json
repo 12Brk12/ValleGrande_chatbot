@@ -1,0 +1,72 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11 Putting the X in Text",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Viewing the Contents of a Text File",
+    "indent_level": 1,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Editing Text Files with nano",
+    "indent_level": 1,
+    "reference_url": "Página 220 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_2_1.pdf": {
+    "document_title": "Saving your work as you go",
+    "indent_level": 2,
+    "reference_url": "Página 221 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_2_2.pdf": {
+    "document_title": "Saving and moving on with your life",
+    "indent_level": 2,
+    "reference_url": "Página 221 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Going with gedit",
+    "indent_level": 1,
+    "reference_url": "Página 222 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_3_1.pdf": {
+    "document_title": "Entering and editing text in gedit",
+    "indent_level": 2,
+    "reference_url": "Página 223 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_3_2.pdf": {
+    "document_title": "Saving your work",
+    "indent_level": 2,
+    "reference_url": "Página 223 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_3_3.pdf": {
+    "document_title": "Setting preferences",
+    "indent_level": 2,
+    "reference_url": "Página 224 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Editing Text in the KDE Plasma Desktop",
+    "indent_level": 1,
+    "reference_url": "Página 227 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch11_4_1.pdf": {
+    "document_title": "Writing with KWrite",
+    "indent_level": 2,
+    "reference_url": "Página 227 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_4_2.pdf": {
+    "document_title": "Meet Kate",
+    "indent_level": 2,
+    "reference_url": "Página 232 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos del libro",
+    "tags": [
+      "Contiene los nombres de los capítulos que contiene el libro, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Usado frecuentemente para saber que cuantos capitulos contiene este libro, mas no contiene información de sus secciones y subsecciones",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs contienen información de las secciones y subsecciones de su respectivo capitulo"
+  },
+  "about_chapter_1.pdf": {
+    "document_title": "Chapter 1: Installing Linux",
+    "reference_url": "Página 24 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_2.pdf": {
+    "document_title": "Chapter 2: The Linux Shell and Filesystem",
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_3.pdf": {
+    "document_title": "Chapter 3: Linux Software Management",
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_4.pdf": {
+    "document_title": "Chapter 4: Managing Users and Groups",
+    "reference_url": "Página 130 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_5.pdf": {
+    "document_title": "Chapter 5: Working with Processes, Daemons, and Signals",
+    "reference_url": "Página 176 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_6.pdf": {
+    "document_title": "Chapter 6: Working with Disks and Filesystems",
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_7.pdf": {
+    "document_title": "Chapter 7: Networking with Linux",
+    "reference_url": "Página 236 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_8.pdf": {
+    "document_title": "Chapter 8: Linux Shell Scripting",
+    "reference_url": "Página 286 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_9.pdf": {
+    "document_title": "Chapter 9: Securing Linux",
+    "reference_url": "Página 344 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_10.pdf": {
+    "document_title": "Chapter 10: Disaster Recovery, Diagnostics, and Troubleshooting",
+    "reference_url": "Página 404 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_11.pdf": {
+    "document_title": "Chapter 11: Working with Virtual Machines",
+    "reference_url": "Página 438 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_12.pdf": {
+    "document_title": "Chapter 12: Managing Containers with Docker",
+    "reference_url": "Página 466 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_13.pdf": {
+    "document_title": "Chapter 13: Configuring Linux Servers",
+    "reference_url": "Página 492 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_14.pdf": {
+    "document_title": "Chapter 14: Short Introduction to Cloud Computing",
+    "reference_url": "Página 522 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_15.pdf": {
+    "document_title": "Chapter 15: Deploying to the Cloud with AWS and Azure",
+    "reference_url": "Página 542 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_16.pdf": {
+    "document_title": "Chapter 16: Deploying Applications with Kubernetes",
+    "reference_url": "Página 594 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "about_chapter_17.pdf": {
+    "document_title": "Chapter 17: Infrastructure and Automation with Ansible",
+    "reference_url": "Página 654 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

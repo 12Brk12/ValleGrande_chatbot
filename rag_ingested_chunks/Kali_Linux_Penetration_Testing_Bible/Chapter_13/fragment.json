@@ -1,0 +1,129 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13 Cryptography and Hash Cracking",
+    "pages": [345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370],
+    "subsections": [
+      {
+        "title": "Basics of Cryptography",
+        "pages": [345],
+        "subsections": [
+          {
+            "title": "Hashing Basics",
+            "pages": [346],
+            "subsections": [
+              {
+                "title": "One-Way Hash Function",
+                "pages": [346]
+              },
+              {
+                "title": "Hashing Scenarios",
+                "pages": [347]
+              },
+              {
+                "title": "Hashing Algorithms",
+                "pages": [347]
+              },
+              {
+                "title": "Message Digest 5",
+                "pages": [347]
+              }
+            ]
+          },
+          {
+            "title": "Secure Hash Algorithm",
+            "pages": [349]
+          },
+          {
+            "title": "Hashing Passwords",
+            "pages": [349],
+            "subsections": [
+              {
+                "title": "Securing Passwords with Hash",
+                "pages": [350]
+              }
+            ]
+          },
+          {
+            "title": "Hash-Based Message Authenticated Code",
+            "pages": [351]
+          },
+          {
+            "title": "Encryption Basics",
+            "pages": [352],
+            "subsections": [
+              {
+                "title": "Symmetric Encryption",
+                "pages": [352]
+              },
+              {
+                "title": "Advanced Encryption Standard",
+                "pages": [352]
+              }
+            ]
+          },
+          {
+            "title": "Asymmetric Encryption",
+            "pages": [354],
+            "subsections": [
+              {
+                "title": "Rivest Shamir Adleman",
+                "pages": [355]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cracking Secrets with Hashcat",
+        "pages": [357],
+        "subsections": [
+          {
+            "title": "Benchmark Testing",
+            "pages": [358]
+          },
+          {
+            "title": "Cracking Hashes in Action",
+            "pages": [360]
+          },
+          {
+            "title": "Attack Modes",
+            "pages": [362],
+            "subsections": [
+              {
+                "title": "Straight Mode",
+                "pages": [362]
+              },
+              {
+                "title": "Combinator",
+                "pages": [363]
+              },
+              {
+                "title": "Mask and Brute-Force Attacks",
+                "pages": [365]
+              },
+              {
+                "title": "Brute-Force Attack",
+                "pages": [368]
+              },
+              {
+                "title": "Hybrid Attacks",
+                "pages": [368]
+              }
+            ]
+          },
+          {
+            "title": "Cracking Workflow",
+            "pages": [369]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [370]
+      }
+    ]
+  }
+}

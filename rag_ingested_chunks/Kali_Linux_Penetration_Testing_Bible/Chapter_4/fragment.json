@@ -1,0 +1,57 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4 Internet Information Gathering",
+    "pages": [115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130],
+    "subsections": [
+      {
+        "title": "Passive Footprinting and Reconnaissance",
+        "pages": [116],
+        "subsections": [
+          {
+            "title": "Internet Search Engines",
+            "pages": [116],
+            "subsections": [
+              {
+                "title": "Shodan",
+                "pages": [117]
+              },
+              {
+                "title": "Google Queries",
+                "pages": [118]
+              }
+            ]
+          },
+          {
+            "title": "Information Gathering Using Kali Linux",
+            "pages": [120],
+            "subsections": [
+              {
+                "title": "Whois Database",
+                "pages": [121]
+              },
+              {
+                "title": "TheHarvester",
+                "pages": [123]
+              },
+              {
+                "title": "DMitry",
+                "pages": [125]
+              },
+              {
+                "title": "Maltego",
+                "pages": [125]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [129]
+      }
+    ]
+  }
+}

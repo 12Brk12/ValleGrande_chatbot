@@ -1,0 +1,55 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5 Examining the KDE Plasma Desktop",
+    "pages": [99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116],
+    "subsections": [
+      {
+        "title": "The KDE Plasma Desktop",
+        "pages": [99],
+        "subsections": [
+          {
+            "title": "More menus!",
+            "pages": [101]
+          },
+          {
+            "title": "The panel",
+            "pages": [105]
+          },
+          {
+            "title": "The desktop",
+            "pages": [107]
+          }
+        ]
+      },
+      {
+        "title": "Using Widgets",
+        "pages": [107],
+        "subsections": [
+          {
+            "title": "Adding widgets",
+            "pages": [107]
+          },
+          {
+            "title": "Getting more widgets",
+            "pages": [111]
+          }
+        ]
+      },
+      {
+        "title": "Plasma System Settings",
+        "pages": [112]
+      },
+      {
+        "title": "Desktop Folder Settings",
+        "pages": [113]
+      },
+      {
+        "title": "Accessibility Settings",
+        "pages": [114]
+      }
+    ]
+  }
+}

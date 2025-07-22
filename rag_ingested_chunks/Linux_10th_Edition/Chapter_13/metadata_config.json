@@ -1,0 +1,82 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 13 Messing with Audio",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 13, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 269 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_1.pdf": {
+    "document_title": "What Sound? I Don’t Hear a Thing!",
+    "indent_level": 1,
+    "reference_url": "Página 269 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 13"
+  },
+  "ch13_2.pdf": {
+    "document_title": "Listening to CDs",
+    "indent_level": 1,
+    "reference_url": "Página 272 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_2_1.pdf": {
+    "document_title": "GNOME 3 and Rhythmbox",
+    "indent_level": 2,
+    "reference_url": "Página 272 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_2_2.pdf": {
+    "document_title": "KDE Plasma and CDs",
+    "indent_level": 2,
+    "reference_url": "Página 274 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_2_3.pdf": {
+    "document_title": "VLC to the rescue",
+    "indent_level": 2,
+    "reference_url": "Página 275 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_3.pdf": {
+    "document_title": "Listening to Downloaded Music",
+    "indent_level": 1,
+    "reference_url": "Página 276 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_3_1.pdf": {
+    "document_title": "Amarok",
+    "indent_level": 2,
+    "reference_url": "Página 276 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_3_2.pdf": {
+    "document_title": "Rhythmbox revisited",
+    "indent_level": 2,
+    "reference_url": "Página 280 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_4.pdf": {
+    "document_title": "Listening to Internet Radio",
+    "indent_level": 1,
+    "reference_url": "Página 280 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_5.pdf": {
+    "document_title": "Ripping Music Tracks from CDs",
+    "indent_level": 1,
+    "reference_url": "Página 281 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_6.pdf": {
+    "document_title": "Burning Audio CDs and DVDs",
+    "indent_level": 1,
+    "reference_url": "Página 284 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch13_6_1.pdf": {
+    "document_title": "Using Brasero",
+    "indent_level": 2,
+    "reference_url": "Página 284 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_6_2.pdf": {
+    "document_title": "Using K3b",
+    "indent_level": 2,
+    "reference_url": "Página 285 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

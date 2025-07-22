@@ -1,0 +1,81 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 15: PowerShell 7 and the Raspberry Pi",
+    "pages": [386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [386]
+      },
+      {
+        "title": "Introduction to the Raspberry Pi",
+        "pages": [387]
+      },
+      {
+        "title": "Installing PowerShell 7 and VS Code",
+        "pages": [388],
+        "subsections": [
+          {
+            "title": "Installing PowerShell",
+            "pages": [388]
+          },
+          {
+            "title": "Installing VS Code",
+            "pages": [391]
+          }
+        ]
+      },
+      {
+        "title": "Connecting remotely to the Pi",
+        "pages": [391],
+        "subsections": [
+          {
+            "title": "Working with a headless Pi",
+            "pages": [392]
+          },
+          {
+            "title": "Connecting to the Pi with PowerShell",
+            "pages": [395]
+          },
+          {
+            "title": "Connecting to the Pi with VS Code",
+            "pages": [397]
+          }
+        ]
+      },
+      {
+        "title": "Running PowerShell on Raspberry Pi OS",
+        "pages": [399],
+        "subsections": [
+          {
+            "title": "Installing the IoT module",
+            "pages": [399]
+          },
+          {
+            "title": "Exploring the IoT module",
+            "pages": [400]
+          }
+        ]
+      },
+      {
+        "title": "Simple physical computing",
+        "pages": [402]
+      },
+      {
+        "title": "Summary",
+        "pages": [406]
+      },
+      {
+        "title": "Questions",
+        "pages": [406]
+      },
+      {
+        "title": "Further reading",
+        "pages": [407]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7 Getting to Know the Linux Filesystem",
+    "pages": [137,138,139,140,141,142,143,144,145,146,147,148,149,150],
+    "subsections": [
+      {
+        "title": "Pieces of the Puzzle",
+        "pages": [137]
+      },
+      {
+        "title": "Touring the Linux Filesystem",
+        "pages": [138],
+        "subsections": [
+          {
+            "title": "The root of the tree",
+            "pages": [138]
+          },
+          {
+            "title": "The importance of being /etc",
+            "pages": [140]
+          },
+          {
+            "title": "Where removable media lives",
+            "pages": [140]
+          },
+          {
+            "title": "Where the computer is the /usr",
+            "pages": [141]
+          }
+        ]
+      },
+      {
+        "title": "Managing Your Filesystem without a Net (or Mouse)",
+        "pages": [141],
+        "subsections": [
+          {
+            "title": "Viewing information about files on the command line",
+            "pages": [142]
+          },
+          {
+            "title": "Understanding file listing information",
+            "pages": [143]
+          },
+          {
+            "title": "Comprehending file types",
+            "pages": [145]
+          },
+          {
+            "title": "Navigating the filesystem in Linux",
+            "pages": [146]
+          }
+        ]
+      },
+      {
+        "title": "A Permissions Primer",
+        "pages": [147],
+        "subsections": [
+          {
+            "title": "Checking out the triplets",
+            "pages": [147]
+          },
+          {
+            "title": "Beware of owners",
+            "pages": [149]
+          },
+          {
+            "title": "Hanging out in groups",
+            "pages": [149]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2: The Linux Shell and Filesystem",
+    "pages": [52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [52]
+      },
+      {
+        "title": "Introducing the Linux shell",
+        "pages": [53],
+        "subsections": [
+          {
+            "title": "Establishing the shell connection",
+            "pages": [55]
+          },
+          {
+            "title": "The command-line prompt",
+            "pages": [57]
+          },
+          {
+            "title": "Shell command types",
+            "pages": [58]
+          },
+          {
+            "title": "Explaining the command structure",
+            "pages": [58]
+          },
+          {
+            "title": "Consulting the manual",
+            "pages": [60]
+          }
+        ]
+      },
+      {
+        "title": "The Linux filesystem",
+        "pages": [60],
+        "subsections": [
+          {
+            "title": "Directory structure",
+            "pages": [61]
+          }
+        ]
+      },
+      {
+        "title": "Working with files and directories",
+        "pages": [64],
+        "subsections": [
+          {
+            "title": "Understanding file paths",
+            "pages": [64]
+          },
+          {
+            "title": "Basic file operations",
+            "pages": [66]
+          },
+          {
+            "title": "Commands for file viewing",
+            "pages": [75]
+          },
+          {
+            "title": "Commands for file properties",
+            "pages": [78]
+          }
+        ]
+      },
+      {
+        "title": "Using text editors to create and edit files",
+        "pages": [90],
+        "subsections": [
+          {
+            "title": "Using Vim to edit text files",
+            "pages": [90]
+          },
+          {
+            "title": "The nano text editor",
+            "pages": [92]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [93]
+      },
+      {
+        "title": "Questions",
+        "pages": [93]
+      },
+      {
+        "title": "Further reading",
+        "pages": [94]
+      }
+    ]
+  }
+}

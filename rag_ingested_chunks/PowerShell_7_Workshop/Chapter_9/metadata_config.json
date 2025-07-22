@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9: Don’t Repeat Yourself – Functions and Scriptblocks",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 240 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Why do we care about repeating code?",
+    "indent_level": 1,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_2.pdf": {
+    "document_title": "How to turn repeating code into a function",
+    "indent_level": 1,
+    "reference_url": "Página 243 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_2_1.pdf": {
+    "document_title": "What makes a function?",
+    "indent_level": 2,
+    "reference_url": "Página 245 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_2_2.pdf": {
+    "document_title": "Function parameters",
+    "indent_level": 2,
+    "reference_url": "Página 248 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_2_3.pdf": {
+    "document_title": "Filters",
+    "indent_level": 2,
+    "reference_url": "Página 254 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "The concept of scope",
+    "indent_level": 1,
+    "reference_url": "Página 255 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_3_1.pdf": {
+    "document_title": "Parent and child scopes",
+    "indent_level": 2,
+    "reference_url": "Página 256 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_3_2.pdf": {
+    "document_title": "Scope modifiers",
+    "indent_level": 2,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_4.pdf": {
+    "document_title": "Exploring scriptblocks",
+    "indent_level": 1,
+    "reference_url": "Página 258 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_4_1.pdf": {
+    "document_title": "How to run a scriptblock",
+    "indent_level": 2,
+    "reference_url": "Página 258 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_4_2.pdf": {
+    "document_title": "Lambdas",
+    "indent_level": 2,
+    "reference_url": "Página 260 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "Let’s do something useful",
+    "indent_level": 1,
+    "reference_url": "Página 261 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 263 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 264 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch9_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 265 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

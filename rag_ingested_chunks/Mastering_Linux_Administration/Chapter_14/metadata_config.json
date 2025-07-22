@@ -1,0 +1,144 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 14: Short Introduction to Cloud Computing",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 14, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 522 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 522 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 14"
+  },
+  "ch14_2.pdf": {
+    "document_title": "Introduction to cloud technologies",
+    "indent_level": 1,
+    "reference_url": "Página 523 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_2_1.pdf": {
+    "document_title": "Exploring the cloud computing standards",
+    "indent_level": 2,
+    "reference_url": "Página 523 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_2_2.pdf": {
+    "document_title": "Understanding the architecture of the cloud",
+    "indent_level": 2,
+    "reference_url": "Página 527 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_2_3.pdf": {
+    "document_title": "Knowing the key features of cloud computing",
+    "indent_level": 2,
+    "reference_url": "Página 529 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_3.pdf": {
+    "document_title": "Introducing IaaS solutions",
+    "indent_level": 1,
+    "reference_url": "Página 530 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_3_1.pdf": {
+    "document_title": "Amazon EC2",
+    "indent_level": 2,
+    "reference_url": "Página 530 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_3_2.pdf": {
+    "document_title": "Microsoft Azure Virtual Machines",
+    "indent_level": 2,
+    "reference_url": "Página 531 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_3_3.pdf": {
+    "document_title": "Other strong IaaS offerings",
+    "indent_level": 2,
+    "reference_url": "Página 531 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_4.pdf": {
+    "document_title": "Introducing PaaS solutions",
+    "indent_level": 1,
+    "reference_url": "Página 532 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_4_1.pdf": {
+    "document_title": "Amazon Elastic Beanstalk",
+    "indent_level": 2,
+    "reference_url": "Página 532 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_4_2.pdf": {
+    "document_title": "Google App Engine",
+    "indent_level": 2,
+    "reference_url": "Página 533 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_4_3.pdf": {
+    "document_title": "DigitalOcean App Platform",
+    "indent_level": 2,
+    "reference_url": "Página 533 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_4_4.pdf": {
+    "document_title": "Open source PaaS solutions",
+    "indent_level": 2,
+    "reference_url": "Página 533 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_5.pdf": {
+    "document_title": "Introducing CaaS solutions",
+    "indent_level": 1,
+    "reference_url": "Página 534 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_5_1.pdf": {
+    "document_title": "Introducing the Kubernetes container orchestration solution",
+    "indent_level": 2,
+    "reference_url": "Página 534 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_5_2.pdf": {
+    "document_title": "Deploying containers in the cloud",
+    "indent_level": 2,
+    "reference_url": "Página 536 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_5_3.pdf": {
+    "document_title": "Introducing microservices",
+    "indent_level": 2,
+    "reference_url": "Página 537 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_6.pdf": {
+    "document_title": "Introducing DevOps",
+    "indent_level": 1,
+    "reference_url": "Página 537 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_7.pdf": {
+    "document_title": "Exploring cloud management tools",
+    "indent_level": 1,
+    "reference_url": "Página 538 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_7_1.pdf": {
+    "document_title": "Ansible",
+    "indent_level": 2,
+    "reference_url": "Página 538 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_7_2.pdf": {
+    "document_title": "Puppet",
+    "indent_level": 2,
+    "reference_url": "Página 539 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_7_3.pdf": {
+    "document_title": "Chef Infra",
+    "indent_level": 2,
+    "reference_url": "Página 539 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_8.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 540 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch14_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 540 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

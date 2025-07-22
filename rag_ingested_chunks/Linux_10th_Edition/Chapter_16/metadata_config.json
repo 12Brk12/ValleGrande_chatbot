@@ -1,0 +1,108 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 16 Working without the GUI",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 16, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 321 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_1.pdf": {
+    "document_title": "Playing the Shell Game",
+    "indent_level": 1,
+    "reference_url": "Página 322 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 16"
+  },
+  "ch16_1_1.pdf": {
+    "document_title": "Getting a shell",
+    "indent_level": 2,
+    "reference_url": "Página 322 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_1_2.pdf": {
+    "document_title": "The shell prompt",
+    "indent_level": 2,
+    "reference_url": "Página 323 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_2.pdf": {
+    "document_title": "Understanding bash Command Syntax and Structure",
+    "indent_level": 1,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_3.pdf": {
+    "document_title": "Starting Programs from the Shell",
+    "indent_level": 1,
+    "reference_url": "Página 327 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_4.pdf": {
+    "document_title": "Putting Wildcard Expansion to Good Use",
+    "indent_level": 1,
+    "reference_url": "Página 327 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_5.pdf": {
+    "document_title": "Working with Long Commands",
+    "indent_level": 1,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_5_1.pdf": {
+    "document_title": "Asking Linux to complete a command or filename for you",
+    "indent_level": 2,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_5_2.pdf": {
+    "document_title": "Accessing your command history",
+    "indent_level": 2,
+    "reference_url": "Página 329 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_6.pdf": {
+    "document_title": "Working with Variables",
+    "indent_level": 1,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_6_1.pdf": {
+    "document_title": "Variables versus environment variables",
+    "indent_level": 2,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_6_2.pdf": {
+    "document_title": "Checking out commonly used environment variables",
+    "indent_level": 2,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_6_3.pdf": {
+    "document_title": "Storing and retrieving variables’ values",
+    "indent_level": 2,
+    "reference_url": "Página 331 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_7.pdf": {
+    "document_title": "Using Redirection and Pipes",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_7_1.pdf": {
+    "document_title": "Redirecting command output",
+    "indent_level": 2,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_7_2.pdf": {
+    "document_title": "Laying pipes",
+    "indent_level": 2,
+    "reference_url": "Página 336 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_7_3.pdf": {
+    "document_title": "“Help!”",
+    "indent_level": 2,
+    "reference_url": "Página 336 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch16_7_4.pdf": {
+    "document_title": "Clearing the screen",
+    "indent_level": 2,
+    "reference_url": "Página 336 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

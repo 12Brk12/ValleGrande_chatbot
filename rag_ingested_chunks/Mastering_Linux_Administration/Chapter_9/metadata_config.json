@@ -1,0 +1,97 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9: Securing Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 344 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 345 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_2.pdf": {
+    "document_title": "Understanding Linux security",
+    "indent_level": 1,
+    "reference_url": "Página 345 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "Introducing SELinux",
+    "indent_level": 1,
+    "reference_url": "Página 346 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_3_1.pdf": {
+    "document_title": "Working with SELinux",
+    "indent_level": 2,
+    "reference_url": "Página 346 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_4.pdf": {
+    "document_title": "Introducing AppArmor",
+    "indent_level": 1,
+    "reference_url": "Página 367 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_4_1.pdf": {
+    "document_title": "Working with AppArmor",
+    "indent_level": 2,
+    "reference_url": "Página 367 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_4_2.pdf": {
+    "document_title": "Final considerations",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "Working with firewalls",
+    "indent_level": 1,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_5_1.pdf": {
+    "document_title": "Understanding the firewall chain",
+    "indent_level": 2,
+    "reference_url": "Página 378 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_5_2.pdf": {
+    "document_title": "Introducing Netfilter",
+    "indent_level": 2,
+    "reference_url": "Página 380 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_5_3.pdf": {
+    "document_title": "Working with iptables",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_5_4.pdf": {
+    "document_title": "Introducing nftables",
+    "indent_level": 2,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_5_5.pdf": {
+    "document_title": "Using firewall managers",
+    "indent_level": 2,
+    "reference_url": "Página 392 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 402 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 403 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch9_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 403 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

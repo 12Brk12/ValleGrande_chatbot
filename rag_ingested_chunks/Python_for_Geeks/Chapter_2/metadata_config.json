@@ -1,0 +1,138 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2: Using Modularization to Handle Complex Projects",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 54 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_2.pdf": {
+    "document_title": "Introduction to modules and packages",
+    "indent_level": 1,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "Importing modules",
+    "indent_level": 1,
+    "reference_url": "Página 56 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_3_1.pdf": {
+    "document_title": "Using the import statement",
+    "indent_level": 2,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_3_2.pdf": {
+    "document_title": "Using the __import__ statement",
+    "indent_level": 2,
+    "reference_url": "Página 63 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_3_3.pdf": {
+    "document_title": "Using the importlib.import_module statement",
+    "indent_level": 2,
+    "reference_url": "Página 64 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_3_4.pdf": {
+    "document_title": "Absolute versus relative import",
+    "indent_level": 2,
+    "reference_url": "Página 65 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_4.pdf": {
+    "document_title": "Loading and initializing a module",
+    "indent_level": 1,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_4_1.pdf": {
+    "document_title": "Standard modules",
+    "indent_level": 2,
+    "reference_url": "Página 69 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_5.pdf": {
+    "document_title": "Writing reusable modules",
+    "indent_level": 1,
+    "reference_url": "Página 70 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_6.pdf": {
+    "document_title": "Building packages",
+    "indent_level": 1,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_6_1.pdf": {
+    "document_title": "Naming",
+    "indent_level": 2,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_6_2.pdf": {
+    "document_title": "Package initialization file",
+    "indent_level": 2,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_6_3.pdf": {
+    "document_title": "Building a package",
+    "indent_level": 2,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_7.pdf": {
+    "document_title": "Accessing packages from any location",
+    "indent_level": 1,
+    "reference_url": "Página 81 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_8.pdf": {
+    "document_title": "Sharing a package",
+    "indent_level": 1,
+    "reference_url": "Página 86 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_8_1.pdf": {
+    "document_title": "Building a package as per the PyPA guidelines",
+    "indent_level": 2,
+    "reference_url": "Página 87 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_8_2.pdf": {
+    "document_title": "Installing from the local source code using pip",
+    "indent_level": 2,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_8_3.pdf": {
+    "document_title": "Publishing a package to Test PyPI",
+    "indent_level": 2,
+    "reference_url": "Página 93 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_8_4.pdf": {
+    "document_title": "Installing the package from PyPI",
+    "indent_level": 2,
+    "reference_url": "Página 94 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_9.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_10.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_11.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch2_12.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

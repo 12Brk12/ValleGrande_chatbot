@@ -1,0 +1,77 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 17 Basic System Administration",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 17, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 339 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_1.pdf": {
+    "document_title": "Managing Users and Groups",
+    "indent_level": 1,
+    "reference_url": "Página 340 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 17"
+  },
+  "ch17_1_1.pdf": {
+    "document_title": "Finding the right tool",
+    "indent_level": 2,
+    "reference_url": "Página 340 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_1_2.pdf": {
+    "document_title": "Adding new users",
+    "indent_level": 2,
+    "reference_url": "Página 342 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_1_3.pdf": {
+    "document_title": "Adding new groups",
+    "indent_level": 2,
+    "reference_url": "Página 345 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_2.pdf": {
+    "document_title": "Printing",
+    "indent_level": 1,
+    "reference_url": "Página 347 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_2_1.pdf": {
+    "document_title": "Printer server settings",
+    "indent_level": 2,
+    "reference_url": "Página 349 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_2_2.pdf": {
+    "document_title": "Adding a new printer",
+    "indent_level": 2,
+    "reference_url": "Página 350 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_2_3.pdf": {
+    "document_title": "Modifying printer properties",
+    "indent_level": 2,
+    "reference_url": "Página 353 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_3.pdf": {
+    "document_title": "System Monitor",
+    "indent_level": 1,
+    "reference_url": "Página 354 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_3_1.pdf": {
+    "document_title": "Processes",
+    "indent_level": 2,
+    "reference_url": "Página 355 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch17_3_2.pdf": {
+    "document_title": "Resources",
+    "indent_level": 2,
+    "reference_url": "Página 357 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch17_3_3.pdf": {
+    "document_title": "File Systems",
+    "indent_level": 2,
+    "reference_url": "Página 358 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos del libro",
+    "tags": [
+      "Contiene los nombres de los capítulos que contiene el libro, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Usado frecuentemente para saber que cuantos capitulos contiene este libro, mas no contiene información de sus secciones y subsecciones",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs contienen información de las secciones y subsecciones de su respectivo capitulo"
+  },
+  "about_chapter_1.pdf": {
+    "document_title": "Chapter 1: Introduction to PowerShell 7 – What It Is and How to Get It",
+    "reference_url": "Página 26 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_2.pdf": {
+    "document_title": "Chapter 2: Exploring PowerShell Cmdlets and Syntax",
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_3.pdf": {
+    "document_title": "Chapter 3: The PowerShell Pipeline – How to String Cmdlets Together",
+    "reference_url": "Página 74 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_4.pdf": {
+    "document_title": "Chapter 4: PowerShell Variables and Data Structures",
+    "reference_url": "Página 100 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_5.pdf": {
+    "document_title": "Chapter 5: PowerShell Control Flow – Conditionals and Loops",
+    "reference_url": "Página 132 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_6.pdf": {
+    "document_title": "Chapter 6: PowerShell and Files – Reading, Writing, and Manipulating Data",
+    "reference_url": "Página 164 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_7.pdf": {
+    "document_title": "Chapter 7: PowerShell and the Web – HTTP, REST, and JSON",
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_8.pdf": {
+    "document_title": "Chapter 8: Writing Our First Script – Turning Simple Cmdlets into Reusable Code",
+    "reference_url": "Página 218 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_9.pdf": {
+    "document_title": "Chapter 9: Don’t Repeat Yourself – Functions and Scriptblocks",
+    "reference_url": "Página 240 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_10.pdf": {
+    "document_title": "Chapter 10: Error Handling – Oh No! It’s Gone Wrong!",
+    "reference_url": "Página 266 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_11.pdf": {
+    "document_title": "Chapter 11: Creating Our First Module",
+    "reference_url": "Página 292 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_12.pdf": {
+    "document_title": "Chapter 12: Securing PowerShell",
+    "reference_url": "Página 316 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_13.pdf": {
+    "document_title": "Chapter 13: Working with PowerShell 7 and Windows",
+    "reference_url": "Página 338 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_14.pdf": {
+    "document_title": "Chapter 14: PowerShell 7 for Linux and macOS",
+    "reference_url": "Página 362 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_15.pdf": {
+    "document_title": "Chapter 15: PowerShell 7 and the Raspberry Pi",
+    "reference_url": "Página 386 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "about_chapter_16.pdf": {
+    "document_title": "Chapter 16: Working with PowerShell and .NET",
+    "reference_url": "Página 408 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

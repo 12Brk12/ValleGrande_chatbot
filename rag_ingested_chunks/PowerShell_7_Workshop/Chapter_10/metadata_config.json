@@ -1,0 +1,93 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 10: Error Handling – Oh No! It’s Gone Wrong!",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 10, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 266 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_1.pdf": {
+    "document_title": "What is an error?",
+    "indent_level": 1,
+    "reference_url": "Página 267 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 10"
+  },
+  "ch10_1_1.pdf": {
+    "document_title": "Terminating and non-terminating exceptions and errors",
+    "indent_level": 2,
+    "reference_url": "Página 269 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2.pdf": {
+    "document_title": "Understanding error actions",
+    "indent_level": 1,
+    "reference_url": "Página 271 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_2_1.pdf": {
+    "document_title": "The $ErrorActionPreference variable",
+    "indent_level": 2,
+    "reference_url": "Página 271 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2_2.pdf": {
+    "document_title": "The -ErrorAction parameter",
+    "indent_level": 2,
+    "reference_url": "Página 272 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_3.pdf": {
+    "document_title": "Catching errors",
+    "indent_level": 1,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_3_1.pdf": {
+    "document_title": "Try/Catch/Finally",
+    "indent_level": 2,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_3_2.pdf": {
+    "document_title": "Creating errors",
+    "indent_level": 2,
+    "reference_url": "Página 276 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_4.pdf": {
+    "document_title": "Exploring debugging",
+    "indent_level": 1,
+    "reference_url": "Página 278 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_4_1.pdf": {
+    "document_title": "Script instrumentation",
+    "indent_level": 2,
+    "reference_url": "Página 279 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_4_2.pdf": {
+    "document_title": "Debugging cmdlets",
+    "indent_level": 2,
+    "reference_url": "Página 282 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_5.pdf": {
+    "document_title": "Debugging with VS Code",
+    "indent_level": 1,
+    "reference_url": "Página 285 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 288 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 289 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch10_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 289 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

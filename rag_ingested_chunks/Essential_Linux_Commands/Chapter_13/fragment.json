@@ -1,0 +1,27 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13: Linux in the Cloud",
+    "pages": [214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239],
+    "subsections": [
+      {
+        "title": "Creating EC2 instances on AWS",
+        "pages": [215]
+      },
+      {
+        "title": "Connecting to a created EC2 instance using PuTTY",
+        "pages": [228]
+      },
+      {
+        "title": "Working on our EC2 instance",
+        "pages": [233]
+      },
+      {
+        "title": "Summary",
+        "pages": [239]
+      }
+    ]
+  }
+}

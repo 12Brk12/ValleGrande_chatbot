@@ -1,0 +1,103 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5 Social Engineering Attacks",
+    "pages": [131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150],
+    "subsections": [
+      {
+        "title": "Spear Phishing Attacks",
+        "pages": [131],
+        "subsections": [
+          {
+            "title": "Sending an E-mail",
+            "pages": [132],
+            "subsections": [
+              {
+                "title": "The Social Engineer Toolkit",
+                "pages": [132]
+              },
+              {
+                "title": "Sending an E-mail Using Python",
+                "pages": [134]
+              },
+              {
+                "title": "Stealing Credentials",
+                "pages": [135]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Payloads and Listeners",
+        "pages": [136],
+        "subsections": [
+          {
+            "title": "Bind Shell vs. Reverse Shell",
+            "pages": [137],
+            "subsections": [
+              {
+                "title": "Bind Shell",
+                "pages": [137]
+              },
+              {
+                "title": "Reverse Shell",
+                "pages": [138]
+              },
+              {
+                "title": "Reverse Shell Using SET",
+                "pages": [139]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Social Engineering with the USB Rubber Ducky",
+        "pages": [141],
+        "subsections": [
+          {
+            "title": "A Practical Reverse Shell Using USB Rubber Ducky and PowerShell",
+            "pages": [143]
+          },
+          {
+            "title": "Generating a PowerShell Script",
+            "pages": [144],
+            "subsections": [
+              {
+                "title": "Starting a Listener",
+                "pages": [144]
+              },
+              {
+                "title": "Hosting the PowerShell Script",
+                "pages": [145]
+              },
+              {
+                "title": "Running PowerShell",
+                "pages": [146]
+              },
+              {
+                "title": "Download and Execute the PS Script",
+                "pages": [146]
+              },
+              {
+                "title": "Reverse Shell",
+                "pages": [147]
+              },
+              {
+                "title": "Replicating the Attack Using the USB Rubber Ducky",
+                "pages": [148]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [148]
+      }
+    ]
+  }
+}

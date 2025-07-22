@@ -1,0 +1,81 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 13 Cryptography and Hash Cracking",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 13, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 345 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_1.pdf": {
+    "document_title": "Basics of Cryptography",
+    "indent_level": 1,
+    "reference_url": "Página 345 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 13"
+  },
+  "ch13_1_1.pdf": {
+    "document_title": "Hashing Basics",
+    "indent_level": 2,
+    "reference_url": "Página 346 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_1_2.pdf": {
+    "document_title": "Secure Hash Algorithm",
+    "indent_level": 2,
+    "reference_url": "Página 349 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_1_3.pdf": {
+    "document_title": "Hashing Passwords",
+    "indent_level": 2,
+    "reference_url": "Página 349 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_1_4.pdf": {
+    "document_title": "Hash-Based Message Authenticated Code",
+    "indent_level": 2,
+    "reference_url": "Página 351 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_1_5.pdf": {
+    "document_title": "Encryption Basics",
+    "indent_level": 2,
+    "reference_url": "Página 352 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_1_6.pdf": {
+    "document_title": "Asymmetric Encryption",
+    "indent_level": 2,
+    "reference_url": "Página 354 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_2.pdf": {
+    "document_title": "Cracking Secrets with Hashcat",
+    "indent_level": 1,
+    "reference_url": "Página 357 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_2_1.pdf": {
+    "document_title": "Benchmark Testing",
+    "indent_level": 2,
+    "reference_url": "Página 358 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_2_2.pdf": {
+    "document_title": "Cracking Hashes in Action",
+    "indent_level": 2,
+    "reference_url": "Página 360 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_2_3.pdf": {
+    "document_title": "Attack Modes",
+    "indent_level": 2,
+    "reference_url": "Página 362 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_2_4.pdf": {
+    "document_title": "Cracking Workflow",
+    "indent_level": 2,
+    "reference_url": "Página 369 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch13_3.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 370 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

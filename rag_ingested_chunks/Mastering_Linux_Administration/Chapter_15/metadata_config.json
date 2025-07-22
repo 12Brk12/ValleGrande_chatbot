@@ -1,0 +1,86 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 15: Deploying to the Cloud with AWS and Azure",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 15, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 542 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 543 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 15"
+  },
+  "ch15_2.pdf": {
+    "document_title": "Working with AWS EC2",
+    "indent_level": 1,
+    "reference_url": "Página 544 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_2_1.pdf": {
+    "document_title": "Introducing and creating AWS EC2 instances",
+    "indent_level": 2,
+    "reference_url": "Página 544 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_2_2.pdf": {
+    "document_title": "Introducing AWS EC2 placement groups",
+    "indent_level": 2,
+    "reference_url": "Página 557 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_2_3.pdf": {
+    "document_title": "Using AWS EC2 instances",
+    "indent_level": 2,
+    "reference_url": "Página 559 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_2_4.pdf": {
+    "document_title": "Working with the AWS CLI",
+    "indent_level": 2,
+    "reference_url": "Página 569 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_3.pdf": {
+    "document_title": "Working with Microsoft Azure",
+    "indent_level": 1,
+    "reference_url": "Página 577 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_3_1.pdf": {
+    "document_title": "Creating and deploying a virtual machine",
+    "indent_level": 2,
+    "reference_url": "Página 577 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch15_3_2.pdf": {
+    "document_title": "Connecting with SSH to a virtual machine",
+    "indent_level": 2,
+    "reference_url": "Página 583 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_3_3.pdf": {
+    "document_title": "Managing virtual machines",
+    "indent_level": 2,
+    "reference_url": "Página 584 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_3_4.pdf": {
+    "document_title": "Working with the Azure CLI",
+    "indent_level": 2,
+    "reference_url": "Página 588 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_4.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 591 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_5.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 592 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch15_6.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 592 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

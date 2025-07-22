@@ -1,0 +1,108 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 5: PowerShell Control Flow – Conditionals and Loops",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 5, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 132 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_1.pdf": {
+    "document_title": "An introduction to IDEs and VS Code",
+    "indent_level": 1,
+    "reference_url": "Página 133 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 5"
+  },
+  "ch5_1_1.pdf": {
+    "document_title": "Installing VS Code",
+    "indent_level": 2,
+    "reference_url": "Página 133 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_1_2.pdf": {
+    "document_title": "Configuring VS Code for PowerShell",
+    "indent_level": 2,
+    "reference_url": "Página 136 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_2.pdf": {
+    "document_title": "Conditional control – if, else, elseif, and switch",
+    "indent_level": 1,
+    "reference_url": "Página 140 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_2_1.pdf": {
+    "document_title": "The if statement",
+    "indent_level": 2,
+    "reference_url": "Página 141 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_2_2.pdf": {
+    "document_title": "The switch statement",
+    "indent_level": 2,
+    "reference_url": "Página 146 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_3.pdf": {
+    "document_title": "Loops – foreach, do while, do until, while, for",
+    "indent_level": 1,
+    "reference_url": "Página 149 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_3_1.pdf": {
+    "document_title": "The foreach loop statement",
+    "indent_level": 2,
+    "reference_url": "Página 149 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_3_2.pdf": {
+    "document_title": "The do while and do until loop statements",
+    "indent_level": 2,
+    "reference_url": "Página 151 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_3_3.pdf": {
+    "document_title": "The while loop",
+    "indent_level": 2,
+    "reference_url": "Página 153 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_3_4.pdf": {
+    "document_title": "The for loop",
+    "indent_level": 2,
+    "reference_url": "Página 153 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_4.pdf": {
+    "document_title": "Breaking and continuing",
+    "indent_level": 1,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_4_1.pdf": {
+    "document_title": "The break statement",
+    "indent_level": 2,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_4_2.pdf": {
+    "document_title": "The continue statement",
+    "indent_level": 2,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_5.pdf": {
+    "document_title": "Let’s play a game",
+    "indent_level": 1,
+    "reference_url": "Página 158 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 161 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 161 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch5_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 162 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

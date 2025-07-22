@@ -1,0 +1,91 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 16 Working without the GUI",
+    "pages": [321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338],
+    "subsections": [
+      {
+        "title": "Playing the Shell Game",
+        "pages": [322],
+        "subsections": [
+          {
+            "title": "Getting a shell",
+            "pages": [322]
+          },
+          {
+            "title": "The shell prompt",
+            "pages": [323]
+          }
+        ]
+      },
+      {
+        "title": "Understanding bash Command Syntax and Structure",
+        "pages": [325]
+      },
+      {
+        "title": "Starting Programs from the Shell",
+        "pages": [327]
+      },
+      {
+        "title": "Putting Wildcard Expansion to Good Use",
+        "pages": [327]
+      },
+      {
+        "title": "Working with Long Commands",
+        "pages": [328],
+        "subsections": [
+          {
+            "title": "Asking Linux to complete a command or filename for you",
+            "pages": [328]
+          },
+          {
+            "title": "Accessing your command history",
+            "pages": [329]
+          }
+        ]
+      },
+      {
+        "title": "Working with Variables",
+        "pages": [330],
+        "subsections": [
+          {
+            "title": "Variables versus environment variables",
+            "pages": [330]
+          },
+          {
+            "title": "Checking out commonly used environment variables",
+            "pages": [330]
+          },
+          {
+            "title": "Storing and retrieving variables’ values",
+            "pages": [331]
+          }
+        ]
+      },
+      {
+        "title": "Using Redirection and Pipes",
+        "pages": [334],
+        "subsections": [
+          {
+            "title": "Redirecting command output",
+            "pages": [334]
+          },
+          {
+            "title": "Laying pipes",
+            "pages": [336]
+          },
+          {
+            "title": "“Help!”",
+            "pages": [336]
+          },
+          {
+            "title": "Clearing the screen",
+            "pages": [336]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 6: Working with Disks and Filesystems",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 6, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 6"
+  },
+  "ch6_2.pdf": {
+    "document_title": "Understanding devices in Linux",
+    "indent_level": 1,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_2_1.pdf": {
+    "document_title": "Linux abstraction layers",
+    "indent_level": 2,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_2_2.pdf": {
+    "document_title": "Device files and naming conventions",
+    "indent_level": 2,
+    "reference_url": "Página 210 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_3.pdf": {
+    "document_title": "Understanding filesystem types in Linux",
+    "indent_level": 1,
+    "reference_url": "Página 213 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_4.pdf": {
+    "document_title": "Understanding disks and partitions",
+    "indent_level": 1,
+    "reference_url": "Página 216 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_4_1.pdf": {
+    "document_title": "Common disk types",
+    "indent_level": 2,
+    "reference_url": "Página 216 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_4_2.pdf": {
+    "document_title": "Partitioning disks",
+    "indent_level": 2,
+    "reference_url": "Página 218 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_5.pdf": {
+    "document_title": "Introducing LVM in Linux",
+    "indent_level": 1,
+    "reference_url": "Página 229 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_5_1.pdf": {
+    "document_title": "LVM snapshots",
+    "indent_level": 2,
+    "reference_url": "Página 232 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 234 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 235 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch6_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 235 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

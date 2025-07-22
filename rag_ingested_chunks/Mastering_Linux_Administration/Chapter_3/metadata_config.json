@@ -1,0 +1,82 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3: Linux Software Management",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Linux software package types",
+    "indent_level": 1,
+    "reference_url": "Página 96 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_2_1.pdf": {
+    "document_title": "The DEB and RPM package types",
+    "indent_level": 2,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2_2.pdf": {
+    "document_title": "The snap and flatpak package types",
+    "indent_level": 2,
+    "reference_url": "Página 101 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "Managing software packages",
+    "indent_level": 1,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_3_1.pdf": {
+    "document_title": "Managing DEB packages",
+    "indent_level": 2,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_3_2.pdf": {
+    "document_title": "Managing RPM packages",
+    "indent_level": 2,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_3_3.pdf": {
+    "document_title": "Using the snap and flatpak packages",
+    "indent_level": 2,
+    "reference_url": "Página 119 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Installing new desktop environments in Linux",
+    "indent_level": 1,
+    "reference_url": "Página 125 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_4_1.pdf": {
+    "document_title": "Installing KDE Plasma on Fedora Linux",
+    "indent_level": 2,
+    "reference_url": "Página 126 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 128 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch3_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 12 Word Processing and More with LibreOffice",
+    "pages": [235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268],
+    "subsections": [
+      {
+        "title": "Installing the LibreOffice Suite",
+        "pages": [236]
+      },
+      {
+        "title": "Word Processing with LibreOffice Writer",
+        "pages": [237],
+        "subsections": [
+          {
+            "title": "Taking a tour of LibreOffice Writer",
+            "pages": [237]
+          },
+          {
+            "title": "Working with Writer files",
+            "pages": [241]
+          }
+        ]
+      },
+      {
+        "title": "Spreadsheets with LibreOffice Calc",
+        "pages": [242],
+        "subsections": [
+          {
+            "title": "Taking a tour of LibreOffice Calc",
+            "pages": [242]
+          },
+          {
+            "title": "Working with Calc files",
+            "pages": [246]
+          }
+        ]
+      },
+      {
+        "title": "Presentations with LibreOffice Impress",
+        "pages": [246],
+        "subsections": [
+          {
+            "title": "Creating a new presentation",
+            "pages": [247]
+          },
+          {
+            "title": "Taking a tour of LibreOffice Impress",
+            "pages": [247]
+          },
+          {
+            "title": "Working with Impress files",
+            "pages": [251]
+          }
+        ]
+      },
+      {
+        "title": "Fine Art with LibreOffice Draw",
+        "pages": [252],
+        "subsections": [
+          {
+            "title": "Taking a tour of LibreOffice Draw",
+            "pages": [252]
+          },
+          {
+            "title": "Working with Draw files",
+            "pages": [255]
+          }
+        ]
+      },
+      {
+        "title": "Managing Data with LibreOffice Base",
+        "pages": [256],
+        "subsections": [
+          {
+            "title": "Getting help from the wizard",
+            "pages": [256]
+          },
+          {
+            "title": "Taking a tour of LibreOffice Base",
+            "pages": [259]
+          },
+          {
+            "title": "Sitting down at the table",
+            "pages": [261]
+          }
+        ]
+      },
+      {
+        "title": "Layout with LibreOffice Math",
+        "pages": [262],
+        "subsections": [
+          {
+            "title": "Menu bar",
+            "pages": [263]
+          },
+          {
+            "title": "Standard toolbar",
+            "pages": [264]
+          },
+          {
+            "title": "Document section",
+            "pages": [265]
+          }
+        ]
+      }
+    ]
+  }
+}

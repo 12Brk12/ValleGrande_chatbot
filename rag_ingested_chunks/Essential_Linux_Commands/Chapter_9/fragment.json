@@ -1,0 +1,75 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9: Linux Monitoring and Debugging Commands",
+    "pages": [160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179],
+    "subsections": [
+      {
+        "title": "The top command",
+        "pages": [161]
+      },
+      {
+        "title": "The ps command",
+        "pages": [164]
+      },
+      {
+        "title": "The pstree command",
+        "pages": [166]
+      },
+      {
+        "title": "The strace command",
+        "pages": [167]
+      },
+      {
+        "title": "The watch command",
+        "pages": [169]
+      },
+      {
+        "title": "The smartctl command",
+        "pages": [169]
+      },
+      {
+        "title": "The uptime command",
+        "pages": [170]
+      },
+      {
+        "title": "The lsof command",
+        "pages": [171]
+      },
+      {
+        "title": "The lsmod command",
+        "pages": [172]
+      },
+      {
+        "title": "The last reboot command",
+        "pages": [174]
+      },
+      {
+        "title": "The last command",
+        "pages": [174]
+      },
+      {
+        "title": "The w command",
+        "pages": [175]
+      },
+      {
+        "title": "The vmstat command",
+        "pages": [175]
+      },
+      {
+        "title": "The kill command",
+        "pages": [177]
+      },
+      {
+        "title": "The pkill command",
+        "pages": [178]
+      },
+      {
+        "title": "Summary",
+        "pages": [179]
+      }
+    ]
+  }
+}

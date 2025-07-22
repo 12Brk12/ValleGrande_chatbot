@@ -1,0 +1,29 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8: Linux SWAP Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 154 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "The swapon command",
+    "indent_level": 1,
+    "reference_url": "Página 155 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_2.pdf": {
+    "document_title": "The free command",
+    "indent_level": 1,
+    "reference_url": "Página 157 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch8_3.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 159 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

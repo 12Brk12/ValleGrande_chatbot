@@ -1,0 +1,123 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 14: Using Python for Network Automation",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 14, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 482 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 483 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 14"
+  },
+  "ch14_2.pdf": {
+    "document_title": "Introducing network automation",
+    "indent_level": 1,
+    "reference_url": "Página 484 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_2_1.pdf": {
+    "document_title": "Merits and challenges of network automation",
+    "indent_level": 2,
+    "reference_url": "Página 485 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_2_2.pdf": {
+    "document_title": "Use cases",
+    "indent_level": 2,
+    "reference_url": "Página 486 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_3.pdf": {
+    "document_title": "Interacting with network devices",
+    "indent_level": 1,
+    "reference_url": "Página 487 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_3_1.pdf": {
+    "document_title": "Protocols for interacting with network devices",
+    "indent_level": 2,
+    "reference_url": "Página 487 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_3_2.pdf": {
+    "document_title": "Interacting with network devices using SSH-based Python libraries",
+    "indent_level": 2,
+    "reference_url": "Página 490 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_3_3.pdf": {
+    "document_title": "Interacting with network devices using NETCONF",
+    "indent_level": 2,
+    "reference_url": "Página 500 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_4.pdf": {
+    "document_title": "Integrating with network management systems",
+    "indent_level": 1,
+    "reference_url": "Página 506 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_4_1.pdf": {
+    "document_title": "Using location services endpoints",
+    "indent_level": 2,
+    "reference_url": "Página 507 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_4_2.pdf": {
+    "document_title": "Getting an authentication token",
+    "indent_level": 2,
+    "reference_url": "Página 508 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_4_3.pdf": {
+    "document_title": "Getting network devices and an interface inventory",
+    "indent_level": 2,
+    "reference_url": "Página 510 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_4_4.pdf": {
+    "document_title": "Updating the network device port",
+    "indent_level": 2,
+    "reference_url": "Página 511 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_5.pdf": {
+    "document_title": "Integrating with event-driven systems",
+    "indent_level": 1,
+    "reference_url": "Página 513 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_5_1.pdf": {
+    "document_title": "Creating subscriptions for Apache Kafka",
+    "indent_level": 2,
+    "reference_url": "Página 515 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_5_2.pdf": {
+    "document_title": "Processing events from Apache Kafka",
+    "indent_level": 2,
+    "reference_url": "Página 516 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_5_3.pdf": {
+    "document_title": "Renewing and deleting a subscription",
+    "indent_level": 2,
+    "reference_url": "Página 517 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 518 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 519 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 519 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch14_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 520 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

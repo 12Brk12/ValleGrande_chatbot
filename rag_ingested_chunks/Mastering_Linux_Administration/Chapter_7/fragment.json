@@ -1,0 +1,107 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7: Networking with Linux",
+    "pages": [236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [236]
+      },
+      {
+        "title": "Exploring basic networking",
+        "pages": [237],
+        "subsections": [
+          {
+            "title": "Computer networks",
+            "pages": [237]
+          },
+          {
+            "title": "The OSI model",
+            "pages": [238]
+          },
+          {
+            "title": "The TCP/IP network stack model",
+            "pages": [243]
+          },
+          {
+            "title": "TCP/IP protocols",
+            "pages": [244]
+          },
+          {
+            "title": "IP addresses",
+            "pages": [247]
+          },
+          {
+            "title": "Sockets and ports",
+            "pages": [251]
+          },
+          {
+            "title": "Linux network configuration",
+            "pages": [252]
+          }
+        ]
+      },
+      {
+        "title": "Working with network services",
+        "pages": [264],
+        "subsections": [
+          {
+            "title": "DHCP servers",
+            "pages": [264]
+          },
+          {
+            "title": "DNS servers",
+            "pages": [265]
+          },
+          {
+            "title": "Authentication servers",
+            "pages": [269]
+          },
+          {
+            "title": "File sharing",
+            "pages": [271]
+          },
+          {
+            "title": "Printer servers",
+            "pages": [272]
+          },
+          {
+            "title": "File transfer",
+            "pages": [273]
+          },
+          {
+            "title": "Mail servers",
+            "pages": [273]
+          },
+          {
+            "title": "NTP servers",
+            "pages": [276]
+          },
+          {
+            "title": "Remote access",
+            "pages": [279]
+          }
+        ]
+      },
+      {
+        "title": "Understanding network security",
+        "pages": [283]
+      },
+      {
+        "title": "Summary",
+        "pages": [283]
+      },
+      {
+        "title": "Questions",
+        "pages": [284]
+      },
+      {
+        "title": "Further reading",
+        "pages": [284]
+      }
+    ]
+  }
+}

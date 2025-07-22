@@ -1,0 +1,75 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13: Python and Machine Learning",
+    "pages": [456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [457]
+      },
+      {
+        "title": "Introducing machine learning",
+        "pages": [457]
+      },
+      {
+        "title": "Using Python for machine learning",
+        "pages": [460],
+        "subsections": [
+          {
+            "title": "Introducing machine learning libraries in Python",
+            "pages": [460]
+          },
+          {
+            "title": "Best practices of training data with Python",
+            "pages": [462]
+          }
+        ]
+      },
+      {
+        "title": "Building and evaluating a machine learning model",
+        "pages": [462],
+        "subsections": [
+          {
+            "title": "Learning about an ML model building process",
+            "pages": [463]
+          },
+          {
+            "title": "Building a sample ML model",
+            "pages": [464]
+          },
+          {
+            "title": "Evaluating a model using cross-validation and fine tuning hyperparameters",
+            "pages": [470]
+          },
+          {
+            "title": "Saving an ML model to a file",
+            "pages": [474]
+          }
+        ]
+      },
+      {
+        "title": "Deploying and predicting an ML model on GCP Cloud",
+        "pages": [475]
+      },
+      {
+        "title": "Summary",
+        "pages": [478]
+      },
+      {
+        "title": "Questions",
+        "pages": [479]
+      },
+      {
+        "title": "Further reading",
+        "pages": [479]
+      },
+      {
+        "title": "Answers",
+        "pages": [480]
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 14 Messing with Video and Graphics",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 14, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 289 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_1.pdf": {
+    "document_title": "Watchin’ Videos on the Web",
+    "indent_level": 1,
+    "reference_url": "Página 289 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 14"
+  },
+  "ch14_1_1.pdf": {
+    "document_title": "Firefox video support",
+    "indent_level": 2,
+    "reference_url": "Página 290 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_1_2.pdf": {
+    "document_title": "Getting even more video support",
+    "indent_level": 2,
+    "reference_url": "Página 291 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_2.pdf": {
+    "document_title": "Viewing Movie Files",
+    "indent_level": 1,
+    "reference_url": "Página 293 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_2_1.pdf": {
+    "document_title": "GNOME Videos",
+    "indent_level": 2,
+    "reference_url": "Página 294 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_2_2.pdf": {
+    "document_title": "KDE Dragon",
+    "indent_level": 2,
+    "reference_url": "Página 295 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_2_3.pdf": {
+    "document_title": "VLC",
+    "indent_level": 2,
+    "reference_url": "Página 296 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_3.pdf": {
+    "document_title": "Watchin’ DVDs",
+    "indent_level": 1,
+    "reference_url": "Página 297 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_4.pdf": {
+    "document_title": "Creating and Modifying Graphics",
+    "indent_level": 1,
+    "reference_url": "Página 298 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_4_1.pdf": {
+    "document_title": "GIMP basic tools",
+    "indent_level": 2,
+    "reference_url": "Página 299 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_4_2.pdf": {
+    "document_title": "Capturing screenshots",
+    "indent_level": 2,
+    "reference_url": "Página 300 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_4_3.pdf": {
+    "document_title": "Editing an image file",
+    "indent_level": 2,
+    "reference_url": "Página 301 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_4_4.pdf": {
+    "document_title": "Using GIMP scripts",
+    "indent_level": 2,
+    "reference_url": "Página 303 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch14_5.pdf": {
+    "document_title": "Playing 3D Games",
+    "indent_level": 1,
+    "reference_url": "Página 304 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

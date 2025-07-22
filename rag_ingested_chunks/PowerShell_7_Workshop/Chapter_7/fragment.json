@@ -1,0 +1,91 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7: PowerShell and the Web – HTTP, REST, and JSON",
+    "pages": [188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215],
+    "subsections": [
+      {
+        "title": "Working with HTTP",
+        "pages": [189],
+        "subsections": [
+          {
+            "title": "Why don’t we see Forms information in PowerShell 7?",
+            "pages": [193]
+          },
+          {
+            "title": "Authentication",
+            "pages": [195]
+          }
+        ]
+      },
+      {
+        "title": "Getting to grips with APIs",
+        "pages": [197],
+        "subsections": [
+          {
+            "title": "RPC APIs",
+            "pages": [198]
+          },
+          {
+            "title": "SOAP APIs",
+            "pages": [199]
+          },
+          {
+            "title": "REST APIs",
+            "pages": [199]
+          },
+          {
+            "title": "WebSocket APIs",
+            "pages": [199]
+          }
+        ]
+      },
+      {
+        "title": "Working with REST",
+        "pages": [199],
+        "subsections": [
+          {
+            "title": "Invoke-RestMethod",
+            "pages": [200]
+          }
+        ]
+      },
+      {
+        "title": "Working with JSON",
+        "pages": [203],
+        "subsections": [
+          {
+            "title": "ConvertFrom-Json",
+            "pages": [205]
+          },
+          {
+            "title": "ConvertTo-Json",
+            "pages": [207]
+          },
+          {
+            "title": "Test-Json",
+            "pages": [210]
+          }
+        ]
+      },
+      {
+        "title": "Let’s have some fun – who is on the International Space Station?",
+        "pages": [211]
+      },
+      {
+        "title": "Summary",
+        "pages": [212]
+      },
+      {
+        "title": "Exercises",
+        "pages": [213]
+      },
+      {
+        "title": "Further reading",
+        "pages": [214]
+      }
+    ]
+  }
+}

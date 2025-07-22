@@ -1,0 +1,97 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 14: PowerShell 7 for Linux and macOS",
+    "pages": [362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [363]
+      },
+      {
+        "title": "Installing PowerShell 7",
+        "pages": [366],
+        "subsections": [
+          {
+            "title": "Installing PowerShell on Ubuntu 22.04",
+            "pages": [366]
+          },
+          {
+            "title": "Installing PowerShell on CentOS 8 and 9",
+            "pages": [369]
+          },
+          {
+            "title": "Installing PowerShell on CentOS 7",
+            "pages": [370]
+          }
+        ]
+      },
+      {
+        "title": "Installing VS Code",
+        "pages": [371]
+      },
+      {
+        "title": "Running PowerShell on Linux",
+        "pages": [373]
+      },
+      {
+        "title": "Remoting with OpenSSH",
+        "pages": [375],
+        "subsections": [
+          {
+            "title": "Checking that PowerShell has OpenSSH support",
+            "pages": [375]
+          },
+          {
+            "title": "Installing OpenSSH on Windows",
+            "pages": [375]
+          },
+          {
+            "title": "Installing OpenSSH on Linux",
+            "pages": [377]
+          },
+          {
+            "title": "Running remote sessions",
+            "pages": [378]
+          },
+          {
+            "title": "Authentication",
+            "pages": [379]
+          }
+        ]
+      },
+      {
+        "title": "PowerShell for macOS",
+        "pages": [381],
+        "subsections": [
+          {
+            "title": "Installing Homebrew on macOS",
+            "pages": [381]
+          },
+          {
+            "title": "Installing PowerShell on macOS",
+            "pages": [381]
+          },
+          {
+            "title": "Installing VS Code on macOS",
+            "pages": [383]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [383]
+      },
+      {
+        "title": "Exercises",
+        "pages": [384]
+      },
+      {
+        "title": "Further reading",
+        "pages": [384]
+      }
+    ]
+  }
+}

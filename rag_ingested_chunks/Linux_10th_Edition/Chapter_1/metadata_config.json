@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1 Getting Acquainted with Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 23 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Is Free Really Free?",
+    "indent_level": 1,
+    "reference_url": "Página 23 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_2.pdf": {
+    "document_title": "Linux: Revolution or Just Another Operating System?",
+    "indent_level": 1,
+    "reference_url": "Página 24 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "Anatomy of an Open Source Software Project",
+    "indent_level": 1,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "GNU who?",
+    "indent_level": 2,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_3_2.pdf": {
+    "document_title": "Who’s in charge of Linux, anyway?",
+    "indent_level": 2,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_3_3.pdf": {
+    "document_title": "Einstein was a volunteer",
+    "indent_level": 2,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Packaging Linux: The Distribution",
+    "indent_level": 1,
+    "reference_url": "Página 30 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_4_1.pdf": {
+    "document_title": "Core Linux distributions",
+    "indent_level": 2,
+    "reference_url": "Página 30 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_4_2.pdf": {
+    "document_title": "Specialized Linux distributions",
+    "indent_level": 2,
+    "reference_url": "Página 32 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch1_4_3.pdf": {
+    "document_title": "The Linux Live distribution",
+    "indent_level": 2,
+    "reference_url": "Página 32 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

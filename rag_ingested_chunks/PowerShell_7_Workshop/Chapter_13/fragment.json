@@ -1,0 +1,59 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13: Working with PowerShell 7 and Windows",
+    "pages": [338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361],
+    "subsections": [
+      {
+        "title": "Understanding PowerShell 7 and Windows PowerShell",
+        "pages": [339]
+      },
+      {
+        "title": "Exploring compatibility",
+        "pages": [339],
+        "subsections": [
+          {
+            "title": "Which modules are compatible with PowerShell 7?",
+            "pages": [339]
+          }
+        ]
+      },
+      {
+        "title": "What doesn’t work with PowerShell 7",
+        "pages": [347]
+      },
+      {
+        "title": "Managing machines with CIM and WMI",
+        "pages": [347],
+        "subsections": [
+          {
+            "title": "Introduction to CIM and WMI",
+            "pages": [347]
+          },
+          {
+            "title": "Querying data",
+            "pages": [351]
+          },
+          {
+            "title": "Making changes",
+            "pages": [354]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [358]
+      },
+      {
+        "title": "Exercises",
+        "pages": [359]
+      },
+      {
+        "title": "Further reading",
+        "pages": [359]
+      }
+    ]
+  }
+}

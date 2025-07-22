@@ -1,0 +1,69 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6: Working with Disks and Filesystems",
+    "pages": [208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [208]
+      },
+      {
+        "title": "Understanding devices in Linux",
+        "pages": [208],
+        "subsections": [
+          {
+            "title": "Linux abstraction layers",
+            "pages": [209]
+          },
+          {
+            "title": "Device files and naming conventions",
+            "pages": [210]
+          }
+        ]
+      },
+      {
+        "title": "Understanding filesystem types in Linux",
+        "pages": [213]
+      },
+      {
+        "title": "Understanding disks and partitions",
+        "pages": [216],
+        "subsections": [
+          {
+            "title": "Common disk types",
+            "pages": [216]
+          },
+          {
+            "title": "Partitioning disks",
+            "pages": [218]
+          }
+        ]
+      },
+      {
+        "title": "Introducing LVM in Linux",
+        "pages": [229],
+        "subsections": [
+          {
+            "title": "LVM snapshots",
+            "pages": [232]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [234]
+      },
+      {
+        "title": "Questions",
+        "pages": [235]
+      },
+      {
+        "title": "Further reading",
+        "pages": [235]
+      }
+    ]
+  }
+}

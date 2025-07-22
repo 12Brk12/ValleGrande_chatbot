@@ -1,0 +1,55 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 15 Adding Software to Linux",
+    "pages": [309,310,311,312,313,314,315,316,317,318,319,320],
+    "subsections": [
+      {
+        "title": "Opening Downloaded Files",
+        "pages": [309]
+      },
+      {
+        "title": "Compressing and Packaging Files to Share",
+        "pages": [311]
+      },
+      {
+        "title": "Keeping Up-to-Update",
+        "pages": [312],
+        "subsections": [
+          {
+            "title": "Updating Ubuntu",
+            "pages": [312]
+          },
+          {
+            "title": "Updating openSUSE",
+            "pages": [313]
+          }
+        ]
+      },
+      {
+        "title": "Installing New Software",
+        "pages": [314],
+        "subsections": [
+          {
+            "title": "Adding applications",
+            "pages": [315]
+          },
+          {
+            "title": "Adding packages",
+            "pages": [317]
+          }
+        ]
+      },
+      {
+        "title": "Finding More Software",
+        "pages": [319]
+      },
+      {
+        "title": "Upgrading Your OS",
+        "pages": [320]
+      }
+    ]
+  }
+}

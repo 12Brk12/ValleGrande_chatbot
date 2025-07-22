@@ -1,0 +1,63 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2: Linux User and Group Commands",
+    "pages": [54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71],
+    "subsections": [
+      {
+        "title": "useradd, userdel, and usermod",
+        "pages": [55],
+        "subsections": [
+          {
+            "title": "useradd",
+            "pages": [55]
+          },
+          {
+            "title": "userdel",
+            "pages": [57]
+          },
+          {
+            "title": "usermod",
+            "pages": [59]
+          }
+        ]
+      },
+      {
+        "title": "Files, directories, and permission commands",
+        "pages": [61],
+        "subsections": [
+          {
+            "title": "chmod",
+            "pages": [62]
+          },
+          {
+            "title": "chown",
+            "pages": [62]
+          },
+          {
+            "title": "chgrp",
+            "pages": [62]
+          }
+        ]
+      },
+      {
+        "title": "groupdel, groupmod, groupadd, and grpck",
+        "pages": [63]
+      },
+      {
+        "title": "pwck, chage, and passwd commands",
+        "pages": [65]
+      },
+      {
+        "title": "find, locate, and whereis commands",
+        "pages": [69]
+      },
+      {
+        "title": "Summary",
+        "pages": [71]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4: Format and Disk Space Commands",
+    "pages": [88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
+    "subsections": [
+      {
+        "title": "The history and evolution of disk formatting and partitioning in Linux",
+        "pages": [89]
+      },
+      {
+        "title": "Steps to create a partition",
+        "pages": [90]
+      },
+      {
+        "title": "fdisk, lsblk, df, and du",
+        "pages": [94],
+        "subsections": [
+          {
+            "title": "Checking the disk space usage of a directory",
+            "pages": [96]
+          },
+          {
+            "title": "Finding large files in a directory",
+            "pages": [97]
+          }
+        ]
+      },
+      {
+        "title": "Displaying (dpkg and rpm) package space",
+        "pages": [97],
+        "subsections": [
+          {
+            "title": "Installing a package",
+            "pages": [98]
+          },
+          {
+            "title": "Querying the details of a package",
+            "pages": [98]
+          }
+        ]
+      },
+      {
+        "title": "mkfs, mke2fs, fdformat, and more",
+        "pages": [99]
+      },
+      {
+        "title": "Summary",
+        "pages": [105]
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1: Optimal Python Development Life Cycle",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 26 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Python culture and community",
+    "indent_level": 1,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_2.pdf": {
+    "document_title": "Different phases of a Python project",
+    "indent_level": 1,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "Strategizing the development process",
+    "indent_level": 1,
+    "reference_url": "Página 32 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "Iterating through the phases",
+    "indent_level": 2,
+    "reference_url": "Página 32 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_3_2.pdf": {
+    "document_title": "Aiming for MVP first",
+    "indent_level": 2,
+    "reference_url": "Página 33 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_3_3.pdf": {
+    "document_title": "Strategizing development for specialized domains",
+    "indent_level": 2,
+    "reference_url": "Página 33 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Effectively documenting Python code",
+    "indent_level": 1,
+    "reference_url": "Página 37 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_4_1.pdf": {
+    "document_title": "Python comments",
+    "indent_level": 2,
+    "reference_url": "Página 37 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_4_2.pdf": {
+    "document_title": "Docstring",
+    "indent_level": 2,
+    "reference_url": "Página 38 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_4_3.pdf": {
+    "document_title": "Functional or class-level documentation",
+    "indent_level": 2,
+    "reference_url": "Página 39 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5.pdf": {
+    "document_title": "Developing an effective naming scheme",
+    "indent_level": 1,
+    "reference_url": "Página 41 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_1.pdf": {
+    "document_title": "Methods",
+    "indent_level": 2,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_5_2.pdf": {
+    "document_title": "Variables",
+    "indent_level": 2,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_3.pdf": {
+    "document_title": "Constant",
+    "indent_level": 2,
+    "reference_url": "Página 43 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_4.pdf": {
+    "document_title": "Classes",
+    "indent_level": 2,
+    "reference_url": "Página 44 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_5.pdf": {
+    "document_title": "Packages",
+    "indent_level": 2,
+    "reference_url": "Página 44 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_6.pdf": {
+    "document_title": "Modules",
+    "indent_level": 2,
+    "reference_url": "Página 44 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_7.pdf": {
+    "document_title": "Import conventions",
+    "indent_level": 2,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_8.pdf": {
+    "document_title": "Arguments",
+    "indent_level": 2,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_5_9.pdf": {
+    "document_title": "Useful tools",
+    "indent_level": 2,
+    "reference_url": "Página 45 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_6.pdf": {
+    "document_title": "Exploring choices for source control",
+    "indent_level": 1,
+    "reference_url": "Página 46 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_6_1.pdf": {
+    "document_title": "What does not belong to the source control repository?",
+    "indent_level": 2,
+    "reference_url": "Página 46 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_7.pdf": {
+    "document_title": "Understanding strategies for deploying the code",
+    "indent_level": 1,
+    "reference_url": "Página 47 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_7_1.pdf": {
+    "document_title": "Batch development",
+    "indent_level": 2,
+    "reference_url": "Página 47 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_8.pdf": {
+    "document_title": "Python development environments",
+    "indent_level": 1,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_8_1.pdf": {
+    "document_title": "IDLE",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_8_2.pdf": {
+    "document_title": "Sublime Text",
+    "indent_level": 2,
+    "reference_url": "Página 49 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_8_3.pdf": {
+    "document_title": "PyCharm",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_8_4.pdf": {
+    "document_title": "Visual Studio Code",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_8_5.pdf": {
+    "document_title": "PyDev",
+    "indent_level": 2,
+    "reference_url": "Página 50 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_8_6.pdf": {
+    "document_title": "Spyder",
+    "indent_level": 2,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_9.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 51 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_10.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_11.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch1_12.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11: Creating Our First Module",
+    "pages": [292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315],
+    "subsections": [
+      {
+        "title": "Working with modules",
+        "pages": [292],
+        "subsections": [
+          {
+            "title": "Module locations",
+            "pages": [293]
+          },
+          {
+            "title": "Module autoloading",
+            "pages": [294]
+          },
+          {
+            "title": "Importing modules",
+            "pages": [295]
+          },
+          {
+            "title": "PowerShellGet",
+            "pages": [295]
+          }
+        ]
+      },
+      {
+        "title": "Writing a simple module",
+        "pages": [296],
+        "subsections": [
+          {
+            "title": "A word of caution – dot-sourcing",
+            "pages": [297]
+          },
+          {
+            "title": "Turning a script into a module",
+            "pages": [299]
+          },
+          {
+            "title": "Nested modules",
+            "pages": [302]
+          },
+          {
+            "title": "More modules",
+            "pages": [305]
+          }
+        ]
+      },
+      {
+        "title": "Module manifests",
+        "pages": [306]
+      },
+      {
+        "title": "Using scaffolding tools such as Plaster",
+        "pages": [310]
+      },
+      {
+        "title": "Summary",
+        "pages": [314]
+      },
+      {
+        "title": "Exercises",
+        "pages": [314]
+      },
+      {
+        "title": "Further reading",
+        "pages": [315]
+      }
+    ]
+  }
+}

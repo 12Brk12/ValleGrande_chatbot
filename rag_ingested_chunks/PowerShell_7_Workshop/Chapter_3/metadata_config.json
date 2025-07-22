@@ -1,0 +1,114 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3: The PowerShell Pipeline – How to String Cmdlets Together",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 74 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "How to bring cmdlets together – the pipeline",
+    "indent_level": 1,
+    "reference_url": "Página 75 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_1_1.pdf": {
+    "document_title": "What is an object?",
+    "indent_level": 2,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Selecting and sorting objects",
+    "indent_level": 1,
+    "reference_url": "Página 78 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_2_1.pdf": {
+    "document_title": "Using Select-Object",
+    "indent_level": 2,
+    "reference_url": "Página 79 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2_2.pdf": {
+    "document_title": "Ordering objects with Sort-Object",
+    "indent_level": 2,
+    "reference_url": "Página 80 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "Filtering objects",
+    "indent_level": 1,
+    "reference_url": "Página 83 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_3_1.pdf": {
+    "document_title": "Understanding comparison operators",
+    "indent_level": 2,
+    "reference_url": "Página 83 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_3_2.pdf": {
+    "document_title": "Understanding Where-Object advanced syntax",
+    "indent_level": 2,
+    "reference_url": "Página 85 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_3_3.pdf": {
+    "document_title": "Multiple filters in the advanced syntax",
+    "indent_level": 2,
+    "reference_url": "Página 86 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_3_4.pdf": {
+    "document_title": "Filter optimization",
+    "indent_level": 2,
+    "reference_url": "Página 89 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Enumerating objects",
+    "indent_level": 1,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_4_1.pdf": {
+    "document_title": "Parallel enumeration",
+    "indent_level": 2,
+    "reference_url": "Página 91 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_5.pdf": {
+    "document_title": "How the pipeline works – parameter binding",
+    "indent_level": 1,
+    "reference_url": "Página 91 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_5_1.pdf": {
+    "document_title": "Understanding ByValue parameter binding",
+    "indent_level": 2,
+    "reference_url": "Página 92 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_5_2.pdf": {
+    "document_title": "ByPropertyName parameter binding",
+    "indent_level": 2,
+    "reference_url": "Página 94 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_6.pdf": {
+    "document_title": "Troubleshooting the pipeline – pipeline tracing",
+    "indent_level": 1,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch3_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9: Linux Monitoring and Debugging Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 160 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "The top command",
+    "indent_level": 1,
+    "reference_url": "Página 161 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_2.pdf": {
+    "document_title": "The ps command",
+    "indent_level": 1,
+    "reference_url": "Página 164 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "The pstree command",
+    "indent_level": 1,
+    "reference_url": "Página 166 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_4.pdf": {
+    "document_title": "The strace command",
+    "indent_level": 1,
+    "reference_url": "Página 167 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "The watch command",
+    "indent_level": 1,
+    "reference_url": "Página 169 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "The smartctl command",
+    "indent_level": 1,
+    "reference_url": "Página 169 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "The uptime command",
+    "indent_level": 1,
+    "reference_url": "Página 170 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_8.pdf": {
+    "document_title": "The lsof command",
+    "indent_level": 1,
+    "reference_url": "Página 171 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_9.pdf": {
+    "document_title": "The lsmod command",
+    "indent_level": 1,
+    "reference_url": "Página 172 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_10.pdf": {
+    "document_title": "The last reboot command",
+    "indent_level": 1,
+    "reference_url": "Página 174 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_11.pdf": {
+    "document_title": "The last command",
+    "indent_level": 1,
+    "reference_url": "Página 174 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_12.pdf": {
+    "document_title": "The w command",
+    "indent_level": 1,
+    "reference_url": "Página 175 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_13.pdf": {
+    "document_title": "The vmstat command",
+    "indent_level": 1,
+    "reference_url": "Página 175 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_14.pdf": {
+    "document_title": "The kill command",
+    "indent_level": 1,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_15.pdf": {
+    "document_title": "The pkill command",
+    "indent_level": 1,
+    "reference_url": "Página 178 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch9_16.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 179 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 17 Programming with Python",
+    "pages": [415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436],
+    "subsections": [
+      {
+        "title": "Basics of Python",
+        "pages": [415]
+      },
+      {
+        "title": "Running Python Scripts",
+        "pages": [416]
+      },
+      {
+        "title": "Debugging Python Scripts",
+        "pages": [417],
+        "subsections": [
+          {
+            "title": "Installing VS Code on Kali",
+            "pages": [417]
+          }
+        ]
+      },
+      {
+        "title": "Practicing Python",
+        "pages": [418]
+      },
+      {
+        "title": "Python Basic Syntaxes",
+        "pages": [419],
+        "subsections": [
+          {
+            "title": "Python Shebang",
+            "pages": [419]
+          },
+          {
+            "title": "Comments in Python",
+            "pages": [419]
+          },
+          {
+            "title": "Line Indentation and Importing Modules",
+            "pages": [420]
+          },
+          {
+            "title": "Input and Output",
+            "pages": [420],
+            "subsections": [
+              {
+                "title": "Printing CLI Arguments",
+                "pages": [421]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Variables",
+        "pages": [421],
+        "subsections": [
+          {
+            "title": "Numbers",
+            "pages": [421]
+          },
+          {
+            "title": "Arithmetic Operators",
+            "pages": [423]
+          },
+          {
+            "title": "Strings",
+            "pages": [423],
+            "subsections": [
+              {
+                "title": "String Formatting",
+                "pages": [423]
+              },
+              {
+                "title": "String Functions",
+                "pages": [424]
+              }
+            ]
+          },
+          {
+            "title": "Lists",
+            "pages": [425],
+            "subsections": [
+              {
+                "title": "Reading Values in a List",
+                "pages": [425]
+              },
+              {
+                "title": "Updating List Items",
+                "pages": [425]
+              },
+              {
+                "title": "Removing a list item",
+                "pages": [426]
+              }
+            ]
+          },
+          {
+            "title": "Tuples",
+            "pages": [426]
+          },
+          {
+            "title": "Dictionary",
+            "pages": [426]
+          }
+        ]
+      },
+      {
+        "title": "More Techniques in Python",
+        "pages": [426],
+        "subsections": [
+          {
+            "title": "Functions",
+            "pages": [426],
+            "subsections": [
+              {
+                "title": "Returning Values",
+                "pages": [427]
+              },
+              {
+                "title": "Optional Arguments",
+                "pages": [427]
+              }
+            ]
+          },
+          {
+            "title": "Global Variables",
+            "pages": [428],
+            "subsections": [
+              {
+                "title": "Changing Global Variables",
+                "pages": [428]
+              }
+            ]
+          },
+          {
+            "title": "Conditions",
+            "pages": [429],
+            "subsections": [
+              {
+                "title": "if/else Statement",
+                "pages": [429]
+              }
+            ]
+          },
+          {
+            "title": "Comparison Operators",
+            "pages": [429]
+          },
+          {
+            "title": "Loop Iterations",
+            "pages": [430],
+            "subsections": [
+              {
+                "title": "while Loop",
+                "pages": [430]
+              },
+              {
+                "title": "for Loop",
+                "pages": [431]
+              }
+            ]
+          },
+          {
+            "title": "Managing Files",
+            "pages": [432]
+          },
+          {
+            "title": "Exception Handling",
+            "pages": [433]
+          },
+          {
+            "title": "Text Escape Characters",
+            "pages": [433],
+            "subsections": [
+              {
+                "title": "Custom Objects in Python",
+                "pages": [434]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [435]
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 1: Introduction to PowerShell 7 – What It Is and How to Get It",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 1, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 26 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 26 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 1"
+  },
+  "ch1_2.pdf": {
+    "document_title": "What is PowerShell 7?",
+    "indent_level": 1,
+    "reference_url": "Página 27 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_3.pdf": {
+    "document_title": "What is PowerShell 7 used for?",
+    "indent_level": 1,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_3_1.pdf": {
+    "document_title": "Scripting languages versus system programming languages",
+    "indent_level": 2,
+    "reference_url": "Página 29 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_4.pdf": {
+    "document_title": "Getting PowerShell 7",
+    "indent_level": 1,
+    "reference_url": "Página 30 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_4_1.pdf": {
+    "document_title": "Installation from an .msi file",
+    "indent_level": 2,
+    "reference_url": "Página 31 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_4_2.pdf": {
+    "document_title": "Installation from the .zip file",
+    "indent_level": 2,
+    "reference_url": "Página 35 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_4_3.pdf": {
+    "document_title": "Installation with winget",
+    "indent_level": 2,
+    "reference_url": "Página 37 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_4_4.pdf": {
+    "document_title": "Other ways to install",
+    "indent_level": 2,
+    "reference_url": "Página 38 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_5.pdf": {
+    "document_title": "Running PowerShell 7",
+    "indent_level": 1,
+    "reference_url": "Página 39 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_5_1.pdf": {
+    "document_title": "Running PowerShell with administrator privileges",
+    "indent_level": 2,
+    "reference_url": "Página 41 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_5_2.pdf": {
+    "document_title": "Autocomplete",
+    "indent_level": 2,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_6.pdf": {
+    "document_title": "Getting help",
+    "indent_level": 1,
+    "reference_url": "Página 42 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_6_1.pdf": {
+    "document_title": "Get-Command",
+    "indent_level": 2,
+    "reference_url": "Página 43 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch1_6_2.pdf": {
+    "document_title": "Get-Help",
+    "indent_level": 2,
+    "reference_url": "Página 44 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_6_3.pdf": {
+    "document_title": "Get-Member",
+    "indent_level": 2,
+    "reference_url": "Página 46 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch1_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 48 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

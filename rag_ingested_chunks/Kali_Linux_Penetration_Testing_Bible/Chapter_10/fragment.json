@@ -1,0 +1,89 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 10 Linux Privilege Escalation",
+    "pages": [283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298],
+    "subsections": [
+      {
+        "title": "Introduction to Kernel Exploits and Missing Configurations",
+        "pages": [284]
+      },
+      {
+        "title": "Kernel Exploits",
+        "pages": [284],
+        "subsections": [
+          {
+            "title": "Kernel Exploit: Dirty Cow",
+            "pages": [284]
+          }
+        ]
+      },
+      {
+        "title": "SUID Exploitation",
+        "pages": [287]
+      },
+      {
+        "title": "Overriding the Passwd Users File",
+        "pages": [289]
+      },
+      {
+        "title": "CRON Jobs Privilege Escalation",
+        "pages": [290],
+        "subsections": [
+          {
+            "title": "CRON Basics",
+            "pages": [291],
+            "subsections": [
+              {
+                "title": "Crontab",
+                "pages": [291]
+              },
+              {
+                "title": "Anacrontab",
+                "pages": [292]
+              }
+            ]
+          },
+          {
+            "title": "Enumerating and Exploiting CRON",
+            "pages": [292]
+          }
+        ]
+      },
+      {
+        "title": "sudoers",
+        "pages": [294],
+        "subsections": [
+          {
+            "title": "sudo Privilege Escalation",
+            "pages": [294],
+            "subsections": [
+              {
+                "title": "Exploiting the Find Command",
+                "pages": [294]
+              },
+              {
+                "title": "Editing the sudoers File",
+                "pages": [295]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Exploiting Running Services",
+        "pages": [296]
+      },
+      {
+        "title": "Automated Scripts",
+        "pages": [296]
+      },
+      {
+        "title": "Summary",
+        "pages": [297]
+      }
+    ]
+  }
+}

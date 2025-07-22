@@ -1,0 +1,51 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 14 Reporting",
+    "pages": [371,372,373,374,375,376,377,378],
+    "subsections": [
+      {
+        "title": "Overview of Reports in Penetration Testing",
+        "pages": [371]
+      },
+      {
+        "title": "Scoring Severities",
+        "pages": [372],
+        "subsections": [
+          {
+            "title": "Common Vulnerability Scoring System Version 3.1",
+            "pages": [372]
+          }
+        ]
+      },
+      {
+        "title": "Report Presentation",
+        "pages": [375],
+        "subsections": [
+          {
+            "title": "Cover Page",
+            "pages": [376]
+          },
+          {
+            "title": "History Logs",
+            "pages": [376]
+          },
+          {
+            "title": "Report Summary",
+            "pages": [376]
+          },
+          {
+            "title": "Vulnerabilities Section",
+            "pages": [376]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [377]
+      }
+    ]
+  }
+}

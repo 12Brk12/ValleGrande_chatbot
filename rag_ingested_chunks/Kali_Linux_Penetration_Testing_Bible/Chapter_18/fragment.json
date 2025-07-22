@@ -1,0 +1,55 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 18 Pentest Automation with Python",
+    "pages": [437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452],
+    "subsections": [
+      {
+        "title": "Penetration Test Robot",
+        "pages": [437],
+        "subsections": [
+          {
+            "title": "Application Workflow",
+            "pages": [438],
+            "subsections": [
+              {
+                "title": "Python Packages",
+                "pages": [440]
+              },
+              {
+                "title": "Application Start",
+                "pages": [440]
+              },
+              {
+                "title": "Input Validation",
+                "pages": [441]
+              },
+              {
+                "title": "Code Refactoring",
+                "pages": [443]
+              },
+              {
+                "title": "Scanning for Live Hosts",
+                "pages": [444]
+              },
+              {
+                "title": "Ports and Services Scanning",
+                "pages": [446]
+              },
+              {
+                "title": "Attacking Credentials and Saving the Results",
+                "pages": [449]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [452]
+      }
+    ]
+  }
+}

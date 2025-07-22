@@ -1,0 +1,101 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos del libro",
+    "tags": [
+      "Contiene los nombres de los capítulos que contiene el libro, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Usado frecuentemente para saber que cuantos capitulos contiene este libro, mas no contiene información de sus secciones y subsecciones",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs contienen información de las secciones y subsecciones de su respectivo capitulo"
+  },
+  "about_chapter_1.pdf": {
+    "document_title": "Chapter 1 Getting Acquainted with Linux",
+    "reference_url": "Página 23 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_2.pdf": {
+    "document_title": "Chapter 2 Prepping Your Computer for Linux",
+    "reference_url": "Página 35 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_3.pdf": {
+    "document_title": "Chapter 3 Installing Linux",
+    "reference_url": "Página 53 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_4.pdf": {
+    "document_title": "Chapter 4 Examining the GNOME Desktop",
+    "reference_url": "Página 77 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_5.pdf": {
+    "document_title": "Chapter 5 Examining the KDE Plasma Desktop",
+    "reference_url": "Página 99 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_6.pdf": {
+    "document_title": "Chapter 6 Exploring Alternative Desktops",
+    "reference_url": "Página 117 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_7.pdf": {
+    "document_title": "Chapter 7 Getting to Know the Linux Filesystem",
+    "reference_url": "Página 137 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_8.pdf": {
+    "document_title": "Chapter 8 Using the Filesystem",
+    "reference_url": "Página 151 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_9.pdf": {
+    "document_title": "Chapter 9 Connecting to the Internet",
+    "reference_url": "Página 169 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_10.pdf": {
+    "document_title": "Chapter 10 Using the Internet",
+    "reference_url": "Página 191 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_11.pdf": {
+    "document_title": "Chapter 11 Putting the X in Text",
+    "reference_url": "Página 219 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_12.pdf": {
+    "document_title": "Chapter 12 Word Processing and More with LibreOffice",
+    "reference_url": "Página 235 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_13.pdf": {
+    "document_title": "Chapter 13 Messing with Audio",
+    "reference_url": "Página 269 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_14.pdf": {
+    "document_title": "Chapter 14 Messing with Video and Graphics",
+    "reference_url": "Página 289 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_15.pdf": {
+    "document_title": "Chapter 15 Adding Software to Linux",
+    "reference_url": "Página 309 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_16.pdf": {
+    "document_title": "Chapter 16 Working without the GUI",
+    "reference_url": "Página 321 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_17.pdf": {
+    "document_title": "Chapter 17 Basic System Administration",
+    "reference_url": "Página 339 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_18.pdf": {
+    "document_title": "Chapter 18 A Secure Linux Box Is a Happy Linux Box",
+    "reference_url": "Página 359 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_19.pdf": {
+    "document_title": "Chapter 19 Automating Your World",
+    "reference_url": "Página 375 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_20.pdf": {
+    "document_title": "Chapter 20 The Virtual World",
+    "reference_url": "Página 397 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_21.pdf": {
+    "document_title": "Chapter 21 Ten Steps to Running a Web Server",
+    "reference_url": "Página 415 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "about_chapter_22.pdf": {
+    "document_title": "Chapter 22 Ten Troubleshooting Tips",
+    "reference_url": "Página 437 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

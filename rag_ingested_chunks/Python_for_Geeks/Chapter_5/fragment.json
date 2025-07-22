@@ -1,0 +1,89 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5: Testing and Automation with Python",
+    "pages": [174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [175]
+      },
+      {
+        "title": "Understanding various levels of testing",
+        "pages": [175],
+        "subsections": [
+          {
+            "title": "Unit testing",
+            "pages": [176]
+          },
+          {
+            "title": "Integration testing",
+            "pages": [177]
+          },
+          {
+            "title": "System testing",
+            "pages": [177]
+          },
+          {
+            "title": "Acceptance testing",
+            "pages": [178]
+          }
+        ]
+      },
+      {
+        "title": "Working with Python test frameworks",
+        "pages": [178],
+        "subsections": [
+          {
+            "title": "Working with the unittest framework",
+            "pages": [180]
+          },
+          {
+            "title": "Working with the pytest framework",
+            "pages": [192]
+          }
+        ]
+      },
+      {
+        "title": "Executing TDD",
+        "pages": [202],
+        "subsections": [
+          {
+            "title": "Red",
+            "pages": [202]
+          },
+          {
+            "title": "Green",
+            "pages": [202]
+          },
+          {
+            "title": "Refactor",
+            "pages": [203]
+          }
+        ]
+      },
+      {
+        "title": "Introducing automated CI",
+        "pages": [204]
+      },
+      {
+        "title": "Summary",
+        "pages": [205]
+      },
+      {
+        "title": "Questions",
+        "pages": [205]
+      },
+      {
+        "title": "Further reading",
+        "pages": [205]
+      },
+      {
+        "title": "Answers",
+        "pages": [206]
+      }
+    ]
+  }
+}

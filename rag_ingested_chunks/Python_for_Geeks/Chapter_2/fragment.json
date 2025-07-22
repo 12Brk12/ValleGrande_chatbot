@@ -1,0 +1,115 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2: Using Modularization to Handle Complex Projects",
+    "pages": [54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [55]
+      },
+      {
+        "title": "Introduction to modules and packages",
+        "pages": [55]
+      },
+      {
+        "title": "Importing modules",
+        "pages": [56],
+        "subsections": [
+          {
+            "title": "Using the import statement",
+            "pages": [58]
+          },
+          {
+            "title": "Using the __import__ statement",
+            "pages": [63]
+          },
+          {
+            "title": "Using the importlib.import_module statement",
+            "pages": [64]
+          },
+          {
+            "title": "Absolute versus relative import",
+            "pages": [65]
+          }
+        ]
+      },
+      {
+        "title": "Loading and initializing a module",
+        "pages": [67],
+        "subsections": [
+          {
+            "title": "Standard modules",
+            "pages": [69]
+          }
+        ]
+      },
+      {
+        "title": "Writing reusable modules",
+        "pages": [70]
+      },
+      {
+        "title": "Building packages",
+        "pages": [76],
+        "subsections": [
+          {
+            "title": "Naming",
+            "pages": [76]
+          },
+          {
+            "title": "Package initialization file",
+            "pages": [76]
+          },
+          {
+            "title": "Building a package",
+            "pages": [77]
+          }
+        ]
+      },
+      {
+        "title": "Accessing packages from any location",
+        "pages": [81]
+      },
+      {
+        "title": "Sharing a package",
+        "pages": [86],
+        "subsections": [
+          {
+            "title": "Building a package as per the PyPA guidelines",
+            "pages": [87]
+          },
+          {
+            "title": "Installing from the local source code using pip",
+            "pages": [90]
+          },
+          {
+            "title": "Publishing a package to Test PyPI",
+            "pages": [93]
+          },
+          {
+            "title": "Installing the package from PyPI",
+            "pages": [94]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [95]
+      },
+      {
+        "title": "Questions",
+        "pages": [95]
+      },
+      {
+        "title": "Further reading",
+        "pages": [95]
+      },
+      {
+        "title": "Answers",
+        "pages": [96]
+      }
+    ]
+  }
+}

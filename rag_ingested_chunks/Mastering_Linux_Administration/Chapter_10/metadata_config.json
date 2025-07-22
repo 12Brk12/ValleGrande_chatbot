@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 10: Disaster Recovery, Diagnostics, and Troubleshooting",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 10, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 404 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 404 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 10"
+  },
+  "ch10_2.pdf": {
+    "document_title": "Planning for disaster recovery",
+    "indent_level": 1,
+    "reference_url": "Página 405 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_2_1.pdf": {
+    "document_title": "A brief introduction to risk management",
+    "indent_level": 2,
+    "reference_url": "Página 405 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2_2.pdf": {
+    "document_title": "Risk calculation",
+    "indent_level": 2,
+    "reference_url": "Página 407 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_2_3.pdf": {
+    "document_title": "Designing a DRP",
+    "indent_level": 2,
+    "reference_url": "Página 408 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_3.pdf": {
+    "document_title": "Backing up and restoring the system",
+    "indent_level": 1,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_3_1.pdf": {
+    "document_title": "Disk cloning solutions",
+    "indent_level": 2,
+    "reference_url": "Página 410 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_4.pdf": {
+    "document_title": "Introducing common Linux diagnostic tools for troubleshooting",
+    "indent_level": 1,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_4_1.pdf": {
+    "document_title": "Tools for troubleshooting boot issues",
+    "indent_level": 2,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_4_2.pdf": {
+    "document_title": "Tools for troubleshooting general system issues",
+    "indent_level": 2,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_4_3.pdf": {
+    "document_title": "Tools for troubleshooting network issues",
+    "indent_level": 2,
+    "reference_url": "Página 427 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_4_4.pdf": {
+    "document_title": "Tools for troubleshooting hardware issues",
+    "indent_level": 2,
+    "reference_url": "Página 433 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 434 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 435 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch10_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 435 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

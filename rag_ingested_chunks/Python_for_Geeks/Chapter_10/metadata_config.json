@@ -1,0 +1,137 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 10: Using Python for Web Development and REST API",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 10, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 377 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 10"
+  },
+  "ch10_2.pdf": {
+    "document_title": "Learning requirements for web development",
+    "indent_level": 1,
+    "reference_url": "Página 378 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_1.pdf": {
+    "document_title": "Web frameworks",
+    "indent_level": 2,
+    "reference_url": "Página 378 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2_2.pdf": {
+    "document_title": "User interface",
+    "indent_level": 2,
+    "reference_url": "Página 379 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_3.pdf": {
+    "document_title": "Web server/application server",
+    "indent_level": 2,
+    "reference_url": "Página 380 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_4.pdf": {
+    "document_title": "Database",
+    "indent_level": 2,
+    "reference_url": "Página 380 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_5.pdf": {
+    "document_title": "Security",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_6.pdf": {
+    "document_title": "API",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_2_7.pdf": {
+    "document_title": "Documentation",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3.pdf": {
+    "document_title": "Introducing the Flask framework",
+    "indent_level": 1,
+    "reference_url": "Página 382 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3_1.pdf": {
+    "document_title": "Building a basic application with routing",
+    "indent_level": 2,
+    "reference_url": "Página 382 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_3_2.pdf": {
+    "document_title": "Handling requests with different HTTP method types",
+    "indent_level": 2,
+    "reference_url": "Página 384 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3_3.pdf": {
+    "document_title": "Rendering static and dynamic contents",
+    "indent_level": 2,
+    "reference_url": "Página 388 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3_4.pdf": {
+    "document_title": "Extracting parameters from an HTTP request",
+    "indent_level": 2,
+    "reference_url": "Página 389 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3_5.pdf": {
+    "document_title": "Interacting with database systems",
+    "indent_level": 2,
+    "reference_url": "Página 391 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_3_6.pdf": {
+    "document_title": "Handling errors and exceptions in web applications",
+    "indent_level": 2,
+    "reference_url": "Página 396 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_4.pdf": {
+    "document_title": "Building a REST API",
+    "indent_level": 1,
+    "reference_url": "Página 399 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_4_1.pdf": {
+    "document_title": "Using Flask for a REST API",
+    "indent_level": 2,
+    "reference_url": "Página 400 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_4_2.pdf": {
+    "document_title": "Developing a REST API for database access",
+    "indent_level": 2,
+    "reference_url": "Página 402 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_5.pdf": {
+    "document_title": "Case study– Building a web application using the REST API",
+    "indent_level": 1,
+    "reference_url": "Página 405 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 412 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch10_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

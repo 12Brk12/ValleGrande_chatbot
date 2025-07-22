@@ -1,0 +1,63 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 12: Building Serverless Functions Using Python",
+    "pages": [438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [439]
+      },
+      {
+        "title": "Introducing serverless functions",
+        "pages": [439],
+        "subsections": [
+          {
+            "title": "Benefits",
+            "pages": [441]
+          },
+          {
+            "title": "Use cases",
+            "pages": [441]
+          }
+        ]
+      },
+      {
+        "title": "Understanding the deployment options for serverless functions",
+        "pages": [442]
+      },
+      {
+        "title": "Learning how to build serverless functions",
+        "pages": [443],
+        "subsections": [
+          {
+            "title": "Building an HTTP-based Cloud Function using the GCP Console",
+            "pages": [444]
+          },
+          {
+            "title": "Case study – building a notification app for cloud storage events",
+            "pages": [449]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [454]
+      },
+      {
+        "title": "Questions",
+        "pages": [454]
+      },
+      {
+        "title": "Further reading",
+        "pages": [454]
+      },
+      {
+        "title": "Answers",
+        "pages": [455]
+      }
+    ]
+  }
+}

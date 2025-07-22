@@ -1,0 +1,71 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 13: Working with PowerShell 7 and Windows",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 13, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 338 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_1.pdf": {
+    "document_title": "Understanding PowerShell 7 and Windows PowerShell",
+    "indent_level": 1,
+    "reference_url": "Página 339 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 13"
+  },
+  "ch13_2.pdf": {
+    "document_title": "Exploring compatibility",
+    "indent_level": 1,
+    "reference_url": "Página 339 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_2_1.pdf": {
+    "document_title": "Which modules are compatible with PowerShell 7?",
+    "indent_level": 2,
+    "reference_url": "Página 339 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_3.pdf": {
+    "document_title": "What doesn’t work with PowerShell 7",
+    "indent_level": 1,
+    "reference_url": "Página 347 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_4.pdf": {
+    "document_title": "Managing machines with CIM and WMI",
+    "indent_level": 1,
+    "reference_url": "Página 347 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_4_1.pdf": {
+    "document_title": "Introduction to CIM and WMI",
+    "indent_level": 2,
+    "reference_url": "Página 347 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch13_4_2.pdf": {
+    "document_title": "Querying data",
+    "indent_level": 2,
+    "reference_url": "Página 351 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_4_3.pdf": {
+    "document_title": "Making changes",
+    "indent_level": 2,
+    "reference_url": "Página 354 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 358 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_6.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 359 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch13_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 359 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 6 Exploring Alternative Desktops",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 6, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 117 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_1.pdf": {
+    "document_title": "Spicing Things Up with Cinnamon",
+    "indent_level": 1,
+    "reference_url": "Página 117 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 6"
+  },
+  "ch6_1_1.pdf": {
+    "document_title": "History of Cinnamon",
+    "indent_level": 2,
+    "reference_url": "Página 118 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_1_2.pdf": {
+    "document_title": "Looking at the menu",
+    "indent_level": 2,
+    "reference_url": "Página 119 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_1_3.pdf": {
+    "document_title": "Changing settings",
+    "indent_level": 2,
+    "reference_url": "Página 121 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_1_4.pdf": {
+    "document_title": "Adding more spice",
+    "indent_level": 2,
+    "reference_url": "Página 122 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_2.pdf": {
+    "document_title": "Working with MATE",
+    "indent_level": 1,
+    "reference_url": "Página 123 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_2_1.pdf": {
+    "document_title": "The history of MATE",
+    "indent_level": 2,
+    "reference_url": "Página 123 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_2_2.pdf": {
+    "document_title": "Looking at the menu",
+    "indent_level": 2,
+    "reference_url": "Página 125 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_2_3.pdf": {
+    "document_title": "Changing desktop settings",
+    "indent_level": 2,
+    "reference_url": "Página 126 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_2_4.pdf": {
+    "document_title": "Applets",
+    "indent_level": 2,
+    "reference_url": "Página 127 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_3.pdf": {
+    "document_title": "The Xfce Desktop Interface",
+    "indent_level": 1,
+    "reference_url": "Página 128 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_3_1.pdf": {
+    "document_title": "History of Xfce",
+    "indent_level": 2,
+    "reference_url": "Página 128 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_3_2.pdf": {
+    "document_title": "The Whisker menu",
+    "indent_level": 2,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_3_3.pdf": {
+    "document_title": "Changing Xfce settings",
+    "indent_level": 2,
+    "reference_url": "Página 131 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch6_3_4.pdf": {
+    "document_title": "Applets",
+    "indent_level": 2,
+    "reference_url": "Página 132 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

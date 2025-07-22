@@ -1,0 +1,34 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11: File Transfer, Downloading, and Managing Log Files",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 190 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Copying files into remote systems using netcat and socat",
+    "indent_level": 1,
+    "reference_url": "Página 191 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Downloading files with wget and curl",
+    "indent_level": 1,
+    "reference_url": "Página 194 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Exploring common log files",
+    "indent_level": 1,
+    "reference_url": "Página 196 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

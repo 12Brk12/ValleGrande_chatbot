@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3 Network Hosts Scanning",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 91 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "Basics of Networking",
+    "indent_level": 1,
+    "reference_url": "Página 91 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_1_1.pdf": {
+    "document_title": "Networking Protocols",
+    "indent_level": 2,
+    "reference_url": "Página 92 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_1_2.pdf": {
+    "document_title": "IP Addressing",
+    "indent_level": 2,
+    "reference_url": "Página 95 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Network Scanning",
+    "indent_level": 1,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2_1.pdf": {
+    "document_title": "Identifying Live Hosts",
+    "indent_level": 2,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2_2.pdf": {
+    "document_title": "Port Scanning and Services Enumeration",
+    "indent_level": 2,
+    "reference_url": "Página 100 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2_3.pdf": {
+    "document_title": "Basics of Using Nmap Scans",
+    "indent_level": 2,
+    "reference_url": "Página 102 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2_4.pdf": {
+    "document_title": "Services Enumeration",
+    "indent_level": 2,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2_5.pdf": {
+    "document_title": "Operating System Fingerprinting",
+    "indent_level": 2,
+    "reference_url": "Página 105 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_2_6.pdf": {
+    "document_title": "Nmap Scripting Engine",
+    "indent_level": 2,
+    "reference_url": "Página 106 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "DNS Enumeration",
+    "indent_level": 1,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_3_1.pdf": {
+    "document_title": "DNS Brute-Force",
+    "indent_level": 2,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_3_2.pdf": {
+    "document_title": "DNS Zone Transfer",
+    "indent_level": 2,
+    "reference_url": "Página 112 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_3_3.pdf": {
+    "document_title": "DNS Subdomains Tools",
+    "indent_level": 2,
+    "reference_url": "Página 113 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 114 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

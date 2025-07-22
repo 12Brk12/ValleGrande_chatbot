@@ -1,0 +1,59 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 10 Using the Internet",
+    "pages": [191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218],
+    "subsections": [
+      {
+        "title": "Browsing the Web with Firefox",
+        "pages": [191],
+        "subsections": [
+          {
+            "title": "Configuring Firefox",
+            "pages": [192]
+          },
+          {
+            "title": "Expanding your universe with add-ons",
+            "pages": [196]
+          },
+          {
+            "title": "Surfing the web",
+            "pages": [197]
+          }
+        ]
+      },
+      {
+        "title": "Communicating with Email",
+        "pages": [198],
+        "subsections": [
+          {
+            "title": "Evolving into email",
+            "pages": [199]
+          },
+          {
+            "title": "Working with KMail",
+            "pages": [207]
+          },
+          {
+            "title": "The amazing Thunderbird",
+            "pages": [211]
+          }
+        ]
+      },
+      {
+        "title": "Ol’ Fashion File Transfers",
+        "pages": [213]
+      },
+      {
+        "title": "Talking with Skype",
+        "pages": [215]
+      },
+      {
+        "title": "Working with Other Internet Tools",
+        "pages": [217]
+      }
+    ]
+  }
+}

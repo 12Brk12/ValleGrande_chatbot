@@ -1,0 +1,65 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos del libro",
+    "tags": [
+      "Contiene los nombres de los capítulos que contiene el libro, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Usado frecuentemente para saber que cuantos capitulos contiene este libro, mas no contiene información de sus secciones y subsecciones",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs contienen información de las secciones y subsecciones de su respectivo capitulo"
+  },
+  "about_chapter_1.pdf": {
+    "document_title": "Chapter 1: Getting a CentOS Server Up and Running",
+    "reference_url": "Página 24 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_2.pdf": {
+    "document_title": "Chapter 2: Linux User and Group Commands",
+    "reference_url": "Página 54 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_3.pdf": {
+    "document_title": "Chapter 3: File Compression and Archival Commands",
+    "reference_url": "Página 72 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_4.pdf": {
+    "document_title": "Chapter 4: Format and Disk Space Commands",
+    "reference_url": "Página 88 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_5.pdf": {
+    "document_title": "Chapter 5: Linux Permissions Commands",
+    "reference_url": "Página 108 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_6.pdf": {
+    "document_title": "Chapter 6: Filesystem Mount and Manipulation Commands",
+    "reference_url": "Página 126 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_7.pdf": {
+    "document_title": "Chapter 7: File Content and Conversion Commands",
+    "reference_url": "Página 142 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_8.pdf": {
+    "document_title": "Chapter 8: Linux SWAP Commands",
+    "reference_url": "Página 154 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_9.pdf": {
+    "document_title": "Chapter 9: Linux Monitoring and Debugging Commands",
+    "reference_url": "Página 160 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_10.pdf": {
+    "document_title": "Chapter 10: Linux IPTABLES and Network Commands",
+    "reference_url": "Página 180 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_11.pdf": {
+    "document_title": "Chapter 11: File Transfer, Downloading, and Managing Log Files",
+    "reference_url": "Página 190 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_12.pdf": {
+    "document_title": "Chapter 12: Exploring Linux Security",
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "about_chapter_13.pdf": {
+    "document_title": "Chapter 13: Linux in the Cloud",
+    "reference_url": "Página 214 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

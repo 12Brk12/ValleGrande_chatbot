@@ -1,0 +1,61 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11 Putting the X in Text",
+    "pages": [219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234],
+    "subsections": [
+      {
+        "title": "Viewing the Contents of a Text File",
+        "pages": [219]
+      },
+      {
+        "title": "Editing Text Files with nano",
+        "pages": [220],
+        "subsections": [
+          {
+            "title": "Saving your work as you go",
+            "pages": [221]
+          },
+          {
+            "title": "Saving and moving on with your life",
+            "pages": [221]
+          }
+        ]
+      },
+      {
+        "title": "Going with gedit",
+        "pages": [222],
+        "subsections": [
+          {
+            "title": "Entering and editing text in gedit",
+            "pages": [223]
+          },
+          {
+            "title": "Saving your work",
+            "pages": [223]
+          },
+          {
+            "title": "Setting preferences",
+            "pages": [224]
+          }
+        ]
+      },
+      {
+        "title": "Editing Text in the KDE Plasma Desktop",
+        "pages": [227],
+        "subsections": [
+          {
+            "title": "Writing with KWrite",
+            "pages": [227]
+          },
+          {
+            "title": "Meet Kate",
+            "pages": [232]
+          }
+        ]
+      }
+    ]
+  }
+}

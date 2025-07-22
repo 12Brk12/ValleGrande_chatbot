@@ -1,0 +1,113 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8: Scaling out Python Using Clusters",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 300 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 301 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_2.pdf": {
+    "document_title": "Learning about the cluster options for parallel processing",
+    "indent_level": 1,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_2_1.pdf": {
+    "document_title": "Hadoop MapReduce",
+    "indent_level": 2,
+    "reference_url": "Página 302 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_2_2.pdf": {
+    "document_title": "Apache Spark",
+    "indent_level": 2,
+    "reference_url": "Página 305 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_3.pdf": {
+    "document_title": "Introducing RDDs",
+    "indent_level": 1,
+    "reference_url": "Página 308 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_3_1.pdf": {
+    "document_title": "Learning RDD operations",
+    "indent_level": 2,
+    "reference_url": "Página 309 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_3_2.pdf": {
+    "document_title": "Creating RDD objects",
+    "indent_level": 2,
+    "reference_url": "Página 310 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_4.pdf": {
+    "document_title": "Using PySpark for parallel data processing",
+    "indent_level": 1,
+    "reference_url": "Página 311 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_4_1.pdf": {
+    "document_title": "Creating SparkSession and SparkContext programs",
+    "indent_level": 2,
+    "reference_url": "Página 313 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_4_2.pdf": {
+    "document_title": "Exploring PySpark for RDD operations",
+    "indent_level": 2,
+    "reference_url": "Página 315 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_4_3.pdf": {
+    "document_title": "Learning about PySpark DataFrames",
+    "indent_level": 2,
+    "reference_url": "Página 317 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_4_4.pdf": {
+    "document_title": "Introducing PySpark SQL",
+    "indent_level": 2,
+    "reference_url": "Página 323 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_5.pdf": {
+    "document_title": "Case studies of using Apache Spark and PySpark",
+    "indent_level": 1,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_5_1.pdf": {
+    "document_title": "Case study 1 – Pi (π) calculator on Apache Spark",
+    "indent_level": 2,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_5_2.pdf": {
+    "document_title": "Case study 2 – Word cloud using PySpark",
+    "indent_level": 2,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 333 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch8_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7 Getting to Know the Linux Filesystem",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 137 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Pieces of the Puzzle",
+    "indent_level": 1,
+    "reference_url": "Página 137 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Touring the Linux Filesystem",
+    "indent_level": 1,
+    "reference_url": "Página 138 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "The root of the tree",
+    "indent_level": 2,
+    "reference_url": "Página 138 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "The importance of being /etc",
+    "indent_level": 2,
+    "reference_url": "Página 140 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "Where removable media lives",
+    "indent_level": 2,
+    "reference_url": "Página 140 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_2_4.pdf": {
+    "document_title": "Where the computer is the /usr",
+    "indent_level": 2,
+    "reference_url": "Página 141 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Managing Your Filesystem without a Net (or Mouse)",
+    "indent_level": 1,
+    "reference_url": "Página 141 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_3_1.pdf": {
+    "document_title": "Viewing information about files on the command line",
+    "indent_level": 2,
+    "reference_url": "Página 142 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_3_2.pdf": {
+    "document_title": "Understanding file listing information",
+    "indent_level": 2,
+    "reference_url": "Página 143 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_3_3.pdf": {
+    "document_title": "Comprehending file types",
+    "indent_level": 2,
+    "reference_url": "Página 145 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_3_4.pdf": {
+    "document_title": "Navigating the filesystem in Linux",
+    "indent_level": 2,
+    "reference_url": "Página 146 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_4.pdf": {
+    "document_title": "A Permissions Primer",
+    "indent_level": 1,
+    "reference_url": "Página 147 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_4_1.pdf": {
+    "document_title": "Checking out the triplets",
+    "indent_level": 2,
+    "reference_url": "Página 147 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_4_2.pdf": {
+    "document_title": "Beware of owners",
+    "indent_level": 2,
+    "reference_url": "Página 149 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch7_4_3.pdf": {
+    "document_title": "Hanging out in groups",
+    "indent_level": 2,
+    "reference_url": "Página 149 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

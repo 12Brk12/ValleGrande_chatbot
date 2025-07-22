@@ -1,0 +1,112 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 21 Ten Steps to Running a Web Server",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 21, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_1.pdf": {
+    "document_title": "The Required Parts",
+    "indent_level": 1,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 21"
+  },
+  "ch21_2.pdf": {
+    "document_title": "Step 1: Select a Web Server",
+    "indent_level": 1,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_3.pdf": {
+    "document_title": "Step 2: Select a Programming Language",
+    "indent_level": 1,
+    "reference_url": "Página 417 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_4.pdf": {
+    "document_title": "Step 3: Select a Database Server",
+    "indent_level": 1,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_5.pdf": {
+    "document_title": "Step 4: Install the Servers",
+    "indent_level": 1,
+    "reference_url": "Página 419 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_5_1.pdf": {
+    "document_title": "Installing servers in Ubuntu",
+    "indent_level": 2,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch21_5_2.pdf": {
+    "document_title": "Installing servers in openSUSE",
+    "indent_level": 2,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_6.pdf": {
+    "document_title": "Step 5: Examine the Apache Server",
+    "indent_level": 1,
+    "reference_url": "Página 423 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_6_1.pdf": {
+    "document_title": "Defining the web folder location",
+    "indent_level": 2,
+    "reference_url": "Página 424 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch21_6_2.pdf": {
+    "document_title": "Setting the default TCP port",
+    "indent_level": 2,
+    "reference_url": "Página 424 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_6_3.pdf": {
+    "document_title": "Interacting with the PHP server",
+    "indent_level": 2,
+    "reference_url": "Página 425 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_6_4.pdf": {
+    "document_title": "Tracking errors",
+    "indent_level": 2,
+    "reference_url": "Página 426 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_7.pdf": {
+    "document_title": "Step 6: Examine the MySQL (or MariaDB) Server",
+    "indent_level": 1,
+    "reference_url": "Página 427 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_7_1.pdf": {
+    "document_title": "The core server settings",
+    "indent_level": 2,
+    "reference_url": "Página 427 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch21_7_2.pdf": {
+    "document_title": "Working with the InnoDB storage engine",
+    "indent_level": 2,
+    "reference_url": "Página 428 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_8.pdf": {
+    "document_title": "Step 7: Customize the PHP Server",
+    "indent_level": 1,
+    "reference_url": "Página 429 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_9.pdf": {
+    "document_title": "Step 8: Create the Database Environment",
+    "indent_level": 1,
+    "reference_url": "Página 431 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_10.pdf": {
+    "document_title": "Step 9: Build Your Application",
+    "indent_level": 1,
+    "reference_url": "Página 434 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch21_11.pdf": {
+    "document_title": "Step 10: Deploy and Test Your Application",
+    "indent_level": 1,
+    "reference_url": "Página 435 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

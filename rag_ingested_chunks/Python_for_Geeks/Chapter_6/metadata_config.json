@@ -1,0 +1,102 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 6: Advanced Tips and Tricks in Python",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 6, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 208 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 6"
+  },
+  "ch6_2.pdf": {
+    "document_title": "Learning advanced tricks for using functions",
+    "indent_level": 1,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_2_1.pdf": {
+    "document_title": "Introducing the counter, itertools, and zip functions for iterative tasks",
+    "indent_level": 2,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_2_2.pdf": {
+    "document_title": "Using filters, mappers, and reducers for data transformations",
+    "indent_level": 2,
+    "reference_url": "Página 215 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_2_3.pdf": {
+    "document_title": "Learning how to build lambda functions",
+    "indent_level": 2,
+    "reference_url": "Página 219 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_2_4.pdf": {
+    "document_title": "Embedding a function within another function",
+    "indent_level": 2,
+    "reference_url": "Página 220 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_2_5.pdf": {
+    "document_title": "Modifying function behavior using decorators",
+    "indent_level": 2,
+    "reference_url": "Página 223 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_3.pdf": {
+    "document_title": "Understanding advanced concepts with data structures",
+    "indent_level": 1,
+    "reference_url": "Página 230 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_3_1.pdf": {
+    "document_title": "Embedding a dictionary inside a dictionary",
+    "indent_level": 2,
+    "reference_url": "Página 230 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_3_2.pdf": {
+    "document_title": "Using comprehension",
+    "indent_level": 2,
+    "reference_url": "Página 234 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_4.pdf": {
+    "document_title": "Introducing advanced tricks with pandas DataFrame",
+    "indent_level": 1,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_4_1.pdf": {
+    "document_title": "Learning DataFrame operations",
+    "indent_level": 2,
+    "reference_url": "Página 238 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_4_2.pdf": {
+    "document_title": "Learning advanced tricks for a DataFrame object",
+    "indent_level": 2,
+    "reference_url": "Página 245 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 251 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch6_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 252 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

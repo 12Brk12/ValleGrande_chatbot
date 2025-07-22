@@ -1,0 +1,97 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 8: Writing Our First Script – Turning Simple Cmdlets into Reusable Code",
+    "pages": [218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239],
+    "subsections": [
+      {
+        "title": "Introduction to scripting",
+        "pages": [219],
+        "subsections": [
+          {
+            "title": "Why do we want to write scripts?",
+            "pages": [219]
+          },
+          {
+            "title": "Getting scripts",
+            "pages": [220]
+          },
+          {
+            "title": "Running scripts",
+            "pages": [221]
+          }
+        ]
+      },
+      {
+        "title": "Writing a script",
+        "pages": [221]
+      },
+      {
+        "title": "Identifying changing values",
+        "pages": [223]
+      },
+      {
+        "title": "Working with parameters",
+        "pages": [224],
+        "subsections": [
+          {
+            "title": "Creating useful parameters",
+            "pages": [224]
+          },
+          {
+            "title": "Specifying type",
+            "pages": [227]
+          },
+          {
+            "title": "Making parameters mandatory",
+            "pages": [227]
+          },
+          {
+            "title": "Taking values from the pipeline",
+            "pages": [228]
+          },
+          {
+            "title": "Switch parameters",
+            "pages": [230]
+          }
+        ]
+      },
+      {
+        "title": "Providing help for our script",
+        "pages": [231],
+        "subsections": [
+          {
+            "title": "Comments",
+            "pages": [231]
+          },
+          {
+            "title": "Comment-based help",
+            "pages": [233]
+          },
+          {
+            "title": "Write-Verbose",
+            "pages": [235]
+          },
+          {
+            "title": "Parameter help messages",
+            "pages": [236]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [237]
+      },
+      {
+        "title": "Further reading",
+        "pages": [238]
+      },
+      {
+        "title": "Exercises",
+        "pages": [238]
+      }
+    ]
+  }
+}

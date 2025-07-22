@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9 Web Penetration Testing and Secure Software Development Lifecycle",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Web Enumeration and Exploitation",
+    "indent_level": 1,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_1_1.pdf": {
+    "document_title": "Burp Suite Pro",
+    "indent_level": 2,
+    "reference_url": "Página 258 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_1_2.pdf": {
+    "document_title": "More Enumeration",
+    "indent_level": 2,
+    "reference_url": "Página 271 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_1_3.pdf": {
+    "document_title": "Manual Web Penetration Testing Checklist",
+    "indent_level": 2,
+    "reference_url": "Página 273 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_2.pdf": {
+    "document_title": "Secure Software Development Lifecycle",
+    "indent_level": 1,
+    "reference_url": "Página 276 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_2_1.pdf": {
+    "document_title": "Analysis/Architecture Phase",
+    "indent_level": 2,
+    "reference_url": "Página 277 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_2_2.pdf": {
+    "document_title": "Development Phase",
+    "indent_level": 2,
+    "reference_url": "Página 278 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_2_3.pdf": {
+    "document_title": "Testing Phase",
+    "indent_level": 2,
+    "reference_url": "Página 281 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_2_4.pdf": {
+    "document_title": "Production Environment (Final Deployment)",
+    "indent_level": 2,
+    "reference_url": "Página 281 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 281 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

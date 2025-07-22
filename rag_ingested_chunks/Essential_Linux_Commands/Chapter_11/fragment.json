@@ -1,0 +1,27 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11: File Transfer, Downloading, and Managing Log Files",
+    "pages": [190,191,192,193,194,195,196,197,198,199],
+    "subsections": [
+      {
+        "title": "Copying files into remote systems using netcat and socat",
+        "pages": [191]
+      },
+      {
+        "title": "Downloading files with wget and curl",
+        "pages": [194]
+      },
+      {
+        "title": "Exploring common log files",
+        "pages": [196]
+      },
+      {
+        "title": "Summary",
+        "pages": [199]
+      }
+    ]
+  }
+}

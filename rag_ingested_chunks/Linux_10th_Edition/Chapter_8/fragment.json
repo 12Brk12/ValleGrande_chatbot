@@ -1,0 +1,73 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 8 Using the Filesystem",
+    "pages": [151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168],
+    "subsections": [
+      {
+        "title": "Clicking Your Way Through the Filesystem",
+        "pages": [151]
+      },
+      {
+        "title": "Using Files",
+        "pages": [152],
+        "subsections": [
+          {
+            "title": "Setting how much info you see",
+            "pages": [155]
+          },
+          {
+            "title": "Creating new directories",
+            "pages": [156]
+          },
+          {
+            "title": "Opening files and running programs",
+            "pages": [156]
+          },
+          {
+            "title": "Copying and moving files",
+            "pages": [157]
+          },
+          {
+            "title": "Deleting files and directories",
+            "pages": [158]
+          },
+          {
+            "title": "Taking out the trash",
+            "pages": [158]
+          },
+          {
+            "title": "Viewing and changing permissions",
+            "pages": [159]
+          }
+        ]
+      },
+      {
+        "title": "Swimming with Dolphin",
+        "pages": [160]
+      },
+      {
+        "title": "Don’t Forget Xfce!",
+        "pages": [162]
+      },
+      {
+        "title": "Using DVDs and Other Removable Media",
+        "pages": [165]
+      },
+      {
+        "title": "Accessing Windows Drives on This Computer",
+        "pages": [166]
+      },
+      {
+        "title": "Accessing Network Drives",
+        "pages": [166]
+      },
+      {
+        "title": "Finding Things",
+        "pages": [167]
+      }
+    ]
+  }
+}

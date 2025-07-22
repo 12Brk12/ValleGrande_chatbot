@@ -1,0 +1,99 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13: Configuring Linux Servers",
+    "pages": [492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [492]
+      },
+      {
+        "title": "Introducing Linux services",
+        "pages": [493]
+      },
+      {
+        "title": "Setting up SSH",
+        "pages": [495],
+        "subsections": [
+          {
+            "title": "Installing and configuring OpenSSH on Ubuntu",
+            "pages": [495]
+          }
+        ]
+      },
+      {
+        "title": "Setting up a DNS server",
+        "pages": [496],
+        "subsections": [
+          {
+            "title": "Caching a DNS service",
+            "pages": [497]
+          },
+          {
+            "title": "Creating a primary DNS server",
+            "pages": [499]
+          },
+          {
+            "title": "Setting up a secondary DNS server",
+            "pages": [502]
+          }
+        ]
+      },
+      {
+        "title": "Setting up a DHCP server",
+        "pages": [505]
+      },
+      {
+        "title": "Setting up an NFS server",
+        "pages": [507],
+        "subsections": [
+          {
+            "title": "Installing and configuring the NFS server",
+            "pages": [507]
+          },
+          {
+            "title": "Configuring the NFS client",
+            "pages": [510]
+          },
+          {
+            "title": "Testing the NFS setup",
+            "pages": [511]
+          }
+        ]
+      },
+      {
+        "title": "Setting up a Samba file server",
+        "pages": [511],
+        "subsections": [
+          {
+            "title": "Installing and configuring Samba",
+            "pages": [512]
+          },
+          {
+            "title": "Creating Samba users",
+            "pages": [515]
+          },
+          {
+            "title": "Accessing the Samba shares",
+            "pages": [516]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [517]
+      },
+      {
+        "title": "Questions",
+        "pages": [518]
+      },
+      {
+        "title": "Further reading",
+        "pages": [518]
+      }
+    ]
+  }
+}

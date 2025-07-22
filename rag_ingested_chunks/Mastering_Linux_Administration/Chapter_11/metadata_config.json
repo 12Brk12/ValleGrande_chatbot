@@ -1,0 +1,134 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11: Working with Virtual Machines",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 438 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 438 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Introduction to virtualization on Linux",
+    "indent_level": 1,
+    "reference_url": "Página 438 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_2_1.pdf": {
+    "document_title": "Efficiency in resource usage",
+    "indent_level": 2,
+    "reference_url": "Página 439 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_2_2.pdf": {
+    "document_title": "Introduction to hypervisors",
+    "indent_level": 2,
+    "reference_url": "Página 440 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Understanding Linux KVMs",
+    "indent_level": 1,
+    "reference_url": "Página 441 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_3_1.pdf": {
+    "document_title": "Choosing the hypervisor",
+    "indent_level": 2,
+    "reference_url": "Página 441 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_3_2.pdf": {
+    "document_title": "Using the KVM hypervisor",
+    "indent_level": 2,
+    "reference_url": "Página 442 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Working with basic KVM commands",
+    "indent_level": 1,
+    "reference_url": "Página 445 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_4_1.pdf": {
+    "document_title": "Creating a VM using the command line",
+    "indent_level": 2,
+    "reference_url": "Página 445 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_4_2.pdf": {
+    "document_title": "Basic VM management",
+    "indent_level": 2,
+    "reference_url": "Página 447 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_5.pdf": {
+    "document_title": "Advanced KVM management",
+    "indent_level": 1,
+    "reference_url": "Página 448 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_5_1.pdf": {
+    "document_title": "Connecting to a VM",
+    "indent_level": 2,
+    "reference_url": "Página 449 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_5_2.pdf": {
+    "document_title": "Cloning VMs",
+    "indent_level": 2,
+    "reference_url": "Página 452 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_5_3.pdf": {
+    "document_title": "Creating VM templates",
+    "indent_level": 2,
+    "reference_url": "Página 453 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_5_4.pdf": {
+    "document_title": "Obtaining VM and host resource information",
+    "indent_level": 2,
+    "reference_url": "Página 454 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_5_5.pdf": {
+    "document_title": "Managing VM resource usage",
+    "indent_level": 2,
+    "reference_url": "Página 456 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_6.pdf": {
+    "document_title": "Provisioning VMs using cloud-init",
+    "indent_level": 1,
+    "reference_url": "Página 457 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_6_1.pdf": {
+    "document_title": "Understanding how cloud-init works",
+    "indent_level": 2,
+    "reference_url": "Página 457 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_6_2.pdf": {
+    "document_title": "Installing and configuring cloud-init",
+    "indent_level": 2,
+    "reference_url": "Página 458 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_7.pdf": {
+    "document_title": "Public key authentication with SSH",
+    "indent_level": 1,
+    "reference_url": "Página 461 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_8.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 463 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_9.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 463 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch11_10.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 464 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

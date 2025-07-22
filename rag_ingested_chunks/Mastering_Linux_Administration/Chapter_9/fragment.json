@@ -1,0 +1,81 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9: Securing Linux",
+    "pages": [344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [345]
+      },
+      {
+        "title": "Understanding Linux security",
+        "pages": [345]
+      },
+      {
+        "title": "Introducing SELinux",
+        "pages": [346],
+        "subsections": [
+          {
+            "title": "Working with SELinux",
+            "pages": [346]
+          }
+        ]
+      },
+      {
+        "title": "Introducing AppArmor",
+        "pages": [367],
+        "subsections": [
+          {
+            "title": "Working with AppArmor",
+            "pages": [367]
+          },
+          {
+            "title": "Final considerations",
+            "pages": [376]
+          }
+        ]
+      },
+      {
+        "title": "Working with firewalls",
+        "pages": [376],
+        "subsections": [
+          {
+            "title": "Understanding the firewall chain",
+            "pages": [378]
+          },
+          {
+            "title": "Introducing Netfilter",
+            "pages": [380]
+          },
+          {
+            "title": "Working with iptables",
+            "pages": [381]
+          },
+          {
+            "title": "Introducing nftables",
+            "pages": [387]
+          },
+          {
+            "title": "Using firewall managers",
+            "pages": [392]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [402]
+      },
+      {
+        "title": "Exercises",
+        "pages": [403]
+      },
+      {
+        "title": "Further reading",
+        "pages": [403]
+      }
+    ]
+  }
+}

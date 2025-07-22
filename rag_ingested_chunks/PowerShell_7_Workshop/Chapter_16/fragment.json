@@ -1,0 +1,119 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 16: Working with PowerShell and .NET",
+    "pages": [408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423],
+    "subsections": [
+      {
+        "title": "Exploring .NET",
+        "pages": [408],
+        "subsections": [
+          {
+            "title": "Software frameworks explained",
+            "pages": [409]
+          },
+          {
+            "title": "Common language infrastructure",
+            "pages": [409]
+          },
+          {
+            "title": "Common language runtime – CoreCLR",
+            "pages": [410]
+          },
+          {
+            "title": "Framework Class Library – CoreFX",
+            "pages": [410]
+          },
+          {
+            "title": ".NET history",
+            "pages": [410]
+          },
+          {
+            "title": "The uses of .NET",
+            "pages": [411]
+          }
+        ]
+      },
+      {
+        "title": "The components of .NET",
+        "pages": [411],
+        "subsections": [
+          {
+            "title": "Assemblies",
+            "pages": [411]
+          },
+          {
+            "title": "Types",
+            "pages": [412]
+          },
+          {
+            "title": "Enumerations",
+            "pages": [413]
+          },
+          {
+            "title": "Classes",
+            "pages": [413]
+          },
+          {
+            "title": "Namespaces",
+            "pages": [413]
+          },
+          {
+            "title": "Members",
+            "pages": [415]
+          },
+          {
+            "title": "Versioning",
+            "pages": [416]
+          }
+        ]
+      },
+      {
+        "title": "Working with .NET in PowerShell",
+        "pages": [416],
+        "subsections": [
+          {
+            "title": "PowerShell assemblies",
+            "pages": [417]
+          },
+          {
+            "title": "Dynamic assembly loading",
+            "pages": [417]
+          },
+          {
+            "title": "Creating instances of types",
+            "pages": [418]
+          }
+        ]
+      },
+      {
+        "title": "Using .NET",
+        "pages": [418],
+        "subsections": [
+          {
+            "title": "An alternative to the Task Scheduler",
+            "pages": [418]
+          },
+          {
+            "title": "Creating GUI objects",
+            "pages": [419]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [420]
+      },
+      {
+        "title": "Exercises",
+        "pages": [421]
+      },
+      {
+        "title": "Further reading",
+        "pages": [421]
+      }
+    ]
+  }
+}

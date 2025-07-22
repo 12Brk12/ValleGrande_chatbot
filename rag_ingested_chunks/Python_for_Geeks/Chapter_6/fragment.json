@@ -1,0 +1,85 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6: Advanced Tips and Tricks in Python",
+    "pages": [208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [209]
+      },
+      {
+        "title": "Learning advanced tricks for using functions",
+        "pages": [209],
+        "subsections": [
+          {
+            "title": "Introducing the counter, itertools, and zip functions for iterative tasks",
+            "pages": [209]
+          },
+          {
+            "title": "Using filters, mappers, and reducers for data transformations",
+            "pages": [215]
+          },
+          {
+            "title": "Learning how to build lambda functions",
+            "pages": [219]
+          },
+          {
+            "title": "Embedding a function within another function",
+            "pages": [220]
+          },
+          {
+            "title": "Modifying function behavior using decorators",
+            "pages": [223]
+          }
+        ]
+      },
+      {
+        "title": "Understanding advanced concepts with data structures",
+        "pages": [230],
+        "subsections": [
+          {
+            "title": "Embedding a dictionary inside a dictionary",
+            "pages": [230]
+          },
+          {
+            "title": "Using comprehension",
+            "pages": [234]
+          }
+        ]
+      },
+      {
+        "title": "Introducing advanced tricks with pandas DataFrame",
+        "pages": [237],
+        "subsections": [
+          {
+            "title": "Learning DataFrame operations",
+            "pages": [238]
+          },
+          {
+            "title": "Learning advanced tricks for a DataFrame object",
+            "pages": [245]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [251]
+      },
+      {
+        "title": "Questions",
+        "pages": [252]
+      },
+      {
+        "title": "Further reading",
+        "pages": [252]
+      },
+      {
+        "title": "Answers",
+        "pages": [252]
+      }
+    ]
+  }
+}

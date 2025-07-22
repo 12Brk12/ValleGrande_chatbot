@@ -1,0 +1,61 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 14 Reporting",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 14, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_1.pdf": {
+    "document_title": "Overview of Reports in Penetration Testing",
+    "indent_level": 1,
+    "reference_url": "Página 371 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 14"
+  },
+  "ch14_2.pdf": {
+    "document_title": "Scoring Severities",
+    "indent_level": 1,
+    "reference_url": "Página 372 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_2_1.pdf": {
+    "document_title": "Common Vulnerability Scoring System Version 3.1",
+    "indent_level": 2,
+    "reference_url": "Página 372 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_3.pdf": {
+    "document_title": "Report Presentation",
+    "indent_level": 1,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_3_1.pdf": {
+    "document_title": "Cover Page",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch14_3_2.pdf": {
+    "document_title": "History Logs",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_3_3.pdf": {
+    "document_title": "Report Summary",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_3_4.pdf": {
+    "document_title": "Vulnerabilities Section",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch14_4.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 377 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

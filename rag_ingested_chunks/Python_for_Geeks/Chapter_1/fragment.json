@@ -1,0 +1,163 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1: Optimal Python Development Life Cycle",
+    "pages": [26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53],
+    "subsections": [
+      {
+        "title": "Python culture and community",
+        "pages": [27]
+      },
+      {
+        "title": "Different phases of a Python project",
+        "pages": [29]
+      },
+      {
+        "title": "Strategizing the development process",
+        "pages": [32],
+        "subsections": [
+          {
+            "title": "Iterating through the phases",
+            "pages": [32]
+          },
+          {
+            "title": "Aiming for MVP first",
+            "pages": [33]
+          },
+          {
+            "title": "Strategizing development for specialized domains",
+            "pages": [33]
+          }
+        ]
+      },
+      {
+        "title": "Effectively documenting Python code",
+        "pages": [37],
+        "subsections": [
+          {
+            "title": "Python comments",
+            "pages": [37]
+          },
+          {
+            "title": "Docstring",
+            "pages": [38]
+          },
+          {
+            "title": "Functional or class-level documentation",
+            "pages": [39]
+          }
+        ]
+      },
+      {
+        "title": "Developing an effective naming scheme",
+        "pages": [41],
+        "subsections": [
+          {
+            "title": "Methods",
+            "pages": [42]
+          },
+          {
+            "title": "Variables",
+            "pages": [42]
+          },
+          {
+            "title": "Constant",
+            "pages": [43]
+          },
+          {
+            "title": "Classes",
+            "pages": [44]
+          },
+          {
+            "title": "Packages",
+            "pages": [44]
+          },
+          {
+            "title": "Modules",
+            "pages": [44]
+          },
+          {
+            "title": "Import conventions",
+            "pages": [45]
+          },
+          {
+            "title": "Arguments",
+            "pages": [45]
+          },
+          {
+            "title": "Useful tools",
+            "pages": [45]
+          }
+        ]
+      },
+      {
+        "title": "Exploring choices for source control",
+        "pages": [46],
+        "subsections": [
+          {
+            "title": "What does not belong to the source control repository?",
+            "pages": [46]
+          }
+        ]
+      },
+      {
+        "title": "Understanding strategies for deploying the code",
+        "pages": [47],
+        "subsections": [
+          {
+            "title": "Batch development",
+            "pages": [47]
+          }
+        ]
+      },
+      {
+        "title": "Python development environments",
+        "pages": [49],
+        "subsections": [
+          {
+            "title": "IDLE",
+            "pages": [49]
+          },
+          {
+            "title": "Sublime Text",
+            "pages": [49]
+          },
+          {
+            "title": "PyCharm",
+            "pages": [50]
+          },
+          {
+            "title": "Visual Studio Code",
+            "pages": [50]
+          },
+          {
+            "title": "PyDev",
+            "pages": [50]
+          },
+          {
+            "title": "Spyder",
+            "pages": [51]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [51]
+      },
+      {
+        "title": "Questions",
+        "pages": [52]
+      },
+      {
+        "title": "Further reading",
+        "pages": [52]
+      },
+      {
+        "title": "Answers",
+        "pages": [52]
+      }
+    ]
+  }
+}

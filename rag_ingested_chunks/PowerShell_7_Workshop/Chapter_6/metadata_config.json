@@ -1,0 +1,118 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 6: PowerShell and Files – Reading, Writing, and Manipulating Data",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 6, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 164 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_1.pdf": {
+    "document_title": "Understanding formatting",
+    "indent_level": 1,
+    "reference_url": "Página 165 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 6"
+  },
+  "ch6_1_1.pdf": {
+    "document_title": "Format-List",
+    "indent_level": 2,
+    "reference_url": "Página 166 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_1_2.pdf": {
+    "document_title": "Format-Table",
+    "indent_level": 2,
+    "reference_url": "Página 167 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_1_3.pdf": {
+    "document_title": "Format-Wide",
+    "indent_level": 2,
+    "reference_url": "Página 167 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_1_4.pdf": {
+    "document_title": "Formatting gotchas",
+    "indent_level": 2,
+    "reference_url": "Página 167 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_2.pdf": {
+    "document_title": "Writing a text file",
+    "indent_level": 1,
+    "reference_url": "Página 168 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_3.pdf": {
+    "document_title": "Using ConvertTo- and Export- cmdlets",
+    "indent_level": 1,
+    "reference_url": "Página 169 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_3_1.pdf": {
+    "document_title": "CSV",
+    "indent_level": 2,
+    "reference_url": "Página 170 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_3_2.pdf": {
+    "document_title": "XML",
+    "indent_level": 2,
+    "reference_url": "Página 172 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_3_3.pdf": {
+    "document_title": "HTML",
+    "indent_level": 2,
+    "reference_url": "Página 173 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_4.pdf": {
+    "document_title": "Handling files",
+    "indent_level": 1,
+    "reference_url": "Página 175 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_4_1.pdf": {
+    "document_title": "A brief note about PSProviders and PSDrives",
+    "indent_level": 2,
+    "reference_url": "Página 176 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_4_2.pdf": {
+    "document_title": "Item- cmdlets",
+    "indent_level": 2,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_5.pdf": {
+    "document_title": "Working with files",
+    "indent_level": 1,
+    "reference_url": "Página 178 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_5_1.pdf": {
+    "document_title": "Get-Content",
+    "indent_level": 2,
+    "reference_url": "Página 179 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch6_5_2.pdf": {
+    "document_title": "Import- cmdlets",
+    "indent_level": 2,
+    "reference_url": "Página 179 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_6.pdf": {
+    "document_title": "Let’s have some fun – measuring the most frequent words in a text file",
+    "indent_level": 1,
+    "reference_url": "Página 183 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 186 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_8.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch6_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

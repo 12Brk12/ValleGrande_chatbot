@@ -1,0 +1,92 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 16: Deploying Applications with Kubernetes",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 16, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 594 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 594 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 16"
+  },
+  "ch16_2.pdf": {
+    "document_title": "Introducing Kubernetes",
+    "indent_level": 1,
+    "reference_url": "Página 595 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_2_1.pdf": {
+    "document_title": "Understanding the Kubernetes architecture",
+    "indent_level": 2,
+    "reference_url": "Página 596 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_2_2.pdf": {
+    "document_title": "Introducing the Kubernetes object model",
+    "indent_level": 2,
+    "reference_url": "Página 596 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_2_3.pdf": {
+    "document_title": "The anatomy of a Kubernetes cluster",
+    "indent_level": 2,
+    "reference_url": "Página 599 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_3.pdf": {
+    "document_title": "Installing and configuring Kubernetes",
+    "indent_level": 1,
+    "reference_url": "Página 602 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_3_1.pdf": {
+    "document_title": "Installing Kubernetes on a desktop",
+    "indent_level": 2,
+    "reference_url": "Página 602 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_3_2.pdf": {
+    "document_title": "Installing Kubernetes on VMs",
+    "indent_level": 2,
+    "reference_url": "Página 604 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_4.pdf": {
+    "document_title": "Working with Kubernetes",
+    "indent_level": 1,
+    "reference_url": "Página 622 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_4_1.pdf": {
+    "document_title": "Using kubectl",
+    "indent_level": 2,
+    "reference_url": "Página 622 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_4_2.pdf": {
+    "document_title": "Deploying applications",
+    "indent_level": 2,
+    "reference_url": "Página 630 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_4_3.pdf": {
+    "document_title": "Running Kubernetes in the cloud",
+    "indent_level": 2,
+    "reference_url": "Página 650 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 651 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 651 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch16_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 652 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

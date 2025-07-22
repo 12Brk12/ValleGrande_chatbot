@@ -1,0 +1,35 @@
+{
+  "document_title": "Essential Linux Commands",
+  "author": "Paul Olushile",
+  "reference_url": "https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7: File Content and Conversion Commands",
+    "pages": [142,143,144,145,146,147,148,149,150,151,152,153],
+    "subsections": [
+      {
+        "title": "The tail and file commands",
+        "pages": [143]
+      },
+      {
+        "title": "The convert command",
+        "pages": [145]
+      },
+      {
+        "title": "Using dos2unix to convert MS-DOS files to Unix",
+        "pages": [148]
+      },
+      {
+        "title": "Using unix2dos to convert Unix files to MS-DOS",
+        "pages": [150]
+      },
+      {
+        "title": "The recode command",
+        "pages": [152]
+      },
+      {
+        "title": "Summary",
+        "pages": [153]
+      }
+    ]
+  }
+}

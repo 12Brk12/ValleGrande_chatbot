@@ -1,0 +1,66 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 20 The Virtual World",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 20, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 397 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_1.pdf": {
+    "document_title": "What Is Virtualization Software?",
+    "indent_level": 1,
+    "reference_url": "Página 397 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 20"
+  },
+  "ch20_2.pdf": {
+    "document_title": "Installing VirtualBox",
+    "indent_level": 1,
+    "reference_url": "Página 398 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_3.pdf": {
+    "document_title": "Creating a Virtual Machine",
+    "indent_level": 1,
+    "reference_url": "Página 400 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_4.pdf": {
+    "document_title": "Customizing a Virtual Machine",
+    "indent_level": 1,
+    "reference_url": "Página 403 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_4_1.pdf": {
+    "document_title": "Changing settings",
+    "indent_level": 2,
+    "reference_url": "Página 404 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch20_4_2.pdf": {
+    "document_title": "Installing an OS",
+    "indent_level": 2,
+    "reference_url": "Página 406 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_5.pdf": {
+    "document_title": "Working with the Virtual Machine",
+    "indent_level": 1,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_5_1.pdf": {
+    "document_title": "The Machine menu area",
+    "indent_level": 2,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch20_5_2.pdf": {
+    "document_title": "The View menu",
+    "indent_level": 2,
+    "reference_url": "Página 410 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch20_5_3.pdf": {
+    "document_title": "The Devices menu area",
+    "indent_level": 2,
+    "reference_url": "Página 411 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

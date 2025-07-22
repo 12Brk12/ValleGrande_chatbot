@@ -1,0 +1,87 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 12: Managing Containers with Docker",
+    "pages": [466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [466]
+      },
+      {
+        "title": "Understanding Linux containers",
+        "pages": [466],
+        "subsections": [
+          {
+            "title": "Comparing containers and VMs",
+            "pages": [467]
+          },
+          {
+            "title": "Understanding the underlying container technology",
+            "pages": [468]
+          },
+          {
+            "title": "Understanding Docker",
+            "pages": [470]
+          }
+        ]
+      },
+      {
+        "title": "Working with Docker",
+        "pages": [473],
+        "subsections": [
+          {
+            "title": "Which Docker version to choose?",
+            "pages": [473]
+          },
+          {
+            "title": "Installing Docker",
+            "pages": [473]
+          },
+          {
+            "title": "Using some Docker commands",
+            "pages": [476]
+          },
+          {
+            "title": "Managing Docker containers",
+            "pages": [478]
+          }
+        ]
+      },
+      {
+        "title": "Working with Dockerfiles",
+        "pages": [484],
+        "subsections": [
+          {
+            "title": "Building container images from Dockerfiles",
+            "pages": [485]
+          }
+        ]
+      },
+      {
+        "title": "Deploying a containerized application with Docker",
+        "pages": [487],
+        "subsections": [
+          {
+            "title": "Deploying a website using Docker",
+            "pages": [487]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [490]
+      },
+      {
+        "title": "Questions",
+        "pages": [490]
+      },
+      {
+        "title": "Further reading",
+        "pages": [490]
+      }
+    ]
+  }
+}

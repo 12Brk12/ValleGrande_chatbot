@@ -1,0 +1,118 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2: The Linux Shell and Filesystem",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_2.pdf": {
+    "document_title": "Introducing the Linux shell",
+    "indent_level": 1,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_2_1.pdf": {
+    "document_title": "Establishing the shell connection",
+    "indent_level": 2,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_2_2.pdf": {
+    "document_title": "The command-line prompt",
+    "indent_level": 2,
+    "reference_url": "Página 57 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_2_3.pdf": {
+    "document_title": "Shell command types",
+    "indent_level": 2,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_2_4.pdf": {
+    "document_title": "Explaining the command structure",
+    "indent_level": 2,
+    "reference_url": "Página 58 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_2_5.pdf": {
+    "document_title": "Consulting the manual",
+    "indent_level": 2,
+    "reference_url": "Página 60 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "The Linux filesystem",
+    "indent_level": 1,
+    "reference_url": "Página 60 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_3_1.pdf": {
+    "document_title": "Directory structure",
+    "indent_level": 2,
+    "reference_url": "Página 61 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_4.pdf": {
+    "document_title": "Working with files and directories",
+    "indent_level": 1,
+    "reference_url": "Página 64 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_4_1.pdf": {
+    "document_title": "Understanding file paths",
+    "indent_level": 2,
+    "reference_url": "Página 64 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_4_2.pdf": {
+    "document_title": "Basic file operations",
+    "indent_level": 2,
+    "reference_url": "Página 66 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_4_3.pdf": {
+    "document_title": "Commands for file viewing",
+    "indent_level": 2,
+    "reference_url": "Página 75 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_4_4.pdf": {
+    "document_title": "Commands for file properties",
+    "indent_level": 2,
+    "reference_url": "Página 78 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_5.pdf": {
+    "document_title": "Using text editors to create and edit files",
+    "indent_level": 1,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_5_1.pdf": {
+    "document_title": "Using Vim to edit text files",
+    "indent_level": 2,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_5_2.pdf": {
+    "document_title": "The nano text editor",
+    "indent_level": 2,
+    "reference_url": "Página 92 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 93 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 93 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  },
+  "ch2_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 94 de https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link"
+  }
+}

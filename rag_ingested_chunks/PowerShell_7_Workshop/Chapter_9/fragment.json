@@ -1,0 +1,77 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9: Don’t Repeat Yourself – Functions and Scriptblocks",
+    "pages": [240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265],
+    "subsections": [
+      {
+        "title": "Why do we care about repeating code?",
+        "pages": [241]
+      },
+      {
+        "title": "How to turn repeating code into a function",
+        "pages": [243],
+        "subsections": [
+          {
+            "title": "What makes a function?",
+            "pages": [245]
+          },
+          {
+            "title": "Function parameters",
+            "pages": [248]
+          },
+          {
+            "title": "Filters",
+            "pages": [254]
+          }
+        ]
+      },
+      {
+        "title": "The concept of scope",
+        "pages": [255],
+        "subsections": [
+          {
+            "title": "Parent and child scopes",
+            "pages": [256]
+          },
+          {
+            "title": "Scope modifiers",
+            "pages": [257]
+          }
+        ]
+      },
+      {
+        "title": "Exploring scriptblocks",
+        "pages": [258],
+        "subsections": [
+          {
+            "title": "How to run a scriptblock",
+            "pages": [258]
+          },
+          {
+            "title": "Lambdas",
+            "pages": [260]
+          }
+        ]
+      },
+      {
+        "title": "Let’s do something useful",
+        "pages": [261]
+      },
+      {
+        "title": "Summary",
+        "pages": [263]
+      },
+      {
+        "title": "Further reading",
+        "pages": [264]
+      },
+      {
+        "title": "Exercises",
+        "pages": [265]
+      }
+    ]
+  }
+}

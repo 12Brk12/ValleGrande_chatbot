@@ -1,0 +1,149 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 4: Python Libraries for Advanced Programming",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 4, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 136 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 137 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 4"
+  },
+  "ch4_2.pdf": {
+    "document_title": "Introducing Python data containers",
+    "indent_level": 1,
+    "reference_url": "Página 137 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_2_1.pdf": {
+    "document_title": "Strings",
+    "indent_level": 2,
+    "reference_url": "Página 137 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_2_2.pdf": {
+    "document_title": "Lists",
+    "indent_level": 2,
+    "reference_url": "Página 138 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_2_3.pdf": {
+    "document_title": "Tuples",
+    "indent_level": 2,
+    "reference_url": "Página 139 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_2_4.pdf": {
+    "document_title": "Dictionaries",
+    "indent_level": 2,
+    "reference_url": "Página 140 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_2_5.pdf": {
+    "document_title": "Sets",
+    "indent_level": 2,
+    "reference_url": "Página 141 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_3.pdf": {
+    "document_title": "Using iterators and generators for data processing",
+    "indent_level": 1,
+    "reference_url": "Página 142 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_3_1.pdf": {
+    "document_title": "Iterators",
+    "indent_level": 2,
+    "reference_url": "Página 142 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_3_2.pdf": {
+    "document_title": "Generators",
+    "indent_level": 2,
+    "reference_url": "Página 147 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_4.pdf": {
+    "document_title": "Handling files in Python",
+    "indent_level": 1,
+    "reference_url": "Página 150 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_4_1.pdf": {
+    "document_title": "File operations",
+    "indent_level": 2,
+    "reference_url": "Página 150 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_4_2.pdf": {
+    "document_title": "Using a context manager",
+    "indent_level": 2,
+    "reference_url": "Página 153 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_4_3.pdf": {
+    "document_title": "Operating on multiple files",
+    "indent_level": 2,
+    "reference_url": "Página 154 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_5.pdf": {
+    "document_title": "Handling errors and exceptions",
+    "indent_level": 1,
+    "reference_url": "Página 155 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_5_1.pdf": {
+    "document_title": "Working with exceptions in Python",
+    "indent_level": 2,
+    "reference_url": "Página 156 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_5_2.pdf": {
+    "document_title": "Raising exceptions",
+    "indent_level": 2,
+    "reference_url": "Página 159 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_5_3.pdf": {
+    "document_title": "Defining custom exceptions",
+    "indent_level": 2,
+    "reference_url": "Página 160 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_6.pdf": {
+    "document_title": "Using the Python logging module",
+    "indent_level": 1,
+    "reference_url": "Página 161 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_6_1.pdf": {
+    "document_title": "Introducing core logging components",
+    "indent_level": 2,
+    "reference_url": "Página 162 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_6_2.pdf": {
+    "document_title": "Working with the logging module",
+    "indent_level": 2,
+    "reference_url": "Página 164 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_6_3.pdf": {
+    "document_title": "What to log and what not to log",
+    "indent_level": 2,
+    "reference_url": "Página 171 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 172 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_8.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 172 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_9.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 173 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch4_10.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 173 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

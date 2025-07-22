@@ -1,0 +1,34 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3 Installing Linux",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "Things to Consider Before You Begin Installation",
+    "indent_level": 1,
+    "reference_url": "Página 54 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Installing from Ubuntu Live",
+    "indent_level": 1,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "Your First Ubuntu Boot",
+    "indent_level": 1,
+    "reference_url": "Página 65 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Installing openSUSE",
+    "indent_level": 1,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

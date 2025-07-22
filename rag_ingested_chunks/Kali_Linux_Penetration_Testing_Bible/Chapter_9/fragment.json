@@ -1,0 +1,111 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9 Web Penetration Testing and Secure Software Development Lifecycle",
+    "pages": [257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282],
+    "subsections": [
+      {
+        "title": "Web Enumeration and Exploitation",
+        "pages": [257],
+        "subsections": [
+          {
+            "title": "Burp Suite Pro",
+            "pages": [258],
+            "subsections": [
+              {
+                "title": "Web Pentest Using Burp Suite",
+                "pages": [258]
+              }
+            ]
+          },
+          {
+            "title": "More Enumeration",
+            "pages": [271],
+            "subsections": [
+              {
+                "title": "Nmap",
+                "pages": [272]
+              },
+              {
+                "title": "Crawling",
+                "pages": [272]
+              },
+              {
+                "title": "Vulnerability Assessment",
+                "pages": [273]
+              }
+            ]
+          },
+          {
+            "title": "Manual Web Penetration Testing Checklist",
+            "pages": [273],
+            "subsections": [
+              {
+                "title": "Common Checklist",
+                "pages": [274]
+              },
+              {
+                "title": "Special Pages Checklist",
+                "pages": [274]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Secure Software Development Lifecycle",
+        "pages": [276],
+        "subsections": [
+          {
+            "title": "Analysis/Architecture Phase",
+            "pages": [277],
+            "subsections": [
+              {
+                "title": "Application Threat Modeling",
+                "pages": [277]
+              },
+              {
+                "title": "Assets",
+                "pages": [277]
+              },
+              {
+                "title": "Entry Points",
+                "pages": [278]
+              },
+              {
+                "title": "Third Parties",
+                "pages": [278]
+              },
+              {
+                "title": "Trust Levels",
+                "pages": [278]
+              },
+              {
+                "title": "Data Flow Diagram",
+                "pages": [278]
+              }
+            ]
+          },
+          {
+            "title": "Development Phase",
+            "pages": [278]
+          },
+          {
+            "title": "Testing Phase",
+            "pages": [281]
+          },
+          {
+            "title": "Production Environment (Final Deployment)",
+            "pages": [281]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [281]
+      }
+    ]
+  }
+}

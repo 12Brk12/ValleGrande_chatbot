@@ -1,0 +1,97 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 19 Automating Your World",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 19, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_1.pdf": {
+    "document_title": "The Basics of Shell Scripting",
+    "indent_level": 1,
+    "reference_url": "Página 375 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 19"
+  },
+  "ch19_1_1.pdf": {
+    "document_title": "Running multiple commands",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch19_1_2.pdf": {
+    "document_title": "Redirecting output",
+    "indent_level": 2,
+    "reference_url": "Página 376 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_1_3.pdf": {
+    "document_title": "Piping data",
+    "indent_level": 2,
+    "reference_url": "Página 377 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_1_4.pdf": {
+    "document_title": "The shell script format",
+    "indent_level": 2,
+    "reference_url": "Página 378 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_1_5.pdf": {
+    "document_title": "Running the shell script",
+    "indent_level": 2,
+    "reference_url": "Página 380 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_2.pdf": {
+    "document_title": "Advanced Shell Scripting",
+    "indent_level": 1,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_2_1.pdf": {
+    "document_title": "Displaying messages",
+    "indent_level": 2,
+    "reference_url": "Página 381 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch19_2_2.pdf": {
+    "document_title": "Using variables",
+    "indent_level": 2,
+    "reference_url": "Página 382 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_2_3.pdf": {
+    "document_title": "Command line arguments",
+    "indent_level": 2,
+    "reference_url": "Página 385 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_2_4.pdf": {
+    "document_title": "The exit status",
+    "indent_level": 2,
+    "reference_url": "Página 386 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_3.pdf": {
+    "document_title": "Writing Script Programs",
+    "indent_level": 1,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_3_1.pdf": {
+    "document_title": "Command substitution",
+    "indent_level": 2,
+    "reference_url": "Página 387 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch19_3_2.pdf": {
+    "document_title": "Performing math",
+    "indent_level": 2,
+    "reference_url": "Página 388 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_3_3.pdf": {
+    "document_title": "Logic statements",
+    "indent_level": 2,
+    "reference_url": "Página 390 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  },
+  "ch19_3_4.pdf": {
+    "document_title": "Loops",
+    "indent_level": 2,
+    "reference_url": "Página 394 de https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link"
+  }
+}

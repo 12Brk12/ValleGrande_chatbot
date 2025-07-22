@@ -1,0 +1,59 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 5: Linux Permissions Commands",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 5, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_1.pdf": {
+    "document_title": "Why permission commands?",
+    "indent_level": 1,
+    "reference_url": "Página 109 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 5"
+  },
+  "ch5_2.pdf": {
+    "document_title": "Types of permissions",
+    "indent_level": 1,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_3.pdf": {
+    "document_title": "chmod",
+    "indent_level": 1,
+    "reference_url": "Página 111 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_4.pdf": {
+    "document_title": "chown",
+    "indent_level": 1,
+    "reference_url": "Página 115 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_5.pdf": {
+    "document_title": "Utilizing absolute paths in commands",
+    "indent_level": 1,
+    "reference_url": "Página 117 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_6.pdf": {
+    "document_title": "chgrp",
+    "indent_level": 1,
+    "reference_url": "Página 119 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_7.pdf": {
+    "document_title": "umask",
+    "indent_level": 1,
+    "reference_url": "Página 120 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_8.pdf": {
+    "document_title": "sudo",
+    "indent_level": 1,
+    "reference_url": "Página 122 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  },
+  "ch5_9.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 124 de https://drive.google.com/file/d/1MGh7ajfmTH4K75GHeioF_LxNJKQTt61-/view?usp=drive_link"
+  }
+}

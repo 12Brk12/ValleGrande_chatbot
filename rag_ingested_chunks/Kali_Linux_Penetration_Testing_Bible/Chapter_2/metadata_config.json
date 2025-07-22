@@ -1,0 +1,71 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2 Bash Scripting",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 75 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Basic Bash Scripting",
+    "indent_level": 1,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_2.pdf": {
+    "document_title": "Printing to the Screen in Bash",
+    "indent_level": 1,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "Variables",
+    "indent_level": 1,
+    "reference_url": "Página 78 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_3_1.pdf": {
+    "document_title": "Commands Variable",
+    "indent_level": 2,
+    "reference_url": "Página 80 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_4.pdf": {
+    "document_title": "Script Parameters",
+    "indent_level": 1,
+    "reference_url": "Página 80 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_5.pdf": {
+    "document_title": "User Input",
+    "indent_level": 1,
+    "reference_url": "Página 82 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_6.pdf": {
+    "document_title": "Functions",
+    "indent_level": 1,
+    "reference_url": "Página 82 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_7.pdf": {
+    "document_title": "Conditions and Loops",
+    "indent_level": 1,
+    "reference_url": "Página 83 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_7_1.pdf": {
+    "document_title": "Conditions",
+    "indent_level": 2,
+    "reference_url": "Página 84 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_7_2.pdf": {
+    "document_title": "Loops",
+    "indent_level": 2,
+    "reference_url": "Página 86 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch2_8.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 89 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

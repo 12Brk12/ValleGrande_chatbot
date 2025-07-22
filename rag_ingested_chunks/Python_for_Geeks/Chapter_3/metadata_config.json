@@ -1,0 +1,152 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3: Advanced Object-Oriented Python Programming",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 98 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Introducing classes and objects",
+    "indent_level": 1,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_2_1.pdf": {
+    "document_title": "Distinguishing between class attributes and instance attributes",
+    "indent_level": 2,
+    "reference_url": "Página 99 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2_2.pdf": {
+    "document_title": "Using constructors and destructors with classes",
+    "indent_level": 2,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_2_3.pdf": {
+    "document_title": "Distinguishing between class methods and instance methods",
+    "indent_level": 2,
+    "reference_url": "Página 104 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_2_4.pdf": {
+    "document_title": "Special methods",
+    "indent_level": 2,
+    "reference_url": "Página 106 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "Understanding OOP principles",
+    "indent_level": 1,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_1.pdf": {
+    "document_title": "Encapsulation of data",
+    "indent_level": 2,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_3_2.pdf": {
+    "document_title": "Encompassing data and actions",
+    "indent_level": 2,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_3.pdf": {
+    "document_title": "Hiding information",
+    "indent_level": 2,
+    "reference_url": "Página 110 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_4.pdf": {
+    "document_title": "Protecting the data",
+    "indent_level": 2,
+    "reference_url": "Página 113 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_5.pdf": {
+    "document_title": "Using traditional getters and setters",
+    "indent_level": 2,
+    "reference_url": "Página 113 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_6.pdf": {
+    "document_title": "Using property decorators",
+    "indent_level": 2,
+    "reference_url": "Página 115 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_7.pdf": {
+    "document_title": "Extending classes with inheritance",
+    "indent_level": 2,
+    "reference_url": "Página 116 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_8.pdf": {
+    "document_title": "Simple inheritance",
+    "indent_level": 2,
+    "reference_url": "Página 117 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_3_9.pdf": {
+    "document_title": "Multiple inheritance",
+    "indent_level": 2,
+    "reference_url": "Página 119 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Polymorphism",
+    "indent_level": 1,
+    "reference_url": "Página 121 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_4_1.pdf": {
+    "document_title": "Method overloading",
+    "indent_level": 2,
+    "reference_url": "Página 121 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_4_2.pdf": {
+    "document_title": "Method overriding",
+    "indent_level": 2,
+    "reference_url": "Página 122 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_4_3.pdf": {
+    "document_title": "Abstraction",
+    "indent_level": 2,
+    "reference_url": "Página 124 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_5.pdf": {
+    "document_title": "Using composition as an alternative design approach",
+    "indent_level": 1,
+    "reference_url": "Página 126 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_6.pdf": {
+    "document_title": "Introducing duck typing in Python",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_7.pdf": {
+    "document_title": "Learning when not to use OOP in Python",
+    "indent_level": 1,
+    "reference_url": "Página 130 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_8.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 131 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_9.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 132 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_10.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 132 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch3_11.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 132 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

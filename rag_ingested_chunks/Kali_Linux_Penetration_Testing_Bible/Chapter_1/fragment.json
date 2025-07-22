@@ -1,0 +1,199 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1 Mastering the Terminal Window",
+    "pages": [27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74],
+    "subsections": [
+      {
+        "title": "Kali Linux File System",
+        "pages": [28],
+        "subsections": [
+          {
+            "title": "Terminal Window Basic Commands",
+            "pages": [29]
+          },
+          {
+            "title": "Tmux Terminal Window",
+            "pages": [32],
+            "subsections": [
+              {
+                "title": "Starting Tmux",
+                "pages": [32]
+              },
+              {
+                "title": "Tmux Key Bindings",
+                "pages": [33]
+              },
+              {
+                "title": "Tmux Session Management",
+                "pages": [33]
+              },
+              {
+                "title": "Navigating Inside Tmux",
+                "pages": [35]
+              },
+              {
+                "title": "Tmux Commands Reference",
+                "pages": [35]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Managing Users and Groups in Kali",
+        "pages": [36],
+        "subsections": [
+          {
+            "title": "Users Commands",
+            "pages": [36]
+          },
+          {
+            "title": "Groups Commands",
+            "pages": [40]
+          },
+          {
+            "title": "Managing Passwords in Kali",
+            "pages": [40]
+          }
+        ]
+      },
+      {
+        "title": "Files and Folders Management in Kali Linux",
+        "pages": [41],
+        "subsections": [
+          {
+            "title": "Displaying Files and Folders",
+            "pages": [41]
+          },
+          {
+            "title": "Permissions",
+            "pages": [42]
+          },
+          {
+            "title": "Manipulating Files in Kali",
+            "pages": [45]
+          },
+          {
+            "title": "Searching for Files",
+            "pages": [46]
+          },
+          {
+            "title": "Files Compression",
+            "pages": [47]
+          },
+          {
+            "title": "Manipulating Directories in Kali",
+            "pages": [49]
+          },
+          {
+            "title": "Mounting a Directory",
+            "pages": [49]
+          },
+          {
+            "title": "Managing Text Files in Kali Linux",
+            "pages": [50]
+          },
+          {
+            "title": "Vim vs. Nano",
+            "pages": [52]
+          },
+          {
+            "title": "Searching and Filtering Text",
+            "pages": [53]
+          }
+        ]
+      },
+      {
+        "title": "Remote Connections in Kali",
+        "pages": [55],
+        "subsections": [
+          {
+            "title": "Remote Desktop Protocol",
+            "pages": [55]
+          },
+          {
+            "title": "Secure Shell",
+            "pages": [56]
+          },
+          {
+            "title": "SSH with Credentials",
+            "pages": [56]
+          },
+          {
+            "title": "Passwordless SSH",
+            "pages": [58]
+          }
+        ]
+      },
+      {
+        "title": "Kali Linux System Management",
+        "pages": [60],
+        "subsections": [
+          {
+            "title": "Linux Host Information",
+            "pages": [62]
+          },
+          {
+            "title": "Linux OS Information",
+            "pages": [62]
+          },
+          {
+            "title": "Linux Hardware Information",
+            "pages": [62]
+          },
+          {
+            "title": "Managing Running Services",
+            "pages": [64]
+          },
+          {
+            "title": "Package Management",
+            "pages": [65]
+          },
+          {
+            "title": "Process Management",
+            "pages": [67]
+          }
+        ]
+      },
+      {
+        "title": "Networking in Kali Linux",
+        "pages": [68],
+        "subsections": [
+          {
+            "title": "Network Interface",
+            "pages": [68],
+            "subsections": [
+              {
+                "title": "IPv4 Private Address Ranges",
+                "pages": [68]
+              },
+              {
+                "title": "Static IP Addressing",
+                "pages": [69]
+              }
+            ]
+          },
+          {
+            "title": "DNS",
+            "pages": [71]
+          },
+          {
+            "title": "Established Connections",
+            "pages": [72]
+          },
+          {
+            "title": "File Transfers",
+            "pages": [73]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [74]
+      }
+    ]
+  }
+}

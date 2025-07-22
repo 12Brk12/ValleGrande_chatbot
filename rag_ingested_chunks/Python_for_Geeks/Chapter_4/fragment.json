@@ -1,0 +1,125 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4: Python Libraries for Advanced Programming",
+    "pages": [136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [137]
+      },
+      {
+        "title": "Introducing Python data containers",
+        "pages": [137],
+        "subsections": [
+          {
+            "title": "Strings",
+            "pages": [137]
+          },
+          {
+            "title": "Lists",
+            "pages": [138]
+          },
+          {
+            "title": "Tuples",
+            "pages": [139]
+          },
+          {
+            "title": "Dictionaries",
+            "pages": [140]
+          },
+          {
+            "title": "Sets",
+            "pages": [141]
+          }
+        ]
+      },
+      {
+        "title": "Using iterators and generators for data processing",
+        "pages": [142],
+        "subsections": [
+          {
+            "title": "Iterators",
+            "pages": [142]
+          },
+          {
+            "title": "Generators",
+            "pages": [147]
+          }
+        ]
+      },
+      {
+        "title": "Handling files in Python",
+        "pages": [150],
+        "subsections": [
+          {
+            "title": "File operations",
+            "pages": [150]
+          },
+          {
+            "title": "Using a context manager",
+            "pages": [153]
+          },
+          {
+            "title": "Operating on multiple files",
+            "pages": [154]
+          }
+        ]
+      },
+      {
+        "title": "Handling errors and exceptions",
+        "pages": [155],
+        "subsections": [
+          {
+            "title": "Working with exceptions in Python",
+            "pages": [156]
+          },
+          {
+            "title": "Raising exceptions",
+            "pages": [159]
+          },
+          {
+            "title": "Defining custom exceptions",
+            "pages": [160]
+          }
+        ]
+      },
+      {
+        "title": "Using the Python logging module",
+        "pages": [161],
+        "subsections": [
+          {
+            "title": "Introducing core logging components",
+            "pages": [162]
+          },
+          {
+            "title": "Working with the logging module",
+            "pages": [164]
+          },
+          {
+            "title": "What to log and what not to log",
+            "pages": [171]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [172]
+      },
+      {
+        "title": "Questions",
+        "pages": [172]
+      },
+      {
+        "title": "Further reading",
+        "pages": [173]
+      },
+      {
+        "title": "Answers",
+        "pages": [173]
+      }
+    ]
+  }
+}

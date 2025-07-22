@@ -1,0 +1,77 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 15 Assembly Language and Reverse Engineering",
+    "pages": [379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394],
+    "subsections": [
+      {
+        "title": "CPU Registers",
+        "pages": [379],
+        "subsections": [
+          {
+            "title": "General CPU Registers",
+            "pages": [380]
+          },
+          {
+            "title": "Index Registers",
+            "pages": [381]
+          },
+          {
+            "title": "Pointer Registers",
+            "pages": [381]
+          },
+          {
+            "title": "Segment Registers",
+            "pages": [381]
+          },
+          {
+            "title": "Flag Registers",
+            "pages": [383]
+          }
+        ]
+      },
+      {
+        "title": "Assembly Instructions",
+        "pages": [384],
+        "subsections": [
+          {
+            "title": "Little Endian",
+            "pages": [386]
+          }
+        ]
+      },
+      {
+        "title": "Data Types",
+        "pages": [386]
+      },
+      {
+        "title": "Memory Segments",
+        "pages": [387]
+      },
+      {
+        "title": "Addressing Modes",
+        "pages": [387]
+      },
+      {
+        "title": "Reverse Engineering Example",
+        "pages": [387],
+        "subsections": [
+          {
+            "title": "Visual Studio Code for C/C++",
+            "pages": [388]
+          },
+          {
+            "title": "Immunity Debugger for Reverse Engineering",
+            "pages": [389]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [394]
+      }
+    ]
+  }
+}

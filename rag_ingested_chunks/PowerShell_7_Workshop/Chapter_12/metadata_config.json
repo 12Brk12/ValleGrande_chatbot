@@ -1,0 +1,159 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 12: Securing PowerShell",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 12, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 316 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_1.pdf": {
+    "document_title": "Why is security so important?",
+    "indent_level": 1,
+    "reference_url": "Página 316 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 12"
+  },
+  "ch12_1_1.pdf": {
+    "document_title": "A PowerShell remoting whistlestop tour",
+    "indent_level": 2,
+    "reference_url": "Página 317 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_1_2.pdf": {
+    "document_title": "Enabling PowerShell remoting",
+    "indent_level": 2,
+    "reference_url": "Página 317 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_1_3.pdf": {
+    "document_title": "Creating a session",
+    "indent_level": 2,
+    "reference_url": "Página 318 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_1_4.pdf": {
+    "document_title": "Joining and leaving a session",
+    "indent_level": 2,
+    "reference_url": "Página 319 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_1_5.pdf": {
+    "document_title": "One-to-many sessions",
+    "indent_level": 2,
+    "reference_url": "Página 320 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_2.pdf": {
+    "document_title": "Securing PowerShell against inadvertent mistakes",
+    "indent_level": 1,
+    "reference_url": "Página 320 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_2_1.pdf": {
+    "document_title": "Execution policy",
+    "indent_level": 2,
+    "reference_url": "Página 321 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_2_2.pdf": {
+    "document_title": "Other features",
+    "indent_level": 2,
+    "reference_url": "Página 323 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3.pdf": {
+    "document_title": "Running PowerShell securely",
+    "indent_level": 1,
+    "reference_url": "Página 324 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_1.pdf": {
+    "document_title": "Application control",
+    "indent_level": 2,
+    "reference_url": "Página 324 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_3_2.pdf": {
+    "document_title": "Language modes",
+    "indent_level": 2,
+    "reference_url": "Página 324 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_3.pdf": {
+    "document_title": "Security servicing criteria",
+    "indent_level": 2,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_4.pdf": {
+    "document_title": "Software Bill of Materials",
+    "indent_level": 2,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_5.pdf": {
+    "document_title": "Windows Antimalware Scan Interface support",
+    "indent_level": 2,
+    "reference_url": "Página 325 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_6.pdf": {
+    "document_title": "Secure Shell (SSH) remoting",
+    "indent_level": 2,
+    "reference_url": "Página 326 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_3_7.pdf": {
+    "document_title": "Just Enough Administration",
+    "indent_level": 2,
+    "reference_url": "Página 326 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_4.pdf": {
+    "document_title": "PowerShell logging",
+    "indent_level": 1,
+    "reference_url": "Página 326 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_4_1.pdf": {
+    "document_title": "Over the shoulder logging",
+    "indent_level": 2,
+    "reference_url": "Página 326 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_4_2.pdf": {
+    "document_title": "Deep script block logging",
+    "indent_level": 2,
+    "reference_url": "Página 328 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_4_3.pdf": {
+    "document_title": "Module logging",
+    "indent_level": 2,
+    "reference_url": "Página 329 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_5.pdf": {
+    "document_title": "Writing secure code",
+    "indent_level": 1,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_5_1.pdf": {
+    "document_title": "Storing passwords securely",
+    "indent_level": 2,
+    "reference_url": "Página 330 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch12_5_2.pdf": {
+    "document_title": "Signing scripts",
+    "indent_level": 2,
+    "reference_url": "Página 331 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_5_3.pdf": {
+    "document_title": "Parameter security",
+    "indent_level": 2,
+    "reference_url": "Página 332 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 333 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch12_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 334 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

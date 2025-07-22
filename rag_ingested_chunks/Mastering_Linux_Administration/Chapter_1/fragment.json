@@ -1,0 +1,103 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1: Installing Linux",
+    "pages": [24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [25]
+      },
+      {
+        "title": "Introducing the Linux operating system",
+        "pages": [25],
+        "subsections": [
+          {
+            "title": "Exploring Linux distributions",
+            "pages": [25]
+          },
+          {
+            "title": "Choosing a Linux distribution",
+            "pages": [27]
+          }
+        ]
+      },
+      {
+        "title": "Installing Linux – the basics",
+        "pages": [30],
+        "subsections": [
+          {
+            "title": "How to install Linux on bare metal",
+            "pages": [30]
+          },
+          {
+            "title": "Linux in a VM",
+            "pages": [34]
+          },
+          {
+            "title": "VM provisioning using Hyper-V",
+            "pages": [38]
+          },
+          {
+            "title": "VM provisioning using Oracle’s VirtualBox",
+            "pages": [41]
+          }
+        ]
+      },
+      {
+        "title": "Enabling Windows Subsystem for Linux",
+        "pages": [42]
+      },
+      {
+        "title": "Installing Linux – the advanced stages",
+        "pages": [45],
+        "subsections": [
+          {
+            "title": "The Linux boot process",
+            "pages": [45]
+          },
+          {
+            "title": "PXE network boot explained",
+            "pages": [46]
+          }
+        ]
+      },
+      {
+        "title": "Linux distributions – a practical guide",
+        "pages": [48],
+        "subsections": [
+          {
+            "title": "Case study – development workstation",
+            "pages": [48]
+          },
+          {
+            "title": "Case study – secure web server",
+            "pages": [49]
+          },
+          {
+            "title": "Use case – personal blog",
+            "pages": [49]
+          },
+          {
+            "title": "Use case – media server",
+            "pages": [50]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [51]
+      },
+      {
+        "title": "Questions",
+        "pages": [51]
+      },
+      {
+        "title": "Further reading",
+        "pages": [51]
+      }
+    ]
+  }
+}

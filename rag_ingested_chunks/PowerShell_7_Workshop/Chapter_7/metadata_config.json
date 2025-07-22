@@ -1,0 +1,108 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7: PowerShell and the Web – HTTP, REST, and JSON",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Working with HTTP",
+    "indent_level": 1,
+    "reference_url": "Página 189 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_1_1.pdf": {
+    "document_title": "Why don’t we see Forms information in PowerShell 7?",
+    "indent_level": 2,
+    "reference_url": "Página 193 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_1_2.pdf": {
+    "document_title": "Authentication",
+    "indent_level": 2,
+    "reference_url": "Página 195 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Getting to grips with APIs",
+    "indent_level": 1,
+    "reference_url": "Página 197 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "RPC APIs",
+    "indent_level": 2,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "SOAP APIs",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "REST APIs",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_2_4.pdf": {
+    "document_title": "WebSocket APIs",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "Working with REST",
+    "indent_level": 1,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_3_1.pdf": {
+    "document_title": "Invoke-RestMethod",
+    "indent_level": 2,
+    "reference_url": "Página 200 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_4.pdf": {
+    "document_title": "Working with JSON",
+    "indent_level": 1,
+    "reference_url": "Página 203 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_4_1.pdf": {
+    "document_title": "ConvertFrom-Json",
+    "indent_level": 2,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_4_2.pdf": {
+    "document_title": "ConvertTo-Json",
+    "indent_level": 2,
+    "reference_url": "Página 207 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_4_3.pdf": {
+    "document_title": "Test-Json",
+    "indent_level": 2,
+    "reference_url": "Página 210 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_5.pdf": {
+    "document_title": "Let’s have some fun – who is on the International Space Station?",
+    "indent_level": 1,
+    "reference_url": "Página 211 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 212 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_7.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 213 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch7_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 214 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3: Advanced Object-Oriented Python Programming",
+    "pages": [98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [99]
+      },
+      {
+        "title": "Introducing classes and objects",
+        "pages": [99],
+        "subsections": [
+          {
+            "title": "Distinguishing between class attributes and instance attributes",
+            "pages": [99]
+          },
+          {
+            "title": "Using constructors and destructors with classes",
+            "pages": [103]
+          },
+          {
+            "title": "Distinguishing between class methods and instance methods",
+            "pages": [104]
+          },
+          {
+            "title": "Special methods",
+            "pages": [106]
+          }
+        ]
+      },
+      {
+        "title": "Understanding OOP principles",
+        "pages": [108],
+        "subsections": [
+          {
+            "title": "Encapsulation of data",
+            "pages": [108]
+          },
+          {
+            "title": "Encompassing data and actions",
+            "pages": [108]
+          },
+          {
+            "title": "Hiding information",
+            "pages": [110]
+          },
+          {
+            "title": "Protecting the data",
+            "pages": [113]
+          },
+          {
+            "title": "Using traditional getters and setters",
+            "pages": [113]
+          },
+          {
+            "title": "Using property decorators",
+            "pages": [115]
+          },
+          {
+            "title": "Extending classes with inheritance",
+            "pages": [116]
+          },
+          {
+            "title": "Simple inheritance",
+            "pages": [117]
+          },
+          {
+            "title": "Multiple inheritance",
+            "pages": [119]
+          }
+        ]
+      },
+      {
+        "title": "Polymorphism",
+        "pages": [121],
+        "subsections": [
+          {
+            "title": "Method overloading",
+            "pages": [121]
+          },
+          {
+            "title": "Method overriding",
+            "pages": [122]
+          },
+          {
+            "title": "Abstraction",
+            "pages": [124]
+          }
+        ]
+      },
+      {
+        "title": "Using composition as an alternative design approach",
+        "pages": [126]
+      },
+      {
+        "title": "Introducing duck typing in Python",
+        "pages": [129]
+      },
+      {
+        "title": "Learning when not to use OOP in Python",
+        "pages": [130]
+      },
+      {
+        "title": "Summary",
+        "pages": [131]
+      },
+      {
+        "title": "Questions",
+        "pages": [132]
+      },
+      {
+        "title": "Further reading",
+        "pages": [132]
+      },
+      {
+        "title": "Answers",
+        "pages": [132]
+      }
+    ]
+  }
+}

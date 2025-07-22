@@ -1,0 +1,71 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 15: Deploying to the Cloud with AWS and Azure",
+    "pages": [542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [543]
+      },
+      {
+        "title": "Working with AWS EC2",
+        "pages": [544],
+        "subsections": [
+          {
+            "title": "Introducing and creating AWS EC2 instances",
+            "pages": [544]
+          },
+          {
+            "title": "Introducing AWS EC2 placement groups",
+            "pages": [557]
+          },
+          {
+            "title": "Using AWS EC2 instances",
+            "pages": [559]
+          },
+          {
+            "title": "Working with the AWS CLI",
+            "pages": [569]
+          }
+        ]
+      },
+      {
+        "title": "Working with Microsoft Azure",
+        "pages": [577],
+        "subsections": [
+          {
+            "title": "Creating and deploying a virtual machine",
+            "pages": [577]
+          },
+          {
+            "title": "Connecting with SSH to a virtual machine",
+            "pages": [583]
+          },
+          {
+            "title": "Managing virtual machines",
+            "pages": [584]
+          },
+          {
+            "title": "Working with the Azure CLI",
+            "pages": [588]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [591]
+      },
+      {
+        "title": "Questions",
+        "pages": [592]
+      },
+      {
+        "title": "Further reading",
+        "pages": [592]
+      }
+    ]
+  }
+}

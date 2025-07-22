@@ -1,0 +1,97 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3: The PowerShell Pipeline – How to String Cmdlets Together",
+    "pages": [74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99],
+    "subsections": [
+      {
+        "title": "How to bring cmdlets together – the pipeline",
+        "pages": [75],
+        "subsections": [
+          {
+            "title": "What is an object?",
+            "pages": [77]
+          }
+        ]
+      },
+      {
+        "title": "Selecting and sorting objects",
+        "pages": [78],
+        "subsections": [
+          {
+            "title": "Using Select-Object",
+            "pages": [79]
+          },
+          {
+            "title": "Ordering objects with Sort-Object",
+            "pages": [80]
+          }
+        ]
+      },
+      {
+        "title": "Filtering objects",
+        "pages": [83],
+        "subsections": [
+          {
+            "title": "Understanding comparison operators",
+            "pages": [83]
+          },
+          {
+            "title": "Understanding Where-Object advanced syntax",
+            "pages": [85]
+          },
+          {
+            "title": "Multiple filters in the advanced syntax",
+            "pages": [86]
+          },
+          {
+            "title": "Filter optimization",
+            "pages": [89]
+          }
+        ]
+      },
+      {
+        "title": "Enumerating objects",
+        "pages": [90],
+        "subsections": [
+          {
+            "title": "Parallel enumeration",
+            "pages": [91]
+          }
+        ]
+      },
+      {
+        "title": "How the pipeline works – parameter binding",
+        "pages": [91],
+        "subsections": [
+          {
+            "title": "Understanding ByValue parameter binding",
+            "pages": [92]
+          },
+          {
+            "title": "ByPropertyName parameter binding",
+            "pages": [94]
+          }
+        ]
+      },
+      {
+        "title": "Troubleshooting the pipeline – pipeline tracing",
+        "pages": [95]
+      },
+      {
+        "title": "Summary",
+        "pages": [97]
+      },
+      {
+        "title": "Exercises",
+        "pages": [97]
+      },
+      {
+        "title": "Further reading",
+        "pages": [98]
+      }
+    ]
+  }
+}

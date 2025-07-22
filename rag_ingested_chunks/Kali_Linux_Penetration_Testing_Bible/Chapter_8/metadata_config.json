@@ -1,0 +1,65 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 8 Web Application Vulnerabilities",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 8, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 225 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1.pdf": {
+    "document_title": "Web Application Vulnerabilities",
+    "indent_level": 1,
+    "reference_url": "Página 226 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 8"
+  },
+  "ch8_1_1.pdf": {
+    "document_title": "Mutillidae Installation",
+    "indent_level": 2,
+    "reference_url": "Página 226 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch8_1_2.pdf": {
+    "document_title": "Cross-Site Scripting",
+    "indent_level": 2,
+    "reference_url": "Página 229 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_3.pdf": {
+    "document_title": "SQL Injection",
+    "indent_level": 2,
+    "reference_url": "Página 234 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_4.pdf": {
+    "document_title": "Command Injection",
+    "indent_level": 2,
+    "reference_url": "Página 243 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_5.pdf": {
+    "document_title": "File Inclusion",
+    "indent_level": 2,
+    "reference_url": "Página 243 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_6.pdf": {
+    "document_title": "Cross-Site Request Forgery",
+    "indent_level": 2,
+    "reference_url": "Página 246 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_7.pdf": {
+    "document_title": "File Upload",
+    "indent_level": 2,
+    "reference_url": "Página 249 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_1_8.pdf": {
+    "document_title": "OWASP Top 10",
+    "indent_level": 2,
+    "reference_url": "Página 254 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch8_2.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 255 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

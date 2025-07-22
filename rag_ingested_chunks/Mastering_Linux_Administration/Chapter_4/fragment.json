@@ -1,0 +1,61 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4: Managing Users and Groups",
+    "pages": [130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [130]
+      },
+      {
+        "title": "Managing users",
+        "pages": [131],
+        "subsections": [
+          {
+            "title": "Understanding sudo",
+            "pages": [131]
+          },
+          {
+            "title": "Creating, modifying, and deleting users",
+            "pages": [132]
+          }
+        ]
+      },
+      {
+        "title": "Managing groups",
+        "pages": [143],
+        "subsections": [
+          {
+            "title": "Creating, modifying, and deleting groups",
+            "pages": [144]
+          }
+        ]
+      },
+      {
+        "title": "Managing permissions",
+        "pages": [161],
+        "subsections": [
+          {
+            "title": "File and directory permissions",
+            "pages": [161]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [174]
+      },
+      {
+        "title": "Questions",
+        "pages": [175]
+      },
+      {
+        "title": "Further reading",
+        "pages": [175]
+      }
+    ]
+  }
+}

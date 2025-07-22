@@ -1,0 +1,149 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3 Network Hosts Scanning",
+    "pages": [91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114],
+    "subsections": [
+      {
+        "title": "Basics of Networking",
+        "pages": [91],
+        "subsections": [
+          {
+            "title": "Networking Protocols",
+            "pages": [92],
+            "subsections": [
+              {
+                "title": "TCP",
+                "pages": [92]
+              },
+              {
+                "title": "UDP",
+                "pages": [93]
+              },
+              {
+                "title": "Other Networking Protocols",
+                "pages": [93]
+              }
+            ]
+          },
+          {
+            "title": "IP Addressing",
+            "pages": [95],
+            "subsections": [
+              {
+                "title": "IPv4",
+                "pages": [95]
+              },
+              {
+                "title": "Subnets and CIDR",
+                "pages": [95]
+              },
+              {
+                "title": "IPv6",
+                "pages": [96]
+              },
+              {
+                "title": "Port Numbers",
+                "pages": [97]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Network Scanning",
+        "pages": [98],
+        "subsections": [
+          {
+            "title": "Identifying Live Hosts",
+            "pages": [98],
+            "subsections": [
+              {
+                "title": "Ping",
+                "pages": [99]
+              },
+              {
+                "title": "ARP",
+                "pages": [99]
+              },
+              {
+                "title": "Nmap",
+                "pages": [99]
+              }
+            ]
+          },
+          {
+            "title": "Port Scanning and Services Enumeration",
+            "pages": [100],
+            "subsections": [
+              {
+                "title": "TCP Port SYN Scan",
+                "pages": [101]
+              },
+              {
+                "title": "UDP",
+                "pages": [101]
+              }
+            ]
+          },
+          {
+            "title": "Basics of Using Nmap Scans",
+            "pages": [102]
+          },
+          {
+            "title": "Services Enumeration",
+            "pages": [103]
+          },
+          {
+            "title": "Operating System Fingerprinting",
+            "pages": [105]
+          },
+          {
+            "title": "Nmap Scripting Engine",
+            "pages": [106],
+            "subsections": [
+              {
+                "title": "NSE Category Scan",
+                "pages": [108]
+              },
+              {
+                "title": "NSE Arguments",
+                "pages": [110]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "DNS Enumeration",
+        "pages": [110],
+        "subsections": [
+          {
+            "title": "DNS Brute-Force",
+            "pages": [111]
+          },
+          {
+            "title": "DNS Zone Transfer",
+            "pages": [112]
+          },
+          {
+            "title": "DNS Subdomains Tools",
+            "pages": [113],
+            "subsections": [
+              {
+                "title": "Fierce",
+                "pages": [113]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [114]
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 12 Pivoting and Lateral Movement",
+    "pages": [331,332,333,334,335,336,337,338,339,340,341,342,343,344],
+    "subsections": [
+      {
+        "title": "Dumping Windows Hashes",
+        "pages": [332],
+        "subsections": [
+          {
+            "title": "Windows NTLM Hashes",
+            "pages": [332],
+            "subsections": [
+              {
+                "title": "SAM File and Hash Dump",
+                "pages": [333]
+              },
+              {
+                "title": "Using the Hash",
+                "pages": [334]
+              }
+            ]
+          },
+          {
+            "title": "Mimikatz",
+            "pages": [334]
+          },
+          {
+            "title": "Dumping Active Directory Hashes",
+            "pages": [336]
+          },
+          {
+            "title": "Reusing Passwords and Hashes",
+            "pages": [336],
+            "subsections": [
+              {
+                "title": "Pass the Hash",
+                "pages": [337]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pivoting with Port Redirection",
+        "pages": [338],
+        "subsections": [
+          {
+            "title": "Port Forwarding Concepts",
+            "pages": [338]
+          },
+          {
+            "title": "SSH Tunneling and Local Port Forwarding",
+            "pages": [340]
+          },
+          {
+            "title": "Remote Port Forwarding Using SSH",
+            "pages": [341]
+          },
+          {
+            "title": "Dynamic Port Forwarding",
+            "pages": [342],
+            "subsections": [
+              {
+                "title": "Dynamic Port Forwarding Using SSH",
+                "pages": [342]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [343]
+      }
+    ]
+  }
+}

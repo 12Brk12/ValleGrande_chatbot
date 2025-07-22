@@ -1,0 +1,89 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 17: Infrastructure and Automation with Ansible",
+    "pages": [654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [654]
+      },
+      {
+        "title": "Introducing Ansible architecture and configuration management",
+        "pages": [655],
+        "subsections": [
+          {
+            "title": "Understanding the Ansible architecture",
+            "pages": [655]
+          },
+          {
+            "title": "Introducing configuration management",
+            "pages": [658]
+          }
+        ]
+      },
+      {
+        "title": "Installing Ansible",
+        "pages": [659],
+        "subsections": [
+          {
+            "title": "Installing Ansible on Ubuntu",
+            "pages": [660]
+          },
+          {
+            "title": "Installing Ansible using pip",
+            "pages": [661]
+          }
+        ]
+      },
+      {
+        "title": "Working with Ansible",
+        "pages": [662],
+        "subsections": [
+          {
+            "title": "Setting up the lab environment",
+            "pages": [662]
+          },
+          {
+            "title": "Configuring Ansible",
+            "pages": [665]
+          },
+          {
+            "title": "Using Ansible ad hoc commands",
+            "pages": [670]
+          },
+          {
+            "title": "Exploring Ansible modules",
+            "pages": [681]
+          },
+          {
+            "title": "Using Ansible playbooks",
+            "pages": [683]
+          },
+          {
+            "title": "Using templates with Jinja2",
+            "pages": [715]
+          },
+          {
+            "title": "Creating Ansible roles",
+            "pages": [723]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [729]
+      },
+      {
+        "title": "Questions",
+        "pages": [730]
+      },
+      {
+        "title": "Further reading",
+        "pages": [730]
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 16 Buffer/Stack Overflow",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 16, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 395 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_1.pdf": {
+    "document_title": "Basics of Stack Overflow",
+    "indent_level": 1,
+    "reference_url": "Página 395 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 16"
+  },
+  "ch16_1_1.pdf": {
+    "document_title": "Stack Overview",
+    "indent_level": 2,
+    "reference_url": "Página 396 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_2.pdf": {
+    "document_title": "Stack Overflow Exploitation",
+    "indent_level": 1,
+    "reference_url": "Página 404 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_2_1.pdf": {
+    "document_title": "Lab Overview",
+    "indent_level": 2,
+    "reference_url": "Página 405 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_2_2.pdf": {
+    "document_title": "Phase 1: Testing",
+    "indent_level": 2,
+    "reference_url": "Página 405 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_2_3.pdf": {
+    "document_title": "Phase 2: Buffer Size",
+    "indent_level": 2,
+    "reference_url": "Página 408 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_2_4.pdf": {
+    "document_title": "Phase 3: Controlling EIP",
+    "indent_level": 2,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_2_5.pdf": {
+    "document_title": "Phase 4: Injecting the Payload and Getting a Remote Shell",
+    "indent_level": 2,
+    "reference_url": "Página 412 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  },
+  "ch16_3.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 414 de https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link"
+  }
+}

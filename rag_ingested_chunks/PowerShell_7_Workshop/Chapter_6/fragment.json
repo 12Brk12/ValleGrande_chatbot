@@ -1,0 +1,99 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6: PowerShell and Files – Reading, Writing, and Manipulating Data",
+    "pages": [164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187],
+    "subsections": [
+      {
+        "title": "Understanding formatting",
+        "pages": [165],
+        "subsections": [
+          {
+            "title": "Format-List",
+            "pages": [166]
+          },
+          {
+            "title": "Format-Table",
+            "pages": [167]
+          },
+          {
+            "title": "Format-Wide",
+            "pages": [167]
+          },
+          {
+            "title": "Formatting gotchas",
+            "pages": [167]
+          }
+        ]
+      },
+      {
+        "title": "Writing a text file",
+        "pages": [168]
+      },
+      {
+        "title": "Using ConvertTo- and Export- cmdlets",
+        "pages": [169],
+        "subsections": [
+          {
+            "title": "CSV",
+            "pages": [170]
+          },
+          {
+            "title": "XML",
+            "pages": [172]
+          },
+          {
+            "title": "HTML",
+            "pages": [173]
+          }
+        ]
+      },
+      {
+        "title": "Handling files",
+        "pages": [175],
+        "subsections": [
+          {
+            "title": "A brief note about PSProviders and PSDrives",
+            "pages": [176]
+          },
+          {
+            "title": "Item- cmdlets",
+            "pages": [177]
+          }
+        ]
+      },
+      {
+        "title": "Working with files",
+        "pages": [178],
+        "subsections": [
+          {
+            "title": "Get-Content",
+            "pages": [179]
+          },
+          {
+            "title": "Import- cmdlets",
+            "pages": [179]
+          }
+        ]
+      },
+      {
+        "title": "Let’s have some fun – measuring the most frequent words in a text file",
+        "pages": [183]
+      },
+      {
+        "title": "Summary",
+        "pages": [186]
+      },
+      {
+        "title": "Exercises",
+        "pages": [187]
+      },
+      {
+        "title": "Further reading",
+        "pages": [187]
+      }
+    ]
+  }
+}

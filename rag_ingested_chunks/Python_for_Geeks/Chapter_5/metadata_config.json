@@ -1,0 +1,107 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 5: Testing and Automation with Python",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 5, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 174 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 175 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 5"
+  },
+  "ch5_2.pdf": {
+    "document_title": "Understanding various levels of testing",
+    "indent_level": 1,
+    "reference_url": "Página 175 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_2_1.pdf": {
+    "document_title": "Unit testing",
+    "indent_level": 2,
+    "reference_url": "Página 176 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_2_2.pdf": {
+    "document_title": "Integration testing",
+    "indent_level": 2,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_2_3.pdf": {
+    "document_title": "System testing",
+    "indent_level": 2,
+    "reference_url": "Página 177 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_2_4.pdf": {
+    "document_title": "Acceptance testing",
+    "indent_level": 2,
+    "reference_url": "Página 178 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_3.pdf": {
+    "document_title": "Working with Python test frameworks",
+    "indent_level": 1,
+    "reference_url": "Página 178 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_3_1.pdf": {
+    "document_title": "Working with the unittest framework",
+    "indent_level": 2,
+    "reference_url": "Página 180 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_3_2.pdf": {
+    "document_title": "Working with the pytest framework",
+    "indent_level": 2,
+    "reference_url": "Página 192 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_4.pdf": {
+    "document_title": "Executing TDD",
+    "indent_level": 1,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_4_1.pdf": {
+    "document_title": "Red",
+    "indent_level": 2,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch5_4_2.pdf": {
+    "document_title": "Green",
+    "indent_level": 2,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_4_3.pdf": {
+    "document_title": "Refactor",
+    "indent_level": 2,
+    "reference_url": "Página 203 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_5.pdf": {
+    "document_title": "Introducing automated CI",
+    "indent_level": 1,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_8.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  },
+  "ch5_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 206 de https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link"
+  }
+}

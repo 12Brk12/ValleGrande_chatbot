@@ -1,0 +1,143 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 16: Working with PowerShell and .NET",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 16, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 408 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_1.pdf": {
+    "document_title": "Exploring .NET",
+    "indent_level": 1,
+    "reference_url": "Página 408 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 16"
+  },
+  "ch16_1_1.pdf": {
+    "document_title": "Software frameworks explained",
+    "indent_level": 2,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_1_2.pdf": {
+    "document_title": "Common language infrastructure",
+    "indent_level": 2,
+    "reference_url": "Página 409 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_1_3.pdf": {
+    "document_title": "Common language runtime – CoreCLR",
+    "indent_level": 2,
+    "reference_url": "Página 410 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_1_4.pdf": {
+    "document_title": "Framework Class Library – CoreFX",
+    "indent_level": 2,
+    "reference_url": "Página 410 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_1_5.pdf": {
+    "document_title": ".NET history",
+    "indent_level": 2,
+    "reference_url": "Página 410 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_1_6.pdf": {
+    "document_title": "The uses of .NET",
+    "indent_level": 2,
+    "reference_url": "Página 411 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2.pdf": {
+    "document_title": "The components of .NET",
+    "indent_level": 1,
+    "reference_url": "Página 411 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_1.pdf": {
+    "document_title": "Assemblies",
+    "indent_level": 2,
+    "reference_url": "Página 411 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_2_2.pdf": {
+    "document_title": "Types",
+    "indent_level": 2,
+    "reference_url": "Página 412 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_3.pdf": {
+    "document_title": "Enumerations",
+    "indent_level": 2,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_4.pdf": {
+    "document_title": "Classes",
+    "indent_level": 2,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_5.pdf": {
+    "document_title": "Namespaces",
+    "indent_level": 2,
+    "reference_url": "Página 413 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_6.pdf": {
+    "document_title": "Members",
+    "indent_level": 2,
+    "reference_url": "Página 415 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_2_7.pdf": {
+    "document_title": "Versioning",
+    "indent_level": 2,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_3.pdf": {
+    "document_title": "Working with .NET in PowerShell",
+    "indent_level": 1,
+    "reference_url": "Página 416 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_3_1.pdf": {
+    "document_title": "PowerShell assemblies",
+    "indent_level": 2,
+    "reference_url": "Página 417 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_3_2.pdf": {
+    "document_title": "Dynamic assembly loading",
+    "indent_level": 2,
+    "reference_url": "Página 417 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_3_3.pdf": {
+    "document_title": "Creating instances of types",
+    "indent_level": 2,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_4.pdf": {
+    "document_title": "Using .NET",
+    "indent_level": 1,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_4_1.pdf": {
+    "document_title": "An alternative to the Task Scheduler",
+    "indent_level": 2,
+    "reference_url": "Página 418 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch16_4_2.pdf": {
+    "document_title": "Creating GUI objects",
+    "indent_level": 2,
+    "reference_url": "Página 419 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 420 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_6.pdf": {
+    "document_title": "Exercises",
+    "indent_level": 1,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  },
+  "ch16_7.pdf": {
+    "document_title": "Further reading",
+    "indent_level": 1,
+    "reference_url": "Página 421 de https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link"
+  }
+}

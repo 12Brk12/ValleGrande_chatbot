@@ -1,0 +1,69 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 13 Messing with Audio",
+    "pages": [269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288],
+    "subsections": [
+      {
+        "title": "What Sound? I Don’t Hear a Thing!",
+        "pages": [269]
+      },
+      {
+        "title": "Listening to CDs",
+        "pages": [272],
+        "subsections": [
+          {
+            "title": "GNOME 3 and Rhythmbox",
+            "pages": [272]
+          },
+          {
+            "title": "KDE Plasma and CDs",
+            "pages": [274]
+          },
+          {
+            "title": "VLC to the rescue",
+            "pages": [275]
+          }
+        ]
+      },
+      {
+        "title": "Listening to Downloaded Music",
+        "pages": [276],
+        "subsections": [
+          {
+            "title": "Amarok",
+            "pages": [276]
+          },
+          {
+            "title": "Rhythmbox revisited",
+            "pages": [280]
+          }
+        ]
+      },
+      {
+        "title": "Listening to Internet Radio",
+        "pages": [280]
+      },
+      {
+        "title": "Ripping Music Tracks from CDs",
+        "pages": [281]
+      },
+      {
+        "title": "Burning Audio CDs and DVDs",
+        "pages": [284],
+        "subsections": [
+          {
+            "title": "Using Brasero",
+            "pages": [284]
+          },
+          {
+            "title": "Using K3b",
+            "pages": [285]
+          }
+        ]
+      }
+    ]
+  }
+}
