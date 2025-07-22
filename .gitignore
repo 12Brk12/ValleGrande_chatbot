@@ -1,2 +1,3 @@
 # Evitar subir claves y configuraciones sensibles
+/data/
 .streamlit/secrets.toml
