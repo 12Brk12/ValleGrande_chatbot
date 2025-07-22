@@ -1,9 +1,8 @@
 # Evitar subir claves y configuraciones sensibles
 /data/
 .streamlit/secrets.toml
-# Ignorar todo el contenido de books/
 books/*
 
-# ¡Pero NO ignorar la carpeta metadata_toc ni su contenido!
+# Pero no ignores la subcarpeta metadata_toc y su contenido
 !books/metadata_toc/
 !books/metadata_toc/**
