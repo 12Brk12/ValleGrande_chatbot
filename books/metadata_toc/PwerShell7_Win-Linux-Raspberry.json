@@ -1,0 +1,1444 @@
+{
+  "document_title": "PowerShell 7 Workshop",
+  "author": "Nick Parlow",
+  "reference_url": "https://drive.google.com/file/d/1SkASJ97wVQZCb28s5z9jAMt9pjAqNMmG/view?usp=drive_link",
+  "topic": "Linux",
+  "toc": [
+    {
+      "title": "Cover",
+      "pages": [1]
+    },
+    {
+      "title": "Title Page",
+      "pages": [2]
+    },
+    {
+      "title": "Copyright and Credits",
+      "pages": [3,4]
+    },
+    {
+      "title": "Contributors",
+      "pages": [5,6,7]
+    },
+    {
+      "title": "Table of Contents",
+      "pages": [8,9,10,11,12,13,14,15]
+    },
+    {
+      "title": "Preface",
+      "pages": [16,17,18,19,20,21,22,23]
+    },
+    {
+      "title": "Part 1: PowerShell Fundamentals",
+      "pages": [24,25]
+    },
+    {
+      "title": "Chapter 1: Introduction to PowerShell 7 – What It Is and How to Get It",
+      "pages": [26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [26]
+        },
+        {
+          "title": "What is PowerShell 7?",
+          "pages": [27,28]
+        },
+        {
+          "title": "What is PowerShell 7 used for?",
+          "pages": [29],
+          "subsections": [
+            {
+              "title": "Scripting languages versus system programming languages",
+              "pages": [29]
+            }
+          ]
+        },
+        {
+          "title": "Getting PowerShell 7",
+          "pages": [30,31,32,33,34,35,36,37,38],
+          "subsections": [
+            {
+              "title": "Installation from an .msi file",
+              "pages": [31,32,33,34]
+            },
+            {
+              "title": "Installation from the .zip file",
+              "pages": [35,36]
+            },
+            {
+              "title": "Installation with winget",
+              "pages": [37]
+            },
+            {
+              "title": "Other ways to install",
+              "pages": [38]
+            }
+          ]
+        },
+        {
+          "title": "Running PowerShell 7",
+          "pages": [39,40,41],
+          "subsections": [
+            {
+              "title": "Running PowerShell with administrator privileges",
+              "pages": [41]
+            },
+            {
+              "title": "Autocomplete",
+              "pages": [42]
+            }
+          ]
+        },
+        {
+          "title": "Getting help",
+          "pages": [42,43,44,45,46,47],
+          "subsections": [
+            {
+              "title": "Get-Command",
+              "pages": [43]
+            },
+            {
+              "title": "Get-Help",
+              "pages": [44,45]
+            },
+            {
+              "title": "Get-Member",
+              "pages": [46,47]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [48]
+        },
+        {
+          "title": "Exercises",
+          "pages": [48]
+        },
+        {
+          "title": "Further reading",
+          "pages": [48,49]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Exploring PowerShell Cmdlets and Syntax",
+      "pages": [50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [50]
+        },
+        {
+          "title": "What are cmdlets?",
+          "pages": [51,52],
+          "subsections": [
+            {
+              "title": "Exploring cmdlet structure",
+              "pages": [51]
+            },
+            {
+              "title": "The correct use of aliases",
+              "pages": [52]
+            }
+          ]
+        },
+        {
+          "title": "Understanding cmdlet syntax",
+          "pages": [53,54,55,56,57]
+        },
+        {
+          "title": "How to find more cmdlets",
+          "pages": [58,59,60,61,62,63,64,65],
+          "subsections": [
+            {
+              "title": "Finding modules and cmdlets on your machine",
+              "pages": [58,59,60,61]
+            },
+            {
+              "title": "Finding new modules and cmdlets",
+              "pages": [62,63,64,65]
+            }
+          ]
+        },
+        {
+          "title": "Working interactively with PowerShell",
+          "pages": [66,67,68,69,70,71],
+          "subsections": [
+            {
+              "title": "Windows Terminal – an alternative terminal emulator",
+              "pages": [67]
+            },
+            {
+              "title": "Installing Windows Terminal from Microsoft Store",
+              "pages": [67,68,69,70,71]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [72]
+        },
+        {
+          "title": "Exercises",
+          "pages": [73]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: The PowerShell Pipeline – How to String Cmdlets Together",
+      "pages": [74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99],
+      "subsections": [
+        {
+          "title": "How to bring cmdlets together – the pipeline",
+          "pages": [75,76,77],
+          "subsections": [
+            {
+              "title": "What is an object?",
+              "pages": [77]
+            }
+          ]
+        },
+        {
+          "title": "Selecting and sorting objects",
+          "pages": [78,79,80,81,82],
+          "subsections": [
+            {
+              "title": "Using Select-Object",
+              "pages": [79]
+            },
+            {
+              "title": "Ordering objects with Sort-Object",
+              "pages": [80,81,82]
+            }
+          ]
+        },
+        {
+          "title": "Filtering objects",
+          "pages": [83,84,85,86,87,88,89],
+          "subsections": [
+            {
+              "title": "Understanding comparison operators",
+              "pages": [83,84]
+            },
+            {
+              "title": "Understanding Where-Object advanced syntax",
+              "pages": [85]
+            },
+            {
+              "title": "Multiple filters in the advanced syntax",
+              "pages": [86,87,88]
+            },
+            {
+              "title": "Filter optimization",
+              "pages": [89]
+            }
+          ]
+        },
+        {
+          "title": "Enumerating objects",
+          "pages": [90],
+          "subsections": [
+            {
+              "title": "Parallel enumeration",
+              "pages": [91]
+            }
+          ]
+        },
+        {
+          "title": "How the pipeline works – parameter binding",
+          "pages": [91,92,93,94],
+          "subsections": [
+            {
+              "title": "Understanding ByValue parameter binding",
+              "pages": [92,93]
+            },
+            {
+              "title": "ByPropertyName parameter binding",
+              "pages": [94]
+            }
+          ]
+        },
+        {
+          "title": "Troubleshooting the pipeline – pipeline tracing",
+          "pages": [95,96]
+        },
+        {
+          "title": "Summary",
+          "pages": [97]
+        },
+        {
+          "title": "Exercises",
+          "pages": [97]
+        },
+        {
+          "title": "Further reading",
+          "pages": [98,99]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: PowerShell Variables and Data Structures",
+      "pages": [100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131],
+      "subsections": [
+        {
+          "title": "Understanding PowerShell variables",
+          "pages": [100,101,102,103,104,105],
+          "subsections": [
+            {
+              "title": "Variables are not their contents",
+              "pages": [101,102]
+            },
+            {
+              "title": "Naming variables",
+              "pages": [103]
+            },
+            {
+              "title": "The three common types of PowerShell variable",
+              "pages": [104,105]
+            }
+          ]
+        },
+        {
+          "title": "Exploring object types",
+          "pages": [106,107,108],
+          "subsections": [
+            {
+              "title": "What is an object? – redux",
+              "pages": [107,108]
+            }
+          ]
+        },
+        {
+          "title": "Discovering value types",
+          "pages": [109,110],
+          "subsections": [
+            {
+              "title": "Booleans",
+              "pages": [109]
+            },
+            {
+              "title": "Integers",
+              "pages": [110]
+            },
+            {
+              "title": "Real numbers",
+              "pages": [110]
+            },
+            {
+              "title": "Char",
+              "pages": [111]
+            }
+          ]
+        },
+        {
+          "title": "Typing explained",
+          "pages": [111,112,113],
+          "subsections": [
+            {
+              "title": "Dynamic versus static typing",
+              "pages": [111]
+            },
+            {
+              "title": "Casting variables",
+              "pages": [112,113]
+            }
+          ]
+        },
+        {
+          "title": "Navigating reference types",
+          "pages": [114,115,116,117,118,119,120,121,122,123,124,125,126,127,128],
+          "subsections": [
+            {
+              "title": "Arrays",
+              "pages": [115,116,117,118,119,120]
+            },
+            {
+              "title": "Strings",
+              "pages": [121,122,123,124]
+            },
+            {
+              "title": "Hashtables",
+              "pages": [125,126,127,128]
+            }
+          ]
+        },
+        {
+          "title": "Splatting – a cool use for hashtables",
+          "pages": [129]
+        },
+        {
+          "title": "Summary",
+          "pages": [129]
+        },
+        {
+          "title": "Exercises",
+          "pages": [130]
+        },
+        {
+          "title": "Further reading",
+          "pages": [130,131]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: PowerShell Control Flow – Conditionals and Loops",
+      "pages": [132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163],
+      "subsections": [
+        {
+          "title": "An introduction to IDEs and VS Code",
+          "pages": [133,134,135,136,137,138,139],
+          "subsections": [
+            {
+              "title": "Installing VS Code",
+              "pages": [133,134,135]
+            },
+            {
+              "title": "Configuring VS Code for PowerShell",
+              "pages": [136,137,138,139]
+            }
+          ]
+        },
+        {
+          "title": "Conditional control – if, else, elseif, and switch",
+          "pages": [140,141,142,143,144,145,146,147,148],
+          "subsections": [
+            {
+              "title": "The if statement",
+              "pages": [141,142,143,144,145]
+            },
+            {
+              "title": "The switch statement",
+              "pages": [146,147,148]
+            }
+          ]
+        },
+        {
+          "title": "Loops – foreach, do while, do until, while, for",
+          "pages": [149,150,151,152,153,154,155],
+          "subsections": [
+            {
+              "title": "The foreach loop statement",
+              "pages": [149,150]
+            },
+            {
+              "title": "The do while and do until loop statements",
+              "pages": [151,152]
+            },
+            {
+              "title": "The while loop",
+              "pages": [153]
+            },
+            {
+              "title": "The for loop",
+              "pages": [153,154,155]
+            }
+          ]
+        },
+        {
+          "title": "Breaking and continuing",
+          "pages": [156,157],
+          "subsections": [
+            {
+              "title": "The break statement",
+              "pages": [156]
+            },
+            {
+              "title": "The continue statement",
+              "pages": [156,157]
+            }
+          ]
+        },
+        {
+          "title": "Let’s play a game",
+          "pages": [158,159,160]
+        },
+        {
+          "title": "Summary",
+          "pages": [161]
+        },
+        {
+          "title": "Exercises",
+          "pages": [161]
+        },
+        {
+          "title": "Further reading",
+          "pages": [162,163]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: PowerShell and Files – Reading, Writing, and Manipulating Data",
+      "pages": [164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187],
+      "subsections": [
+        {
+          "title": "Understanding formatting",
+          "pages": [165,166,167],
+          "subsections": [
+            {
+              "title": "Format-List",
+              "pages": [166]
+            },
+            {
+              "title": "Format-Table",
+              "pages": [167]
+            },
+            {
+              "title": "Format-Wide",
+              "pages": [167]
+            },
+            {
+              "title": "Formatting gotchas",
+              "pages": [167]
+            }
+          ]
+        },
+        {
+          "title": "Writing a text file",
+          "pages": [168]
+        },
+        {
+          "title": "Using ConvertTo- and Export- cmdlets",
+          "pages": [169,170,171,172,173,174],
+          "subsections": [
+            {
+              "title": "CSV",
+              "pages": [170,171]
+            },
+            {
+              "title": "XML",
+              "pages": [172]
+            },
+            {
+              "title": "HTML",
+              "pages": [173,174]
+            }
+          ]
+        },
+        {
+          "title": "Handling files",
+          "pages": [175,176,177],
+          "subsections": [
+            {
+              "title": "A brief note about PSProviders and PSDrives",
+              "pages": [176]
+            },
+            {
+              "title": "Item- cmdlets",
+              "pages": [177]
+            }
+          ]
+        },
+        {
+          "title": "Working with files",
+          "pages": [178,179,180,181,182],
+          "subsections": [
+            {
+              "title": "Get-Content",
+              "pages": [179]
+            },
+            {
+              "title": "Import- cmdlets",
+              "pages": [179,180,181,182]
+            }
+          ]
+        },
+        {
+          "title": "Let’s have some fun – measuring the most frequent words in a text file",
+          "pages": [183,184,185]
+        },
+        {
+          "title": "Summary",
+          "pages": [186]
+        },
+        {
+          "title": "Exercises",
+          "pages": [187]
+        },
+        {
+          "title": "Further reading",
+          "pages": [187]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7: PowerShell and the Web – HTTP, REST, and JSON",
+      "pages": [188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215],
+      "subsections": [
+        {
+          "title": "Working with HTTP",
+          "pages": [189,190,191,192,193,194,195,196],
+          "subsections": [
+            {
+              "title": "Why don’t we see Forms information in PowerShell 7?",
+              "pages": [193,194]
+            },
+            {
+              "title": "Authentication",
+              "pages": [195,196]
+            }
+          ]
+        },
+        {
+          "title": "Getting to grips with APIs",
+          "pages": [197,198],
+          "subsections": [
+            {
+              "title": "RPC APIs",
+              "pages": [198]
+            },
+            {
+              "title": "SOAP APIs",
+              "pages": [199]
+            },
+            {
+              "title": "REST APIs",
+              "pages": [199]
+            },
+            {
+              "title": "WebSocket APIs",
+              "pages": [199]
+            }
+          ]
+        },
+        {
+          "title": "Working with REST",
+          "pages": [199,200,201,202],
+          "subsections": [
+            {
+              "title": "Invoke-RestMethod",
+              "pages": [200,201,202]
+            }
+          ]
+        },
+        {
+          "title": "Working with JSON",
+          "pages": [203,204,205,206,207,208,209,210],
+          "subsections": [
+            {
+              "title": "ConvertFrom-Json",
+              "pages": [205,206]
+            },
+            {
+              "title": "ConvertTo-Json",
+              "pages": [207,208,209]
+            },
+            {
+              "title": "Test-Json",
+              "pages": [210]
+            }
+          ]
+        },
+        {
+          "title": "Let’s have some fun – who is on the International Space Station?",
+          "pages": [211]
+        },
+        {
+          "title": "Summary",
+          "pages": [212]
+        },
+        {
+          "title": "Exercises",
+          "pages": [213]
+        },
+        {
+          "title": "Further reading",
+          "pages": [214,215]
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Scripting and Toolmaking",
+      "pages": [216,217]
+    },
+    {
+      "title": "Chapter 8: Writing Our First Script – Turning Simple Cmdlets into Reusable Code",
+      "pages": [218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239],
+      "subsections": [
+        {
+          "title": "Introduction to scripting",
+          "pages": [219,220],
+          "subsections": [
+            {
+              "title": "Why do we want to write scripts?",
+              "pages": [219]
+            },
+            {
+              "title": "Getting scripts",
+              "pages": [220]
+            },
+            {
+              "title": "Running scripts",
+              "pages": [221]
+            }
+          ]
+        },
+        {
+          "title": "Writing a script",
+          "pages": [221,222]
+        },
+        {
+          "title": "Identifying changing values",
+          "pages": [223]
+        },
+        {
+          "title": "Working with parameters",
+          "pages": [224,225,226,227,228,229,230],
+          "subsections": [
+            {
+              "title": "Creating useful parameters",
+              "pages": [224,225,226]
+            },
+            {
+              "title": "Specifying type",
+              "pages": [227]
+            },
+            {
+              "title": "Making parameters mandatory",
+              "pages": [227]
+            },
+            {
+              "title": "Taking values from the pipeline",
+              "pages": [228,229]
+            },
+            {
+              "title": "Switch parameters",
+              "pages": [230]
+            }
+          ]
+        },
+        {
+          "title": "Providing help for our script",
+          "pages": [231,232,233,234,235,236],
+          "subsections": [
+            {
+              "title": "Comments",
+              "pages": [231,232]
+            },
+            {
+              "title": "Comment-based help",
+              "pages": [233,234]
+            },
+            {
+              "title": "Write-Verbose",
+              "pages": [235]
+            },
+            {
+              "title": "Parameter help messages",
+              "pages": [236]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [237]
+        },
+        {
+          "title": "Further reading",
+          "pages": [238]
+        },
+        {
+          "title": "Exercises",
+          "pages": [238,239]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9: Don’t Repeat Yourself – Functions and Scriptblocks",
+      "pages": [240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265],
+      "subsections": [
+        {
+          "title": "Why do we care about repeating code?",
+          "pages": [241,242]
+        },
+        {
+          "title": "How to turn repeating code into a function",
+          "pages": [243,244,245,246,247,248,249,250,251,252,253,254],
+          "subsections": [
+            {
+              "title": "What makes a function?",
+              "pages": [245,246,247]
+            },
+            {
+              "title": "Function parameters",
+              "pages": [248,249,250,251,252,253]
+            },
+            {
+              "title": "Filters",
+              "pages": [254]
+            }
+          ]
+        },
+        {
+          "title": "The concept of scope",
+          "pages": [255,256,257],
+          "subsections": [
+            {
+              "title": "Parent and child scopes",
+              "pages": [256]
+            },
+            {
+              "title": "Scope modifiers",
+              "pages": [257]
+            }
+          ]
+        },
+        {
+          "title": "Exploring scriptblocks",
+          "pages": [258,259,260],
+          "subsections": [
+            {
+              "title": "How to run a scriptblock",
+              "pages": [258,259]
+            },
+            {
+              "title": "Lambdas",
+              "pages": [260]
+            }
+          ]
+        },
+        {
+          "title": "Let’s do something useful",
+          "pages": [261,262]
+        },
+        {
+          "title": "Summary",
+          "pages": [263]
+        },
+        {
+          "title": "Further reading",
+          "pages": [264]
+        },
+        {
+          "title": "Exercises",
+          "pages": [265]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10: Error Handling – Oh No! It’s Gone Wrong!",
+      "pages": [266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291],
+      "subsections": [
+        {
+          "title": "What is an error?",
+          "pages": [267,268,269,270],
+          "subsections": [
+            {
+              "title": "Terminating and non-terminating exceptions and errors",
+              "pages": [269,270]
+            }
+          ]
+        },
+        {
+          "title": "Understanding error actions",
+          "pages": [271,272],
+          "subsections": [
+            {
+              "title": "The $ErrorActionPreference variable",
+              "pages": [271]
+            },
+            {
+              "title": "The -ErrorAction parameter",
+              "pages": [272]
+            }
+          ]
+        },
+        {
+          "title": "Catching errors",
+          "pages": [273,274,275,276,277],
+          "subsections": [
+            {
+              "title": "Try/Catch/Finally",
+              "pages": [273,274,275]
+            },
+            {
+              "title": "Creating errors",
+              "pages": [276,277]
+            }
+          ]
+        },
+        {
+          "title": "Exploring debugging",
+          "pages": [278,279,280,281,282,283,284],
+          "subsections": [
+            {
+              "title": "Script instrumentation",
+              "pages": [279,280,281]
+            },
+            {
+              "title": "Debugging cmdlets",
+              "pages": [282,283,284]
+            }
+          ]
+        },
+        {
+          "title": "Debugging with VS Code",
+          "pages": [285,286,287]
+        },
+        {
+          "title": "Summary",
+          "pages": [288]
+        },
+        {
+          "title": "Exercises",
+          "pages": [289]
+        },
+        {
+          "title": "Further reading",
+          "pages": [289,290,291]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11: Creating Our First Module",
+      "pages": [292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315],
+      "subsections": [
+        {
+          "title": "Working with modules",
+          "pages": [292,293,294,295],
+          "subsections": [
+            {
+              "title": "Module locations",
+              "pages": [293]
+            },
+            {
+              "title": "Module autoloading",
+              "pages": [294]
+            },
+            {
+              "title": "Importing modules",
+              "pages": [295]
+            },
+            {
+              "title": "PowerShellGet",
+              "pages": [295]
+            }
+          ]
+        },
+        {
+          "title": "Writing a simple module",
+          "pages": [296,297,298,299,300,301,302,303,304,305],
+          "subsections": [
+            {
+              "title": "A word of caution – dot-sourcing",
+              "pages": [297,298]
+            },
+            {
+              "title": "Turning a script into a module",
+              "pages": [299,300,301]
+            },
+            {
+              "title": "Nested modules",
+              "pages": [302,303,304]
+            },
+            {
+              "title": "More modules",
+              "pages": [305]
+            }
+          ]
+        },
+        {
+          "title": "Module manifests",
+          "pages": [306,307,308,309]
+        },
+        {
+          "title": "Using scaffolding tools such as Plaster",
+          "pages": [310,311,312,313]
+        },
+        {
+          "title": "Summary",
+          "pages": [314]
+        },
+        {
+          "title": "Exercises",
+          "pages": [314]
+        },
+        {
+          "title": "Further reading",
+          "pages": [315]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12: Securing PowerShell",
+      "pages": [316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335],
+      "subsections": [
+        {
+          "title": "Why is security so important?",
+          "pages": [316,317,318,319],
+          "subsections": [
+            {
+              "title": "A PowerShell remoting whistlestop tour",
+              "pages": [317]
+            },
+            {
+              "title": "Enabling PowerShell remoting",
+              "pages": [317]
+            },
+            {
+              "title": "Creating a session",
+              "pages": [318]
+            },
+            {
+              "title": "Joining and leaving a session",
+              "pages": [319]
+            },
+            {
+              "title": "One-to-many sessions",
+              "pages": [320]
+            }
+          ]
+        },
+        {
+          "title": "Securing PowerShell against inadvertent mistakes",
+          "pages": [320,321,322,323],
+          "subsections": [
+            {
+              "title": "Execution policy",
+              "pages": [321,322]
+            },
+            {
+              "title": "Other features",
+              "pages": [323]
+            }
+          ]
+        },
+        {
+          "title": "Running PowerShell securely",
+          "pages": [324,325],
+          "subsections": [
+            {
+              "title": "Application control",
+              "pages": [324]
+            },
+            {
+              "title": "Language modes",
+              "pages": [324]
+            },
+            {
+              "title": "Security servicing criteria",
+              "pages": [325]
+            },
+            {
+              "title": "Software Bill of Materials",
+              "pages": [325]
+            },
+            {
+              "title": "Windows Antimalware Scan Interface support",
+              "pages": [325]
+            },
+            {
+              "title": "Secure Shell (SSH) remoting",
+              "pages": [326]
+            },
+            {
+              "title": "Just Enough Administration",
+              "pages": [326]
+            }
+          ]
+        },
+        {
+          "title": "PowerShell logging",
+          "pages": [326,327,328,329],
+          "subsections": [
+            {
+              "title": "Over the shoulder logging",
+              "pages": [326,327]
+            },
+            {
+              "title": "Deep script block logging",
+              "pages": [328]
+            },
+            {
+              "title": "Module logging",
+              "pages": [329]
+            }
+          ]
+        },
+        {
+          "title": "Writing secure code",
+          "pages": [330,331,332],
+          "subsections": [
+            {
+              "title": "Storing passwords securely",
+              "pages": [330]
+            },
+            {
+              "title": "Signing scripts",
+              "pages": [331]
+            },
+            {
+              "title": "Parameter security",
+              "pages": [332]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [333]
+        },
+        {
+          "title": "Exercises",
+          "pages": [334]
+        },
+        {
+          "title": "Further reading",
+          "pages": [334,335]
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Using PowerShell",
+      "pages": [336,337]
+    },
+    {
+      "title": "Chapter 13: Working with PowerShell 7 and Windows",
+      "pages": [338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361],
+      "subsections": [
+        {
+          "title": "Understanding PowerShell 7 and Windows PowerShell",
+          "pages": [339]
+        },
+        {
+          "title": "Exploring compatibility",
+          "pages": [339,340,341,342,343,344,345,346],
+          "subsections": [
+            {
+              "title": "Which modules are compatible with PowerShell 7?",
+              "pages": [339,340,341,342,343,344,345,346]
+            }
+          ]
+        },
+        {
+          "title": "What doesn’t work with PowerShell 7",
+          "pages": [347]
+        },
+        {
+          "title": "Managing machines with CIM and WMI",
+          "pages": [347,348,349,350,351,352,353,354,355,356,357],
+          "subsections": [
+            {
+              "title": "Introduction to CIM and WMI",
+              "pages": [347,348,349,350]
+            },
+            {
+              "title": "Querying data",
+              "pages": [351,352,353]
+            },
+            {
+              "title": "Making changes",
+              "pages": [354,355,356,357]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [358]
+        },
+        {
+          "title": "Exercises",
+          "pages": [359]
+        },
+        {
+          "title": "Further reading",
+          "pages": [359,360,361]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14: PowerShell 7 for Linux and macOS",
+      "pages": [362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [363,364,365]
+        },
+        {
+          "title": "Installing PowerShell 7",
+          "pages": [366,367,368,369,370],
+          "subsections": [
+            {
+              "title": "Installing PowerShell on Ubuntu 22.04",
+              "pages": [366,367,368]
+            },
+            {
+              "title": "Installing PowerShell on CentOS 8 and 9",
+              "pages": [369]
+            },
+            {
+              "title": "Installing PowerShell on CentOS 7",
+              "pages": [370]
+            }
+          ]
+        },
+        {
+          "title": "Installing VS Code",
+          "pages": [371,372]
+        },
+        {
+          "title": "Running PowerShell on Linux",
+          "pages": [373,374]
+        },
+        {
+          "title": "Remoting with OpenSSH",
+          "pages": [375,376,377,378,379,380],
+          "subsections": [
+            {
+              "title": "Checking that PowerShell has OpenSSH support",
+              "pages": [375]
+            },
+            {
+              "title": "Installing OpenSSH on Windows",
+              "pages": [375,376]
+            },
+            {
+              "title": "Installing OpenSSH on Linux",
+              "pages": [377]
+            },
+            {
+              "title": "Running remote sessions",
+              "pages": [378]
+            },
+            {
+              "title": "Authentication",
+              "pages": [379,380]
+            }
+          ]
+        },
+        {
+          "title": "PowerShell for macOS",
+          "pages": [381,382],
+          "subsections": [
+            {
+              "title": "Installing Homebrew on macOS",
+              "pages": [381]
+            },
+            {
+              "title": "Installing PowerShell on macOS",
+              "pages": [381,382]
+            },
+            {
+              "title": "Installing VS Code on macOS",
+              "pages": [383]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [383]
+        },
+        {
+          "title": "Exercises",
+          "pages": [384]
+        },
+        {
+          "title": "Further reading",
+          "pages": [384,385]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15: PowerShell 7 and the Raspberry Pi",
+      "pages": [386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [386]
+        },
+        {
+          "title": "Introduction to the Raspberry Pi",
+          "pages": [387]
+        },
+        {
+          "title": "Installing PowerShell 7 and VS Code",
+          "pages": [388,389,390],
+          "subsections": [
+            {
+              "title": "Installing PowerShell",
+              "pages": [388,389,390]
+            },
+            {
+              "title": "Installing VS Code",
+              "pages": [391]
+            }
+          ]
+        },
+        {
+          "title": "Connecting remotely to the Pi",
+          "pages": [391,392,393,394,395,396,397,398],
+          "subsections": [
+            {
+              "title": "Working with a headless Pi",
+              "pages": [392,393,394]
+            },
+            {
+              "title": "Connecting to the Pi with PowerShell",
+              "pages": [395,396]
+            },
+            {
+              "title": "Connecting to the Pi with VS Code",
+              "pages": [397,398]
+            }
+          ]
+        },
+        {
+          "title": "Running PowerShell on Raspberry Pi OS",
+          "pages": [399,400,401],
+          "subsections": [
+            {
+              "title": "Installing the IoT module",
+              "pages": [399]
+            },
+            {
+              "title": "Exploring the IoT module",
+              "pages": [400,401]
+            }
+          ]
+        },
+        {
+          "title": "Simple physical computing",
+          "pages": [402,403,404,405]
+        },
+        {
+          "title": "Summary",
+          "pages": [406]
+        },
+        {
+          "title": "Questions",
+          "pages": [406]
+        },
+        {
+          "title": "Further reading",
+          "pages": [407]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16: Working with PowerShell and .NET",
+      "pages": [408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423],
+      "subsections": [
+        {
+          "title": "Exploring .NET",
+          "pages": [408,409,410],
+          "subsections": [
+            {
+              "title": "Software frameworks explained",
+              "pages": [409]
+            },
+            {
+              "title": "Common language infrastructure",
+              "pages": [409]
+            },
+            {
+              "title": "Common language runtime – CoreCLR",
+              "pages": [410]
+            },
+            {
+              "title": "Framework Class Library – CoreFX",
+              "pages": [410]
+            },
+            {
+              "title": ".NET history",
+              "pages": [410]
+            },
+            {
+              "title": "The uses of .NET",
+              "pages": [411]
+            }
+          ]
+        },
+        {
+          "title": "The components of .NET",
+          "pages": [411,412,413,414,415],
+          "subsections": [
+            {
+              "title": "Assemblies",
+              "pages": [411]
+            },
+            {
+              "title": "Types",
+              "pages": [412]
+            },
+            {
+              "title": "Enumerations",
+              "pages": [413]
+            },
+            {
+              "title": "Classes",
+              "pages": [413]
+            },
+            {
+              "title": "Namespaces",
+              "pages": [413,414]
+            },
+            {
+              "title": "Members",
+              "pages": [415]
+            },
+            {
+              "title": "Versioning",
+              "pages": [416]
+            }
+          ]
+        },
+        {
+          "title": "Working with .NET in PowerShell",
+          "pages": [416,417],
+          "subsections": [
+            {
+              "title": "PowerShell assemblies",
+              "pages": [417]
+            },
+            {
+              "title": "Dynamic assembly loading",
+              "pages": [417]
+            },
+            {
+              "title": "Creating instances of types",
+              "pages": [418]
+            }
+          ]
+        },
+        {
+          "title": "Using .NET",
+          "pages": [418,419],
+          "subsections": [
+            {
+              "title": "An alternative to the Task Scheduler",
+              "pages": [418]
+            },
+            {
+              "title": "Creating GUI objects",
+              "pages": [419]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [420]
+        },
+        {
+          "title": "Exercises",
+          "pages": [421]
+        },
+        {
+          "title": "Further reading",
+          "pages": [421,422,423]
+        }
+      ]
+    },
+    {
+      "title": "Answers to Activities and Exercises",
+      "pages": [424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451]
+    },
+    {
+      "title": "Index",
+      "pages": [452,453,454,455,456,457,458,459,460,461,462,463,464]
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "pages": [465,466,467,468]
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "document_title": "Python for Geeks",
+  "author": "Muhammad Asif",
+  "reference_url": "https://drive.google.com/file/d/1JIfIH2-l8JALIDvAwi4Exns9wnR73gq6/view?usp=drive_link",
+  "topic": "Python",
+  "toc": [
+    {
+      "title": "Cover",
+      "pages": [1]
+    },
+    {
+      "title": "Title Page",
+      "pages": [2]
+    },
+    {
+      "title": "Copyright and Credits",
+      "pages": [3]
+    },
+    {
+      "title": "Dedication",
+      "pages": [4]
+    },
+    {
+      "title": "Contributors",
+      "pages": [5,6,7]
+    },
+    {
+      "title": "Table of Contents",
+      "pages": [8,9,10,11,12,13,14,15,16,17]
+    },
+    {
+      "title": "Preface",
+      "pages": [18,19,20,21,22,23]
+    },
+    {
+      "title": "Section 1: Python, beyond the Basics",
+      "pages": [24,25]
+    },
+    {
+      "title": "Chapter 1: Optimal Python Development Life Cycle",
+      "pages": [26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53],
+      "subsections": [
+        {
+          "title": "Python culture and community",
+          "pages": [27,28]
+        },
+        {
+          "title": "Different phases of a Python project",
+          "pages": [29,30,31]
+        },
+        {
+          "title": "Strategizing the development process",
+          "pages": [32,33,34,35,36],
+          "subsections": [
+            {
+              "title": "Iterating through the phases",
+              "pages": [32]
+            },
+            {
+              "title": "Aiming for MVP first",
+              "pages": [33]
+            },
+            {
+              "title": "Strategizing development for specialized domains",
+              "pages": [33,34,35,36]
+            }
+          ]
+        },
+        {
+          "title": "Effectively documenting Python code",
+          "pages": [37,38,39,40],
+          "subsections": [
+            {
+              "title": "Python comments",
+              "pages": [37]
+            },
+            {
+              "title": "Docstring",
+              "pages": [38]
+            },
+            {
+              "title": "Functional or class-level documentation",
+              "pages": [39,40]
+            }
+          ]
+        },
+        {
+          "title": "Developing an effective naming scheme",
+          "pages": [41,42,43,44,45],
+          "subsections": [
+            {
+              "title": "Methods",
+              "pages": [42]
+            },
+            {
+              "title": "Variables",
+              "pages": [42]
+            },
+            {
+              "title": "Constant",
+              "pages": [43]
+            },
+            {
+              "title": "Classes",
+              "pages": [44]
+            },
+            {
+              "title": "Packages",
+              "pages": [44]
+            },
+            {
+              "title": "Modules",
+              "pages": [44]
+            },
+            {
+              "title": "Import conventions",
+              "pages": [45]
+            },
+            {
+              "title": "Arguments",
+              "pages": [45]
+            },
+            {
+              "title": "Useful tools",
+              "pages": [45]
+            }
+          ]
+        },
+        {
+          "title": "Exploring choices for source control",
+          "pages": [46],
+          "subsections": [
+            {
+              "title": "What does not belong to the source control repository?",
+              "pages": [46]
+            }
+          ]
+        },
+        {
+          "title": "Understanding strategies for deploying the code",
+          "pages": [47,48],
+          "subsections": [
+            {
+              "title": "Batch development",
+              "pages": [47,48]
+            }
+          ]
+        },
+        {
+          "title": "Python development environments",
+          "pages": [49,50],
+          "subsections": [
+            {
+              "title": "IDLE",
+              "pages": [49]
+            },
+            {
+              "title": "Sublime Text",
+              "pages": [49]
+            },
+            {
+              "title": "PyCharm",
+              "pages": [50]
+            },
+            {
+              "title": "Visual Studio Code",
+              "pages": [50]
+            },
+            {
+              "title": "PyDev",
+              "pages": [50]
+            },
+            {
+              "title": "Spyder",
+              "pages": [51]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [51]
+        },
+        {
+          "title": "Questions",
+          "pages": [52]
+        },
+        {
+          "title": "Further reading",
+          "pages": [52]
+        },
+        {
+          "title": "Answers",
+          "pages": [52,53]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Using Modularization to Handle Complex Projects",
+      "pages": [54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [55]
+        },
+        {
+          "title": "Introduction to modules and packages",
+          "pages": [55]
+        },
+        {
+          "title": "Importing modules",
+          "pages": [56,57,58,59,60,61,62,63,64,65,66],
+          "subsections": [
+            {
+              "title": "Using the import statement",
+              "pages": [58,59,60,61,62]
+            },
+            {
+              "title": "Using the __import__ statement",
+              "pages": [63]
+            },
+            {
+              "title": "Using the importlib.import_module statement",
+              "pages": [64]
+            },
+            {
+              "title": "Absolute versus relative import",
+              "pages": [65,66]
+            }
+          ]
+        },
+        {
+          "title": "Loading and initializing a module",
+          "pages": [67,68,69],
+          "subsections": [
+            {
+              "title": "Standard modules",
+              "pages": [69]
+            }
+          ]
+        },
+        {
+          "title": "Writing reusable modules",
+          "pages": [70,71,72,73,74,75]
+        },
+        {
+          "title": "Building packages",
+          "pages": [76,77,78,79,80],
+          "subsections": [
+            {
+              "title": "Naming",
+              "pages": [76]
+            },
+            {
+              "title": "Package initialization file",
+              "pages": [76]
+            },
+            {
+              "title": "Building a package",
+              "pages": [77,78,79,80]
+            }
+          ]
+        },
+        {
+          "title": "Accessing packages from any location",
+          "pages": [81,82,83,84,85]
+        },
+        {
+          "title": "Sharing a package",
+          "pages": [86,87,88,89,90,91,92,93,94],
+          "subsections": [
+            {
+              "title": "Building a package as per the PyPA guidelines",
+              "pages": [87,88,89]
+            },
+            {
+              "title": "Installing from the local source code using pip",
+              "pages": [90,91,92]
+            },
+            {
+              "title": "Publishing a package to Test PyPI",
+              "pages": [93]
+            },
+            {
+              "title": "Installing the package from PyPI",
+              "pages": [94]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [95]
+        },
+        {
+          "title": "Questions",
+          "pages": [95]
+        },
+        {
+          "title": "Further reading",
+          "pages": [95]
+        },
+        {
+          "title": "Answers",
+          "pages": [96,97]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Advanced Object-Oriented Python Programming",
+      "pages": [98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [99]
+        },
+        {
+          "title": "Introducing classes and objects",
+          "pages": [99,100,101,102,103,104,105,106,107],
+          "subsections": [
+            {
+              "title": "Distinguishing between class attributes and instance attributes",
+              "pages": [99,100,101,102]
+            },
+            {
+              "title": "Using constructors and destructors with classes",
+              "pages": [103]
+            },
+            {
+              "title": "Distinguishing between class methods and instance methods",
+              "pages": [104,105]
+            },
+            {
+              "title": "Special methods",
+              "pages": [106,107]
+            }
+          ]
+        },
+        {
+          "title": "Understanding OOP principles",
+          "pages": [108,109,110,111,112,113,114,115,116,117,118,119,120],
+          "subsections": [
+            {
+              "title": "Encapsulation of data",
+              "pages": [108]
+            },
+            {
+              "title": "Encompassing data and actions",
+              "pages": [108,109]
+            },
+            {
+              "title": "Hiding information",
+              "pages": [110,111,112]
+            },
+            {
+              "title": "Protecting the data",
+              "pages": [113]
+            },
+            {
+              "title": "Using traditional getters and setters",
+              "pages": [113,114]
+            },
+            {
+              "title": "Using property decorators",
+              "pages": [115]
+            },
+            {
+              "title": "Extending classes with inheritance",
+              "pages": [116]
+            },
+            {
+              "title": "Simple inheritance",
+              "pages": [117,118]
+            },
+            {
+              "title": "Multiple inheritance",
+              "pages": [119,120]
+            }
+          ]
+        },
+        {
+          "title": "Polymorphism",
+          "pages": [121,122,123,124,125],
+          "subsections": [
+            {
+              "title": "Method overloading",
+              "pages": [121]
+            },
+            {
+              "title": "Method overriding",
+              "pages": [122,123]
+            },
+            {
+              "title": "Abstraction",
+              "pages": [124,125]
+            }
+          ]
+        },
+        {
+          "title": "Using composition as an alternative design approach",
+          "pages": [126,127,128]
+        },
+        {
+          "title": "Introducing duck typing in Python",
+          "pages": [129]
+        },
+        {
+          "title": "Learning when not to use OOP in Python",
+          "pages": [130]
+        },
+        {
+          "title": "Summary",
+          "pages": [131]
+        },
+        {
+          "title": "Questions",
+          "pages": [132]
+        },
+        {
+          "title": "Further reading",
+          "pages": [132]
+        },
+        {
+          "title": "Answers",
+          "pages": [132,133]
+        }
+      ]
+    },
+    {
+      "title": "Section 2: Advanced Programming Concepts",
+      "pages": [134,135]
+    },
+    {
+      "title": "Chapter 4: Python Libraries for Advanced Programming",
+      "pages": [136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [137]
+        },
+        {
+          "title": "Introducing Python data containers",
+          "pages": [137,138,139,140,141],
+          "subsections": [
+            {
+              "title": "Strings",
+              "pages": [137]
+            },
+            {
+              "title": "Lists",
+              "pages": [138]
+            },
+            {
+              "title": "Tuples",
+              "pages": [139]
+            },
+            {
+              "title": "Dictionaries",
+              "pages": [140]
+            },
+            {
+              "title": "Sets",
+              "pages": [141]
+            }
+          ]
+        },
+        {
+          "title": "Using iterators and generators for data processing",
+          "pages": [142,143,144,145,146,147,148,149],
+          "subsections": [
+            {
+              "title": "Iterators",
+              "pages": [142,143,144,145,146]
+            },
+            {
+              "title": "Generators",
+              "pages": [147,148,149]
+            }
+          ]
+        },
+        {
+          "title": "Handling files in Python",
+          "pages": [150,151,152,153,154],
+          "subsections": [
+            {
+              "title": "File operations",
+              "pages": [150,151,152]
+            },
+            {
+              "title": "Using a context manager",
+              "pages": [153]
+            },
+            {
+              "title": "Operating on multiple files",
+              "pages": [154]
+            }
+          ]
+        },
+        {
+          "title": "Handling errors and exceptions",
+          "pages": [155,156,157,158,159,160],
+          "subsections": [
+            {
+              "title": "Working with exceptions in Python",
+              "pages": [156,157,158]
+            },
+            {
+              "title": "Raising exceptions",
+              "pages": [159]
+            },
+            {
+              "title": "Defining custom exceptions",
+              "pages": [160]
+            }
+          ]
+        },
+        {
+          "title": "Using the Python logging module",
+          "pages": [161,162,163,164,165,166,167,168,169,170,171],
+          "subsections": [
+            {
+              "title": "Introducing core logging components",
+              "pages": [162,163]
+            },
+            {
+              "title": "Working with the logging module",
+              "pages": [164,165,166,167,168,169,170]
+            },
+            {
+              "title": "What to log and what not to log",
+              "pages": [171]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [172]
+        },
+        {
+          "title": "Questions",
+          "pages": [172]
+        },
+        {
+          "title": "Further reading",
+          "pages": [173]
+        },
+        {
+          "title": "Answers",
+          "pages": [173]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Testing and Automation with Python",
+      "pages": [174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [175]
+        },
+        {
+          "title": "Understanding various levels of testing",
+          "pages": [175,176,177],
+          "subsections": [
+            {
+              "title": "Unit testing",
+              "pages": [176]
+            },
+            {
+              "title": "Integration testing",
+              "pages": [177]
+            },
+            {
+              "title": "System testing",
+              "pages": [177]
+            },
+            {
+              "title": "Acceptance testing",
+              "pages": [178]
+            }
+          ]
+        },
+        {
+          "title": "Working with Python test frameworks",
+          "pages": [178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201],
+          "subsections": [
+            {
+              "title": "Working with the unittest framework",
+              "pages": [180,181,182,183,184,185,186,187,188,189,190,191]
+            },
+            {
+              "title": "Working with the pytest framework",
+              "pages": [192,193,194,195,196,197,198,199,200,201]
+            }
+          ]
+        },
+        {
+          "title": "Executing TDD",
+          "pages": [202,203],
+          "subsections": [
+            {
+              "title": "Red",
+              "pages": [202]
+            },
+            {
+              "title": "Green",
+              "pages": [202]
+            },
+            {
+              "title": "Refactor",
+              "pages": [203]
+            }
+          ]
+        },
+        {
+          "title": "Introducing automated CI",
+          "pages": [204]
+        },
+        {
+          "title": "Summary",
+          "pages": [205]
+        },
+        {
+          "title": "Questions",
+          "pages": [205]
+        },
+        {
+          "title": "Further reading",
+          "pages": [205]
+        },
+        {
+          "title": "Answers",
+          "pages": [206,207]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: Advanced Tips and Tricks in Python",
+      "pages": [208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [209]
+        },
+        {
+          "title": "Learning advanced tricks for using functions",
+          "pages": [209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229],
+          "subsections": [
+            {
+              "title": "Introducing the counter, itertools, and zip functions for iterative tasks",
+              "pages": [209,210,211,212,213,214]
+            },
+            {
+              "title": "Using filters, mappers, and reducers for data transformations",
+              "pages": [215,216,217,218]
+            },
+            {
+              "title": "Learning how to build lambda functions",
+              "pages": [219]
+            },
+            {
+              "title": "Embedding a function within another function",
+              "pages": [220,221,222]
+            },
+            {
+              "title": "Modifying function behavior using decorators",
+              "pages": [223,224,225,226,227,228,229]
+            }
+          ]
+        },
+        {
+          "title": "Understanding advanced concepts with data structures",
+          "pages": [230,231,232,233,234,235,236],
+          "subsections": [
+            {
+              "title": "Embedding a dictionary inside a dictionary",
+              "pages": [230,231,232,233]
+            },
+            {
+              "title": "Using comprehension",
+              "pages": [234,235,236]
+            }
+          ]
+        },
+        {
+          "title": "Introducing advanced tricks with pandas DataFrame",
+          "pages": [237,238,239,240,241,242,243,244,245,246,247,248,249,250],
+          "subsections": [
+            {
+              "title": "Learning DataFrame operations",
+              "pages": [238,239,240,241,242,243,244]
+            },
+            {
+              "title": "Learning advanced tricks for a DataFrame object",
+              "pages": [245,246,247,248,249,250]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [251]
+        },
+        {
+          "title": "Questions",
+          "pages": [252]
+        },
+        {
+          "title": "Further reading",
+          "pages": [252]
+        },
+        {
+          "title": "Answers",
+          "pages": [252,253]
+        }
+      ]
+    },
+    {
+      "title": "Section 3: Scaling beyond a Single Thread",
+      "pages": [254,255]
+    },
+    {
+      "title": "Chapter 7: Multiprocessing, Multithreading, and Asynchronous Programming",
+      "pages": [256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [257]
+        },
+        {
+          "title": "Understanding multithreading in Python and its limitations",
+          "pages": [257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272],
+          "subsections": [
+            {
+              "title": "What is a Python blind spot?",
+              "pages": [259]
+            },
+            {
+              "title": "Learning the key components of multithreaded programming in Python",
+              "pages": [260,261,262,263,264,265,266,267,268,269]
+            },
+            {
+              "title": "Case study – a multithreaded application to download files from Google Drive",
+              "pages": [270,271,272]
+            }
+          ]
+        },
+        {
+          "title": "Going beyond a single CPU – implementing multiprocessing",
+          "pages": [273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288],
+          "subsections": [
+            {
+              "title": "Creating multiple processes",
+              "pages": [274,275,276]
+            },
+            {
+              "title": "Sharing data between processes",
+              "pages": [277,278,279,280,281]
+            },
+            {
+              "title": "Exchanging objects between processes",
+              "pages": [282,283,284]
+            },
+            {
+              "title": "Synchronization between processes",
+              "pages": [285,286]
+            },
+            {
+              "title": "Case study – a multiprocessor application to download files from Google Drive",
+              "pages": [287,288]
+            }
+          ]
+        },
+        {
+          "title": "Using asynchronous programming for responsive systems",
+          "pages": [289,290,291,292,293,294,295,296],
+          "subsections": [
+            {
+              "title": "Understanding the asyncio module",
+              "pages": [290,291,292]
+            },
+            {
+              "title": "Distributing tasks using queues",
+              "pages": [293,294]
+            },
+            {
+              "title": "Case study – asyncio application to download files from Google Drive",
+              "pages": [295,296]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [297]
+        },
+        {
+          "title": "Questions",
+          "pages": [298]
+        },
+        {
+          "title": "Further reading",
+          "pages": [299]
+        },
+        {
+          "title": "Answers",
+          "pages": [299]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8: Scaling out Python Using Clusters",
+      "pages": [300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [301]
+        },
+        {
+          "title": "Learning about the cluster options for parallel processing",
+          "pages": [302,303,304,305,306,307],
+          "subsections": [
+            {
+              "title": "Hadoop MapReduce",
+              "pages": [302,303,304]
+            },
+            {
+              "title": "Apache Spark",
+              "pages": [305,306,307]
+            }
+          ]
+        },
+        {
+          "title": "Introducing RDDs",
+          "pages": [308,309,310],
+          "subsections": [
+            {
+              "title": "Learning RDD operations",
+              "pages": [309]
+            },
+            {
+              "title": "Creating RDD objects",
+              "pages": [310]
+            }
+          ]
+        },
+        {
+          "title": "Using PySpark for parallel data processing",
+          "pages": [311,312,313,314,315,316,317,318,319,320,321,322,323,324],
+          "subsections": [
+            {
+              "title": "Creating SparkSession and SparkContext programs",
+              "pages": [313,314]
+            },
+            {
+              "title": "Exploring PySpark for RDD operations",
+              "pages": [315,316]
+            },
+            {
+              "title": "Learning about PySpark DataFrames",
+              "pages": [317,318,319,320,321,322]
+            },
+            {
+              "title": "Introducing PySpark SQL",
+              "pages": [323,324]
+            }
+          ]
+        },
+        {
+          "title": "Case studies of using Apache Spark and PySpark",
+          "pages": [325,326,327,328,329,330,331,332],
+          "subsections": [
+            {
+              "title": "Case study 1 – Pi (π) calculator on Apache Spark",
+              "pages": [325,326,327,328,329]
+            },
+            {
+              "title": "Case study 2 – Word cloud using PySpark",
+              "pages": [330,331,332]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [333]
+        },
+        {
+          "title": "Questions",
+          "pages": [334]
+        },
+        {
+          "title": "Further reading",
+          "pages": [334]
+        },
+        {
+          "title": "Answers",
+          "pages": [334,335]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9: Python Programming for the Cloud",
+      "pages": [336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [337]
+        },
+        {
+          "title": "Learning about the cloud options for Python applications",
+          "pages": [337,338,339,340,341],
+          "subsections": [
+            {
+              "title": "Introducing Python development environments for the cloud",
+              "pages": [337,338,339]
+            },
+            {
+              "title": "Introducing cloud runtime options for Python",
+              "pages": [340,341]
+            }
+          ]
+        },
+        {
+          "title": "Building Python web services for cloud deployment",
+          "pages": [342,343,344,345,346,347,348,349,350,351,352,353,354],
+          "subsections": [
+            {
+              "title": "Using Google Cloud SDK",
+              "pages": [343,344,345,346,347,348,349,350,351]
+            },
+            {
+              "title": "Using the GCP web console",
+              "pages": [352,353,354]
+            }
+          ]
+        },
+        {
+          "title": "Using Google Cloud Platform for data processing",
+          "pages": [355,356,357,358,359,360,361,362,363,364,365,366,367,368,369],
+          "subsections": [
+            {
+              "title": "Learning the fundamentals of Apache Beam",
+              "pages": [356]
+            },
+            {
+              "title": "Introducing Apache Beam pipelines",
+              "pages": [357,358,359,360,361,362,363]
+            },
+            {
+              "title": "Building pipelines for Cloud Dataflow",
+              "pages": [364,365,366,367,368,369]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [370]
+        },
+        {
+          "title": "Questions",
+          "pages": [371]
+        },
+        {
+          "title": "Further reading",
+          "pages": [371]
+        },
+        {
+          "title": "Answers",
+          "pages": [371,372,373]
+        }
+      ]
+    },
+    {
+      "title": "Section 4: Using Python for Web, Cloud, and Network Use Cases",
+      "pages": [374,375]
+    },
+    {
+      "title": "Chapter 10: Using Python for Web Development and REST API",
+      "pages": [376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [377]
+        },
+        {
+          "title": "Learning requirements for web development",
+          "pages": [378,379,380,381],
+          "subsections": [
+            {
+              "title": "Web frameworks",
+              "pages": [378]
+            },
+            {
+              "title": "User interface",
+              "pages": [379]
+            },
+            {
+              "title": "Web server/application server",
+              "pages": [380]
+            },
+            {
+              "title": "Database",
+              "pages": [380]
+            },
+            {
+              "title": "Security",
+              "pages": [381]
+            },
+            {
+              "title": "API",
+              "pages": [381]
+            },
+            {
+              "title": "Documentation",
+              "pages": [381]
+            }
+          ]
+        },
+        {
+          "title": "Introducing the Flask framework",
+          "pages": [382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398],
+          "subsections": [
+            {
+              "title": "Building a basic application with routing",
+              "pages": [382,383]
+            },
+            {
+              "title": "Handling requests with different HTTP method types",
+              "pages": [384,385,386,387]
+            },
+            {
+              "title": "Rendering static and dynamic contents",
+              "pages": [388]
+            },
+            {
+              "title": "Extracting parameters from an HTTP request",
+              "pages": [389,390]
+            },
+            {
+              "title": "Interacting with database systems",
+              "pages": [391,392,393,394,395]
+            },
+            {
+              "title": "Handling errors and exceptions in web applications",
+              "pages": [396,397,398]
+            }
+          ]
+        },
+        {
+          "title": "Building a REST API",
+          "pages": [399,400,401,402,403,404],
+          "subsections": [
+            {
+              "title": "Using Flask for a REST API",
+              "pages": [400,401]
+            },
+            {
+              "title": "Developing a REST API for database access",
+              "pages": [402,403,404]
+            }
+          ]
+        },
+        {
+          "title": "Case study– Building a web application using the REST API",
+          "pages": [405,406,407,408,409,410,411]
+        },
+        {
+          "title": "Summary",
+          "pages": [412]
+        },
+        {
+          "title": "Questions",
+          "pages": [413]
+        },
+        {
+          "title": "Further reading",
+          "pages": [413]
+        },
+        {
+          "title": "Answers",
+          "pages": [413]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11: Using Python for Microservices Development",
+      "pages": [414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [415]
+        },
+        {
+          "title": "Introducing microservices",
+          "pages": [415,416,417]
+        },
+        {
+          "title": "Learning best practices for microservices",
+          "pages": [418,419]
+        },
+        {
+          "title": "Building microservices-based applications",
+          "pages": [420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435],
+          "subsections": [
+            {
+              "title": "Learning microservice development options in Python",
+              "pages": [420]
+            },
+            {
+              "title": "Introducing deployment options for microservices",
+              "pages": [421,422]
+            },
+            {
+              "title": "Developing a sample microservices-based application",
+              "pages": [423,424,425,426,427,428,429,430,431,432,433,434,435]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [436]
+        },
+        {
+          "title": "Questions",
+          "pages": [436]
+        },
+        {
+          "title": "Further reading",
+          "pages": [436]
+        },
+        {
+          "title": "Answers",
+          "pages": [437]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12: Building Serverless Functions Using Python",
+      "pages": [438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [439]
+        },
+        {
+          "title": "Introducing serverless functions",
+          "pages": [439,440,441],
+          "subsections": [
+            {
+              "title": "Benefits",
+              "pages": [441]
+            },
+            {
+              "title": "Use cases",
+              "pages": [441]
+            }
+          ]
+        },
+        {
+          "title": "Understanding the deployment options for serverless functions",
+          "pages": [442]
+        },
+        {
+          "title": "Learning how to build serverless functions",
+          "pages": [443,444,445,446,447,448,449,450,451,452,453],
+          "subsections": [
+            {
+              "title": "Building an HTTP-based Cloud Function using the GCP Console",
+              "pages": [444,445,446,447,448]
+            },
+            {
+              "title": "Case study – building a notification app for cloud storage events",
+              "pages": [449,450,451,452,453]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [454]
+        },
+        {
+          "title": "Questions",
+          "pages": [454]
+        },
+        {
+          "title": "Further reading",
+          "pages": [454]
+        },
+        {
+          "title": "Answers",
+          "pages": [455]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13: Python and Machine Learning",
+      "pages": [456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [457]
+        },
+        {
+          "title": "Introducing machine learning",
+          "pages": [457,458,459]
+        },
+        {
+          "title": "Using Python for machine learning",
+          "pages": [460,461],
+          "subsections": [
+            {
+              "title": "Introducing machine learning libraries in Python",
+              "pages": [460,461]
+            },
+            {
+              "title": "Best practices of training data with Python",
+              "pages": [462]
+            }
+          ]
+        },
+        {
+          "title": "Building and evaluating a machine learning model",
+          "pages": [462,463,464,465,466,467,468,469,470,471,472,473,474],
+          "subsections": [
+            {
+              "title": "Learning about an ML model building process",
+              "pages": [463]
+            },
+            {
+              "title": "Building a sample ML model",
+              "pages": [464,465,466,467,468,469]
+            },
+            {
+              "title": "Evaluating a model using cross-validation and fine tuning hyperparameters",
+              "pages": [470,471,472,473]
+            },
+            {
+              "title": "Saving an ML model to a file",
+              "pages": [474]
+            }
+          ]
+        },
+        {
+          "title": "Deploying and predicting an ML model on GCP Cloud",
+          "pages": [475,476,477]
+        },
+        {
+          "title": "Summary",
+          "pages": [478]
+        },
+        {
+          "title": "Questions",
+          "pages": [479]
+        },
+        {
+          "title": "Further reading",
+          "pages": [479]
+        },
+        {
+          "title": "Answers",
+          "pages": [480,481]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14: Using Python for Network Automation",
+      "pages": [482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [483]
+        },
+        {
+          "title": "Introducing network automation",
+          "pages": [484,485,486],
+          "subsections": [
+            {
+              "title": "Merits and challenges of network automation",
+              "pages": [485]
+            },
+            {
+              "title": "Use cases",
+              "pages": [486]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with network devices",
+          "pages": [487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505],
+          "subsections": [
+            {
+              "title": "Protocols for interacting with network devices",
+              "pages": [487,488,489]
+            },
+            {
+              "title": "Interacting with network devices using SSH-based Python libraries",
+              "pages": [490,491,492,493,494,495,496,497,498,499]
+            },
+            {
+              "title": "Interacting with network devices using NETCONF",
+              "pages": [500,501,502,503,504,505]
+            }
+          ]
+        },
+        {
+          "title": "Integrating with network management systems",
+          "pages": [506,507,508,509,510,511,512],
+          "subsections": [
+            {
+              "title": "Using location services endpoints",
+              "pages": [507]
+            },
+            {
+              "title": "Getting an authentication token",
+              "pages": [508,509]
+            },
+            {
+              "title": "Getting network devices and an interface inventory",
+              "pages": [510]
+            },
+            {
+              "title": "Updating the network device port",
+              "pages": [511,512]
+            }
+          ]
+        },
+        {
+          "title": "Integrating with event-driven systems",
+          "pages": [513,514,515,516,517],
+          "subsections": [
+            {
+              "title": "Creating subscriptions for Apache Kafka",
+              "pages": [515]
+            },
+            {
+              "title": "Processing events from Apache Kafka",
+              "pages": [516]
+            },
+            {
+              "title": "Renewing and deleting a subscription",
+              "pages": [517]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [518]
+        },
+        {
+          "title": "Questions",
+          "pages": [519]
+        },
+        {
+          "title": "Further reading",
+          "pages": [519]
+        },
+        {
+          "title": "Answers",
+          "pages": [520,521]
+        }
+      ]
+    },
+    {
+      "title": "About Packt",
+      "pages": [522]
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "pages": [523,524,525]
+    },
+    {
+      "title": "Index",
+      "pages": [526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546]
+    }
+  ]
+}

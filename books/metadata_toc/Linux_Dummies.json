@@ -1,0 +1,1430 @@
+{
+  "document_title": "Linux 10th Edition",
+  "author": "Richard Blum",
+  "reference_url": "https://drive.google.com/file/d/12CWdXRgW9QuoPIE6crqMxT6oJRtZbGZU/view?usp=drive_link",
+  "topic": "Linux",
+  "toc": [
+    {
+      "title": "Title Page",
+      "pages": [5]
+    },
+    {
+      "title": "Copyright Page",
+      "pages": [6,7,8]
+    },
+    {
+      "title": "Table of Contents",
+      "pages": [9,10,11,12,13,14,15,16]
+    },
+    {
+      "title": "Introduction",
+      "pages": [17,18,19,20],
+      "subsections": [
+        {
+          "title": "About This Book",
+          "pages": [17]
+        },
+        {
+          "title": "How to Use This Book",
+          "pages": [18]
+        },
+        {
+          "title": "Three Presumptuous Assumptions",
+          "pages": [19]
+        },
+        {
+          "title": "Icons Used in This Book",
+          "pages": [20]
+        },
+        {
+          "title": "Where to Go from Here",
+          "pages": [20]
+        }
+      ]
+    },
+    {
+      "title": "Part 1 Getting Your Feet Wet",
+      "pages": [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134],
+      "subsections": [
+        {
+          "title": "Chapter 1 Getting Acquainted with Linux",
+          "pages": [23,24,25,26,27,28,29,30,31,32,33,34],
+          "subsections": [
+            {
+              "title": "Is Free Really Free?",
+              "pages": [23]
+            },
+            {
+              "title": "Linux: Revolution or Just Another Operating System?",
+              "pages": [24,25,26]
+            },
+            {
+              "title": "Anatomy of an Open Source Software Project",
+              "pages": [27,28,29],
+              "subsections": [
+                {
+                  "title": "GNU who?",
+                  "pages": [27,28]
+                },
+                {
+                  "title": "Who’s in charge of Linux, anyway?",
+                  "pages": [29]
+                },
+                {
+                  "title": "Einstein was a volunteer",
+                  "pages": [29]
+                }
+              ]
+            },
+            {
+              "title": "Packaging Linux: The Distribution",
+              "pages": [30,31,32,33,34],
+              "subsections": [
+                {
+                  "title": "Core Linux distributions",
+                  "pages": [30,31]
+                },
+                {
+                  "title": "Specialized Linux distributions",
+                  "pages": [32]
+                },
+                {
+                  "title": "The Linux Live distribution",
+                  "pages": [32,33,34]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 2 Prepping Your Computer for Linux",
+          "pages": [35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52],
+          "subsections": [
+            {
+              "title": "Preparing to Use Linux and Microsoft Windows Together",
+              "pages": [38,39,40,41,42,43,44],
+              "subsections": [
+                {
+                  "title": "Installing a second hard drive",
+                  "pages": [38]
+                },
+                {
+                  "title": "Partitioning an existing drive",
+                  "pages": [39,40,41,42,43,44]
+                }
+              ]
+            },
+            {
+              "title": "Double-Checking Hardware Compatibility",
+              "pages": [45,46,47]
+            },
+            {
+              "title": "Finally, Finally, Before You Get Started",
+              "pages": [48,49,50,51,52],
+              "subsections": [
+                {
+                  "title": "Disabling the secure boot feature",
+                  "pages": [49]
+                },
+                {
+                  "title": "Creating a boot disk",
+                  "pages": [49,50,51,52]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 3 Installing Linux",
+          "pages": [53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76],
+          "subsections": [
+            {
+              "title": "Things to Consider Before You Begin Installation",
+              "pages": [54]
+            },
+            {
+              "title": "Installing from Ubuntu Live",
+              "pages": [55,56,57,58,59,60,61,62,63,64]
+            },
+            {
+              "title": "Your First Ubuntu Boot",
+              "pages": [65,66]
+            },
+            {
+              "title": "Installing openSUSE",
+              "pages": [67,68,69,70,71,72,73,74,75,76]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 4 Examining the GNOME Desktop",
+          "pages": [77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98],
+          "subsections": [
+            {
+              "title": "The History of GNOME",
+              "pages": [77]
+            },
+            {
+              "title": "Breaking Down the GNOME Desktop",
+              "pages": [78,79,80,81,82,83,84],
+              "subsections": [
+                {
+                  "title": "Menus, please!",
+                  "pages": [79,80,81,82]
+                },
+                {
+                  "title": "The desktop",
+                  "pages": [83,84]
+                }
+              ]
+            },
+            {
+              "title": "Exploring the Activities Overview",
+              "pages": [85,86,87,88,89,90],
+              "subsections": [
+                {
+                  "title": "The dash",
+                  "pages": [85,86,87,88]
+                },
+                {
+                  "title": "The windows overview area",
+                  "pages": [89]
+                },
+                {
+                  "title": "Working with workspaces",
+                  "pages": [90]
+                }
+              ]
+            },
+            {
+              "title": "Customizing Your Ride",
+              "pages": [91,92,93,94,95],
+              "subsections": [
+                {
+                  "title": "Background",
+                  "pages": [92]
+                },
+                {
+                  "title": "Appearance",
+                  "pages": [92]
+                },
+                {
+                  "title": "Displays",
+                  "pages": [93,94]
+                },
+                {
+                  "title": "Mouse and touchpad",
+                  "pages": [95]
+                }
+              ]
+            },
+            {
+              "title": "A Closer Look at Accessibility Features",
+              "pages": [96,97,98]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 5 Examining the KDE Plasma Desktop",
+          "pages": [99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116],
+          "subsections": [
+            {
+              "title": "The KDE Plasma Desktop",
+              "pages": [99,100,101,102,103,104,105,106],
+              "subsections": [
+                {
+                  "title": "More menus!",
+                  "pages": [101,102,103,104]
+                },
+                {
+                  "title": "The panel",
+                  "pages": [105,106]
+                },
+                {
+                  "title": "The desktop",
+                  "pages": [107]
+                }
+              ]
+            },
+            {
+              "title": "Using Widgets",
+              "pages": [107,108,109,110,111],
+              "subsections": [
+                {
+                  "title": "Adding widgets",
+                  "pages": [107,108,109,110]
+                },
+                {
+                  "title": "Getting more widgets",
+                  "pages": [111]
+                }
+              ]
+            },
+            {
+              "title": "Plasma System Settings",
+              "pages": [112]
+            },
+            {
+              "title": "Desktop Folder Settings",
+              "pages": [113]
+            },
+            {
+              "title": "Accessibility Settings",
+              "pages": [114,115,116]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 6 Exploring Alternative Desktops",
+          "pages": [117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134],
+          "subsections": [
+            {
+              "title": "Spicing Things Up with Cinnamon",
+              "pages": [117,118,119,120,121,122],
+              "subsections": [
+                {
+                  "title": "History of Cinnamon",
+                  "pages": [118]
+                },
+                {
+                  "title": "Looking at the menu",
+                  "pages": [119,120]
+                },
+                {
+                  "title": "Changing settings",
+                  "pages": [121]
+                },
+                {
+                  "title": "Adding more spice",
+                  "pages": [122]
+                }
+              ]
+            },
+            {
+              "title": "Working with MATE",
+              "pages": [123,124,125,126,127],
+              "subsections": [
+                {
+                  "title": "The history of MATE",
+                  "pages": [123,124]
+                },
+                {
+                  "title": "Looking at the menu",
+                  "pages": [125]
+                },
+                {
+                  "title": "Changing desktop settings",
+                  "pages": [126]
+                },
+                {
+                  "title": "Applets",
+                  "pages": [127]
+                }
+              ]
+            },
+            {
+              "title": "The Xfce Desktop Interface",
+              "pages": [128,129,130,131,132,133,134],
+              "subsections": [
+                {
+                  "title": "History of Xfce",
+                  "pages": [128]
+                },
+                {
+                  "title": "The Whisker menu",
+                  "pages": [129,130]
+                },
+                {
+                  "title": "Changing Xfce settings",
+                  "pages": [131]
+                },
+                {
+                  "title": "Applets",
+                  "pages": [132,133,134]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 2 Getting Up to Speed with Linux",
+      "pages": [135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188],
+      "subsections": [
+        {
+          "title": "Chapter 7 Getting to Know the Linux Filesystem",
+          "pages": [137,138,139,140,141,142,143,144,145,146,147,148,149,150],
+          "subsections": [
+            {
+              "title": "Pieces of the Puzzle",
+              "pages": [137]
+            },
+            {
+              "title": "Touring the Linux Filesystem",
+              "pages": [138,139,140],
+              "subsections": [
+                {
+                  "title": "The root of the tree",
+                  "pages": [138,139]
+                },
+                {
+                  "title": "The importance of being /etc",
+                  "pages": [140]
+                },
+                {
+                  "title": "Where removable media lives",
+                  "pages": [140]
+                },
+                {
+                  "title": "Where the computer is the /usr",
+                  "pages": [141]
+                }
+              ]
+            },
+            {
+              "title": "Managing Your Filesystem without a Net (or Mouse)",
+              "pages": [141,142,143,144,145,146],
+              "subsections": [
+                {
+                  "title": "Viewing information about files on the command line",
+                  "pages": [142]
+                },
+                {
+                  "title": "Understanding file listing information",
+                  "pages": [143,144]
+                },
+                {
+                  "title": "Comprehending file types",
+                  "pages": [145]
+                },
+                {
+                  "title": "Navigating the filesystem in Linux",
+                  "pages": [146]
+                }
+              ]
+            },
+            {
+              "title": "A Permissions Primer",
+              "pages": [147,148,149,150],
+              "subsections": [
+                {
+                  "title": "Checking out the triplets",
+                  "pages": [147,148]
+                },
+                {
+                  "title": "Beware of owners",
+                  "pages": [149]
+                },
+                {
+                  "title": "Hanging out in groups",
+                  "pages": [149,150]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 8 Using the Filesystem",
+          "pages": [151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168],
+          "subsections": [
+            {
+              "title": "Clicking Your Way Through the Filesystem",
+              "pages": [151]
+            },
+            {
+              "title": "Using Files",
+              "pages": [152,153,154,155,156,157,158,159],
+              "subsections": [
+                {
+                  "title": "Setting how much info you see",
+                  "pages": [155]
+                },
+                {
+                  "title": "Creating new directories",
+                  "pages": [156]
+                },
+                {
+                  "title": "Opening files and running programs",
+                  "pages": [156]
+                },
+                {
+                  "title": "Copying and moving files",
+                  "pages": [157]
+                },
+                {
+                  "title": "Deleting files and directories",
+                  "pages": [158]
+                },
+                {
+                  "title": "Taking out the trash",
+                  "pages": [158]
+                },
+                {
+                  "title": "Viewing and changing permissions",
+                  "pages": [159]
+                }
+              ]
+            },
+            {
+              "title": "Swimming with Dolphin",
+              "pages": [160,161]
+            },
+            {
+              "title": "Don’t Forget Xfce!",
+              "pages": [162,163,164]
+            },
+            {
+              "title": "Using DVDs and Other Removable Media",
+              "pages": [165]
+            },
+            {
+              "title": "Accessing Windows Drives on This Computer",
+              "pages": [166]
+            },
+            {
+              "title": "Accessing Network Drives",
+              "pages": [166]
+            },
+            {
+              "title": "Finding Things",
+              "pages": [167,168]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 9 Connecting to the Internet",
+          "pages": [169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188],
+          "subsections": [
+            {
+              "title": "Internet Connectivity 101",
+              "pages": [169,170]
+            },
+            {
+              "title": "Setting Up the Hardware",
+              "pages": [171]
+            },
+            {
+              "title": "Selecting an Internet Service Provider (ISP)",
+              "pages": [172]
+            },
+            {
+              "title": "Getting Information You Need from Your ISP",
+              "pages": [173]
+            },
+            {
+              "title": "Configuring Your Connection",
+              "pages": [174,175,176,177,178,179,180,181,182,183,184],
+              "subsections": [
+                {
+                  "title": "Network Manager",
+                  "pages": [174,175,176,177,178]
+                },
+                {
+                  "title": "Command line tools",
+                  "pages": [179,180,181,182,183,184]
+                },
+                {
+                  "title": "Dialin’ out",
+                  "pages": [185]
+                }
+              ]
+            },
+            {
+              "title": "It’s All Fun and Games Until Something Doesn’t Work",
+              "pages": [185,186]
+            },
+            {
+              "title": "After You’re Connected",
+              "pages": [187,188]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 3 Getting Things Done",
+      "pages": [189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306],
+      "subsections": [
+        {
+          "title": "Chapter 10 Using the Internet",
+          "pages": [191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218],
+          "subsections": [
+            {
+              "title": "Browsing the Web with Firefox",
+              "pages": [191,192,193,194,195,196,197],
+              "subsections": [
+                {
+                  "title": "Configuring Firefox",
+                  "pages": [192,193,194,195]
+                },
+                {
+                  "title": "Expanding your universe with add-ons",
+                  "pages": [196]
+                },
+                {
+                  "title": "Surfing the web",
+                  "pages": [197]
+                }
+              ]
+            },
+            {
+              "title": "Communicating with Email",
+              "pages": [198,199,200,201,202,203,204,205,206,207,208,209,210,211,212],
+              "subsections": [
+                {
+                  "title": "Evolving into email",
+                  "pages": [199,200,201,202,203,204,205,206]
+                },
+                {
+                  "title": "Working with KMail",
+                  "pages": [207,208,209,210]
+                },
+                {
+                  "title": "The amazing Thunderbird",
+                  "pages": [211,212]
+                }
+              ]
+            },
+            {
+              "title": "Ol’ Fashion File Transfers",
+              "pages": [213,214]
+            },
+            {
+              "title": "Talking with Skype",
+              "pages": [215,216]
+            },
+            {
+              "title": "Working with Other Internet Tools",
+              "pages": [217,218]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 11 Putting the X in Text",
+          "pages": [219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234],
+          "subsections": [
+            {
+              "title": "Viewing the Contents of a Text File",
+              "pages": [219]
+            },
+            {
+              "title": "Editing Text Files with nano",
+              "pages": [220,221],
+              "subsections": [
+                {
+                  "title": "Saving your work as you go",
+                  "pages": [221]
+                },
+                {
+                  "title": "Saving and moving on with your life",
+                  "pages": [221]
+                }
+              ]
+            },
+            {
+              "title": "Going with gedit",
+              "pages": [222,223,224,225,226],
+              "subsections": [
+                {
+                  "title": "Entering and editing text in gedit",
+                  "pages": [223]
+                },
+                {
+                  "title": "Saving your work",
+                  "pages": [223]
+                },
+                {
+                  "title": "Setting preferences",
+                  "pages": [224,225,226]
+                }
+              ]
+            },
+            {
+              "title": "Editing Text in the KDE Plasma Desktop",
+              "pages": [227,228,229,230,231,232,233,234],
+              "subsections": [
+                {
+                  "title": "Writing with KWrite",
+                  "pages": [227,228,229,230,231]
+                },
+                {
+                  "title": "Meet Kate",
+                  "pages": [232,233,234]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 12 Word Processing and More with LibreOffice",
+          "pages": [235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268],
+          "subsections": [
+            {
+              "title": "Installing the LibreOffice Suite",
+              "pages": [236]
+            },
+            {
+              "title": "Word Processing with LibreOffice Writer",
+              "pages": [237,238,239,240,241],
+              "subsections": [
+                {
+                  "title": "Taking a tour of LibreOffice Writer",
+                  "pages": [237,238,239,240]
+                },
+                {
+                  "title": "Working with Writer files",
+                  "pages": [241]
+                }
+              ]
+            },
+            {
+              "title": "Spreadsheets with LibreOffice Calc",
+              "pages": [242,243,244,245],
+              "subsections": [
+                {
+                  "title": "Taking a tour of LibreOffice Calc",
+                  "pages": [242,243,244,245]
+                },
+                {
+                  "title": "Working with Calc files",
+                  "pages": [246]
+                }
+              ]
+            },
+            {
+              "title": "Presentations with LibreOffice Impress",
+              "pages": [246,247,248,249,250,251],
+              "subsections": [
+                {
+                  "title": "Creating a new presentation",
+                  "pages": [247]
+                },
+                {
+                  "title": "Taking a tour of LibreOffice Impress",
+                  "pages": [247,248,249,250]
+                },
+                {
+                  "title": "Working with Impress files",
+                  "pages": [251]
+                }
+              ]
+            },
+            {
+              "title": "Fine Art with LibreOffice Draw",
+              "pages": [252,253,254,255],
+              "subsections": [
+                {
+                  "title": "Taking a tour of LibreOffice Draw",
+                  "pages": [252,253,254]
+                },
+                {
+                  "title": "Working with Draw files",
+                  "pages": [255]
+                }
+              ]
+            },
+            {
+              "title": "Managing Data with LibreOffice Base",
+              "pages": [256,257,258,259,260,261],
+              "subsections": [
+                {
+                  "title": "Getting help from the wizard",
+                  "pages": [256,257,258]
+                },
+                {
+                  "title": "Taking a tour of LibreOffice Base",
+                  "pages": [259,260]
+                },
+                {
+                  "title": "Sitting down at the table",
+                  "pages": [261]
+                }
+              ]
+            },
+            {
+              "title": "Layout with LibreOffice Math",
+              "pages": [262,263,264,265,266,267,268],
+              "subsections": [
+                {
+                  "title": "Menu bar",
+                  "pages": [263]
+                },
+                {
+                  "title": "Standard toolbar",
+                  "pages": [264]
+                },
+                {
+                  "title": "Document section",
+                  "pages": [265,266,267,268]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 13 Messing with Audio",
+          "pages": [269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288],
+          "subsections": [
+            {
+              "title": "What Sound? I Don’t Hear a Thing!",
+              "pages": [269,270,271]
+            },
+            {
+              "title": "Listening to CDs",
+              "pages": [272,273,274,275],
+              "subsections": [
+                {
+                  "title": "GNOME 3 and Rhythmbox",
+                  "pages": [272,273]
+                },
+                {
+                  "title": "KDE Plasma and CDs",
+                  "pages": [274]
+                },
+                {
+                  "title": "VLC to the rescue",
+                  "pages": [275]
+                }
+              ]
+            },
+            {
+              "title": "Listening to Downloaded Music",
+              "pages": [276,277,278,279],
+              "subsections": [
+                {
+                  "title": "Amarok",
+                  "pages": [276,277,278,279]
+                },
+                {
+                  "title": "Rhythmbox revisited",
+                  "pages": [280]
+                }
+              ]
+            },
+            {
+              "title": "Listening to Internet Radio",
+              "pages": [280]
+            },
+            {
+              "title": "Ripping Music Tracks from CDs",
+              "pages": [281,282,283]
+            },
+            {
+              "title": "Burning Audio CDs and DVDs",
+              "pages": [284,285,286,287,288],
+              "subsections": [
+                {
+                  "title": "Using Brasero",
+                  "pages": [284]
+                },
+                {
+                  "title": "Using K3b",
+                  "pages": [285,286,287,288]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 14 Messing with Video and Graphics",
+          "pages": [289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306],
+          "subsections": [
+            {
+              "title": "Watchin’ Videos on the Web",
+              "pages": [289,290,291,292],
+              "subsections": [
+                {
+                  "title": "Firefox video support",
+                  "pages": [290]
+                },
+                {
+                  "title": "Getting even more video support",
+                  "pages": [291,292]
+                }
+              ]
+            },
+            {
+              "title": "Viewing Movie Files",
+              "pages": [293,294,295,296],
+              "subsections": [
+                {
+                  "title": "GNOME Videos",
+                  "pages": [294]
+                },
+                {
+                  "title": "KDE Dragon",
+                  "pages": [295]
+                },
+                {
+                  "title": "VLC",
+                  "pages": [296]
+                }
+              ]
+            },
+            {
+              "title": "Watchin’ DVDs",
+              "pages": [297]
+            },
+            {
+              "title": "Creating and Modifying Graphics",
+              "pages": [298,299,300,301,302,303],
+              "subsections": [
+                {
+                  "title": "GIMP basic tools",
+                  "pages": [299]
+                },
+                {
+                  "title": "Capturing screenshots",
+                  "pages": [300]
+                },
+                {
+                  "title": "Editing an image file",
+                  "pages": [301,302]
+                },
+                {
+                  "title": "Using GIMP scripts",
+                  "pages": [303]
+                }
+              ]
+            },
+            {
+              "title": "Playing 3D Games",
+              "pages": [304,305,306]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 4 Junior Administrator Boot Camp",
+      "pages": [307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412],
+      "subsections": [
+        {
+          "title": "Chapter 15 Adding Software to Linux",
+          "pages": [309,310,311,312,313,314,315,316,317,318,319,320],
+          "subsections": [
+            {
+              "title": "Opening Downloaded Files",
+              "pages": [309,310]
+            },
+            {
+              "title": "Compressing and Packaging Files to Share",
+              "pages": [311]
+            },
+            {
+              "title": "Keeping Up-to-Update",
+              "pages": [312,313],
+              "subsections": [
+                {
+                  "title": "Updating Ubuntu",
+                  "pages": [312]
+                },
+                {
+                  "title": "Updating openSUSE",
+                  "pages": [313]
+                }
+              ]
+            },
+            {
+              "title": "Installing New Software",
+              "pages": [314,315,316,317,318],
+              "subsections": [
+                {
+                  "title": "Adding applications",
+                  "pages": [315,316]
+                },
+                {
+                  "title": "Adding packages",
+                  "pages": [317,318]
+                }
+              ]
+            },
+            {
+              "title": "Finding More Software",
+              "pages": [319]
+            },
+            {
+              "title": "Upgrading Your OS",
+              "pages": [320]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 16 Working without the GUI",
+          "pages": [321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338],
+          "subsections": [
+            {
+              "title": "Playing the Shell Game",
+              "pages": [322,323,324],
+              "subsections": [
+                {
+                  "title": "Getting a shell",
+                  "pages": [322]
+                },
+                {
+                  "title": "The shell prompt",
+                  "pages": [323,324]
+                }
+              ]
+            },
+            {
+              "title": "Understanding bash Command Syntax and Structure",
+              "pages": [325,326]
+            },
+            {
+              "title": "Starting Programs from the Shell",
+              "pages": [327]
+            },
+            {
+              "title": "Putting Wildcard Expansion to Good Use",
+              "pages": [327]
+            },
+            {
+              "title": "Working with Long Commands",
+              "pages": [328,329],
+              "subsections": [
+                {
+                  "title": "Asking Linux to complete a command or filename for you",
+                  "pages": [328]
+                },
+                {
+                  "title": "Accessing your command history",
+                  "pages": [329]
+                }
+              ]
+            },
+            {
+              "title": "Working with Variables",
+              "pages": [330,331,332,333],
+              "subsections": [
+                {
+                  "title": "Variables versus environment variables",
+                  "pages": [330]
+                },
+                {
+                  "title": "Checking out commonly used environment variables",
+                  "pages": [330]
+                },
+                {
+                  "title": "Storing and retrieving variables’ values",
+                  "pages": [331,332,333]
+                }
+              ]
+            },
+            {
+              "title": "Using Redirection and Pipes",
+              "pages": [334,335,336,337,338],
+              "subsections": [
+                {
+                  "title": "Redirecting command output",
+                  "pages": [334,335]
+                },
+                {
+                  "title": "Laying pipes",
+                  "pages": [336]
+                },
+                {
+                  "title": "“Help!”",
+                  "pages": [336]
+                },
+                {
+                  "title": "Clearing the screen",
+                  "pages": [336,337,338]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 17 Basic System Administration",
+          "pages": [339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358],
+          "subsections": [
+            {
+              "title": "Managing Users and Groups",
+              "pages": [340,341,342,343,344,345,346],
+              "subsections": [
+                {
+                  "title": "Finding the right tool",
+                  "pages": [340,341]
+                },
+                {
+                  "title": "Adding new users",
+                  "pages": [342,343,344]
+                },
+                {
+                  "title": "Adding new groups",
+                  "pages": [345,346]
+                }
+              ]
+            },
+            {
+              "title": "Printing",
+              "pages": [347,348,349,350,351,352,353],
+              "subsections": [
+                {
+                  "title": "Printer server settings",
+                  "pages": [349]
+                },
+                {
+                  "title": "Adding a new printer",
+                  "pages": [350,351,352]
+                },
+                {
+                  "title": "Modifying printer properties",
+                  "pages": [353]
+                }
+              ]
+            },
+            {
+              "title": "System Monitor",
+              "pages": [354,355,356,357,358],
+              "subsections": [
+                {
+                  "title": "Processes",
+                  "pages": [355,356]
+                },
+                {
+                  "title": "Resources",
+                  "pages": [357]
+                },
+                {
+                  "title": "File Systems",
+                  "pages": [358]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 18 A Secure Linux Box Is a Happy Linux Box",
+          "pages": [359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374],
+          "subsections": [
+            {
+              "title": "Choosing Secure Passwords",
+              "pages": [359]
+            },
+            {
+              "title": "Updating Software",
+              "pages": [360,361,362,363,364,365,366,367,368,369,370,371],
+              "subsections": [
+                {
+                  "title": "Network holes",
+                  "pages": [361,362,363,364,365]
+                },
+                {
+                  "title": "The secure shell game (SSH)",
+                  "pages": [366,367,368,369,370]
+                },
+                {
+                  "title": "Software holes",
+                  "pages": [371]
+                }
+              ]
+            },
+            {
+              "title": "Keeping an Eye on Your Log Files with the System Log Viewer",
+              "pages": [372,373]
+            },
+            {
+              "title": "Locating Security Resources",
+              "pages": [374]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 19 Automating Your World",
+          "pages": [375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396],
+          "subsections": [
+            {
+              "title": "The Basics of Shell Scripting",
+              "pages": [375,376,377,378,379,380],
+              "subsections": [
+                {
+                  "title": "Running multiple commands",
+                  "pages": [376]
+                },
+                {
+                  "title": "Redirecting output",
+                  "pages": [376]
+                },
+                {
+                  "title": "Piping data",
+                  "pages": [377]
+                },
+                {
+                  "title": "The shell script format",
+                  "pages": [378,379]
+                },
+                {
+                  "title": "Running the shell script",
+                  "pages": [380]
+                }
+              ]
+            },
+            {
+              "title": "Advanced Shell Scripting",
+              "pages": [381,382,383,384,385,386],
+              "subsections": [
+                {
+                  "title": "Displaying messages",
+                  "pages": [381]
+                },
+                {
+                  "title": "Using variables",
+                  "pages": [382,383,384]
+                },
+                {
+                  "title": "Command line arguments",
+                  "pages": [385]
+                },
+                {
+                  "title": "The exit status",
+                  "pages": [386]
+                }
+              ]
+            },
+            {
+              "title": "Writing Script Programs",
+              "pages": [387,388,389,390,391,392,393,394,395,396],
+              "subsections": [
+                {
+                  "title": "Command substitution",
+                  "pages": [387]
+                },
+                {
+                  "title": "Performing math",
+                  "pages": [388,389]
+                },
+                {
+                  "title": "Logic statements",
+                  "pages": [390,391,392,393]
+                },
+                {
+                  "title": "Loops",
+                  "pages": [394,395,396]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 20 The Virtual World",
+          "pages": [397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412],
+          "subsections": [
+            {
+              "title": "What Is Virtualization Software?",
+              "pages": [397]
+            },
+            {
+              "title": "Installing VirtualBox",
+              "pages": [398,399]
+            },
+            {
+              "title": "Creating a Virtual Machine",
+              "pages": [400,401,402]
+            },
+            {
+              "title": "Customizing a Virtual Machine",
+              "pages": [403,404,405,406,407,408],
+              "subsections": [
+                {
+                  "title": "Changing settings",
+                  "pages": [404,405]
+                },
+                {
+                  "title": "Installing an OS",
+                  "pages": [406,407,408]
+                }
+              ]
+            },
+            {
+              "title": "Working with the Virtual Machine",
+              "pages": [409,410,411,412],
+              "subsections": [
+                {
+                  "title": "The Machine menu area",
+                  "pages": [409]
+                },
+                {
+                  "title": "The View menu",
+                  "pages": [410]
+                },
+                {
+                  "title": "The Devices menu area",
+                  "pages": [411,412]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Part 5 The Part of Tens",
+      "pages": [413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448],
+      "subsections": [
+        {
+          "title": "Chapter 21 Ten Steps to Running a Web Server",
+          "pages": [415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436],
+          "subsections": [
+            {
+              "title": "The Required Parts",
+              "pages": [416]
+            },
+            {
+              "title": "Step 1: Select a Web Server",
+              "pages": [416]
+            },
+            {
+              "title": "Step 2: Select a Programming Language",
+              "pages": [417]
+            },
+            {
+              "title": "Step 3: Select a Database Server",
+              "pages": [418]
+            },
+            {
+              "title": "Step 4: Install the Servers",
+              "pages": [419,420,421,422],
+              "subsections": [
+                {
+                  "title": "Installing servers in Ubuntu",
+                  "pages": [420]
+                },
+                {
+                  "title": "Installing servers in openSUSE",
+                  "pages": [421,422]
+                }
+              ]
+            },
+            {
+              "title": "Step 5: Examine the Apache Server",
+              "pages": [423,424,425,426],
+              "subsections": [
+                {
+                  "title": "Defining the web folder location",
+                  "pages": [424]
+                },
+                {
+                  "title": "Setting the default TCP port",
+                  "pages": [424]
+                },
+                {
+                  "title": "Interacting with the PHP server",
+                  "pages": [425]
+                },
+                {
+                  "title": "Tracking errors",
+                  "pages": [426]
+                }
+              ]
+            },
+            {
+              "title": "Step 6: Examine the MySQL (or MariaDB) Server",
+              "pages": [427,428],
+              "subsections": [
+                {
+                  "title": "The core server settings",
+                  "pages": [427]
+                },
+                {
+                  "title": "Working with the InnoDB storage engine",
+                  "pages": [428]
+                }
+              ]
+            },
+            {
+              "title": "Step 7: Customize the PHP Server",
+              "pages": [429,430]
+            },
+            {
+              "title": "Step 8: Create the Database Environment",
+              "pages": [431,432,433]
+            },
+            {
+              "title": "Step 9: Build Your Application",
+              "pages": [434]
+            },
+            {
+              "title": "Step 10: Deploy and Test Your Application",
+              "pages": [435,436]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 22 Ten Troubleshooting Tips",
+          "pages": [437,438,439,440,441,442,443,444,445,446,447,448],
+          "subsections": [
+            {
+              "title": "Tip #1: “The Linux Installer Froze”",
+              "pages": [438]
+            },
+            {
+              "title": "Tip #2: Checking Your Distribution Burns",
+              "pages": [439]
+            },
+            {
+              "title": "Tip #3: “I Told the Installer to Test My Graphics, and They Failed”",
+              "pages": [440]
+            },
+            {
+              "title": "Tip #4: “The Installer Tested My Graphics Fine, but My GUI Won’t Start”",
+              "pages": [440]
+            },
+            {
+              "title": "Tip #5: “I Think I’m in Linux, but I Don’t Know What to Do!”",
+              "pages": [441]
+            },
+            {
+              "title": "Tip #6: “I Don’t Want to Boot into This!”",
+              "pages": [442]
+            },
+            {
+              "title": "Tip #7: Changing Your Boot Environment “Permanently”",
+              "pages": [443,444],
+              "subsections": [
+                {
+                  "title": "Changing your boot environment just for now",
+                  "pages": [445]
+                }
+              ]
+            },
+            {
+              "title": "Tip #8: “I Want to Change Screen Resolutions”",
+              "pages": [445]
+            },
+            {
+              "title": "Tip #9: “My GUI Is Hung, and I’m Stuck!”",
+              "pages": [446]
+            },
+            {
+              "title": "Tip #10: “Help, My Machine Hangs During Boot!”",
+              "pages": [447]
+            },
+            {
+              "title": "“Aaargh! I Forgot My Root Password! What Do I Do?”",
+              "pages": [447,448]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Appendix A Common Linux Commands",
+      "pages": [449,450,451,452,453,454,455,456,457,458]
+    },
+    {
+      "title": "Appendix B Linux Distributions",
+      "pages": [459,460,461,462,463,464]
+    },
+    {
+      "title": "Index",
+      "pages": [465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482]
+    },
+    {
+      "title": "EULA",
+      "pages": [483]
+    }
+  ]
+}

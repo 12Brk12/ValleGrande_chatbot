@@ -1,0 +1,1514 @@
+{
+  "document_title": "Mastering Linux Administration",
+  "author": "Alexandru Calcatinge, Julian Balog",
+  "reference_url": "https://drive.google.com/file/d/1rdtpjBGXV-ruqq93sJVC1jKLPybb89Xb/view?usp=drive_link",
+  "topic": "Linux",
+  "toc": [
+    {
+      "title": "Cover",
+      "pages": [1]
+    },
+    {
+      "title": "Title Page",
+      "pages": [2]
+    },
+    {
+      "title": "Copyright and Credits",
+      "pages": [3]
+    },
+    {
+      "title": "Dedications",
+      "pages": [4]
+    },
+    {
+      "title": "Contributors",
+      "pages": [5,6,7]
+    },
+    {
+      "title": "Table of Contents",
+      "pages": [8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+    },
+    {
+      "title": "Part 1: Basic Linux Administration",
+      "pages": [22,23]
+    },
+    {
+      "title": "Chapter 1: Installing Linux",
+      "pages": [24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [25]
+        },
+        {
+          "title": "Introducing the Linux operating system",
+          "pages": [25,26,27,28,29],
+          "subsections": [
+            {
+              "title": "Exploring Linux distributions",
+              "pages": [25,26]
+            },
+            {
+              "title": "Choosing a Linux distribution",
+              "pages": [27,28,29]
+            }
+          ]
+        },
+        {
+          "title": "Installing Linux – the basics",
+          "pages": [30,31,32,33,34,35,36,37,38,39,40,41],
+          "subsections": [
+            {
+              "title": "How to install Linux on bare metal",
+              "pages": [30,31,32,33]
+            },
+            {
+              "title": "Linux in a VM",
+              "pages": [34,35,36,37]
+            },
+            {
+              "title": "VM provisioning using Hyper-V",
+              "pages": [38,39,40]
+            },
+            {
+              "title": "VM provisioning using Oracle’s VirtualBox",
+              "pages": [41]
+            }
+          ]
+        },
+        {
+          "title": "Enabling Windows Subsystem for Linux",
+          "pages": [42,43,44]
+        },
+        {
+          "title": "Installing Linux – the advanced stages",
+          "pages": [45,46,47],
+          "subsections": [
+            {
+              "title": "The Linux boot process",
+              "pages": [45]
+            },
+            {
+              "title": "PXE network boot explained",
+              "pages": [46,47]
+            }
+          ]
+        },
+        {
+          "title": "Linux distributions – a practical guide",
+          "pages": [48,49,50],
+          "subsections": [
+            {
+              "title": "Case study – development workstation",
+              "pages": [48]
+            },
+            {
+              "title": "Case study – secure web server",
+              "pages": [49]
+            },
+            {
+              "title": "Use case – personal blog",
+              "pages": [49]
+            },
+            {
+              "title": "Use case – media server",
+              "pages": [50]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [51]
+        },
+        {
+          "title": "Questions",
+          "pages": [51]
+        },
+        {
+          "title": "Further reading",
+          "pages": [51]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: The Linux Shell and Filesystem",
+      "pages": [52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [52]
+        },
+        {
+          "title": "Introducing the Linux shell",
+          "pages": [53,54,55,56,57,58,59],
+          "subsections": [
+            {
+              "title": "Establishing the shell connection",
+              "pages": [55,56]
+            },
+            {
+              "title": "The command-line prompt",
+              "pages": [57]
+            },
+            {
+              "title": "Shell command types",
+              "pages": [58]
+            },
+            {
+              "title": "Explaining the command structure",
+              "pages": [58,59]
+            },
+            {
+              "title": "Consulting the manual",
+              "pages": [60]
+            }
+          ]
+        },
+        {
+          "title": "The Linux filesystem",
+          "pages": [60,61,62,63],
+          "subsections": [
+            {
+              "title": "Directory structure",
+              "pages": [61,62,63]
+            }
+          ]
+        },
+        {
+          "title": "Working with files and directories",
+          "pages": [64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89],
+          "subsections": [
+            {
+              "title": "Understanding file paths",
+              "pages": [64,65]
+            },
+            {
+              "title": "Basic file operations",
+              "pages": [66,67,68,69,70,71,72,73,74]
+            },
+            {
+              "title": "Commands for file viewing",
+              "pages": [75,76,77]
+            },
+            {
+              "title": "Commands for file properties",
+              "pages": [78,79,80,81,82,83,84,85,86,87,88,89]
+            }
+          ]
+        },
+        {
+          "title": "Using text editors to create and edit files",
+          "pages": [90,91,92],
+          "subsections": [
+            {
+              "title": "Using Vim to edit text files",
+              "pages": [90,91]
+            },
+            {
+              "title": "The nano text editor",
+              "pages": [92]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [93]
+        },
+        {
+          "title": "Questions",
+          "pages": [93]
+        },
+        {
+          "title": "Further reading",
+          "pages": [94,95]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Linux Software Management",
+      "pages": [96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [96]
+        },
+        {
+          "title": "Linux software package types",
+          "pages": [96,97,98,99,100,101,102],
+          "subsections": [
+            {
+              "title": "The DEB and RPM package types",
+              "pages": [97,98,99,100]
+            },
+            {
+              "title": "The snap and flatpak package types",
+              "pages": [101,102]
+            }
+          ]
+        },
+        {
+          "title": "Managing software packages",
+          "pages": [103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124],
+          "subsections": [
+            {
+              "title": "Managing DEB packages",
+              "pages": [103,104,105,106,107,108,109]
+            },
+            {
+              "title": "Managing RPM packages",
+              "pages": [110,111,112,113,114,115,116,117,118]
+            },
+            {
+              "title": "Using the snap and flatpak packages",
+              "pages": [119,120,121,122,123,124]
+            }
+          ]
+        },
+        {
+          "title": "Installing new desktop environments in Linux",
+          "pages": [125,126,127],
+          "subsections": [
+            {
+              "title": "Installing KDE Plasma on Fedora Linux",
+              "pages": [126,127]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [128]
+        },
+        {
+          "title": "Questions",
+          "pages": [129]
+        },
+        {
+          "title": "Further reading",
+          "pages": [129]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Managing Users and Groups",
+      "pages": [130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [130]
+        },
+        {
+          "title": "Managing users",
+          "pages": [131,132,133,134,135,136,137,138,139,140,141,142],
+          "subsections": [
+            {
+              "title": "Understanding sudo",
+              "pages": [131]
+            },
+            {
+              "title": "Creating, modifying, and deleting users",
+              "pages": [132,133,134,135,136,137,138,139,140,141,142]
+            }
+          ]
+        },
+        {
+          "title": "Managing groups",
+          "pages": [143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160],
+          "subsections": [
+            {
+              "title": "Creating, modifying, and deleting groups",
+              "pages": [144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160]
+            }
+          ]
+        },
+        {
+          "title": "Managing permissions",
+          "pages": [161,162,163,164,165,166,167,168,169,170,171,172,173],
+          "subsections": [
+            {
+              "title": "File and directory permissions",
+              "pages": [161,162,163,164,165,166,167,168,169,170,171,172,173]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [174]
+        },
+        {
+          "title": "Questions",
+          "pages": [175]
+        },
+        {
+          "title": "Further reading",
+          "pages": [175]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Working with Processes, Daemons, and Signals",
+      "pages": [176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [177]
+        },
+        {
+          "title": "Introducing processes",
+          "pages": [177,178,179,180,181,182,183,184,185,186,187],
+          "subsections": [
+            {
+              "title": "Understanding process types",
+              "pages": [177,178,179,180,181,182]
+            },
+            {
+              "title": "The anatomy of a process",
+              "pages": [183,184,185,186,187]
+            }
+          ]
+        },
+        {
+          "title": "Working with processes",
+          "pages": [188,189,190,191,192,193,194,195,196,197],
+          "subsections": [
+            {
+              "title": "Using the ps command",
+              "pages": [188,189,190]
+            },
+            {
+              "title": "Using the pstree command",
+              "pages": [191]
+            },
+            {
+              "title": "Using the top command",
+              "pages": [192,193]
+            },
+            {
+              "title": "Using the kill and killall commands",
+              "pages": [194,195]
+            },
+            {
+              "title": "Using the pgrep and pkill commands",
+              "pages": [196,197]
+            }
+          ]
+        },
+        {
+          "title": "Working with daemons",
+          "pages": [198],
+          "subsections": [
+            {
+              "title": "Working with systemd daemons",
+              "pages": [198]
+            }
+          ]
+        },
+        {
+          "title": "Explaining inter-process communication",
+          "pages": [199,200,201,202,203],
+          "subsections": [
+            {
+              "title": "Working with signals",
+              "pages": [202,203]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [204]
+        },
+        {
+          "title": "Questions",
+          "pages": [204]
+        },
+        {
+          "title": "Further reading",
+          "pages": [205]
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Advanced Linux Administration",
+      "pages": [206,207]
+    },
+    {
+      "title": "Chapter 6: Working with Disks and Filesystems",
+      "pages": [208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [208]
+        },
+        {
+          "title": "Understanding devices in Linux",
+          "pages": [208,209,210,211,212],
+          "subsections": [
+            {
+              "title": "Linux abstraction layers",
+              "pages": [209]
+            },
+            {
+              "title": "Device files and naming conventions",
+              "pages": [210,211,212]
+            }
+          ]
+        },
+        {
+          "title": "Understanding filesystem types in Linux",
+          "pages": [213,214,215]
+        },
+        {
+          "title": "Understanding disks and partitions",
+          "pages": [216,217,218,219,220,221,222,223,224,225,226,227,228],
+          "subsections": [
+            {
+              "title": "Common disk types",
+              "pages": [216,217]
+            },
+            {
+              "title": "Partitioning disks",
+              "pages": [218,219,220,221,222,223,224,225,226,227,228]
+            }
+          ]
+        },
+        {
+          "title": "Introducing LVM in Linux",
+          "pages": [229,230,231,232,233],
+          "subsections": [
+            {
+              "title": "LVM snapshots",
+              "pages": [232,233]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [234]
+        },
+        {
+          "title": "Questions",
+          "pages": [235]
+        },
+        {
+          "title": "Further reading",
+          "pages": [235]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7: Networking with Linux",
+      "pages": [236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [236]
+        },
+        {
+          "title": "Exploring basic networking",
+          "pages": [237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263],
+          "subsections": [
+            {
+              "title": "Computer networks",
+              "pages": [237]
+            },
+            {
+              "title": "The OSI model",
+              "pages": [238,239,240,241,242]
+            },
+            {
+              "title": "The TCP/IP network stack model",
+              "pages": [243]
+            },
+            {
+              "title": "TCP/IP protocols",
+              "pages": [244,245,246]
+            },
+            {
+              "title": "IP addresses",
+              "pages": [247,248,249,250]
+            },
+            {
+              "title": "Sockets and ports",
+              "pages": [251]
+            },
+            {
+              "title": "Linux network configuration",
+              "pages": [252,253,254,255,256,257,258,259,260,261,262,263]
+            }
+          ]
+        },
+        {
+          "title": "Working with network services",
+          "pages": [264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282],
+          "subsections": [
+            {
+              "title": "DHCP servers",
+              "pages": [264]
+            },
+            {
+              "title": "DNS servers",
+              "pages": [265,266,267,268]
+            },
+            {
+              "title": "Authentication servers",
+              "pages": [269,270]
+            },
+            {
+              "title": "File sharing",
+              "pages": [271]
+            },
+            {
+              "title": "Printer servers",
+              "pages": [272]
+            },
+            {
+              "title": "File transfer",
+              "pages": [273]
+            },
+            {
+              "title": "Mail servers",
+              "pages": [273,274,275]
+            },
+            {
+              "title": "NTP servers",
+              "pages": [276,277,278]
+            },
+            {
+              "title": "Remote access",
+              "pages": [279,280,281,282]
+            }
+          ]
+        },
+        {
+          "title": "Understanding network security",
+          "pages": [283]
+        },
+        {
+          "title": "Summary",
+          "pages": [283]
+        },
+        {
+          "title": "Questions",
+          "pages": [284]
+        },
+        {
+          "title": "Further reading",
+          "pages": [284,285]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8: Linux Shell Scripting",
+      "pages": [286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [286]
+        },
+        {
+          "title": "Exploring the Linux shell",
+          "pages": [287,288,289,290,291,292],
+          "subsections": [
+            {
+              "title": "Bash shell features",
+              "pages": [287,288,289,290]
+            },
+            {
+              "title": "Bash shell variables",
+              "pages": [291,292]
+            }
+          ]
+        },
+        {
+          "title": "Basics of shell scripting",
+          "pages": [293,294,295,296,297,298,299],
+          "subsections": [
+            {
+              "title": "Creating a shell script file",
+              "pages": [294,295]
+            },
+            {
+              "title": "Variables in shell scripts",
+              "pages": [296,297]
+            },
+            {
+              "title": "Using mathematical expressions in shell scripts",
+              "pages": [298,299]
+            }
+          ]
+        },
+        {
+          "title": "Using programming structures",
+          "pages": [300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326],
+          "subsections": [
+            {
+              "title": "Using arrays in Bash",
+              "pages": [300,301]
+            },
+            {
+              "title": "Reading input data",
+              "pages": [302]
+            },
+            {
+              "title": "Formatting output data",
+              "pages": [303,304,305]
+            },
+            {
+              "title": "Understanding exit statuses and testing structures",
+              "pages": [306,307]
+            },
+            {
+              "title": "Using conditional if statements",
+              "pages": [308,309,310]
+            },
+            {
+              "title": "Using looping statements",
+              "pages": [311,312,313,314,315,316,317,318]
+            },
+            {
+              "title": "Working with functions",
+              "pages": [319,320,321,322]
+            },
+            {
+              "title": "Using sed and (g)awk commands",
+              "pages": [323,324,325,326]
+            }
+          ]
+        },
+        {
+          "title": "Using scripts to showcase interprocess communication",
+          "pages": [327,328,329,330,331,332],
+          "subsections": [
+            {
+              "title": "Shared storage",
+              "pages": [327]
+            },
+            {
+              "title": "Unnamed pipes",
+              "pages": [328,329]
+            },
+            {
+              "title": "Named pipes",
+              "pages": [330]
+            },
+            {
+              "title": "Sockets",
+              "pages": [331,332]
+            }
+          ]
+        },
+        {
+          "title": "Scripting for administrative tasks",
+          "pages": [333,334,335,336,337,338,339,340,341],
+          "subsections": [
+            {
+              "title": "Creating scripts for system administrative tasks",
+              "pages": [334,335,336,337]
+            },
+            {
+              "title": "Packaging scripts",
+              "pages": [338,339,340,341]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [342]
+        },
+        {
+          "title": "Questions",
+          "pages": [342]
+        },
+        {
+          "title": "Further reading",
+          "pages": [343]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9: Securing Linux",
+      "pages": [344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [345]
+        },
+        {
+          "title": "Understanding Linux security",
+          "pages": [345]
+        },
+        {
+          "title": "Introducing SELinux",
+          "pages": [346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366],
+          "subsections": [
+            {
+              "title": "Working with SELinux",
+              "pages": [346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366]
+            }
+          ]
+        },
+        {
+          "title": "Introducing AppArmor",
+          "pages": [367,368,369,370,371,372,373,374,375],
+          "subsections": [
+            {
+              "title": "Working with AppArmor",
+              "pages": [367,368,369,370,371,372,373,374,375]
+            },
+            {
+              "title": "Final considerations",
+              "pages": [376]
+            }
+          ]
+        },
+        {
+          "title": "Working with firewalls",
+          "pages": [376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401],
+          "subsections": [
+            {
+              "title": "Understanding the firewall chain",
+              "pages": [378,379]
+            },
+            {
+              "title": "Introducing Netfilter",
+              "pages": [380]
+            },
+            {
+              "title": "Working with iptables",
+              "pages": [381,382,383,384,385,386]
+            },
+            {
+              "title": "Introducing nftables",
+              "pages": [387,388,389,390,391]
+            },
+            {
+              "title": "Using firewall managers",
+              "pages": [392,393,394,395,396,397,398,399,400,401]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [402]
+        },
+        {
+          "title": "Exercises",
+          "pages": [403]
+        },
+        {
+          "title": "Further reading",
+          "pages": [403]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10: Disaster Recovery, Diagnostics, and Troubleshooting",
+      "pages": [404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [404]
+        },
+        {
+          "title": "Planning for disaster recovery",
+          "pages": [405,406,407,408],
+          "subsections": [
+            {
+              "title": "A brief introduction to risk management",
+              "pages": [405,406]
+            },
+            {
+              "title": "Risk calculation",
+              "pages": [407]
+            },
+            {
+              "title": "Designing a DRP",
+              "pages": [408]
+            }
+          ]
+        },
+        {
+          "title": "Backing up and restoring the system",
+          "pages": [409,410,411,412,413,414,415],
+          "subsections": [
+            {
+              "title": "Disk cloning solutions",
+              "pages": [410,411,412,413,414,415]
+            }
+          ]
+        },
+        {
+          "title": "Introducing common Linux diagnostic tools for troubleshooting",
+          "pages": [416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433],
+          "subsections": [
+            {
+              "title": "Tools for troubleshooting boot issues",
+              "pages": [416,417]
+            },
+            {
+              "title": "Tools for troubleshooting general system issues",
+              "pages": [418,419,420,421,422,423,424,425,426]
+            },
+            {
+              "title": "Tools for troubleshooting network issues",
+              "pages": [427,428,429,430,431,432]
+            },
+            {
+              "title": "Tools for troubleshooting hardware issues",
+              "pages": [433]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [434]
+        },
+        {
+          "title": "Questions",
+          "pages": [435]
+        },
+        {
+          "title": "Further reading",
+          "pages": [435]
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Server Administration",
+      "pages": [436,437]
+    },
+    {
+      "title": "Chapter 11: Working with Virtual Machines",
+      "pages": [438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [438]
+        },
+        {
+          "title": "Introduction to virtualization on Linux",
+          "pages": [438,439,440],
+          "subsections": [
+            {
+              "title": "Efficiency in resource usage",
+              "pages": [439]
+            },
+            {
+              "title": "Introduction to hypervisors",
+              "pages": [440]
+            }
+          ]
+        },
+        {
+          "title": "Understanding Linux KVMs",
+          "pages": [441,442,443,444],
+          "subsections": [
+            {
+              "title": "Choosing the hypervisor",
+              "pages": [441]
+            },
+            {
+              "title": "Using the KVM hypervisor",
+              "pages": [442,443,444]
+            }
+          ]
+        },
+        {
+          "title": "Working with basic KVM commands",
+          "pages": [445,446,447],
+          "subsections": [
+            {
+              "title": "Creating a VM using the command line",
+              "pages": [445,446]
+            },
+            {
+              "title": "Basic VM management",
+              "pages": [447]
+            }
+          ]
+        },
+        {
+          "title": "Advanced KVM management",
+          "pages": [448,449,450,451,452,453,454,455,456],
+          "subsections": [
+            {
+              "title": "Connecting to a VM",
+              "pages": [449,450,451]
+            },
+            {
+              "title": "Cloning VMs",
+              "pages": [452]
+            },
+            {
+              "title": "Creating VM templates",
+              "pages": [453]
+            },
+            {
+              "title": "Obtaining VM and host resource information",
+              "pages": [454,455]
+            },
+            {
+              "title": "Managing VM resource usage",
+              "pages": [456]
+            }
+          ]
+        },
+        {
+          "title": "Provisioning VMs using cloud-init",
+          "pages": [457,458,459,460],
+          "subsections": [
+            {
+              "title": "Understanding how cloud-init works",
+              "pages": [457]
+            },
+            {
+              "title": "Installing and configuring cloud-init",
+              "pages": [458,459,460]
+            }
+          ]
+        },
+        {
+          "title": "Public key authentication with SSH",
+          "pages": [461,462]
+        },
+        {
+          "title": "Summary",
+          "pages": [463]
+        },
+        {
+          "title": "Exercises",
+          "pages": [463]
+        },
+        {
+          "title": "Further reading",
+          "pages": [464,465]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12: Managing Containers with Docker",
+      "pages": [466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [466]
+        },
+        {
+          "title": "Understanding Linux containers",
+          "pages": [466,467,468,469,470,471,472],
+          "subsections": [
+            {
+              "title": "Comparing containers and VMs",
+              "pages": [467]
+            },
+            {
+              "title": "Understanding the underlying container technology",
+              "pages": [468,469]
+            },
+            {
+              "title": "Understanding Docker",
+              "pages": [470,471,472]
+            }
+          ]
+        },
+        {
+          "title": "Working with Docker",
+          "pages": [473,474,475,476,477,478,479,480,481,482,483],
+          "subsections": [
+            {
+              "title": "Which Docker version to choose?",
+              "pages": [473]
+            },
+            {
+              "title": "Installing Docker",
+              "pages": [473,474,475]
+            },
+            {
+              "title": "Using some Docker commands",
+              "pages": [476,477]
+            },
+            {
+              "title": "Managing Docker containers",
+              "pages": [478,479,480,481,482,483]
+            }
+          ]
+        },
+        {
+          "title": "Working with Dockerfiles",
+          "pages": [484,485,486],
+          "subsections": [
+            {
+              "title": "Building container images from Dockerfiles",
+              "pages": [485,486]
+            }
+          ]
+        },
+        {
+          "title": "Deploying a containerized application with Docker",
+          "pages": [487,488,489],
+          "subsections": [
+            {
+              "title": "Deploying a website using Docker",
+              "pages": [487,488,489]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [490]
+        },
+        {
+          "title": "Questions",
+          "pages": [490]
+        },
+        {
+          "title": "Further reading",
+          "pages": [490,491]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13: Configuring Linux Servers",
+      "pages": [492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [492]
+        },
+        {
+          "title": "Introducing Linux services",
+          "pages": [493,494]
+        },
+        {
+          "title": "Setting up SSH",
+          "pages": [495],
+          "subsections": [
+            {
+              "title": "Installing and configuring OpenSSH on Ubuntu",
+              "pages": [495]
+            }
+          ]
+        },
+        {
+          "title": "Setting up a DNS server",
+          "pages": [496,497,498,499,500,501,502,503,504],
+          "subsections": [
+            {
+              "title": "Caching a DNS service",
+              "pages": [497,498]
+            },
+            {
+              "title": "Creating a primary DNS server",
+              "pages": [499,500,501]
+            },
+            {
+              "title": "Setting up a secondary DNS server",
+              "pages": [502,503,504]
+            }
+          ]
+        },
+        {
+          "title": "Setting up a DHCP server",
+          "pages": [505,506]
+        },
+        {
+          "title": "Setting up an NFS server",
+          "pages": [507,508,509,510],
+          "subsections": [
+            {
+              "title": "Installing and configuring the NFS server",
+              "pages": [507,508,509]
+            },
+            {
+              "title": "Configuring the NFS client",
+              "pages": [510]
+            },
+            {
+              "title": "Testing the NFS setup",
+              "pages": [511]
+            }
+          ]
+        },
+        {
+          "title": "Setting up a Samba file server",
+          "pages": [511,512,513,514,515,516],
+          "subsections": [
+            {
+              "title": "Installing and configuring Samba",
+              "pages": [512,513,514]
+            },
+            {
+              "title": "Creating Samba users",
+              "pages": [515]
+            },
+            {
+              "title": "Accessing the Samba shares",
+              "pages": [516]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [517]
+        },
+        {
+          "title": "Questions",
+          "pages": [518]
+        },
+        {
+          "title": "Further reading",
+          "pages": [518,519]
+        }
+      ]
+    },
+    {
+      "title": "Part 4: Cloud Administration",
+      "pages": [520,521]
+    },
+    {
+      "title": "Chapter 14: Short Introduction to Cloud Computing",
+      "pages": [522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [522]
+        },
+        {
+          "title": "Introduction to cloud technologies",
+          "pages": [523,524,525,526,527,528,529],
+          "subsections": [
+            {
+              "title": "Exploring the cloud computing standards",
+              "pages": [523,524,525,526]
+            },
+            {
+              "title": "Understanding the architecture of the cloud",
+              "pages": [527,528]
+            },
+            {
+              "title": "Knowing the key features of cloud computing",
+              "pages": [529]
+            }
+          ]
+        },
+        {
+          "title": "Introducing IaaS solutions",
+          "pages": [530,531],
+          "subsections": [
+            {
+              "title": "Amazon EC2",
+              "pages": [530]
+            },
+            {
+              "title": "Microsoft Azure Virtual Machines",
+              "pages": [531]
+            },
+            {
+              "title": "Other strong IaaS offerings",
+              "pages": [531]
+            }
+          ]
+        },
+        {
+          "title": "Introducing PaaS solutions",
+          "pages": [532,533],
+          "subsections": [
+            {
+              "title": "Amazon Elastic Beanstalk",
+              "pages": [532]
+            },
+            {
+              "title": "Google App Engine",
+              "pages": [533]
+            },
+            {
+              "title": "DigitalOcean App Platform",
+              "pages": [533]
+            },
+            {
+              "title": "Open source PaaS solutions",
+              "pages": [533]
+            }
+          ]
+        },
+        {
+          "title": "Introducing CaaS solutions",
+          "pages": [534,535,536],
+          "subsections": [
+            {
+              "title": "Introducing the Kubernetes container orchestration solution",
+              "pages": [534,535]
+            },
+            {
+              "title": "Deploying containers in the cloud",
+              "pages": [536]
+            },
+            {
+              "title": "Introducing microservices",
+              "pages": [537]
+            }
+          ]
+        },
+        {
+          "title": "Introducing DevOps",
+          "pages": [537]
+        },
+        {
+          "title": "Exploring cloud management tools",
+          "pages": [538,539],
+          "subsections": [
+            {
+              "title": "Ansible",
+              "pages": [538]
+            },
+            {
+              "title": "Puppet",
+              "pages": [539]
+            },
+            {
+              "title": "Chef Infra",
+              "pages": [539]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [540]
+        },
+        {
+          "title": "Further reading",
+          "pages": [540,541]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15: Deploying to the Cloud with AWS and Azure",
+      "pages": [542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [543]
+        },
+        {
+          "title": "Working with AWS EC2",
+          "pages": [544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576],
+          "subsections": [
+            {
+              "title": "Introducing and creating AWS EC2 instances",
+              "pages": [544,545,546,547,548,549,550,551,552,553,554,555,556]
+            },
+            {
+              "title": "Introducing AWS EC2 placement groups",
+              "pages": [557,558]
+            },
+            {
+              "title": "Using AWS EC2 instances",
+              "pages": [559,560,561,562,563,564,565,566,567,568]
+            },
+            {
+              "title": "Working with the AWS CLI",
+              "pages": [569,570,571,572,573,574,575,576]
+            }
+          ]
+        },
+        {
+          "title": "Working with Microsoft Azure",
+          "pages": [577,578,579,580,581,582,583,584,585,586,587,588,589,590],
+          "subsections": [
+            {
+              "title": "Creating and deploying a virtual machine",
+              "pages": [577,578,579,580,581,582]
+            },
+            {
+              "title": "Connecting with SSH to a virtual machine",
+              "pages": [583]
+            },
+            {
+              "title": "Managing virtual machines",
+              "pages": [584,585,586,587]
+            },
+            {
+              "title": "Working with the Azure CLI",
+              "pages": [588,589,590]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [591]
+        },
+        {
+          "title": "Questions",
+          "pages": [592]
+        },
+        {
+          "title": "Further reading",
+          "pages": [592,593]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16: Deploying Applications with Kubernetes",
+      "pages": [594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650,651,652,653],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [594]
+        },
+        {
+          "title": "Introducing Kubernetes",
+          "pages": [595,596,597,598,599,600,601],
+          "subsections": [
+            {
+              "title": "Understanding the Kubernetes architecture",
+              "pages": [596]
+            },
+            {
+              "title": "Introducing the Kubernetes object model",
+              "pages": [596,597,598]
+            },
+            {
+              "title": "The anatomy of a Kubernetes cluster",
+              "pages": [599,600,601]
+            }
+          ]
+        },
+        {
+          "title": "Installing and configuring Kubernetes",
+          "pages": [602,603,604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621],
+          "subsections": [
+            {
+              "title": "Installing Kubernetes on a desktop",
+              "pages": [602,603]
+            },
+            {
+              "title": "Installing Kubernetes on VMs",
+              "pages": [604,605,606,607,608,609,610,611,612,613,614,615,616,617,618,619,620,621]
+            }
+          ]
+        },
+        {
+          "title": "Working with Kubernetes",
+          "pages": [622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649,650],
+          "subsections": [
+            {
+              "title": "Using kubectl",
+              "pages": [622,623,624,625,626,627,628,629]
+            },
+            {
+              "title": "Deploying applications",
+              "pages": [630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,647,648,649]
+            },
+            {
+              "title": "Running Kubernetes in the cloud",
+              "pages": [650]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [651]
+        },
+        {
+          "title": "Questions",
+          "pages": [651]
+        },
+        {
+          "title": "Further reading",
+          "pages": [652,653]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17: Infrastructure and Automation with Ansible",
+      "pages": [654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [654]
+        },
+        {
+          "title": "Introducing Ansible architecture and configuration management",
+          "pages": [655,656,657,658],
+          "subsections": [
+            {
+              "title": "Understanding the Ansible architecture",
+              "pages": [655,656,657]
+            },
+            {
+              "title": "Introducing configuration management",
+              "pages": [658]
+            }
+          ]
+        },
+        {
+          "title": "Installing Ansible",
+          "pages": [659,660,661],
+          "subsections": [
+            {
+              "title": "Installing Ansible on Ubuntu",
+              "pages": [660]
+            },
+            {
+              "title": "Installing Ansible using pip",
+              "pages": [661]
+            }
+          ]
+        },
+        {
+          "title": "Working with Ansible",
+          "pages": [662,663,664,665,666,667,668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723,724,725,726,727,728],
+          "subsections": [
+            {
+              "title": "Setting up the lab environment",
+              "pages": [662,663,664]
+            },
+            {
+              "title": "Configuring Ansible",
+              "pages": [665,666,667,668,669]
+            },
+            {
+              "title": "Using Ansible ad hoc commands",
+              "pages": [670,671,672,673,674,675,676,677,678,679,680]
+            },
+            {
+              "title": "Exploring Ansible modules",
+              "pages": [681,682]
+            },
+            {
+              "title": "Using Ansible playbooks",
+              "pages": [683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714]
+            },
+            {
+              "title": "Using templates with Jinja2",
+              "pages": [715,716,717,718,719,720,721,722]
+            },
+            {
+              "title": "Creating Ansible roles",
+              "pages": [723,724,725,726,727,728]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [729]
+        },
+        {
+          "title": "Questions",
+          "pages": [730]
+        },
+        {
+          "title": "Further reading",
+          "pages": [730,731]
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "pages": [732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760]
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "pages": [761,762,763,764]
+    }
+  ]
+}

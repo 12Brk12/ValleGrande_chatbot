@@ -1,0 +1,2324 @@
+{
+  "document_title": "Kali Linux Penetration Testing Bible",
+  "author": "Gus Khawaja",
+  "reference_url": "https://drive.google.com/file/d/1iSw_UYFU476_n0Evyx2YXYNDI7l-H0jl/view?usp=drive_link",
+  "topic": "Linux",
+  "toc": [
+    {
+      "title": "Cover",
+      "pages": [1,2]
+    },
+    {
+      "title": "Title Page",
+      "pages": [3]
+    },
+    {
+      "title": "Copyright Page",
+      "pages": [4]
+    },
+    {
+      "title": "About the Author",
+      "pages": [5]
+    },
+    {
+      "title": "About the Technical Editor",
+      "pages": [6]
+    },
+    {
+      "title": "Acknowledgments",
+      "pages": [7]
+    },
+    {
+      "title": "Contents at a Glance",
+      "pages": [8,9]
+    },
+    {
+      "title": "Contents",
+      "pages": [10,11,12,13,14,15,16,17,18,19,20,21]
+    },
+    {
+      "title": "Introduction",
+      "pages": [22,23,24,25,26],
+      "subsections": [
+        {
+          "title": "What Does This Book Cover?",
+          "pages": [23,24,25]
+        },
+        {
+          "title": "Companion Download Files",
+          "pages": [26]
+        },
+        {
+          "title": "How to Contact the Publisher",
+          "pages": [26]
+        },
+        {
+          "title": "How to Contact the Author",
+          "pages": [26]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 1 Mastering the Terminal Window",
+      "pages": [27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74],
+      "subsections": [
+        {
+          "title": "Kali Linux File System",
+          "pages": [28,29,30,31,32,33,34,35],
+          "subsections": [
+            {
+              "title": "Terminal Window Basic Commands",
+              "pages": [29,30,31]
+            },
+            {
+              "title": "Tmux Terminal Window",
+              "pages": [32,33,34,35],
+              "subsections": [
+                {
+                  "title": "Starting Tmux",
+                  "pages": [32]
+                },
+                {
+                  "title": "Tmux Key Bindings",
+                  "pages": [33]
+                },
+                {
+                  "title": "Tmux Session Management",
+                  "pages": [33,34]
+                },
+                {
+                  "title": "Navigating Inside Tmux",
+                  "pages": [35]
+                },
+                {
+                  "title": "Tmux Commands Reference",
+                  "pages": [35]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Managing Users and Groups in Kali",
+          "pages": [36,37,38,39,40],
+          "subsections": [
+            {
+              "title": "Users Commands",
+              "pages": [36,37,38,39]
+            },
+            {
+              "title": "Groups Commands",
+              "pages": [40]
+            },
+            {
+              "title": "Managing Passwords in Kali",
+              "pages": [40]
+            }
+          ]
+        },
+        {
+          "title": "Files and Folders Management in Kali Linux",
+          "pages": [41,42,43,44,45,46,47,48,49,50,51,52,53,54],
+          "subsections": [
+            {
+              "title": "Displaying Files and Folders",
+              "pages": [41]
+            },
+            {
+              "title": "Permissions",
+              "pages": [42,43,44]
+            },
+            {
+              "title": "Manipulating Files in Kali",
+              "pages": [45]
+            },
+            {
+              "title": "Searching for Files",
+              "pages": [46]
+            },
+            {
+              "title": "Files Compression",
+              "pages": [47,48]
+            },
+            {
+              "title": "Manipulating Directories in Kali",
+              "pages": [49]
+            },
+            {
+              "title": "Mounting a Directory",
+              "pages": [49]
+            },
+            {
+              "title": "Managing Text Files in Kali Linux",
+              "pages": [50,51]
+            },
+            {
+              "title": "Vim vs. Nano",
+              "pages": [52]
+            },
+            {
+              "title": "Searching and Filtering Text",
+              "pages": [53,54]
+            }
+          ]
+        },
+        {
+          "title": "Remote Connections in Kali",
+          "pages": [55,56,57,58,59],
+          "subsections": [
+            {
+              "title": "Remote Desktop Protocol",
+              "pages": [55]
+            },
+            {
+              "title": "Secure Shell",
+              "pages": [56]
+            },
+            {
+              "title": "SSH with Credentials",
+              "pages": [56,57]
+            },
+            {
+              "title": "Passwordless SSH",
+              "pages": [58,59]
+            }
+          ]
+        },
+        {
+          "title": "Kali Linux System Management",
+          "pages": [60,61,62,63,64,65,66,67],
+          "subsections": [
+            {
+              "title": "Linux Host Information",
+              "pages": [62]
+            },
+            {
+              "title": "Linux OS Information",
+              "pages": [62]
+            },
+            {
+              "title": "Linux Hardware Information",
+              "pages": [62,63]
+            },
+            {
+              "title": "Managing Running Services",
+              "pages": [64]
+            },
+            {
+              "title": "Package Management",
+              "pages": [65,66]
+            },
+            {
+              "title": "Process Management",
+              "pages": [67]
+            }
+          ]
+        },
+        {
+          "title": "Networking in Kali Linux",
+          "pages": [68,69,70,71,72,73],
+          "subsections": [
+            {
+              "title": "Network Interface",
+              "pages": [68,69,70],
+              "subsections": [
+                {
+                  "title": "IPv4 Private Address Ranges",
+                  "pages": [68]
+                },
+                {
+                  "title": "Static IP Addressing",
+                  "pages": [69,70]
+                }
+              ]
+            },
+            {
+              "title": "DNS",
+              "pages": [71]
+            },
+            {
+              "title": "Established Connections",
+              "pages": [72]
+            },
+            {
+              "title": "File Transfers",
+              "pages": [73]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [74]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2 Bash Scripting",
+      "pages": [75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90],
+      "subsections": [
+        {
+          "title": "Basic Bash Scripting",
+          "pages": [76]
+        },
+        {
+          "title": "Printing to the Screen in Bash",
+          "pages": [76,77]
+        },
+        {
+          "title": "Variables",
+          "pages": [78,79],
+          "subsections": [
+            {
+              "title": "Commands Variable",
+              "pages": [80]
+            }
+          ]
+        },
+        {
+          "title": "Script Parameters",
+          "pages": [80,81]
+        },
+        {
+          "title": "User Input",
+          "pages": [82]
+        },
+        {
+          "title": "Functions",
+          "pages": [82]
+        },
+        {
+          "title": "Conditions and Loops",
+          "pages": [83,84,85,86,87,88],
+          "subsections": [
+            {
+              "title": "Conditions",
+              "pages": [84,85]
+            },
+            {
+              "title": "Loops",
+              "pages": [86,87,88],
+              "subsections": [
+                {
+                  "title": "File Iteration",
+                  "pages": [87,88]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [89,90]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3 Network Hosts Scanning",
+      "pages": [91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114],
+      "subsections": [
+        {
+          "title": "Basics of Networking",
+          "pages": [91,92,93,94,95,96,97],
+          "subsections": [
+            {
+              "title": "Networking Protocols",
+              "pages": [92,93,94],
+              "subsections": [
+                {
+                  "title": "TCP",
+                  "pages": [92]
+                },
+                {
+                  "title": "UDP",
+                  "pages": [93]
+                },
+                {
+                  "title": "Other Networking Protocols",
+                  "pages": [93,94]
+                }
+              ]
+            },
+            {
+              "title": "IP Addressing",
+              "pages": [95,96,97],
+              "subsections": [
+                {
+                  "title": "IPv4",
+                  "pages": [95]
+                },
+                {
+                  "title": "Subnets and CIDR",
+                  "pages": [95]
+                },
+                {
+                  "title": "IPv6",
+                  "pages": [96]
+                },
+                {
+                  "title": "Port Numbers",
+                  "pages": [97]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Network Scanning",
+          "pages": [98,99,100,101,102,103,104,105,106,107,108,109],
+          "subsections": [
+            {
+              "title": "Identifying Live Hosts",
+              "pages": [98,99],
+              "subsections": [
+                {
+                  "title": "Ping",
+                  "pages": [99]
+                },
+                {
+                  "title": "ARP",
+                  "pages": [99]
+                },
+                {
+                  "title": "Nmap",
+                  "pages": [99]
+                }
+              ]
+            },
+            {
+              "title": "Port Scanning and Services Enumeration",
+              "pages": [100,101],
+              "subsections": [
+                {
+                  "title": "TCP Port SYN Scan",
+                  "pages": [101]
+                },
+                {
+                  "title": "UDP",
+                  "pages": [101]
+                }
+              ]
+            },
+            {
+              "title": "Basics of Using Nmap Scans",
+              "pages": [102]
+            },
+            {
+              "title": "Services Enumeration",
+              "pages": [103,104]
+            },
+            {
+              "title": "Operating System Fingerprinting",
+              "pages": [105]
+            },
+            {
+              "title": "Nmap Scripting Engine",
+              "pages": [106,107,108,109],
+              "subsections": [
+                {
+                  "title": "NSE Category Scan",
+                  "pages": [108,109]
+                },
+                {
+                  "title": "NSE Arguments",
+                  "pages": [110]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DNS Enumeration",
+          "pages": [110,111,112,113],
+          "subsections": [
+            {
+              "title": "DNS Brute-Force",
+              "pages": [111]
+            },
+            {
+              "title": "DNS Zone Transfer",
+              "pages": [112]
+            },
+            {
+              "title": "DNS Subdomains Tools",
+              "pages": [113],
+              "subsections": [
+                {
+                  "title": "Fierce",
+                  "pages": [113]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [114]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4 Internet Information Gathering",
+      "pages": [115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130],
+      "subsections": [
+        {
+          "title": "Passive Footprinting and Reconnaissance",
+          "pages": [116,117,118,119,120,121,122,123,124,125,126,127,128],
+          "subsections": [
+            {
+              "title": "Internet Search Engines",
+              "pages": [116,117,118,119],
+              "subsections": [
+                {
+                  "title": "Shodan",
+                  "pages": [117]
+                },
+                {
+                  "title": "Google Queries",
+                  "pages": [118,119]
+                }
+              ]
+            },
+            {
+              "title": "Information Gathering Using Kali Linux",
+              "pages": [120,121,122,123,124,125,126,127,128],
+              "subsections": [
+                {
+                  "title": "Whois Database",
+                  "pages": [121,122]
+                },
+                {
+                  "title": "TheHarvester",
+                  "pages": [123,124]
+                },
+                {
+                  "title": "DMitry",
+                  "pages": [125]
+                },
+                {
+                  "title": "Maltego",
+                  "pages": [125,126,127,128]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [129,130]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5 Social Engineering Attacks",
+      "pages": [131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150],
+      "subsections": [
+        {
+          "title": "Spear Phishing Attacks",
+          "pages": [131,132,133,134,135],
+          "subsections": [
+            {
+              "title": "Sending an E-mail",
+              "pages": [132,133,134,135],
+              "subsections": [
+                {
+                  "title": "The Social Engineer Toolkit",
+                  "pages": [132,133]
+                },
+                {
+                  "title": "Sending an E-mail Using Python",
+                  "pages": [134]
+                },
+                {
+                  "title": "Stealing Credentials",
+                  "pages": [135]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Payloads and Listeners",
+          "pages": [136,137,138,139,140],
+          "subsections": [
+            {
+              "title": "Bind Shell vs. Reverse Shell",
+              "pages": [137,138,139,140],
+              "subsections": [
+                {
+                  "title": "Bind Shell",
+                  "pages": [137]
+                },
+                {
+                  "title": "Reverse Shell",
+                  "pages": [138]
+                },
+                {
+                  "title": "Reverse Shell Using SET",
+                  "pages": [139,140]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Social Engineering with the USB Rubber Ducky",
+          "pages": [141,142,143,144,145,146,147],
+          "subsections": [
+            {
+              "title": "A Practical Reverse Shell Using USB Rubber Ducky and PowerShell",
+              "pages": [143]
+            },
+            {
+              "title": "Generating a PowerShell Script",
+              "pages": [144,145,146,147],
+              "subsections": [
+                {
+                  "title": "Starting a Listener",
+                  "pages": [144]
+                },
+                {
+                  "title": "Hosting the PowerShell Script",
+                  "pages": [145]
+                },
+                {
+                  "title": "Running PowerShell",
+                  "pages": [146]
+                },
+                {
+                  "title": "Download and Execute the PS Script",
+                  "pages": [146]
+                },
+                {
+                  "title": "Reverse Shell",
+                  "pages": [147]
+                },
+                {
+                  "title": "Replicating the Attack Using the USB Rubber Ducky",
+                  "pages": [148]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [148,149,150]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6 Advanced Enumeration Phase",
+      "pages": [151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186],
+      "subsections": [
+        {
+          "title": "Transfer Protocols",
+          "pages": [152,153,154,155,156,157,158,159,160,161],
+          "subsections": [
+            {
+              "title": "FTP (Port 21)",
+              "pages": [152,153,154,155],
+              "subsections": [
+                {
+                  "title": "Exploitation Scenarios for an FTP Server",
+                  "pages": [152]
+                },
+                {
+                  "title": "Enumeration Workflow",
+                  "pages": [153]
+                },
+                {
+                  "title": "Service Scan",
+                  "pages": [153]
+                },
+                {
+                  "title": "Advanced Scripting Scan with Nmap",
+                  "pages": [154]
+                },
+                {
+                  "title": "More Brute-Forcing Techniques",
+                  "pages": [155]
+                }
+              ]
+            },
+            {
+              "title": "SSH (Port 22)",
+              "pages": [156,157,158,159],
+              "subsections": [
+                {
+                  "title": "Exploitation Scenarios for an SSH Server",
+                  "pages": [156]
+                },
+                {
+                  "title": "Advanced Scripting Scan with Nmap",
+                  "pages": [157]
+                },
+                {
+                  "title": "Brute-Forcing SSH with Hydra",
+                  "pages": [158]
+                },
+                {
+                  "title": "Advanced Brute-Forcing Techniques",
+                  "pages": [159]
+                }
+              ]
+            },
+            {
+              "title": "Telnet (Port 23)",
+              "pages": [160,161],
+              "subsections": [
+                {
+                  "title": "Exploitation Scenarios for Telnet Server",
+                  "pages": [161]
+                },
+                {
+                  "title": "Enumeration Workflow",
+                  "pages": [161]
+                },
+                {
+                  "title": "Service Scan",
+                  "pages": [161]
+                },
+                {
+                  "title": "Advanced Scripting Scan",
+                  "pages": [162]
+                },
+                {
+                  "title": "Brute-Forcing with Hydra",
+                  "pages": [162]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "E-mail Protocols",
+          "pages": [162,163,164,165,166,167],
+          "subsections": [
+            {
+              "title": "SMTP (Port 25)",
+              "pages": [163,164,165,166],
+              "subsections": [
+                {
+                  "title": "Nmap Basic Enumeration",
+                  "pages": [163]
+                },
+                {
+                  "title": "Nmap Advanced Enumeration",
+                  "pages": [163]
+                },
+                {
+                  "title": "Enumerating Users",
+                  "pages": [164,165,166]
+                }
+              ]
+            },
+            {
+              "title": "POP3 (Port 110) and IMAP4 (Port 143)",
+              "pages": [167],
+              "subsections": [
+                {
+                  "title": "Brute-Forcing POP3 E-mail Accounts",
+                  "pages": [167]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Database Protocols",
+          "pages": [168],
+          "subsections": [
+            {
+              "title": "Microsoft SQL Server (Port 1433)",
+              "pages": [168]
+            },
+            {
+              "title": "Oracle Database Server (Port 1521)",
+              "pages": [169]
+            },
+            {
+              "title": "MySQL (Port 3306)",
+              "pages": [169]
+            }
+          ]
+        },
+        {
+          "title": "CI/CD Protocols",
+          "pages": [169,170,171,172,173,174,175,176],
+          "subsections": [
+            {
+              "title": "Docker (Port 2375)",
+              "pages": [170]
+            },
+            {
+              "title": "Jenkins (Port 8080/50000)",
+              "pages": [171,172]
+            },
+            {
+              "title": "Brute-Forcing a Web Portal Using Hydra",
+              "pages": [173,174,175,176],
+              "subsections": [
+                {
+                  "title": "Step 1: Enable a Proxy",
+                  "pages": [174]
+                },
+                {
+                  "title": "Step 2: Intercept the Form Request",
+                  "pages": [175]
+                },
+                {
+                  "title": "Step 3: Extracting Form Data and Brute-Forcing with Hydra",
+                  "pages": [176]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Web Protocols 80/443",
+          "pages": [177]
+        },
+        {
+          "title": "Graphical Remoting Protocols",
+          "pages": [178,179],
+          "subsections": [
+            {
+              "title": "RDP (Port 3389)",
+              "pages": [178],
+              "subsections": [
+                {
+                  "title": "RDP Brute-Force",
+                  "pages": [178]
+                }
+              ]
+            },
+            {
+              "title": "VNC (Port 5900)",
+              "pages": [179]
+            }
+          ]
+        },
+        {
+          "title": "File Sharing Protocols",
+          "pages": [180,181,182,183,184],
+          "subsections": [
+            {
+              "title": "SMB (Port 445)",
+              "pages": [180,181,182],
+              "subsections": [
+                {
+                  "title": "Brute-Forcing SMB",
+                  "pages": [182]
+                }
+              ]
+            },
+            {
+              "title": "SNMP (Port UDP 161)",
+              "pages": [183,184],
+              "subsections": [
+                {
+                  "title": "SNMP Enumeration",
+                  "pages": [183,184]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [185,186]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7 Exploitation Phase",
+      "pages": [187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224],
+      "subsections": [
+        {
+          "title": "Vulnerabilities Assessment",
+          "pages": [188,189,190,191,192,193,194,195,196,197,198],
+          "subsections": [
+            {
+              "title": "Vulnerability Assessment Workflow",
+              "pages": [188,189]
+            },
+            {
+              "title": "Vulnerability Scanning with OpenVAS",
+              "pages": [190,191,192,193,194],
+              "subsections": [
+                {
+                  "title": "Installing OpenVAS",
+                  "pages": [190]
+                },
+                {
+                  "title": "Scanning with OpenVAS",
+                  "pages": [191,192,193,194]
+                }
+              ]
+            },
+            {
+              "title": "Exploits Research",
+              "pages": [195,196,197,198],
+              "subsections": [
+                {
+                  "title": "SearchSploit",
+                  "pages": [197,198]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Services Exploitation",
+          "pages": [199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223],
+          "subsections": [
+            {
+              "title": "Exploiting FTP Service",
+              "pages": [199,200,201,202,203],
+              "subsections": [
+                {
+                  "title": "FTP Login",
+                  "pages": [199]
+                },
+                {
+                  "title": "Remote Code Execution",
+                  "pages": [200,201,202]
+                },
+                {
+                  "title": "Spawning a Shell",
+                  "pages": [203]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting SSH Service",
+              "pages": [204],
+              "subsections": [
+                {
+                  "title": "SSH Login",
+                  "pages": [204]
+                }
+              ]
+            },
+            {
+              "title": "Telnet Service Exploitation",
+              "pages": [205,206,207,208],
+              "subsections": [
+                {
+                  "title": "Telnet Login",
+                  "pages": [205]
+                },
+                {
+                  "title": "Sniffing for Cleartext Information",
+                  "pages": [206,207,208]
+                }
+              ]
+            },
+            {
+              "title": "E-mail Server Exploitation",
+              "pages": [209,210]
+            },
+            {
+              "title": "Docker Exploitation",
+              "pages": [211,212,213,214,215],
+              "subsections": [
+                {
+                  "title": "Testing the Docker Connection",
+                  "pages": [211]
+                },
+                {
+                  "title": "Creating a New Remote Kali Container",
+                  "pages": [212]
+                },
+                {
+                  "title": "Getting a Shell into the Kali Container",
+                  "pages": [213]
+                },
+                {
+                  "title": "Docker Host Exploitation",
+                  "pages": [214,215]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting Jenkins",
+              "pages": [216,217,218]
+            },
+            {
+              "title": "Reverse Shells",
+              "pages": [219,220,221],
+              "subsections": [
+                {
+                  "title": "Using Shells with Metasploit",
+                  "pages": [220,221]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting the SMB Protocol",
+              "pages": [222,223],
+              "subsections": [
+                {
+                  "title": "Connecting to SMB Shares",
+                  "pages": [222]
+                },
+                {
+                  "title": "SMB Eternal Blue Exploit",
+                  "pages": [223]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [224]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 8 Web Application Vulnerabilities",
+      "pages": [225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256],
+      "subsections": [
+        {
+          "title": "Web Application Vulnerabilities",
+          "pages": [226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254],
+          "subsections": [
+            {
+              "title": "Mutillidae Installation",
+              "pages": [226,227,228],
+              "subsections": [
+                {
+                  "title": "Apache Web Server Installation",
+                  "pages": [226]
+                },
+                {
+                  "title": "Firewall Setup",
+                  "pages": [227]
+                },
+                {
+                  "title": "Installing PHP",
+                  "pages": [227]
+                },
+                {
+                  "title": "Database Installation and Setup",
+                  "pages": [227]
+                },
+                {
+                  "title": "Mutillidae Installation",
+                  "pages": [228]
+                }
+              ]
+            },
+            {
+              "title": "Cross-Site Scripting",
+              "pages": [229,230,231,232,233],
+              "subsections": [
+                {
+                  "title": "Reflected XSS",
+                  "pages": [229]
+                },
+                {
+                  "title": "Stored XSS",
+                  "pages": [230]
+                },
+                {
+                  "title": "Exploiting XSS Using the Header",
+                  "pages": [231,232]
+                },
+                {
+                  "title": "Bypassing JavaScript Validation",
+                  "pages": [233]
+                }
+              ]
+            },
+            {
+              "title": "SQL Injection",
+              "pages": [234,235,236,237,238,239,240,241,242],
+              "subsections": [
+                {
+                  "title": "Querying the Database",
+                  "pages": [234,235,236]
+                },
+                {
+                  "title": "Bypassing the Login Page",
+                  "pages": [237]
+                },
+                {
+                  "title": "Execute Database Commands Using SQLi",
+                  "pages": [237,238,239,240]
+                },
+                {
+                  "title": "SQL Injection Automation with SQLMap",
+                  "pages": [241]
+                },
+                {
+                  "title": "Testing for SQL Injection",
+                  "pages": [242]
+                }
+              ]
+            },
+            {
+              "title": "Command Injection",
+              "pages": [243]
+            },
+            {
+              "title": "File Inclusion",
+              "pages": [243,244,245],
+              "subsections": [
+                {
+                  "title": "Local File Inclusion",
+                  "pages": [244]
+                },
+                {
+                  "title": "Remote File Inclusion",
+                  "pages": [245]
+                }
+              ]
+            },
+            {
+              "title": "Cross-Site Request Forgery",
+              "pages": [246,247,248],
+              "subsections": [
+                {
+                  "title": "The Attacker Scenario",
+                  "pages": [247]
+                },
+                {
+                  "title": "The Victim Scenario",
+                  "pages": [248]
+                }
+              ]
+            },
+            {
+              "title": "File Upload",
+              "pages": [249,250,251,252,253],
+              "subsections": [
+                {
+                  "title": "Simple File Upload",
+                  "pages": [249,250]
+                },
+                {
+                  "title": "Bypassing Validation",
+                  "pages": [251,252]
+                },
+                {
+                  "title": "Encoding",
+                  "pages": [253]
+                }
+              ]
+            },
+            {
+              "title": "OWASP Top 10",
+              "pages": [254]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [255,256]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9 Web Penetration Testing and Secure Software Development Lifecycle",
+      "pages": [257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282],
+      "subsections": [
+        {
+          "title": "Web Enumeration and Exploitation",
+          "pages": [257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275],
+          "subsections": [
+            {
+              "title": "Burp Suite Pro",
+              "pages": [258,259,260,261,262,263,264,265,266,267,268,269,270],
+              "subsections": [
+                {
+                  "title": "Web Pentest Using Burp Suite",
+                  "pages": [258,259,260,261,262,263,264,265,266,267,268,269,270]
+                }
+              ]
+            },
+            {
+              "title": "More Enumeration",
+              "pages": [271,272],
+              "subsections": [
+                {
+                  "title": "Nmap",
+                  "pages": [272]
+                },
+                {
+                  "title": "Crawling",
+                  "pages": [272]
+                },
+                {
+                  "title": "Vulnerability Assessment",
+                  "pages": [273]
+                }
+              ]
+            },
+            {
+              "title": "Manual Web Penetration Testing Checklist",
+              "pages": [273,274,275],
+              "subsections": [
+                {
+                  "title": "Common Checklist",
+                  "pages": [274]
+                },
+                {
+                  "title": "Special Pages Checklist",
+                  "pages": [274,275]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Secure Software Development Lifecycle",
+          "pages": [276,277,278,279,280],
+          "subsections": [
+            {
+              "title": "Analysis/Architecture Phase",
+              "pages": [277],
+              "subsections": [
+                {
+                  "title": "Application Threat Modeling",
+                  "pages": [277]
+                },
+                {
+                  "title": "Assets",
+                  "pages": [277]
+                },
+                {
+                  "title": "Entry Points",
+                  "pages": [278]
+                },
+                {
+                  "title": "Third Parties",
+                  "pages": [278]
+                },
+                {
+                  "title": "Trust Levels",
+                  "pages": [278]
+                },
+                {
+                  "title": "Data Flow Diagram",
+                  "pages": [278]
+                }
+              ]
+            },
+            {
+              "title": "Development Phase",
+              "pages": [278,279,280]
+            },
+            {
+              "title": "Testing Phase",
+              "pages": [281]
+            },
+            {
+              "title": "Production Environment (Final Deployment)",
+              "pages": [281]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [281,282]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10 Linux Privilege Escalation",
+      "pages": [283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298],
+      "subsections": [
+        {
+          "title": "Introduction to Kernel Exploits and Missing Configurations",
+          "pages": [284]
+        },
+        {
+          "title": "Kernel Exploits",
+          "pages": [284,285,286],
+          "subsections": [
+            {
+              "title": "Kernel Exploit: Dirty Cow",
+              "pages": [284,285,286]
+            }
+          ]
+        },
+        {
+          "title": "SUID Exploitation",
+          "pages": [287,288]
+        },
+        {
+          "title": "Overriding the Passwd Users File",
+          "pages": [289]
+        },
+        {
+          "title": "CRON Jobs Privilege Escalation",
+          "pages": [290,291,292,293],
+          "subsections": [
+            {
+              "title": "CRON Basics",
+              "pages": [291],
+              "subsections": [
+                {
+                  "title": "Crontab",
+                  "pages": [291]
+                },
+                {
+                  "title": "Anacrontab",
+                  "pages": [292]
+                }
+              ]
+            },
+            {
+              "title": "Enumerating and Exploiting CRON",
+              "pages": [292,293]
+            }
+          ]
+        },
+        {
+          "title": "sudoers",
+          "pages": [294,295],
+          "subsections": [
+            {
+              "title": "sudo Privilege Escalation",
+              "pages": [294,295],
+              "subsections": [
+                {
+                  "title": "Exploiting the Find Command",
+                  "pages": [294]
+                },
+                {
+                  "title": "Editing the sudoers File",
+                  "pages": [295]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exploiting Running Services",
+          "pages": [296]
+        },
+        {
+          "title": "Automated Scripts",
+          "pages": [296]
+        },
+        {
+          "title": "Summary",
+          "pages": [297,298]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11 Windows Privilege Escalation",
+      "pages": [299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330],
+      "subsections": [
+        {
+          "title": "Windows System Enumeration",
+          "pages": [299,300,301,302,303,304,305,306,307,308,309],
+          "subsections": [
+            {
+              "title": "System Information",
+              "pages": [300]
+            },
+            {
+              "title": "Windows Architecture",
+              "pages": [301]
+            },
+            {
+              "title": "Listing the Disk Drives",
+              "pages": [302]
+            },
+            {
+              "title": "Installed Patches",
+              "pages": [302]
+            },
+            {
+              "title": "Who Am I?",
+              "pages": [302]
+            },
+            {
+              "title": "List Users and Groups",
+              "pages": [303,304]
+            },
+            {
+              "title": "Networking Information",
+              "pages": [305,306,307]
+            },
+            {
+              "title": "Showing Weak Permissions",
+              "pages": [308]
+            },
+            {
+              "title": "Listing Installed Programs",
+              "pages": [309]
+            },
+            {
+              "title": "Listing Tasks and Processes",
+              "pages": [309]
+            }
+          ]
+        },
+        {
+          "title": "File Transfers",
+          "pages": [310,311],
+          "subsections": [
+            {
+              "title": "Windows Host Destination",
+              "pages": [310]
+            },
+            {
+              "title": "Linux Host Destination",
+              "pages": [311]
+            }
+          ]
+        },
+        {
+          "title": "Windows System Exploitation",
+          "pages": [312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329],
+          "subsections": [
+            {
+              "title": "Windows Kernel Exploits",
+              "pages": [313,314,315,316,317,318],
+              "subsections": [
+                {
+                  "title": "Getting the OS Version",
+                  "pages": [313]
+                },
+                {
+                  "title": "Find a Matching Exploit",
+                  "pages": [314]
+                },
+                {
+                  "title": "Executing the Payload and Getting a Root Shell",
+                  "pages": [315]
+                },
+                {
+                  "title": "The Metasploit PrivEsc Magic",
+                  "pages": [315,316,317,318]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting Windows Applications",
+              "pages": [319,320,321,322],
+              "subsections": [
+                {
+                  "title": "Running As in Windows",
+                  "pages": [321]
+                },
+                {
+                  "title": "PSExec Tool",
+                  "pages": [322]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting Services in Windows",
+              "pages": [323,324,325,326,327],
+              "subsections": [
+                {
+                  "title": "Interacting with Windows Services",
+                  "pages": [323]
+                },
+                {
+                  "title": "Misconfigured Service Permissions",
+                  "pages": [323,324]
+                },
+                {
+                  "title": "Overriding the Service Executable",
+                  "pages": [325]
+                },
+                {
+                  "title": "Unquoted Service Path",
+                  "pages": [325,326]
+                },
+                {
+                  "title": "Weak Registry Permissions",
+                  "pages": [327]
+                }
+              ]
+            },
+            {
+              "title": "Exploiting the Scheduled Tasks",
+              "pages": [328]
+            },
+            {
+              "title": "Windows PrivEsc Automated Tools",
+              "pages": [328,329],
+              "subsections": [
+                {
+                  "title": "PowerUp",
+                  "pages": [328]
+                },
+                {
+                  "title": "WinPEAS",
+                  "pages": [329]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [330]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12 Pivoting and Lateral Movement",
+      "pages": [331,332,333,334,335,336,337,338,339,340,341,342,343,344],
+      "subsections": [
+        {
+          "title": "Dumping Windows Hashes",
+          "pages": [332,333,334,335,336,337],
+          "subsections": [
+            {
+              "title": "Windows NTLM Hashes",
+              "pages": [332,333],
+              "subsections": [
+                {
+                  "title": "SAM File and Hash Dump",
+                  "pages": [333]
+                },
+                {
+                  "title": "Using the Hash",
+                  "pages": [334]
+                }
+              ]
+            },
+            {
+              "title": "Mimikatz",
+              "pages": [334,335]
+            },
+            {
+              "title": "Dumping Active Directory Hashes",
+              "pages": [336]
+            },
+            {
+              "title": "Reusing Passwords and Hashes",
+              "pages": [336,337],
+              "subsections": [
+                {
+                  "title": "Pass the Hash",
+                  "pages": [337]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pivoting with Port Redirection",
+          "pages": [338,339,340,341,342],
+          "subsections": [
+            {
+              "title": "Port Forwarding Concepts",
+              "pages": [338,339]
+            },
+            {
+              "title": "SSH Tunneling and Local Port Forwarding",
+              "pages": [340]
+            },
+            {
+              "title": "Remote Port Forwarding Using SSH",
+              "pages": [341]
+            },
+            {
+              "title": "Dynamic Port Forwarding",
+              "pages": [342],
+              "subsections": [
+                {
+                  "title": "Dynamic Port Forwarding Using SSH",
+                  "pages": [342]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [343,344]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13 Cryptography and Hash Cracking",
+      "pages": [345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370],
+      "subsections": [
+        {
+          "title": "Basics of Cryptography",
+          "pages": [345,346,347,348,349,350,351,352,353,354,355,356],
+          "subsections": [
+            {
+              "title": "Hashing Basics",
+              "pages": [346,347,348],
+              "subsections": [
+                {
+                  "title": "One-Way Hash Function",
+                  "pages": [346]
+                },
+                {
+                  "title": "Hashing Scenarios",
+                  "pages": [347]
+                },
+                {
+                  "title": "Hashing Algorithms",
+                  "pages": [347]
+                },
+                {
+                  "title": "Message Digest 5",
+                  "pages": [347,348]
+                }
+              ]
+            },
+            {
+              "title": "Secure Hash Algorithm",
+              "pages": [349]
+            },
+            {
+              "title": "Hashing Passwords",
+              "pages": [349,350],
+              "subsections": [
+                {
+                  "title": "Securing Passwords with Hash",
+                  "pages": [350]
+                }
+              ]
+            },
+            {
+              "title": "Hash-Based Message Authenticated Code",
+              "pages": [351]
+            },
+            {
+              "title": "Encryption Basics",
+              "pages": [352,353],
+              "subsections": [
+                {
+                  "title": "Symmetric Encryption",
+                  "pages": [352]
+                },
+                {
+                  "title": "Advanced Encryption Standard",
+                  "pages": [352,353]
+                }
+              ]
+            },
+            {
+              "title": "Asymmetric Encryption",
+              "pages": [354,355,356],
+              "subsections": [
+                {
+                  "title": "Rivest Shamir Adleman",
+                  "pages": [355,356]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cracking Secrets with Hashcat",
+          "pages": [357,358,359,360,361,362,363,364,365,366,367,368,369],
+          "subsections": [
+            {
+              "title": "Benchmark Testing",
+              "pages": [358,359]
+            },
+            {
+              "title": "Cracking Hashes in Action",
+              "pages": [360,361]
+            },
+            {
+              "title": "Attack Modes",
+              "pages": [362,363,364,365,366,367,368],
+              "subsections": [
+                {
+                  "title": "Straight Mode",
+                  "pages": [362]
+                },
+                {
+                  "title": "Combinator",
+                  "pages": [363,364]
+                },
+                {
+                  "title": "Mask and Brute-Force Attacks",
+                  "pages": [365,366,367]
+                },
+                {
+                  "title": "Brute-Force Attack",
+                  "pages": [368]
+                },
+                {
+                  "title": "Hybrid Attacks",
+                  "pages": [368]
+                }
+              ]
+            },
+            {
+              "title": "Cracking Workflow",
+              "pages": [369]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [370]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14 Reporting",
+      "pages": [371,372,373,374,375,376,377,378],
+      "subsections": [
+        {
+          "title": "Overview of Reports in Penetration Testing",
+          "pages": [371]
+        },
+        {
+          "title": "Scoring Severities",
+          "pages": [372,373,374],
+          "subsections": [
+            {
+              "title": "Common Vulnerability Scoring System Version 3.1",
+              "pages": [372,373,374]
+            }
+          ]
+        },
+        {
+          "title": "Report Presentation",
+          "pages": [375,376],
+          "subsections": [
+            {
+              "title": "Cover Page",
+              "pages": [376]
+            },
+            {
+              "title": "History Logs",
+              "pages": [376]
+            },
+            {
+              "title": "Report Summary",
+              "pages": [376]
+            },
+            {
+              "title": "Vulnerabilities Section",
+              "pages": [376]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [377,378]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15 Assembly Language and Reverse Engineering",
+      "pages": [379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394],
+      "subsections": [
+        {
+          "title": "CPU Registers",
+          "pages": [379,380,381,382,383],
+          "subsections": [
+            {
+              "title": "General CPU Registers",
+              "pages": [380]
+            },
+            {
+              "title": "Index Registers",
+              "pages": [381]
+            },
+            {
+              "title": "Pointer Registers",
+              "pages": [381]
+            },
+            {
+              "title": "Segment Registers",
+              "pages": [381,382]
+            },
+            {
+              "title": "Flag Registers",
+              "pages": [383]
+            }
+          ]
+        },
+        {
+          "title": "Assembly Instructions",
+          "pages": [384,385],
+          "subsections": [
+            {
+              "title": "Little Endian",
+              "pages": [386]
+            }
+          ]
+        },
+        {
+          "title": "Data Types",
+          "pages": [386]
+        },
+        {
+          "title": "Memory Segments",
+          "pages": [387]
+        },
+        {
+          "title": "Addressing Modes",
+          "pages": [387]
+        },
+        {
+          "title": "Reverse Engineering Example",
+          "pages": [387,388,389,390,391,392,393],
+          "subsections": [
+            {
+              "title": "Visual Studio Code for C/C++",
+              "pages": [388]
+            },
+            {
+              "title": "Immunity Debugger for Reverse Engineering",
+              "pages": [389,390,391,392,393]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [394]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16 Buffer/Stack Overflow",
+      "pages": [395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414],
+      "subsections": [
+        {
+          "title": "Basics of Stack Overflow",
+          "pages": [395,396,397,398,399,400,401,402,403],
+          "subsections": [
+            {
+              "title": "Stack Overview",
+              "pages": [396,397,398,399,400,401,402,403],
+              "subsections": [
+                {
+                  "title": "PUSH Instruction",
+                  "pages": [396]
+                },
+                {
+                  "title": "POP Instruction",
+                  "pages": [397]
+                },
+                {
+                  "title": "C Program Example",
+                  "pages": [397]
+                },
+                {
+                  "title": "Buffer Analysis with Immunity Debugger",
+                  "pages": [398,399,400,401]
+                },
+                {
+                  "title": "Stack Overflow",
+                  "pages": [402]
+                },
+                {
+                  "title": "Stack Overflow Mechanism",
+                  "pages": [403]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stack Overflow Exploitation",
+          "pages": [404,405,406,407,408,409,410,411,412,413],
+          "subsections": [
+            {
+              "title": "Lab Overview",
+              "pages": [405],
+              "subsections": [
+                {
+                  "title": "Vulnerable Application",
+                  "pages": [405]
+                }
+              ]
+            },
+            {
+              "title": "Phase 1: Testing",
+              "pages": [405,406,407],
+              "subsections": [
+                {
+                  "title": "Testing the Happy Path",
+                  "pages": [405,406]
+                },
+                {
+                  "title": "Testing the Crash",
+                  "pages": [407]
+                }
+              ]
+            },
+            {
+              "title": "Phase 2: Buffer Size",
+              "pages": [408],
+              "subsections": [
+                {
+                  "title": "Pattern Creation",
+                  "pages": [408]
+                },
+                {
+                  "title": "Offset Location",
+                  "pages": [408]
+                }
+              ]
+            },
+            {
+              "title": "Phase 3: Controlling EIP",
+              "pages": [409,410,411],
+              "subsections": [
+                {
+                  "title": "Adding the JMP Instruction",
+                  "pages": [410,411]
+                }
+              ]
+            },
+            {
+              "title": "Phase 4: Injecting the Payload and Getting a Remote Shell",
+              "pages": [412,413],
+              "subsections": [
+                {
+                  "title": "Payload Generation",
+                  "pages": [412]
+                },
+                {
+                  "title": "Bad Characters",
+                  "pages": [412]
+                },
+                {
+                  "title": "Shellcode Python Script",
+                  "pages": [413]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [414]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17 Programming with Python",
+      "pages": [415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436],
+      "subsections": [
+        {
+          "title": "Basics of Python",
+          "pages": [415]
+        },
+        {
+          "title": "Running Python Scripts",
+          "pages": [416]
+        },
+        {
+          "title": "Debugging Python Scripts",
+          "pages": [417],
+          "subsections": [
+            {
+              "title": "Installing VS Code on Kali",
+              "pages": [417]
+            }
+          ]
+        },
+        {
+          "title": "Practicing Python",
+          "pages": [418]
+        },
+        {
+          "title": "Python Basic Syntaxes",
+          "pages": [419,420],
+          "subsections": [
+            {
+              "title": "Python Shebang",
+              "pages": [419]
+            },
+            {
+              "title": "Comments in Python",
+              "pages": [419]
+            },
+            {
+              "title": "Line Indentation and Importing Modules",
+              "pages": [420]
+            },
+            {
+              "title": "Input and Output",
+              "pages": [420],
+              "subsections": [
+                {
+                  "title": "Printing CLI Arguments",
+                  "pages": [421]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Variables",
+          "pages": [421,422,423,424,425],
+          "subsections": [
+            {
+              "title": "Numbers",
+              "pages": [421,422]
+            },
+            {
+              "title": "Arithmetic Operators",
+              "pages": [423]
+            },
+            {
+              "title": "Strings",
+              "pages": [423,424],
+              "subsections": [
+                {
+                  "title": "String Formatting",
+                  "pages": [423]
+                },
+                {
+                  "title": "String Functions",
+                  "pages": [424]
+                }
+              ]
+            },
+            {
+              "title": "Lists",
+              "pages": [425],
+              "subsections": [
+                {
+                  "title": "Reading Values in a List",
+                  "pages": [425]
+                },
+                {
+                  "title": "Updating List Items",
+                  "pages": [425]
+                },
+                {
+                  "title": "Removing a list item",
+                  "pages": [426]
+                }
+              ]
+            },
+            {
+              "title": "Tuples",
+              "pages": [426]
+            },
+            {
+              "title": "Dictionary",
+              "pages": [426]
+            }
+          ]
+        },
+        {
+          "title": "More Techniques in Python",
+          "pages": [426,427,428,429,430,431,432,433,434],
+          "subsections": [
+            {
+              "title": "Functions",
+              "pages": [426,427],
+              "subsections": [
+                {
+                  "title": "Returning Values",
+                  "pages": [427]
+                },
+                {
+                  "title": "Optional Arguments",
+                  "pages": [427]
+                }
+              ]
+            },
+            {
+              "title": "Global Variables",
+              "pages": [428],
+              "subsections": [
+                {
+                  "title": "Changing Global Variables",
+                  "pages": [428]
+                }
+              ]
+            },
+            {
+              "title": "Conditions",
+              "pages": [429],
+              "subsections": [
+                {
+                  "title": "if/else Statement",
+                  "pages": [429]
+                }
+              ]
+            },
+            {
+              "title": "Comparison Operators",
+              "pages": [429]
+            },
+            {
+              "title": "Loop Iterations",
+              "pages": [430,431],
+              "subsections": [
+                {
+                  "title": "while Loop",
+                  "pages": [430]
+                },
+                {
+                  "title": "for Loop",
+                  "pages": [431]
+                }
+              ]
+            },
+            {
+              "title": "Managing Files",
+              "pages": [432]
+            },
+            {
+              "title": "Exception Handling",
+              "pages": [433]
+            },
+            {
+              "title": "Text Escape Characters",
+              "pages": [433,434],
+              "subsections": [
+                {
+                  "title": "Custom Objects in Python",
+                  "pages": [434]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [435,436]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 18 Pentest Automation with Python",
+      "pages": [437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452],
+      "subsections": [
+        {
+          "title": "Penetration Test Robot",
+          "pages": [437,438,439,440,441,442,443,444,445,446,447,448,449,450,451],
+          "subsections": [
+            {
+              "title": "Application Workflow",
+              "pages": [438,439,440,441,442,443,444,445,446,447,448,449,450,451],
+              "subsections": [
+                {
+                  "title": "Python Packages",
+                  "pages": [440]
+                },
+                {
+                  "title": "Application Start",
+                  "pages": [440]
+                },
+                {
+                  "title": "Input Validation",
+                  "pages": [441,442]
+                },
+                {
+                  "title": "Code Refactoring",
+                  "pages": [443]
+                },
+                {
+                  "title": "Scanning for Live Hosts",
+                  "pages": [444,445]
+                },
+                {
+                  "title": "Ports and Services Scanning",
+                  "pages": [446,447,448]
+                },
+                {
+                  "title": "Attacking Credentials and Saving the Results",
+                  "pages": [449,450,451]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [452]
+        }
+      ]
+    },
+    {
+      "title": "Appendix A Kali Linux Desktop at a Glance",
+      "pages": [453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492],
+      "subsections": [
+        {
+          "title": "Downloading and Running a VM of Kali Linux",
+          "pages": [454],
+          "subsections": [
+            {
+              "title": "Virtual Machine First Boot",
+              "pages": [454]
+            }
+          ]
+        },
+        {
+          "title": "Kali Xfce Desktop",
+          "pages": [455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491],
+          "subsections": [
+            {
+              "title": "Kali Xfce Menu",
+              "pages": [456,457,458],
+              "subsections": [
+                {
+                  "title": "Search Bar",
+                  "pages": [456]
+                },
+                {
+                  "title": "Favorites Menu Item",
+                  "pages": [456,457]
+                },
+                {
+                  "title": "Usual Applications",
+                  "pages": [458]
+                },
+                {
+                  "title": "Other Menu Items",
+                  "pages": [459]
+                }
+              ]
+            },
+            {
+              "title": "Kali Xfce Settings Manager",
+              "pages": [459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479],
+              "subsections": [
+                {
+                  "title": "Advanced Network Configuration",
+                  "pages": [461]
+                },
+                {
+                  "title": "Appearance",
+                  "pages": [462,463,464]
+                },
+                {
+                  "title": "Desktop",
+                  "pages": [465,466]
+                },
+                {
+                  "title": "Display",
+                  "pages": [467]
+                },
+                {
+                  "title": "File Manager",
+                  "pages": [468,469,470]
+                },
+                {
+                  "title": "Keyboard",
+                  "pages": [471,472]
+                },
+                {
+                  "title": "MIME Type Editor",
+                  "pages": [473]
+                },
+                {
+                  "title": "Mouse and Touchpad",
+                  "pages": [474]
+                },
+                {
+                  "title": "Panel",
+                  "pages": [475]
+                },
+                {
+                  "title": "Workspaces",
+                  "pages": [476]
+                },
+                {
+                  "title": "Window Manager",
+                  "pages": [477,478,479]
+                }
+              ]
+            },
+            {
+              "title": "Practical Example of Desktop Customization",
+              "pages": [480,481,482,483],
+              "subsections": [
+                {
+                  "title": "Edit the Top Panel",
+                  "pages": [480]
+                },
+                {
+                  "title": "Adding a New Bottom Panel",
+                  "pages": [480,481,482]
+                },
+                {
+                  "title": "Changing the Desktop Look",
+                  "pages": [483]
+                }
+              ]
+            },
+            {
+              "title": "Installing Kali Linux from Scratch",
+              "pages": [484,485,486,487,488,489,490,491]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [492]
+        }
+      ]
+    },
+    {
+      "title": "Appendix B Building a Lab Environment Using Docker",
+      "pages": [493,494,495,496,497,498,499,500,501,502],
+      "subsections": [
+        {
+          "title": "Docker Technology",
+          "pages": [494,495,496,497,498,499,500],
+          "subsections": [
+            {
+              "title": "Docker Basics",
+              "pages": [494]
+            },
+            {
+              "title": "Docker Installation",
+              "pages": [494]
+            },
+            {
+              "title": "Images and Registries",
+              "pages": [495]
+            },
+            {
+              "title": "Containers",
+              "pages": [496,497,498,499],
+              "subsections": [
+                {
+                  "title": "Dockerfile",
+                  "pages": [498]
+                },
+                {
+                  "title": "Volumes",
+                  "pages": [498]
+                },
+                {
+                  "title": "Networking",
+                  "pages": [499]
+                }
+              ]
+            },
+            {
+              "title": "Mutillidae Docker Container",
+              "pages": [500]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [501,502]
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "pages": [503,504,505,506,507,508,509,510,511,512,513,514]
+    },
+    {
+      "title": "EULA",
+      "pages": [515]
+    }
+  ]
+}
