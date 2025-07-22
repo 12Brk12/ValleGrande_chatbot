@@ -82,5 +82,21 @@ def show_ulng():
         Descubre por qué elegir Linux: es gratuito, seguro, personalizable, funciona en equipos antiguos y es usado por empresas como Google y Amazon. Ideal para quienes buscan libertad y control.
     </div>
 
+    
+    """, unsafe_allow_html=True)
+
+    if st.button("Prueba"):
+        st.session_state.selector_temp_choice = "Mastering_Linux_Administration/Table_of_contents"
+        st.session_state.intro_question = (
+            "Dime de manera detallada **qué información que tienes** "
+            "(si existe usa el table_of_contents.pdf)"
+            "Presentate con un: Hola soy ..."
+        )
+        st.rerun()
+    st.markdown(f"""
+    <div class="vallegrancito-card fade-slide">
+        Descubre por qué elegir Linux: es gratuito, seguro, personalizable, funciona en equipos antiguos y es usado por empresas como Google y Amazon. Ideal para quienes buscan libertad y control.
+    </div>
+
 
     """, unsafe_allow_html=True)

@@ -5,6 +5,7 @@ from streamlit_option_menu import option_menu
 from base64 import b64encode
 from initial_document_selector import show_initial_selector
 from ulng import show_ulng
+from book_category_viewer import show_book_categories
 from chatbot import show_chatbot
 
 # === CONFIGURACIÓN INICIAL ===
@@ -41,13 +42,61 @@ def load_document_selector_sidebar(catalog_path: str):
         list(title_to_filename.keys())[0]
     )
 
-    # Mostrar selector y actualizar elección
+    # Mostrar selector
     selected_title = st.sidebar.selectbox(
         "Tema de conversación actual",
         list(title_to_filename.keys()),
         index=list(title_to_filename.keys()).index(current_title)
     )
-    st.session_state.selector_temp_choice = title_to_filename[selected_title]
+
+    # Verificar cambio y forzar recarga si corresponde
+    new_choice = title_to_filename[selected_title]
+    if st.session_state.selector_temp_choice != new_choice:
+        st.session_state.selector_temp_choice = new_choice
+        st.rerun()
+
+def load_subfolder_selector_sidebar(metadata_path: str):
+    """
+    Muestra un selector de subcarpetas basado en la selección actual del libro.
+    Los nombres visibles se limpian de guiones bajos para mayor legibilidad.
+    """
+    with open(metadata_path, "r", encoding="utf-8") as f:
+        books = json.load(f)
+
+    # Determinar libro actualmente seleccionado
+    for book_title, info in books.items():
+        if info.get("main_folder") and st.session_state.selector_temp_choice.startswith(info["main_folder"]):
+            subfolders = info.get("subfolders", [])
+            base = info["main_folder"]
+            break
+    else:
+        subfolders = []
+        base = ""
+
+    if not subfolders:
+        return
+
+    # Mapeo: Nombre visible → subcarpeta real
+    display_map = {sf.replace("_", " "): sf for sf in subfolders}
+
+    # Subcarpeta actual
+    current_subfolder = st.session_state.selector_temp_choice.split("/")[-1]
+    current_display = current_subfolder.replace("_", " ")
+
+    # Selector visible
+    selected_display = st.sidebar.selectbox(
+        "Sección del libro",
+        list(display_map.keys()),
+        index=list(display_map.keys()).index(current_display) if current_display in display_map else 0
+    )
+
+    # Actualizar selector_temp_choice con el valor real
+    selected_subfolder = display_map[selected_display]
+    new_choice = f"{base}/{selected_subfolder}"
+
+    if st.session_state.selector_temp_choice != new_choice:
+        st.session_state.selector_temp_choice = new_choice
+        st.rerun()
 
 
 def reset_chat_session():
@@ -101,8 +150,16 @@ if selected == "Chatbot":
         show_initial_selector()
 
 elif selected == "Libros":
-    st.markdown("## 📘 Manual de uso")
-    st.write("Aquí puedes agregar el contenido del manual o guía para los usuarios.")
+    if st.session_state.get("selector_temp_choice"):
+        load_subfolder_selector_sidebar("metadata_summary/summary_metadata.json")
+
+        st.sidebar.markdown(" ")
+        if st.sidebar.button("Regresar"):
+            reset_chat_session()
+            st.rerun()
+        show_chatbot()
+    else:
+        show_book_categories()
 
 elif selected == "ULNG":
     # st.session_state.intro_question = "Dime de manera detallada **que informacion que tienes** (si existe usa el start_chat.pdf)"
