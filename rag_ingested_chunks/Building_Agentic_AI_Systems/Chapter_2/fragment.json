@@ -1,0 +1,85 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 2: Principles of Agentic Systems",
+    "pages": [52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [53]
+      },
+      {
+        "title": "Understanding self-governance, agency, and autonomy",
+        "pages": [53],
+        "subsections": [
+          {
+            "title": "Self-governance",
+            "pages": [54]
+          },
+          {
+            "title": "Agency",
+            "pages": [54]
+          },
+          {
+            "title": "Autonomy",
+            "pages": [55]
+          },
+          {
+            "title": "Example of agency and autonomy in agents",
+            "pages": [57]
+          }
+        ]
+      },
+      {
+        "title": "Reviewing intelligent agents and their characteristics",
+        "pages": [60]
+      },
+      {
+        "title": "Exploring the architecture of agentic systems",
+        "pages": [61],
+        "subsections": [
+          {
+            "title": "Deliberative architectures",
+            "pages": [61]
+          },
+          {
+            "title": "Reactive architectures",
+            "pages": [63]
+          },
+          {
+            "title": "Hybrid architectures",
+            "pages": [64]
+          }
+        ]
+      },
+      {
+        "title": "Understanding multi-agent systems",
+        "pages": [65],
+        "subsections": [
+          {
+            "title": "Definition and characteristics of MASs",
+            "pages": [67]
+          },
+          {
+            "title": "Interaction mechanisms in MASs",
+            "pages": [68]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [73]
+      },
+      {
+        "title": "Questions",
+        "pages": [74]
+      },
+      {
+        "title": "Answers",
+        "pages": [74]
+      }
+    ]
+  }
+}

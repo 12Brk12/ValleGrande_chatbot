@@ -1,0 +1,122 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 4: Reflection and Introspection in Agents",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 4, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 102 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 4"
+  },
+  "ch4_2.pdf": {
+    "document_title": "The importance of reflection in agents",
+    "indent_level": 1,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_2_1.pdf": {
+    "document_title": "Enhanced decision-making",
+    "indent_level": 2,
+    "reference_url": "Página 103 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_2_2.pdf": {
+    "document_title": "Adaptation",
+    "indent_level": 2,
+    "reference_url": "Página 104 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_2_3.pdf": {
+    "document_title": "Ethical consideration",
+    "indent_level": 2,
+    "reference_url": "Página 105 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_2_4.pdf": {
+    "document_title": "Human-computer interaction",
+    "indent_level": 2,
+    "reference_url": "Página 106 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_3.pdf": {
+    "document_title": "Introspection in intelligent agents",
+    "indent_level": 1,
+    "reference_url": "Página 107 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_4.pdf": {
+    "document_title": "Implementing reflective capabilities",
+    "indent_level": 1,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_4_1.pdf": {
+    "document_title": "Traditional reasoning",
+    "indent_level": 2,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_4_2.pdf": {
+    "document_title": "Meta-reasoning",
+    "indent_level": 2,
+    "reference_url": "Página 108 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_4_3.pdf": {
+    "document_title": "Self-explanation",
+    "indent_level": 2,
+    "reference_url": "Página 117 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_4_4.pdf": {
+    "document_title": "Self-modeling",
+    "indent_level": 2,
+    "reference_url": "Página 121 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_5.pdf": {
+    "document_title": "Use cases and examples",
+    "indent_level": 1,
+    "reference_url": "Página 123 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_5_1.pdf": {
+    "document_title": "Customer service chatbots",
+    "indent_level": 2,
+    "reference_url": "Página 123 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch4_5_2.pdf": {
+    "document_title": "Personal marketing agents",
+    "indent_level": 2,
+    "reference_url": "Página 124 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_5_3.pdf": {
+    "document_title": "Financial trading systems",
+    "indent_level": 2,
+    "reference_url": "Página 125 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_5_4.pdf": {
+    "document_title": "Forecast agents",
+    "indent_level": 2,
+    "reference_url": "Página 126 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_5_5.pdf": {
+    "document_title": "Price strategies in e-commerce",
+    "indent_level": 2,
+    "reference_url": "Página 127 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 128 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch4_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 129 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

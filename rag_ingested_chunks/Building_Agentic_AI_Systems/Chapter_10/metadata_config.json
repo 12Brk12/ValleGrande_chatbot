@@ -1,0 +1,93 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 10: Common Use Cases and Applications",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 10, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 246 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_1.pdf": {
+    "document_title": "Creative and artistic applications",
+    "indent_level": 1,
+    "reference_url": "Página 247 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 10"
+  },
+  "ch10_1_1.pdf": {
+    "document_title": "Evolution of creative and artistic agents",
+    "indent_level": 2,
+    "reference_url": "Página 247 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_1_2.pdf": {
+    "document_title": "Real-world applications",
+    "indent_level": 2,
+    "reference_url": "Página 248 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_2.pdf": {
+    "document_title": "Natural language processing and conversational agents",
+    "indent_level": 1,
+    "reference_url": "Página 250 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_2_1.pdf": {
+    "document_title": "Evolution of language agents",
+    "indent_level": 2,
+    "reference_url": "Página 250 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_2_2.pdf": {
+    "document_title": "Real-world applications",
+    "indent_level": 2,
+    "reference_url": "Página 251 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_3.pdf": {
+    "document_title": "Robotics and autonomous systems",
+    "indent_level": 1,
+    "reference_url": "Página 253 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_3_1.pdf": {
+    "document_title": "Evolution of robotic agents",
+    "indent_level": 2,
+    "reference_url": "Página 253 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_3_2.pdf": {
+    "document_title": "Real-world applications",
+    "indent_level": 2,
+    "reference_url": "Página 254 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_4.pdf": {
+    "document_title": "Decision support and optimization",
+    "indent_level": 1,
+    "reference_url": "Página 256 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_4_1.pdf": {
+    "document_title": "Evolution of decision support agents",
+    "indent_level": 2,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch10_4_2.pdf": {
+    "document_title": "Real-world applications",
+    "indent_level": 2,
+    "reference_url": "Página 257 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 261 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 261 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch10_7.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 262 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 3: Essential Components of Intelligent Agents",
+    "pages": [76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [76]
+      },
+      {
+        "title": "Knowledge representation in intelligent agents",
+        "pages": [77],
+        "subsections": [
+          {
+            "title": "Semantic networks",
+            "pages": [77]
+          },
+          {
+            "title": "Frames",
+            "pages": [79]
+          },
+          {
+            "title": "Logic-based representations",
+            "pages": [80]
+          }
+        ]
+      },
+      {
+        "title": "Reasoning in intelligent agents",
+        "pages": [81],
+        "subsections": [
+          {
+            "title": "Deductive reasoning",
+            "pages": [82]
+          },
+          {
+            "title": "Inductive reasoning",
+            "pages": [83]
+          },
+          {
+            "title": "Abductive reasoning",
+            "pages": [84]
+          }
+        ]
+      },
+      {
+        "title": "Learning mechanisms for adaptive agents",
+        "pages": [86]
+      },
+      {
+        "title": "Decision-making and planning in agentic systems",
+        "pages": [87],
+        "subsections": [
+          {
+            "title": "Utility function",
+            "pages": [88]
+          },
+          {
+            "title": "Planning algorithms",
+            "pages": [90]
+          }
+        ]
+      },
+      {
+        "title": "Enhancing agent capabilities with generative AI",
+        "pages": [93],
+        "subsections": [
+          {
+            "title": "Start building agentic AI",
+            "pages": [94]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [97]
+      },
+      {
+        "title": "Questions",
+        "pages": [97]
+      },
+      {
+        "title": "Answers",
+        "pages": [97]
+      }
+    ]
+  }
+}

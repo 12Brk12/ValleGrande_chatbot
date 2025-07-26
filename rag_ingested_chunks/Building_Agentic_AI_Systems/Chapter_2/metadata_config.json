@@ -1,0 +1,102 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 2: Principles of Agentic Systems",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 2, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 52 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 2"
+  },
+  "ch2_2.pdf": {
+    "document_title": "Understanding self-governance, agency, and autonomy",
+    "indent_level": 1,
+    "reference_url": "Página 53 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_2_1.pdf": {
+    "document_title": "Self-governance",
+    "indent_level": 2,
+    "reference_url": "Página 54 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_2_2.pdf": {
+    "document_title": "Agency",
+    "indent_level": 2,
+    "reference_url": "Página 54 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_2_3.pdf": {
+    "document_title": "Autonomy",
+    "indent_level": 2,
+    "reference_url": "Página 55 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_2_4.pdf": {
+    "document_title": "Example of agency and autonomy in agents",
+    "indent_level": 2,
+    "reference_url": "Página 57 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_3.pdf": {
+    "document_title": "Reviewing intelligent agents and their characteristics",
+    "indent_level": 1,
+    "reference_url": "Página 60 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_4.pdf": {
+    "document_title": "Exploring the architecture of agentic systems",
+    "indent_level": 1,
+    "reference_url": "Página 61 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_4_1.pdf": {
+    "document_title": "Deliberative architectures",
+    "indent_level": 2,
+    "reference_url": "Página 61 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_4_2.pdf": {
+    "document_title": "Reactive architectures",
+    "indent_level": 2,
+    "reference_url": "Página 63 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_4_3.pdf": {
+    "document_title": "Hybrid architectures",
+    "indent_level": 2,
+    "reference_url": "Página 64 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_5.pdf": {
+    "document_title": "Understanding multi-agent systems",
+    "indent_level": 1,
+    "reference_url": "Página 65 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_5_1.pdf": {
+    "document_title": "Definition and characteristics of MASs",
+    "indent_level": 2,
+    "reference_url": "Página 67 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch2_5_2.pdf": {
+    "document_title": "Interaction mechanisms in MASs",
+    "indent_level": 2,
+    "reference_url": "Página 68 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 73 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 74 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch2_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 74 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

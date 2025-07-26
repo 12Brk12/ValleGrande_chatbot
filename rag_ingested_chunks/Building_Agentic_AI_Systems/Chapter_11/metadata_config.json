@@ -1,0 +1,81 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 11: Conclusion and Future Outlook",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 11, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 264 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_1.pdf": {
+    "document_title": "Recap of key concepts",
+    "indent_level": 1,
+    "reference_url": "Página 265 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 11"
+  },
+  "ch11_2.pdf": {
+    "document_title": "Emerging trends and research directions",
+    "indent_level": 1,
+    "reference_url": "Página 266 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_2_1.pdf": {
+    "document_title": "Multi-modal intelligence – integrating diverse inputs",
+    "indent_level": 2,
+    "reference_url": "Página 266 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_2_2.pdf": {
+    "document_title": "Advanced language comprehension",
+    "indent_level": 2,
+    "reference_url": "Página 266 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_2_3.pdf": {
+    "document_title": "Experiential learning – reinforcement learning innovations",
+    "indent_level": 2,
+    "reference_url": "Página 267 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_2_4.pdf": {
+    "document_title": "Practical implications across industries",
+    "indent_level": 2,
+    "reference_url": "Página 267 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_3.pdf": {
+    "document_title": "Artificial general intelligence",
+    "indent_level": 1,
+    "reference_url": "Página 268 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_3_1.pdf": {
+    "document_title": "What makes AGI different",
+    "indent_level": 2,
+    "reference_url": "Página 268 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch11_3_2.pdf": {
+    "document_title": "The big challenge",
+    "indent_level": 2,
+    "reference_url": "Página 268 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_3_3.pdf": {
+    "document_title": "Learning to learn",
+    "indent_level": 2,
+    "reference_url": "Página 268 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_3_4.pdf": {
+    "document_title": "Real-world understanding",
+    "indent_level": 2,
+    "reference_url": "Página 269 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_4.pdf": {
+    "document_title": "Challenges and opportunities",
+    "indent_level": 1,
+    "reference_url": "Página 270 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch11_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 271 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

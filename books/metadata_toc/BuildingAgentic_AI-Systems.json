@@ -1,0 +1,956 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "topic": "GenAI",
+  "toc": [
+    {
+      "title": "Cover",
+      "pages": [1,2]
+    },
+    {
+      "title": "Copyright",
+      "pages": [3,4]
+    },
+    {
+      "title": "Foreword",
+      "pages": [5,6]
+    },
+    {
+      "title": "Foreword 2",
+      "pages": [7]
+    },
+    {
+      "title": "Contributors",
+      "pages": [8,9,10,11,12,13]
+    },
+    {
+      "title": "Table of Contents",
+      "pages": [14,15,16,17,18,19]
+    },
+    {
+      "title": "Preface",
+      "pages": [20,21,22,23,24,25]
+    },
+    {
+      "title": "Part 1: Foundations of Generative AI and Agentic Systems",
+      "pages": [26,27]
+    },
+    {
+      "title": "Chapter 1: Fundamentals of Generative AI",
+      "pages": [28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51],
+      "subsections": [
+        {
+          "title": "Introduction to generative AI",
+          "pages": [28]
+        },
+        {
+          "title": "Types of generative AI models",
+          "pages": [29,30,31,32,33,34,35,36,37,38,39,40],
+          "subsections": [
+            {
+              "title": "VAEs",
+              "pages": [30]
+            },
+            {
+              "title": "GANs",
+              "pages": [31]
+            },
+            {
+              "title": "Autoregressive models and Transformer architecture",
+              "pages": [32,33,34]
+            },
+            {
+              "title": "LLM-powered AI agents",
+              "pages": [35,36,37,38,39,40]
+            }
+          ]
+        },
+        {
+          "title": "Applications of generative AI",
+          "pages": [41,42,43,44]
+        },
+        {
+          "title": "Challenges and limitations of generative AI",
+          "pages": [45,46,47],
+          "subsections": [
+            {
+              "title": "Quality of data and bias",
+              "pages": [46]
+            },
+            {
+              "title": "Data privacy",
+              "pages": [46]
+            },
+            {
+              "title": "Computational resources",
+              "pages": [47]
+            },
+            {
+              "title": "Ethical and social implications",
+              "pages": [48]
+            },
+            {
+              "title": "Generalization and creativity",
+              "pages": [48]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [48]
+        },
+        {
+          "title": "Questions",
+          "pages": [49]
+        },
+        {
+          "title": "Answers",
+          "pages": [49]
+        },
+        {
+          "title": "Further reading",
+          "pages": [49]
+        },
+        {
+          "title": "References",
+          "pages": [49,50,51]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Principles of Agentic Systems",
+      "pages": [52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [53]
+        },
+        {
+          "title": "Understanding self-governance, agency, and autonomy",
+          "pages": [53,54,55,56,57,58,59],
+          "subsections": [
+            {
+              "title": "Self-governance",
+              "pages": [54]
+            },
+            {
+              "title": "Agency",
+              "pages": [54]
+            },
+            {
+              "title": "Autonomy",
+              "pages": [55,56]
+            },
+            {
+              "title": "Example of agency and autonomy in agents",
+              "pages": [57,58,59]
+            }
+          ]
+        },
+        {
+          "title": "Reviewing intelligent agents and their characteristics",
+          "pages": [60]
+        },
+        {
+          "title": "Exploring the architecture of agentic systems",
+          "pages": [61,62,63,64],
+          "subsections": [
+            {
+              "title": "Deliberative architectures",
+              "pages": [61,62]
+            },
+            {
+              "title": "Reactive architectures",
+              "pages": [63]
+            },
+            {
+              "title": "Hybrid architectures",
+              "pages": [64]
+            }
+          ]
+        },
+        {
+          "title": "Understanding multi-agent systems",
+          "pages": [65,66,67,68,69,70,71,72],
+          "subsections": [
+            {
+              "title": "Definition and characteristics of MASs",
+              "pages": [67]
+            },
+            {
+              "title": "Interaction mechanisms in MASs",
+              "pages": [68,69,70,71,72]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [73]
+        },
+        {
+          "title": "Questions",
+          "pages": [74]
+        },
+        {
+          "title": "Answers",
+          "pages": [74,75]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Essential Components of Intelligent Agents",
+      "pages": [76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [76]
+        },
+        {
+          "title": "Knowledge representation in intelligent agents",
+          "pages": [77,78,79,80],
+          "subsections": [
+            {
+              "title": "Semantic networks",
+              "pages": [77,78]
+            },
+            {
+              "title": "Frames",
+              "pages": [79]
+            },
+            {
+              "title": "Logic-based representations",
+              "pages": [80]
+            }
+          ]
+        },
+        {
+          "title": "Reasoning in intelligent agents",
+          "pages": [81,82,83,84,85],
+          "subsections": [
+            {
+              "title": "Deductive reasoning",
+              "pages": [82]
+            },
+            {
+              "title": "Inductive reasoning",
+              "pages": [83]
+            },
+            {
+              "title": "Abductive reasoning",
+              "pages": [84,85]
+            }
+          ]
+        },
+        {
+          "title": "Learning mechanisms for adaptive agents",
+          "pages": [86]
+        },
+        {
+          "title": "Decision-making and planning in agentic systems",
+          "pages": [87,88,89,90,91,92],
+          "subsections": [
+            {
+              "title": "Utility function",
+              "pages": [88,89]
+            },
+            {
+              "title": "Planning algorithms",
+              "pages": [90,91,92]
+            }
+          ]
+        },
+        {
+          "title": "Enhancing agent capabilities with generative AI",
+          "pages": [93,94,95,96],
+          "subsections": [
+            {
+              "title": "Start building agentic AI",
+              "pages": [94,95,96]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [97]
+        },
+        {
+          "title": "Questions",
+          "pages": [97]
+        },
+        {
+          "title": "Answers",
+          "pages": [97,98,99]
+        }
+      ]
+    },
+    {
+      "title": "Part 2: Designing and Implementing Generative AI-Based Agents",
+      "pages": [100,101]
+    },
+    {
+      "title": "Chapter 4: Reflection and Introspection in Agents",
+      "pages": [102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [103]
+        },
+        {
+          "title": "The importance of reflection in agents",
+          "pages": [103,104,105,106],
+          "subsections": [
+            {
+              "title": "Enhanced decision-making",
+              "pages": [103]
+            },
+            {
+              "title": "Adaptation",
+              "pages": [104]
+            },
+            {
+              "title": "Ethical consideration",
+              "pages": [105]
+            },
+            {
+              "title": "Human-computer interaction",
+              "pages": [106]
+            }
+          ]
+        },
+        {
+          "title": "Introspection in intelligent agents",
+          "pages": [107]
+        },
+        {
+          "title": "Implementing reflective capabilities",
+          "pages": [108,109,110,111,112,113,114,115,116,117,118,119,120,121,122],
+          "subsections": [
+            {
+              "title": "Traditional reasoning",
+              "pages": [108]
+            },
+            {
+              "title": "Meta-reasoning",
+              "pages": [108,109,110,111,112,113,114,115,116]
+            },
+            {
+              "title": "Self-explanation",
+              "pages": [117,118,119,120]
+            },
+            {
+              "title": "Self-modeling",
+              "pages": [121,122]
+            }
+          ]
+        },
+        {
+          "title": "Use cases and examples",
+          "pages": [123,124,125,126,127],
+          "subsections": [
+            {
+              "title": "Customer service chatbots",
+              "pages": [123]
+            },
+            {
+              "title": "Personal marketing agents",
+              "pages": [124]
+            },
+            {
+              "title": "Financial trading systems",
+              "pages": [125]
+            },
+            {
+              "title": "Forecast agents",
+              "pages": [126]
+            },
+            {
+              "title": "Price strategies in e-commerce",
+              "pages": [127]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [128]
+        },
+        {
+          "title": "Questions",
+          "pages": [129]
+        },
+        {
+          "title": "Answers",
+          "pages": [129,130,131]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Enabling Tool Use and Planning in Agents",
+      "pages": [132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [133]
+        },
+        {
+          "title": "Understanding the concept of tool use in agents",
+          "pages": [133,134,135,136,137,138,139,140,141],
+          "subsections": [
+            {
+              "title": "Tool and function calling",
+              "pages": [134,135]
+            },
+            {
+              "title": "Defining tools for agents",
+              "pages": [136,137]
+            },
+            {
+              "title": "Types of tools",
+              "pages": [138,139,140]
+            },
+            {
+              "title": "The significance of tools in agentic systems",
+              "pages": [141]
+            }
+          ]
+        },
+        {
+          "title": "Planning algorithms for agents",
+          "pages": [142,143,144,145,146,147,148,149,150],
+          "subsections": [
+            {
+              "title": "Less practical planning algorithms",
+              "pages": [142]
+            },
+            {
+              "title": "Moderately practical planning algorithm – FF",
+              "pages": [143]
+            },
+            {
+              "title": "Most practical planning algorithms",
+              "pages": [144,145,146,147,148,149,150]
+            }
+          ]
+        },
+        {
+          "title": "Integrating tool use and planning",
+          "pages": [151,152,153],
+          "subsections": [
+            {
+              "title": "Reasoning about tools",
+              "pages": [151,152]
+            },
+            {
+              "title": "Planning for tool use",
+              "pages": [153]
+            }
+          ]
+        },
+        {
+          "title": "Exploring practical implementations",
+          "pages": [154,155,156,157,158],
+          "subsections": [
+            {
+              "title": "CrewAI example",
+              "pages": [154]
+            },
+            {
+              "title": "AutoGen example",
+              "pages": [155,156]
+            },
+            {
+              "title": "LangGraph example",
+              "pages": [157,158]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [159]
+        },
+        {
+          "title": "Questions",
+          "pages": [160]
+        },
+        {
+          "title": "Answers",
+          "pages": [160,161]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6: Exploring the Coordinator, Worker, and Delegator Approach",
+      "pages": [162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [163]
+        },
+        {
+          "title": "Understanding the CWD model",
+          "pages": [163,164,165,166,167],
+          "subsections": [
+            {
+              "title": "Key principles of the CWD model",
+              "pages": [165]
+            },
+            {
+              "title": "The CWD model for the intelligent travel agent",
+              "pages": [166,167]
+            }
+          ]
+        },
+        {
+          "title": "Designing agents with role assignments",
+          "pages": [168,169,170,171,172,173,174,175],
+          "subsections": [
+            {
+              "title": "Roles and responsibilities of each agent",
+              "pages": [171,172,173,174,175]
+            }
+          ]
+        },
+        {
+          "title": "Communication and collaboration between agents",
+          "pages": [176,177,178],
+          "subsections": [
+            {
+              "title": "Communication",
+              "pages": [177]
+            },
+            {
+              "title": "Coordination mechanism",
+              "pages": [177]
+            },
+            {
+              "title": "Negotiation and conflict resolution",
+              "pages": [177]
+            },
+            {
+              "title": "Knowledge sharing",
+              "pages": [178]
+            }
+          ]
+        },
+        {
+          "title": "Implementing the CWD approach in generative AI systems",
+          "pages": [179,180,181],
+          "subsections": [
+            {
+              "title": "System prompts and agent behavior",
+              "pages": [179]
+            },
+            {
+              "title": "Instruction formatting",
+              "pages": [180]
+            },
+            {
+              "title": "Interaction patterns",
+              "pages": [181]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [182]
+        },
+        {
+          "title": "Questions",
+          "pages": [182]
+        },
+        {
+          "title": "Answers",
+          "pages": [183,184,185]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7: Effective Agentic System Design Techniques",
+      "pages": [186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [186]
+        },
+        {
+          "title": "Focused system prompts and instructions for agents",
+          "pages": [187,188,189,190,191],
+          "subsections": [
+            {
+              "title": "Defining objectives",
+              "pages": [187]
+            },
+            {
+              "title": "Task specifications",
+              "pages": [188,189]
+            },
+            {
+              "title": "Contextual awareness",
+              "pages": [190,191]
+            }
+          ]
+        },
+        {
+          "title": "State spaces and environment modeling",
+          "pages": [192,193,194,195,196,197],
+          "subsections": [
+            {
+              "title": "State space representation",
+              "pages": [192,193]
+            },
+            {
+              "title": "Environment modeling",
+              "pages": [194,195]
+            },
+            {
+              "title": "Integration and interaction patterns",
+              "pages": [196,197]
+            },
+            {
+              "title": "Monitoring and adaptation",
+              "pages": [198]
+            }
+          ]
+        },
+        {
+          "title": "Agent memory architecture and context management",
+          "pages": [198,199,200,201,202,203,204],
+          "subsections": [
+            {
+              "title": "Short-term memory (working memory)",
+              "pages": [199]
+            },
+            {
+              "title": "Long-term memory (knowledge base)",
+              "pages": [200]
+            },
+            {
+              "title": "Episodic memory (interaction history)",
+              "pages": [201]
+            },
+            {
+              "title": "Context management",
+              "pages": [202,203]
+            },
+            {
+              "title": "Integration with decision-making",
+              "pages": [204]
+            }
+          ]
+        },
+        {
+          "title": "Sequential and parallel processing in agentic workflows",
+          "pages": [205,206,207,208],
+          "subsections": [
+            {
+              "title": "Sequential processing",
+              "pages": [205]
+            },
+            {
+              "title": "Parallel processing",
+              "pages": [206]
+            },
+            {
+              "title": "Workflow optimization",
+              "pages": [207,208]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [209]
+        },
+        {
+          "title": "Questions",
+          "pages": [209]
+        },
+        {
+          "title": "Answers",
+          "pages": [210,211]
+        }
+      ]
+    },
+    {
+      "title": "Part 3: Trust, Safety, Ethics, and Applications",
+      "pages": [212,213]
+    },
+    {
+      "title": "Chapter 8: Building Trust in Generative AI Systems",
+      "pages": [214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229],
+      "subsections": [
+        {
+          "title": "Technical requirements",
+          "pages": [215]
+        },
+        {
+          "title": "Importance of trust in AI",
+          "pages": [215]
+        },
+        {
+          "title": "Techniques for establishing trust",
+          "pages": [216,217,218,219,220,221,222,223,224],
+          "subsections": [
+            {
+              "title": "Transparency and explainability",
+              "pages": [216,217,218,219,220]
+            },
+            {
+              "title": "Dealing with uncertainty and biases",
+              "pages": [221]
+            },
+            {
+              "title": "Effective output communication",
+              "pages": [222]
+            },
+            {
+              "title": "User control and consent",
+              "pages": [223]
+            },
+            {
+              "title": "Ethical development and responsibility",
+              "pages": [224]
+            }
+          ]
+        },
+        {
+          "title": "Implementing transparency and explainability",
+          "pages": [225]
+        },
+        {
+          "title": "Handling uncertainty and biases",
+          "pages": [226]
+        },
+        {
+          "title": "Summary",
+          "pages": [227]
+        },
+        {
+          "title": "Questions",
+          "pages": [228]
+        },
+        {
+          "title": "Answers",
+          "pages": [228,229]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 9: Managing Safety and Ethical Considerations",
+      "pages": [230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245],
+      "subsections": [
+        {
+          "title": "Understanding potential risks and challenges",
+          "pages": [231,232,233,234,235,236],
+          "subsections": [
+            {
+              "title": "Adversarial attacks",
+              "pages": [231]
+            },
+            {
+              "title": "Bias and discrimination",
+              "pages": [232]
+            },
+            {
+              "title": "Misinformation and hallucinations",
+              "pages": [233]
+            },
+            {
+              "title": "Data privacy violations",
+              "pages": [234]
+            },
+            {
+              "title": "Intellectual property risks",
+              "pages": [235,236]
+            }
+          ]
+        },
+        {
+          "title": "Ensuring safe and responsible AI",
+          "pages": [237,238,239,240]
+        },
+        {
+          "title": "Exploring ethical guidelines and frameworks",
+          "pages": [241],
+          "subsections": [
+            {
+              "title": "Human-centric design",
+              "pages": [241]
+            },
+            {
+              "title": "Accountability and responsibility",
+              "pages": [241]
+            },
+            {
+              "title": "Privacy and data protection",
+              "pages": [241]
+            },
+            {
+              "title": "Involvement of diverse stakeholders",
+              "pages": [242]
+            }
+          ]
+        },
+        {
+          "title": "Addressing privacy and security concerns",
+          "pages": [242]
+        },
+        {
+          "title": "Summary",
+          "pages": [243]
+        },
+        {
+          "title": "Questions",
+          "pages": [244]
+        },
+        {
+          "title": "Answers",
+          "pages": [244,245]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10: Common Use Cases and Applications",
+      "pages": [246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263],
+      "subsections": [
+        {
+          "title": "Creative and artistic applications",
+          "pages": [247,248,249],
+          "subsections": [
+            {
+              "title": "Evolution of creative and artistic agents",
+              "pages": [247]
+            },
+            {
+              "title": "Real-world applications",
+              "pages": [248,249]
+            }
+          ]
+        },
+        {
+          "title": "Natural language processing and conversational agents",
+          "pages": [250,251,252],
+          "subsections": [
+            {
+              "title": "Evolution of language agents",
+              "pages": [250]
+            },
+            {
+              "title": "Real-world applications",
+              "pages": [251,252]
+            }
+          ]
+        },
+        {
+          "title": "Robotics and autonomous systems",
+          "pages": [253,254,255],
+          "subsections": [
+            {
+              "title": "Evolution of robotic agents",
+              "pages": [253]
+            },
+            {
+              "title": "Real-world applications",
+              "pages": [254,255]
+            }
+          ]
+        },
+        {
+          "title": "Decision support and optimization",
+          "pages": [256,257,258,259,260],
+          "subsections": [
+            {
+              "title": "Evolution of decision support agents",
+              "pages": [257]
+            },
+            {
+              "title": "Real-world applications",
+              "pages": [257,258,259,260]
+            }
+          ]
+        },
+        {
+          "title": "Summary",
+          "pages": [261]
+        },
+        {
+          "title": "Questions",
+          "pages": [261]
+        },
+        {
+          "title": "Answers",
+          "pages": [262,263]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11: Conclusion and Future Outlook",
+      "pages": [264,265,266,267,268,269,270,271,272,273],
+      "subsections": [
+        {
+          "title": "Recap of key concepts",
+          "pages": [265]
+        },
+        {
+          "title": "Emerging trends and research directions",
+          "pages": [266,267],
+          "subsections": [
+            {
+              "title": "Multi-modal intelligence – integrating diverse inputs",
+              "pages": [266]
+            },
+            {
+              "title": "Advanced language comprehension",
+              "pages": [266]
+            },
+            {
+              "title": "Experiential learning – reinforcement learning innovations",
+              "pages": [267]
+            },
+            {
+              "title": "Practical implications across industries",
+              "pages": [267]
+            }
+          ]
+        },
+        {
+          "title": "Artificial general intelligence",
+          "pages": [268,269],
+          "subsections": [
+            {
+              "title": "What makes AGI different",
+              "pages": [268]
+            },
+            {
+              "title": "The big challenge",
+              "pages": [268]
+            },
+            {
+              "title": "Learning to learn",
+              "pages": [268]
+            },
+            {
+              "title": "Real-world understanding",
+              "pages": [269]
+            }
+          ]
+        },
+        {
+          "title": "Challenges and opportunities",
+          "pages": [270]
+        },
+        {
+          "title": "Summary",
+          "pages": [271,272,273]
+        }
+      ]
+    },
+    {
+      "title": "Index",
+      "pages": [274,275,276,277,278,279,280,281,282,283,284]
+    },
+    {
+      "title": "Other Books You May Enjoy",
+      "pages": [285,286,287,288,289]
+    }
+  ]
+}

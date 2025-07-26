@@ -1,0 +1,108 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 3: Essential Components of Intelligent Agents",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 3, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 76 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 3"
+  },
+  "ch3_2.pdf": {
+    "document_title": "Knowledge representation in intelligent agents",
+    "indent_level": 1,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_2_1.pdf": {
+    "document_title": "Semantic networks",
+    "indent_level": 2,
+    "reference_url": "Página 77 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_2_2.pdf": {
+    "document_title": "Frames",
+    "indent_level": 2,
+    "reference_url": "Página 79 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_2_3.pdf": {
+    "document_title": "Logic-based representations",
+    "indent_level": 2,
+    "reference_url": "Página 80 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_3.pdf": {
+    "document_title": "Reasoning in intelligent agents",
+    "indent_level": 1,
+    "reference_url": "Página 81 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_3_1.pdf": {
+    "document_title": "Deductive reasoning",
+    "indent_level": 2,
+    "reference_url": "Página 82 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_3_2.pdf": {
+    "document_title": "Inductive reasoning",
+    "indent_level": 2,
+    "reference_url": "Página 83 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_3_3.pdf": {
+    "document_title": "Abductive reasoning",
+    "indent_level": 2,
+    "reference_url": "Página 84 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_4.pdf": {
+    "document_title": "Learning mechanisms for adaptive agents",
+    "indent_level": 1,
+    "reference_url": "Página 86 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_5.pdf": {
+    "document_title": "Decision-making and planning in agentic systems",
+    "indent_level": 1,
+    "reference_url": "Página 87 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_5_1.pdf": {
+    "document_title": "Utility function",
+    "indent_level": 2,
+    "reference_url": "Página 88 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_5_2.pdf": {
+    "document_title": "Planning algorithms",
+    "indent_level": 2,
+    "reference_url": "Página 90 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_6.pdf": {
+    "document_title": "Enhancing agent capabilities with generative AI",
+    "indent_level": 1,
+    "reference_url": "Página 93 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_6_1.pdf": {
+    "document_title": "Start building agentic AI",
+    "indent_level": 2,
+    "reference_url": "Página 94 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch3_7.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_8.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch3_9.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 97 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

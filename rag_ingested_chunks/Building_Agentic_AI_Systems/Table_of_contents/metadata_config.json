@@ -1,0 +1,57 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Tabla de Contenidos del libro",
+    "tags": [
+      "Contiene los nombres de los capítulos que contiene el libro, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Usado frecuentemente para saber que cuantos capitulos contiene este libro, mas no contiene información de sus secciones y subsecciones",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs contienen información de las secciones y subsecciones de su respectivo capitulo"
+  },
+  "about_chapter_1.pdf": {
+    "document_title": "Chapter 1: Fundamentals of Generative AI",
+    "reference_url": "Página 28 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_2.pdf": {
+    "document_title": "Chapter 2: Principles of Agentic Systems",
+    "reference_url": "Página 52 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_3.pdf": {
+    "document_title": "Chapter 3: Essential Components of Intelligent Agents",
+    "reference_url": "Página 76 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_4.pdf": {
+    "document_title": "Chapter 4: Reflection and Introspection in Agents",
+    "reference_url": "Página 102 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_5.pdf": {
+    "document_title": "Chapter 5: Enabling Tool Use and Planning in Agents",
+    "reference_url": "Página 132 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_6.pdf": {
+    "document_title": "Chapter 6: Exploring the Coordinator, Worker, and Delegator Approach",
+    "reference_url": "Página 162 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_7.pdf": {
+    "document_title": "Chapter 7: Effective Agentic System Design Techniques",
+    "reference_url": "Página 186 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_8.pdf": {
+    "document_title": "Chapter 8: Building Trust in Generative AI Systems",
+    "reference_url": "Página 214 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_9.pdf": {
+    "document_title": "Chapter 9: Managing Safety and Ethical Considerations",
+    "reference_url": "Página 230 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_10.pdf": {
+    "document_title": "Chapter 10: Common Use Cases and Applications",
+    "reference_url": "Página 246 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "about_chapter_11.pdf": {
+    "document_title": "Chapter 11: Conclusion and Future Outlook",
+    "reference_url": "Página 264 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

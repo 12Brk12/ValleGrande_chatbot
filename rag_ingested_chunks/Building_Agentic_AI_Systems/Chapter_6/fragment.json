@@ -1,0 +1,91 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 6: Exploring the Coordinator, Worker, and Delegator Approach",
+    "pages": [162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [163]
+      },
+      {
+        "title": "Understanding the CWD model",
+        "pages": [163],
+        "subsections": [
+          {
+            "title": "Key principles of the CWD model",
+            "pages": [165]
+          },
+          {
+            "title": "The CWD model for the intelligent travel agent",
+            "pages": [166]
+          }
+        ]
+      },
+      {
+        "title": "Designing agents with role assignments",
+        "pages": [168],
+        "subsections": [
+          {
+            "title": "Roles and responsibilities of each agent",
+            "pages": [171]
+          }
+        ]
+      },
+      {
+        "title": "Communication and collaboration between agents",
+        "pages": [176],
+        "subsections": [
+          {
+            "title": "Communication",
+            "pages": [177]
+          },
+          {
+            "title": "Coordination mechanism",
+            "pages": [177]
+          },
+          {
+            "title": "Negotiation and conflict resolution",
+            "pages": [177]
+          },
+          {
+            "title": "Knowledge sharing",
+            "pages": [178]
+          }
+        ]
+      },
+      {
+        "title": "Implementing the CWD approach in generative AI systems",
+        "pages": [179],
+        "subsections": [
+          {
+            "title": "System prompts and agent behavior",
+            "pages": [179]
+          },
+          {
+            "title": "Instruction formatting",
+            "pages": [180]
+          },
+          {
+            "title": "Interaction patterns",
+            "pages": [181]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [182]
+      },
+      {
+        "title": "Questions",
+        "pages": [182]
+      },
+      {
+        "title": "Answers",
+        "pages": [183]
+      }
+    ]
+  }
+}

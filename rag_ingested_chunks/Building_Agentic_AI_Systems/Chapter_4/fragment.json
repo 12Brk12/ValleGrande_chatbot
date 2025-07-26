@@ -1,0 +1,101 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 4: Reflection and Introspection in Agents",
+    "pages": [102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [103]
+      },
+      {
+        "title": "The importance of reflection in agents",
+        "pages": [103],
+        "subsections": [
+          {
+            "title": "Enhanced decision-making",
+            "pages": [103]
+          },
+          {
+            "title": "Adaptation",
+            "pages": [104]
+          },
+          {
+            "title": "Ethical consideration",
+            "pages": [105]
+          },
+          {
+            "title": "Human-computer interaction",
+            "pages": [106]
+          }
+        ]
+      },
+      {
+        "title": "Introspection in intelligent agents",
+        "pages": [107]
+      },
+      {
+        "title": "Implementing reflective capabilities",
+        "pages": [108],
+        "subsections": [
+          {
+            "title": "Traditional reasoning",
+            "pages": [108]
+          },
+          {
+            "title": "Meta-reasoning",
+            "pages": [108]
+          },
+          {
+            "title": "Self-explanation",
+            "pages": [117]
+          },
+          {
+            "title": "Self-modeling",
+            "pages": [121]
+          }
+        ]
+      },
+      {
+        "title": "Use cases and examples",
+        "pages": [123],
+        "subsections": [
+          {
+            "title": "Customer service chatbots",
+            "pages": [123]
+          },
+          {
+            "title": "Personal marketing agents",
+            "pages": [124]
+          },
+          {
+            "title": "Financial trading systems",
+            "pages": [125]
+          },
+          {
+            "title": "Forecast agents",
+            "pages": [126]
+          },
+          {
+            "title": "Price strategies in e-commerce",
+            "pages": [127]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [128]
+      },
+      {
+        "title": "Questions",
+        "pages": [129]
+      },
+      {
+        "title": "Answers",
+        "pages": [129]
+      }
+    ]
+  }
+}

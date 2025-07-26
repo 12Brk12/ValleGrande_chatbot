@@ -1,0 +1,133 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 7: Effective Agentic System Design Techniques",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 7, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 186 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_1.pdf": {
+    "document_title": "Technical requirements",
+    "indent_level": 1,
+    "reference_url": "Página 186 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 7"
+  },
+  "ch7_2.pdf": {
+    "document_title": "Focused system prompts and instructions for agents",
+    "indent_level": 1,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_2_1.pdf": {
+    "document_title": "Defining objectives",
+    "indent_level": 2,
+    "reference_url": "Página 187 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_2_2.pdf": {
+    "document_title": "Task specifications",
+    "indent_level": 2,
+    "reference_url": "Página 188 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_2_3.pdf": {
+    "document_title": "Contextual awareness",
+    "indent_level": 2,
+    "reference_url": "Página 190 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_3.pdf": {
+    "document_title": "State spaces and environment modeling",
+    "indent_level": 1,
+    "reference_url": "Página 192 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_3_1.pdf": {
+    "document_title": "State space representation",
+    "indent_level": 2,
+    "reference_url": "Página 192 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_3_2.pdf": {
+    "document_title": "Environment modeling",
+    "indent_level": 2,
+    "reference_url": "Página 194 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_3_3.pdf": {
+    "document_title": "Integration and interaction patterns",
+    "indent_level": 2,
+    "reference_url": "Página 196 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_3_4.pdf": {
+    "document_title": "Monitoring and adaptation",
+    "indent_level": 2,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_4.pdf": {
+    "document_title": "Agent memory architecture and context management",
+    "indent_level": 1,
+    "reference_url": "Página 198 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_4_1.pdf": {
+    "document_title": "Short-term memory (working memory)",
+    "indent_level": 2,
+    "reference_url": "Página 199 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_4_2.pdf": {
+    "document_title": "Long-term memory (knowledge base)",
+    "indent_level": 2,
+    "reference_url": "Página 200 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_4_3.pdf": {
+    "document_title": "Episodic memory (interaction history)",
+    "indent_level": 2,
+    "reference_url": "Página 201 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_4_4.pdf": {
+    "document_title": "Context management",
+    "indent_level": 2,
+    "reference_url": "Página 202 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_4_5.pdf": {
+    "document_title": "Integration with decision-making",
+    "indent_level": 2,
+    "reference_url": "Página 204 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_5.pdf": {
+    "document_title": "Sequential and parallel processing in agentic workflows",
+    "indent_level": 1,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_5_1.pdf": {
+    "document_title": "Sequential processing",
+    "indent_level": 2,
+    "reference_url": "Página 205 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch7_5_2.pdf": {
+    "document_title": "Parallel processing",
+    "indent_level": 2,
+    "reference_url": "Página 206 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_5_3.pdf": {
+    "document_title": "Workflow optimization",
+    "indent_level": 2,
+    "reference_url": "Página 207 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_6.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_7.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 209 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch7_8.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 210 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

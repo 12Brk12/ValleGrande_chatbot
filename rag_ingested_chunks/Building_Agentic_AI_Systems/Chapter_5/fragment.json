@@ -1,0 +1,99 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 5: Enabling Tool Use and Planning in Agents",
+    "pages": [132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [133]
+      },
+      {
+        "title": "Understanding the concept of tool use in agents",
+        "pages": [133],
+        "subsections": [
+          {
+            "title": "Tool and function calling",
+            "pages": [134]
+          },
+          {
+            "title": "Defining tools for agents",
+            "pages": [136]
+          },
+          {
+            "title": "Types of tools",
+            "pages": [138]
+          },
+          {
+            "title": "The significance of tools in agentic systems",
+            "pages": [141]
+          }
+        ]
+      },
+      {
+        "title": "Planning algorithms for agents",
+        "pages": [142],
+        "subsections": [
+          {
+            "title": "Less practical planning algorithms",
+            "pages": [142]
+          },
+          {
+            "title": "Moderately practical planning algorithm – FF",
+            "pages": [143]
+          },
+          {
+            "title": "Most practical planning algorithms",
+            "pages": [144]
+          }
+        ]
+      },
+      {
+        "title": "Integrating tool use and planning",
+        "pages": [151],
+        "subsections": [
+          {
+            "title": "Reasoning about tools",
+            "pages": [151]
+          },
+          {
+            "title": "Planning for tool use",
+            "pages": [153]
+          }
+        ]
+      },
+      {
+        "title": "Exploring practical implementations",
+        "pages": [154],
+        "subsections": [
+          {
+            "title": "CrewAI example",
+            "pages": [154]
+          },
+          {
+            "title": "AutoGen example",
+            "pages": [155]
+          },
+          {
+            "title": "LangGraph example",
+            "pages": [157]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [159]
+      },
+      {
+        "title": "Questions",
+        "pages": [160]
+      },
+      {
+        "title": "Answers",
+        "pages": [160]
+      }
+    ]
+  }
+}

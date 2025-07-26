@@ -1,0 +1,87 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 1: Fundamentals of Generative AI",
+    "pages": [28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51],
+    "subsections": [
+      {
+        "title": "Introduction to generative AI",
+        "pages": [28]
+      },
+      {
+        "title": "Types of generative AI models",
+        "pages": [29],
+        "subsections": [
+          {
+            "title": "VAEs",
+            "pages": [30]
+          },
+          {
+            "title": "GANs",
+            "pages": [31]
+          },
+          {
+            "title": "Autoregressive models and Transformer architecture",
+            "pages": [32]
+          },
+          {
+            "title": "LLM-powered AI agents",
+            "pages": [35]
+          }
+        ]
+      },
+      {
+        "title": "Applications of generative AI",
+        "pages": [41]
+      },
+      {
+        "title": "Challenges and limitations of generative AI",
+        "pages": [45],
+        "subsections": [
+          {
+            "title": "Quality of data and bias",
+            "pages": [46]
+          },
+          {
+            "title": "Data privacy",
+            "pages": [46]
+          },
+          {
+            "title": "Computational resources",
+            "pages": [47]
+          },
+          {
+            "title": "Ethical and social implications",
+            "pages": [48]
+          },
+          {
+            "title": "Generalization and creativity",
+            "pages": [48]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [48]
+      },
+      {
+        "title": "Questions",
+        "pages": [49]
+      },
+      {
+        "title": "Answers",
+        "pages": [49]
+      },
+      {
+        "title": "Further reading",
+        "pages": [49]
+      },
+      {
+        "title": "References",
+        "pages": [49]
+      }
+    ]
+  }
+}

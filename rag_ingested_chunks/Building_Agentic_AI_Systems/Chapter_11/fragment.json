@@ -1,0 +1,67 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 11: Conclusion and Future Outlook",
+    "pages": [264,265,266,267,268,269,270,271,272,273],
+    "subsections": [
+      {
+        "title": "Recap of key concepts",
+        "pages": [265]
+      },
+      {
+        "title": "Emerging trends and research directions",
+        "pages": [266],
+        "subsections": [
+          {
+            "title": "Multi-modal intelligence – integrating diverse inputs",
+            "pages": [266]
+          },
+          {
+            "title": "Advanced language comprehension",
+            "pages": [266]
+          },
+          {
+            "title": "Experiential learning – reinforcement learning innovations",
+            "pages": [267]
+          },
+          {
+            "title": "Practical implications across industries",
+            "pages": [267]
+          }
+        ]
+      },
+      {
+        "title": "Artificial general intelligence",
+        "pages": [268],
+        "subsections": [
+          {
+            "title": "What makes AGI different",
+            "pages": [268]
+          },
+          {
+            "title": "The big challenge",
+            "pages": [268]
+          },
+          {
+            "title": "Learning to learn",
+            "pages": [268]
+          },
+          {
+            "title": "Real-world understanding",
+            "pages": [269]
+          }
+        ]
+      },
+      {
+        "title": "Challenges and opportunities",
+        "pages": [270]
+      },
+      {
+        "title": "Summary",
+        "pages": [271]
+      }
+    ]
+  }
+}

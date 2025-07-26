@@ -1,0 +1,79 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 9: Managing Safety and Ethical Considerations",
+    "pages": [230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245],
+    "subsections": [
+      {
+        "title": "Understanding potential risks and challenges",
+        "pages": [231],
+        "subsections": [
+          {
+            "title": "Adversarial attacks",
+            "pages": [231]
+          },
+          {
+            "title": "Bias and discrimination",
+            "pages": [232]
+          },
+          {
+            "title": "Misinformation and hallucinations",
+            "pages": [233]
+          },
+          {
+            "title": "Data privacy violations",
+            "pages": [234]
+          },
+          {
+            "title": "Intellectual property risks",
+            "pages": [235]
+          }
+        ]
+      },
+      {
+        "title": "Ensuring safe and responsible AI",
+        "pages": [237]
+      },
+      {
+        "title": "Exploring ethical guidelines and frameworks",
+        "pages": [241],
+        "subsections": [
+          {
+            "title": "Human-centric design",
+            "pages": [241]
+          },
+          {
+            "title": "Accountability and responsibility",
+            "pages": [241]
+          },
+          {
+            "title": "Privacy and data protection",
+            "pages": [241]
+          },
+          {
+            "title": "Involvement of diverse stakeholders",
+            "pages": [242]
+          }
+        ]
+      },
+      {
+        "title": "Addressing privacy and security concerns",
+        "pages": [242]
+      },
+      {
+        "title": "Summary",
+        "pages": [243]
+      },
+      {
+        "title": "Questions",
+        "pages": [244]
+      },
+      {
+        "title": "Answers",
+        "pages": [244]
+      }
+    ]
+  }
+}

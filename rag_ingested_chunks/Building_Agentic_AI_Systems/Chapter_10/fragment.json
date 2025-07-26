@@ -1,0 +1,79 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 10: Common Use Cases and Applications",
+    "pages": [246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263],
+    "subsections": [
+      {
+        "title": "Creative and artistic applications",
+        "pages": [247],
+        "subsections": [
+          {
+            "title": "Evolution of creative and artistic agents",
+            "pages": [247]
+          },
+          {
+            "title": "Real-world applications",
+            "pages": [248]
+          }
+        ]
+      },
+      {
+        "title": "Natural language processing and conversational agents",
+        "pages": [250],
+        "subsections": [
+          {
+            "title": "Evolution of language agents",
+            "pages": [250]
+          },
+          {
+            "title": "Real-world applications",
+            "pages": [251]
+          }
+        ]
+      },
+      {
+        "title": "Robotics and autonomous systems",
+        "pages": [253],
+        "subsections": [
+          {
+            "title": "Evolution of robotic agents",
+            "pages": [253]
+          },
+          {
+            "title": "Real-world applications",
+            "pages": [254]
+          }
+        ]
+      },
+      {
+        "title": "Decision support and optimization",
+        "pages": [256],
+        "subsections": [
+          {
+            "title": "Evolution of decision support agents",
+            "pages": [257]
+          },
+          {
+            "title": "Real-world applications",
+            "pages": [257]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [261]
+      },
+      {
+        "title": "Questions",
+        "pages": [261]
+      },
+      {
+        "title": "Answers",
+        "pages": [262]
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 8: Building Trust in Generative AI Systems",
+    "pages": [214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [215]
+      },
+      {
+        "title": "Importance of trust in AI",
+        "pages": [215]
+      },
+      {
+        "title": "Techniques for establishing trust",
+        "pages": [216],
+        "subsections": [
+          {
+            "title": "Transparency and explainability",
+            "pages": [216]
+          },
+          {
+            "title": "Dealing with uncertainty and biases",
+            "pages": [221]
+          },
+          {
+            "title": "Effective output communication",
+            "pages": [222]
+          },
+          {
+            "title": "User control and consent",
+            "pages": [223]
+          },
+          {
+            "title": "Ethical development and responsibility",
+            "pages": [224]
+          }
+        ]
+      },
+      {
+        "title": "Implementing transparency and explainability",
+        "pages": [225]
+      },
+      {
+        "title": "Handling uncertainty and biases",
+        "pages": [226]
+      },
+      {
+        "title": "Summary",
+        "pages": [227]
+      },
+      {
+        "title": "Questions",
+        "pages": [228]
+      },
+      {
+        "title": "Answers",
+        "pages": [228]
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "table_of_contents.pdf": {
+    "document_title": "Chapter 9: Managing Safety and Ethical Considerations",
+    "tags": [
+      "Contiene los nombres de las secciones y subsecciones Capitulo 9, mas no información detallada de estas",
+      "También conocido como indice o tabla de contenidos",
+      "Información muy básica de lo que se espera encontrar en este capítulo",
+      "Usado para presentarse y agradecer al usuario"
+    ],
+    "indent_level": 0,
+    "reference_url": "Página 230 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_1.pdf": {
+    "document_title": "Understanding potential risks and challenges",
+    "indent_level": 1,
+    "reference_url": "Página 231 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan las secciones del Capitulo 9"
+  },
+  "ch9_1_1.pdf": {
+    "document_title": "Adversarial attacks",
+    "indent_level": 2,
+    "reference_url": "Página 231 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_1_2.pdf": {
+    "document_title": "Bias and discrimination",
+    "indent_level": 2,
+    "reference_url": "Página 232 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_1_3.pdf": {
+    "document_title": "Misinformation and hallucinations",
+    "indent_level": 2,
+    "reference_url": "Página 233 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_1_4.pdf": {
+    "document_title": "Data privacy violations",
+    "indent_level": 2,
+    "reference_url": "Página 234 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_1_5.pdf": {
+    "document_title": "Intellectual property risks",
+    "indent_level": 2,
+    "reference_url": "Página 235 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_2.pdf": {
+    "document_title": "Ensuring safe and responsible AI",
+    "indent_level": 1,
+    "reference_url": "Página 237 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_3.pdf": {
+    "document_title": "Exploring ethical guidelines and frameworks",
+    "indent_level": 1,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_3_1.pdf": {
+    "document_title": "Human-centric design",
+    "indent_level": 2,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+    "group_note": "Los siguientes .pdfs representan sus subsecciones, cada una con información detallada de estas"
+  },
+  "ch9_3_2.pdf": {
+    "document_title": "Accountability and responsibility",
+    "indent_level": 2,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_3_3.pdf": {
+    "document_title": "Privacy and data protection",
+    "indent_level": 2,
+    "reference_url": "Página 241 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_3_4.pdf": {
+    "document_title": "Involvement of diverse stakeholders",
+    "indent_level": 2,
+    "reference_url": "Página 242 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_4.pdf": {
+    "document_title": "Addressing privacy and security concerns",
+    "indent_level": 1,
+    "reference_url": "Página 242 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_5.pdf": {
+    "document_title": "Summary",
+    "indent_level": 1,
+    "reference_url": "Página 243 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_6.pdf": {
+    "document_title": "Questions",
+    "indent_level": 1,
+    "reference_url": "Página 244 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  },
+  "ch9_7.pdf": {
+    "document_title": "Answers",
+    "indent_level": 1,
+    "reference_url": "Página 244 de https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link"
+  }
+}

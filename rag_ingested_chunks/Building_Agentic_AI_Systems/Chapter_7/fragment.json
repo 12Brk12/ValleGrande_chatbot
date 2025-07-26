@@ -1,0 +1,111 @@
+{
+  "document_title": "Building Agentic AI Systems",
+  "author": "Anjanava Biswas, Wrick Talukdar",
+  "reference_url": "https://drive.google.com/file/d/10CMBqv7qmFTqsD89mG36bBDPOhfn32aX/view?usp=drive_link",
+  "toc": {
+    "title": "Chapter 7: Effective Agentic System Design Techniques",
+    "pages": [186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211],
+    "subsections": [
+      {
+        "title": "Technical requirements",
+        "pages": [186]
+      },
+      {
+        "title": "Focused system prompts and instructions for agents",
+        "pages": [187],
+        "subsections": [
+          {
+            "title": "Defining objectives",
+            "pages": [187]
+          },
+          {
+            "title": "Task specifications",
+            "pages": [188]
+          },
+          {
+            "title": "Contextual awareness",
+            "pages": [190]
+          }
+        ]
+      },
+      {
+        "title": "State spaces and environment modeling",
+        "pages": [192],
+        "subsections": [
+          {
+            "title": "State space representation",
+            "pages": [192]
+          },
+          {
+            "title": "Environment modeling",
+            "pages": [194]
+          },
+          {
+            "title": "Integration and interaction patterns",
+            "pages": [196]
+          },
+          {
+            "title": "Monitoring and adaptation",
+            "pages": [198]
+          }
+        ]
+      },
+      {
+        "title": "Agent memory architecture and context management",
+        "pages": [198],
+        "subsections": [
+          {
+            "title": "Short-term memory (working memory)",
+            "pages": [199]
+          },
+          {
+            "title": "Long-term memory (knowledge base)",
+            "pages": [200]
+          },
+          {
+            "title": "Episodic memory (interaction history)",
+            "pages": [201]
+          },
+          {
+            "title": "Context management",
+            "pages": [202]
+          },
+          {
+            "title": "Integration with decision-making",
+            "pages": [204]
+          }
+        ]
+      },
+      {
+        "title": "Sequential and parallel processing in agentic workflows",
+        "pages": [205],
+        "subsections": [
+          {
+            "title": "Sequential processing",
+            "pages": [205]
+          },
+          {
+            "title": "Parallel processing",
+            "pages": [206]
+          },
+          {
+            "title": "Workflow optimization",
+            "pages": [207]
+          }
+        ]
+      },
+      {
+        "title": "Summary",
+        "pages": [209]
+      },
+      {
+        "title": "Questions",
+        "pages": [209]
+      },
+      {
+        "title": "Answers",
+        "pages": [210]
+      }
+    ]
+  }
+}
