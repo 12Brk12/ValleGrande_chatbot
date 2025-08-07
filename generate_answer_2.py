@@ -1,6 +1,6 @@
 from groq import Groq
 
-def generate_answer_streaming(user_question, selected_docs, api_key, on_token_callback=print):
+def generate_answer_streaming(user_question, selected_docs, api_key, on_token_callback=print, temperature=0.0):
     # Incluir contexto textual
     context = "\n".join([f"{doc['id']}: {doc['text']}" for doc in selected_docs])
     # Incluir links explícitamente
@@ -32,7 +32,7 @@ Devuelve los links de las referencias, si se repiten solo devuelve uno.
                 {"role": "system", "content": SYSTEM_MESSAGE},
                 {"role": "user", "content": f"{user_question}\n\nSources:\n{context}\n\nReference Links:\n{links}"}
             ],
-            temperature=0,
+            temperature=temperature,
             stream=True
         )
 
