@@ -141,33 +141,32 @@ if selected == "Chatbot":
     # Muestra chatbot si ya hay carpeta elegida
     if st.session_state.get("selector_temp_choice"):
         load_document_selector_sidebar("catalog/document_catalog.json") # o "data/document_catalog.json"o "document_catalog.json"
+        show_chatbot()
         st.sidebar.markdown(" ")
         if st.sidebar.button("Nueva conversación"):
             reset_chat_session()
             st.rerun()
-        show_chatbot()
     else:
         show_initial_selector()
 
 elif selected == "Libros":
     if st.session_state.get("selector_temp_choice"):
         load_subfolder_selector_sidebar("metadata_summary/summary_metadata.json")
-
+        show_chatbot()
         st.sidebar.markdown(" ")
         if st.sidebar.button("Regresar"):
             reset_chat_session()
             st.rerun()
-        show_chatbot()
     else:
         show_book_categories()
 
 elif selected == "ULNG":
     # st.session_state.intro_question = "Dime de manera detallada **que informacion que tienes** (si existe usa el start_chat.pdf)"
     if st.session_state.get("selector_temp_choice"):
+        show_chatbot()
         if st.sidebar.button("Regresar"):
             reset_chat_session()
             st.rerun()
-        show_chatbot()
     else:
         show_ulng()
 

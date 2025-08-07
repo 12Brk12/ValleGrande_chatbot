@@ -32,8 +32,18 @@ def show_chatbot():
         st.session_state.last_user_query = ""
     if "intro_question" not in st.session_state:
         st.session_state.intro_question = ""
+    if "temp" not in st.session_state:
+        st.session_state.temp = 0.0
 
     folder = st.session_state.selector_temp_choice
+    st.sidebar.markdown("")
+
+    with st.sidebar.expander("Opciones Avanzadas", expanded=False):
+        st.markdown(" ")
+        st.session_state.temp = st.slider(
+            "Creatividad (Temperatura)",
+            0.0, 2.0, value=0.0,
+            help="Respuestas fieles al libro (0.0), más creativas (1.0+)")
 
     # === RESPUESTA INICIAL AUTOMÁTICA ===
     if not st.session_state.auto_intro_done:
@@ -49,7 +59,8 @@ def show_chatbot():
         def capture(token):
             response_accum.append(token)
 
-        generate_answer_streaming(intro_question, results, api_key, on_token_callback=capture)
+        generate_answer_streaming(intro_question, results, api_key,
+                                  on_token_callback=capture, temperature=st.session_state.temp)
         full_response = "".join(response_accum)
 
         st.session_state.recent_interactions.append(
@@ -126,7 +137,8 @@ def show_chatbot():
                         prompt_con_memoria,
                         results,
                         api_key,
-                        on_token_callback=update_response
+                        on_token_callback=update_response,
+                        temperature=st.session_state.temp
                     )
             spinner.empty()
 
